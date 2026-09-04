@@ -53,7 +53,8 @@ Los hogares y pequeños negocios enfrentan constantes dificultades en el control
 
 
 #### 1.2.2.3 Lean UX Hypothesis Statements
-Hypothesis Statement 01
+
+###Hypothesis Statement 01
 
 **Creemos** que permitir a los usuarios monitoreen su consumo eléctrico en tiempo real, podrán tomar decisiones sobre el uso de la energía en el momento oportuno y evitar consumos innecesarios.
 **Sabremos** que hemos tenido éxisto
