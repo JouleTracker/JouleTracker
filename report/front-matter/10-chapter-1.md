@@ -54,7 +54,7 @@ Los hogares y pequeños negocios enfrentan constantes dificultades en el control
 
 #### 1.2.2.3 Lean UX Hypothesis Statements
 
-### Hypothesis Statement 01
+## Hypothesis Statement 01
 
 **Creemos** que permitir a los usuarios monitoreen su consumo eléctrico en tiempo real, podrán tomar decisiones sobre el uso de la energía en el momento oportuno y evitar consumos innecesarios.
 
@@ -62,7 +62,7 @@ Los hogares y pequeños negocios enfrentan constantes dificultades en el control
 
 **Cuando** al menos el 80% de los usuarios activos consulte el monitoreo de consumo eléctronico en tiempo real al menos una vez por semana durante los primeros 3 meses de uso.
 
-### Hypothesis Statement 02
+## Hypothesis Statement 02
 
 **Creemos** que proporcionar a los usuarios una proyección del costo de su facturación eléctrica les permitirá anticipar sus gastos y tomar medidas para evitar sobrecostos.
 
@@ -70,7 +70,7 @@ Los hogares y pequeños negocios enfrentan constantes dificultades en el control
 
 **Cuando** al menos el 75% de los usuarios consulte la proyección de su facturación durante cada ciclo de consumo durante los primeros 3 meses de uso.
 
-### Hypothesis Statement 03
+## Hypothesis Statement 03
 
 **Creemos** que implementar un sistema de detección de anomalías permitirá a los usuarios identificar oportunamente picos inusuales de consumo, posibles fugas eléctricas o comportamientos anormales de sus equipos.
 
@@ -78,7 +78,7 @@ Los hogares y pequeños negocios enfrentan constantes dificultades en el control
 
 **Cuando** al menos el 70% de las anomalías detectadas por VoltLab sean revisadas por los usuarios durante los primeros 6 meses de uso.
 
-### Hypothesis Statement 04
+## Hypothesis Statement 04
 
 **Creemos** que implementar alertas preventivas sobre consumos elevados y anomalías permitirá a los usuarios actuar oportunamente y reducir el riesgo de sobrecostos en su facturación eléctrica.
 
@@ -86,7 +86,7 @@ Los hogares y pequeños negocios enfrentan constantes dificultades en el control
 
 **Cuando** al menos el 70% de las alertas preventivas generadas por VoltLab sean visualizadas por los usuarios durante los primeros 3 meses de uso.
 
-### Hypothesis Statement 05
+## Hypothesis Statement 05
 
 **Creemos** que integrar sensores IoT con la plataforma VoltLab permitirá automatizar la recopilación de datos energéticos y proporcionar información continua sobre el consumo eléctrico.
 
@@ -94,7 +94,7 @@ Los hogares y pequeños negocios enfrentan constantes dificultades en el control
 
 **Cuando** al menos el 90% de las mediciones generadas por los dispositivos IoT sean registradas correctamente en VoltLab durante los primeros 3 meses de funcionamiento.
 
-### Hypothesis Statement 06
+## Hypothesis Statement 06
 
 **Creemos** que proporcionar un historial del consumo eléctrico permitirá a los usuarios comparar sus patrones de consumo e identificar cambios que puedan generar mayores costos.
 
@@ -102,7 +102,7 @@ Los hogares y pequeños negocios enfrentan constantes dificultades en el control
 
 **Cuando** al menos el 70% de los usuarios consulte su historial de consumo y realice al menos una comparación entre diferentes periodos durante los primeros 3 meses de uso.
 
-### Hypothesis Statement 07
+## Hypothesis Statement 07
 
 **Creemos** que proporcionar una visualización centralizada de las métricas energéticas permitirá a los usuarios comprender con mayor facilidad su comportamiento de consumo y tomar decisiones informadas.
 
@@ -110,7 +110,7 @@ Los hogares y pequeños negocios enfrentan constantes dificultades en el control
 
 **Cuando** al menos el 80% de los usuarios utilice las visualizaciones de consumo de VoltLab durante los primeros 3 meses de uso.
 
-### Hypothesis Statement 08
+## Hypothesis Statement 08
 
 **Creemos** que centralizar el monitoreo, las proyecciones de costos, las anomalías y las alertas en una sola plataforma permitirá a los usuarios gestionar su consumo eléctrico de manera más eficiente y reducir gastos innecesarios.
 
