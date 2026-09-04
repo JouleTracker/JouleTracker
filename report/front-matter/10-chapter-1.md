@@ -40,6 +40,21 @@ Los hogares y pequeños negocios enfrentan constantes dificultades en el control
 
 - **¿Cuánto impacta? (HOW MUCH):** El impacto es tangible tanto a nivel económico como operativo. Según la IEA (2023) [^3], la adopción de medidas de eficiencia energética y retroalimentación directa al consumidor puede generar reducciones en el consumo eléctrico de entre un 10% y un 20% anual. En el entorno local, el INEI (2024) [^4] reporta un dinamismo constante en el sector comercial, donde la energía eléctrica representa uno de los costos fijos más significativos. La falta de visibilidad y control preventivo genera sobrecostos constantes que debilitan la liquidez de los pequeños comercios y desestabilizan la economía doméstica.
 
+### 1.2.2 Lean UX Process
+
+#### 1.2.2.1 Lean UX Problem Statements
+
+
+#### 1.2.2.2 Lean UX Assumptions
+
+
+#### 1.2.2.3 Lean UX Hypothesis Statements
+
+#### 1.2.2.4 Lean UX Canvas
+
+# Lean UX Canvas
+
+## 1.3 Segmentos Objetivo
 
 [^1]: Organismo Supervisor de la Inversión en Energía y Minería (Osinergmin). (2023). Guía de orientación sobre el uso eficiente y seguro de la energía eléctrica. https://www.gob.pe/osinergmin
 
