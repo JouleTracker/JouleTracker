@@ -16,9 +16,12 @@ Somos VoltLab, un equipo de estudiantes apasionados por la innovación tecnológ
   - Confiabilidad: Garantizamos precisión en las lecturas de telemetría y consistencia en el procesamiento y entrega de información crítica.
 
 ### 1.1.2. Perfiles de integrantes del equipo 
-| Datos                                                                                                  | Descripción                                                                                                                                                                                                         | Foto                                                                    |
-|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
-|**Nombre:** Miguel Angel Jara Espinoza<br>**Carrera:** Ingeniería de Software<br>**Código:** U202512856 | Me llamo Miguel y soy un estudiante de la carrera de Ingeniería de Software actualmente cursando el quinto ciclo. Me considero una persona atenta y paciente. Con conocimientos básicos en javascript, python y c++.|<img src="../images/members/miguel.jpg" alt="Miguel-logo" width="500" /> |
+
+| Datos | Descripción | Foto |
+|-------|-------------|------|
+| **Nombre:** Miguel Angel Jara Espinoza<br>**Carrera:** Ingeniería de Software<br>**Código:** U202512856 | Me llamo Miguel y soy un estudiante de la carrera de Ingeniería de Software actualmente cursando el quinto ciclo. Me considero una persona atenta y paciente. Cuento con conocimientos básicos en JavaScript, Python y C++, los cuales me permiten contribuir en el desarrollo y resolución de problemas dentro del proyecto. | <img src="../images/members/miguel.jpg" alt="Miguel Angel Jara Espinoza" width="500" /> |
+| **Nombre:** Miguel Angel Vidal Castro<br>**Carrera:** Ingeniería de Software<br>**Código:** U202314186 | Me llamo Miguel Angel Vidal Castro y soy estudiante de la carrera de Ingeniería de Software. Cuento con conocimientos en gestión de proyectos y optimización de procesos, que me permiten contribuir en la planificación, organización y seguimiento de las actividades del equipo. Me interesa la mejora continua y la búsqueda de soluciones eficientes para optimizar recursos y procesos. Dentro del proyecto, aporto principalmente en la coordinación de tareas, gestión de recursos y organización del trabajo, buscando que las actividades se desarrollen de manera ordenada y eficiente. | <img width="500" alt="Miguel Angel Vidal Castro" src="../images/members/vidal.jpg" /> |
+
 
 ## 1.2. Solution Profile
 ### 1.2.1.  Antecedentes y problemática
