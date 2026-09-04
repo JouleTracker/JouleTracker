@@ -36,7 +36,7 @@ Proyecto
 | U202512856                   |     Jara Espinoza Miguel Angel      |
 | U202413533                   |    Matihues Quevedo Mijail Alexander|
 | U202314186                  | Vidal Castro, Miguel Angel          |
-|                    |     |
+| U202420249                   | Choquehuanca Vasquez Alejandro Samir    |
 |                    |           |
 
 
