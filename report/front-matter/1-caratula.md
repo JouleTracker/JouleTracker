@@ -33,8 +33,8 @@ Proyecto
 
 | **Código** |       **Apellidos y Nombres**       |
 |:-----------:|:-----------------------------------:|
-| U202512856                   |     Jara Espinoza Miguel Angel      |
-|                    |     |
+| U202512856  |     Jara Espinoza Miguel Angel      |
+| U202420249  | Choquehuanca Vasquez Alejandro Samir   |
 |                   |          |
 |                    |     |
 |                    |           |

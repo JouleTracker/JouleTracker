@@ -19,3 +19,66 @@ Somos VoltLab, un equipo de estudiantes apasionados por la innovación tecnológ
 | Datos                                                                                                  | Descripción                                                                                                                                                                                                         | Foto                                                                    |
 |--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
 |**Nombre:** Miguel Angel Jara Espinoza<br>**Carrera:** Ingeniería de Software<br>**Código:** U202512856 | Me llamo Miguel y soy un estudiante de la carrera de Ingeniería de Software actualmente cursando el quinto ciclo. Me considero una persona atenta y paciente. Con conocimientos básicos en javascript, python y c++.|<img src="../images/members/miguel.jpg" alt="Miguel-logo" width="500" /> |
+
+|**Nombre:** Alejandro Samir Choquehuanca Vasquez<br>**Carrera:** Ingeniería de Software<br>**Código:** U202420249 | Me llamo Alejandro Samir, pertenesco a la carrera de ingenieria de software, actualmente estoy en el 5to ciclo, estoy más enfocado en el desarrollo mobile y tratando de aprender y entender los diferentes lenguajes. Tengo conocimientos en Python, C++, Javascript, Html, Css, trabajo con diferentes herramientas como: visualStudio, Git Hub, Git. Me considero una persona trabajadora, responsable y con ganas de siguir aprendiendo | <img src="../images/members/alejandrosamir.jpeg" alt="Alejandro-logo" width="500" /> |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 1.3. Segmentos objetivo
+
+VoltLab está dirigido a dos segmentos principales de usuarios que comparten la necesidad de monitorear y controlar su consumo eléctrico de manera más eficiente:
+
+- **Hogares urbanos con consumo eléctrico medio-alto:** Familias y propietarios de vivienda interesados en reducir su gasto en electricidad, que buscan herramientas accesibles para entender en qué momentos y con qué dispositivos consumen más energía, y así tomar decisiones informadas sobre su uso.
+
+- **Pequeños negocios (PYMEs):** Emprendedores y administradores de pequeños comercios (bodegas, restaurantes, talleres, oficinas pequeñas) que necesitan controlar sus costos operativos y evitar sobrecostos por consumo eléctrico ineficiente, así como detectar anomalías (picos de consumo, fugas energéticas) que puedan indicar fallas en equipos.
+
+Ambos segmentos comparten un perfil común: buscan una solución tecnológica intuitiva, de bajo costo de implementación, que no requiera conocimientos técnicos avanzados, y que les brinde visibilidad en tiempo real sobre su consumo energético para tomar decisiones que impacten directamente en su ahorro económico.
