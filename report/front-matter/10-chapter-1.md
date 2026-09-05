@@ -21,7 +21,8 @@ Somos VoltLab, un equipo de estudiantes apasionados por la innovación tecnológ
 |-------|-------------|------|
 | **Nombre:** Miguel Angel Jara Espinoza<br>**Carrera:** Ingeniería de Software<br>**Código:** U202512856 | Me llamo Miguel y soy un estudiante de la carrera de Ingeniería de Software actualmente cursando el quinto ciclo. Me considero una persona atenta y paciente. Cuento con conocimientos básicos en JavaScript, Python y C++, los cuales me permiten contribuir en el desarrollo y resolución de problemas dentro del proyecto. | <img src="../images/members/miguel.jpg" alt="Miguel Angel Jara Espinoza" width="500" /> |
 | **Nombre:** Miguel Angel Vidal Castro<br>**Carrera:** Ingeniería de Software<br>**Código:** U202314186 | Me llamo Miguel Angel Vidal Castro y soy estudiante de la carrera de Ingeniería de Software. Cuento con conocimientos en gestión de proyectos y optimización de procesos, que me permiten contribuir en la planificación, organización y seguimiento de las actividades del equipo. Me interesa la mejora continua y la búsqueda de soluciones eficientes para optimizar recursos y procesos. Dentro del proyecto, aporto principalmente en la coordinación de tareas, gestión de recursos y organización del trabajo, buscando que las actividades se desarrollen de manera ordenada y eficiente. | <img width="500" alt="Miguel Angel Vidal Castro" src="../images/members/vidal.jpg" /> |
-
+|**Nombre:** Alejandro Samir Choquehuanca Vasquez<br>**Carrera:** Ingeniería de Software<br>**Código:** U202420249 | Me llamo Alejandro Samir, pertenesco a la carrera de ingenieria de software, actualmente estoy en el 5to ciclo, estoy más enfocado en el desarrollo mobile y tratando de aprender y entender los diferentes lenguajes. Tengo conocimientos en Python, C++, Javascript, Html, Css, trabajo con diferentes herramientas como: visualStudio, Git Hub, Git. Me considero una persona trabajadora, responsable y con ganas de siguir aprendiendo | <img src="../images/members/alejandrosamir.jpeg" alt="Alejandro-logo" width="500" /> |
+|**Nombre:** Mijail Alexander Matihues Quevedo<br>**Carrera:** Ingeniería de Software<br>**Código:** U202413533 | Me llamo Mijail soy un estudiante de la carrera de Ingeniería de Software. Actualmente estoy cursando el 5to ciclo. Tengo conocimientos de Python, C++, JavaScript, HTML, Css. Me considero una persona responsable y atenta con ganas de contribuir y ayudar en el desarrollo del proyecto. | mas tarde pongo pongo mi foto  |
 
 ## 1.2. Solution Profile
 ### 1.2.1.  Antecedentes y problemática
@@ -49,15 +50,149 @@ Los hogares y pequeños negocios enfrentan constantes dificultades en el control
 
 
 #### 1.2.2.2 Lean UX Assumptions
+**Business Assumptions**
 
+- Creemos que existe un mercado creciente y desatendido de hogares urbanos y pequeños negocios dispuestos a adoptar soluciones digitales para optimizar su gasto en servicios básicos.
+- Creemos que un modelo de negocio SaaS bajo esquema Freemium (con acceso básico gratuito para hogares y planes de suscripción mensual para pequeños negocios con soporte multidispositivo) es financieramente sostenible y escalable.
+- Creemos que el costo de adquisición de hardware IoT y el desarrollo de software open-source permiten mantener márgenes operativos rentables para la comercialización de la plataforma.
+- Creemos que VoltLab puede diferenciarse de las empresas tradicionales de suministro eléctrico al ofrecer una experiencia de usuario transparente, preventiva y centrada en la reducción del consumo, en lugar de actuar únicamente como un ente emisor de cobros.
+
+**Business Outcomes Assumptions**
+
+- Creemos que VoltLab aumentará el valor de vida del cliente si los pequeños negocios perciben un retorno de inversión claro frente al costo de su plan de suscripción.
+- Creemos que alcanzaremos una tasa de conversión del 15% en la landing page si la propuesta de valor comunica claramente el ahorro potencial de energía.
+- Creemos que mantendremos una tasa de retención mensual superior al 65% si los usuarios configuran al menos dos alertas de umbral de consumo durante su primera semana.
+- Creemos que lograremos que el 8% de los usuarios de pequeños negocios migren a un plan de pago si acceden a reportes analíticos avanzados de predicción de gasto.
+- Creemos que reduciremos la tasa de cancelación por debajo del 5% trimestral ofreciendo integración continua y confiable con los sensores IoT de medición eléctrica.
+
+
+
+**Users Assumptions**
+
+- Creemos que nuestros usuarios principales son jefes de hogar de zonas urbanas que gestionan el presupuesto familiar y buscan herramientas digitales para optimizar el gasto de servicios básicos.
+- Creemos que los administradores y dueños de micro y pequeñas empresas (bodegas, cafeterías, talleres) necesitan supervisar el consumo eléctrico continuo de sus maquinarias para proteger sus márgenes de ganancia.
+- Creemos que ambos segmentos de usuarios interactúan frecuentemente con navegadores web desde computadoras de escritorio o dispositivos móviles, pero carecen de conocimientos técnicos sobre telemetría o magnitudes eléctricas complejas.
+- Creemos que los propietarios de pequeños negocios tienen mayor disposición a delegar o compartir la visualización de métricas de consumo con socios o encargados de turno.
+- Creemos que los jefes de hogar priorizan la rapidez de configuración y la simplicidad visual por encima de reportes analíticos densos.
+
+
+
+**Users Outcomes and Benefit Assumptions**
+
+- Creemos que los jefes de hogar lograrán tranquilidad económica al conocer la proyección estimada de su recibo de luz en tiempo real antes del cierre de facturación.
+- Creemos que los dueños de pequeños negocios protegerán sus márgenes operativos al identificar oportunamente consumos pasivos y maquinarias que funcionan de forma ineficiente fuera del horario comercial.
+- Creemos que los usuarios transicionarán de un comportamiento reactivo a una gestión energética preventiva al recibir alertas instantáneas cuando se detecten patrones anómalos o fugas eléctricas.
+- Creemos que los usuarios residenciales y comerciales adoptarán hábitos de uso responsable si cuentan con comparativas históricas comprensibles que no dependan de terminología técnica compleja.
+- Creemos que ambos segmentos evitarán sobrecostos mensuales imprevistos al poder configurar y respetar umbrales presupuestales personalizados dentro de la plataforma.
+
+
+**Feature Assumptions**
+
+- Creemos que un dashboard interactivo con actualización en tiempo real permitirá a los usuarios comprender inmediatamente la carga energética activa generada por los sensores IoT en su inmueble.
+- Creemos que una herramienta de proyección de facturación mensual en moneda local eliminará la incertidumbre de los usuarios frente al cobro final de su recibo eléctrico.
+- Creemos que un sistema de alertas preventivas configurables ante umbrales y consumos anómalos facilitará la detección rápida de fugas eléctricas o equipos encendidos fuera de horario.
+- Creemos que un módulo de analítica histórica y tendencias de consumo permitirá a los usuarios identificar electrodomésticos y maquinarias ineficientes para adoptar medidas correctivas de ahorro.
 
 #### 1.2.2.3 Lean UX Hypothesis Statements
 
+Hypothesis Statement 01
+
+**Creemos** que permitir a los usuarios monitoreen su consumo eléctrico en tiempo real, podrán tomar decisiones sobre el uso de la energía en el momento oportuno y evitar consumos innecesarios.
+
+**Sabremos** que hemos tenido éxisto
+
+**Cuando** al menos el 80% de los usuarios activos consulte el monitoreo de consumo eléctronico en tiempo real al menos una vez por semana durante los primeros 3 meses de uso.
+
+Hypothesis Statement 02
+
+**Creemos** que proporcionar a los usuarios una proyección del costo de su facturación eléctrica les permitirá anticipar sus gastos y tomar medidas para evitar sobrecostos.
+
+**Sabremos** que hemos tenido éxito
+
+**Cuando** al menos el 75% de los usuarios consulte la proyección de su facturación durante cada ciclo de consumo durante los primeros 3 meses de uso.
+
+Hypothesis Statement 03
+
+**Creemos** que implementar un sistema de detección de anomalías permitirá a los usuarios identificar oportunamente picos inusuales de consumo, posibles fugas eléctricas o comportamientos anormales de sus equipos.
+
+**Sabremos** que hemos tenido éxito
+
+**Cuando** al menos el 70% de las anomalías detectadas por VoltLab sean revisadas por los usuarios durante los primeros 6 meses de uso.
+
+Hypothesis Statement 04
+
+**Creemos** que implementar alertas preventivas sobre consumos elevados y anomalías permitirá a los usuarios actuar oportunamente y reducir el riesgo de sobrecostos en su facturación eléctrica.
+
+**Sabremos** que hemos tenido éxito
+
+**Cuando** al menos el 70% de las alertas preventivas generadas por VoltLab sean visualizadas por los usuarios durante los primeros 3 meses de uso.
+
+Hypothesis Statement 05
+
+**Creemos** que integrar sensores IoT con la plataforma VoltLab permitirá automatizar la recopilación de datos energéticos y proporcionar información continua sobre el consumo eléctrico.
+
+**Sabremos** que hemos tenido éxito
+
+**Cuando** al menos el 90% de las mediciones generadas por los dispositivos IoT sean registradas correctamente en VoltLab durante los primeros 3 meses de funcionamiento.
+
+Hypothesis Statement 06
+
+**Creemos** que proporcionar un historial del consumo eléctrico permitirá a los usuarios comparar sus patrones de consumo e identificar cambios que puedan generar mayores costos.
+
+**Sabremos** que hemos tenido éxito
+
+**Cuando** al menos el 70% de los usuarios consulte su historial de consumo y realice al menos una comparación entre diferentes periodos durante los primeros 3 meses de uso.
+
+Hypothesis Statement 07
+
+**Creemos** que proporcionar una visualización centralizada de las métricas energéticas permitirá a los usuarios comprender con mayor facilidad su comportamiento de consumo y tomar decisiones informadas.
+
+**Sabremos** que hemos tenido éxito
+
+**Cuando** al menos el 80% de los usuarios utilice las visualizaciones de consumo de VoltLab durante los primeros 3 meses de uso.
+
+Hypothesis Statement 08
+
+**Creemos** que centralizar el monitoreo, las proyecciones de costos, las anomalías y las alertas en una sola plataforma permitirá a los usuarios gestionar su consumo eléctrico de manera más eficiente y reducir gastos innecesarios.
+
+**Sabremos** que hemos tenido éxito
+
+**Cuando** al menos el 75% de los usuarios utilice dos o más funcionalidades de VoltLab de manera recurrente durante los primeros 3 meses de uso.
+
 #### 1.2.2.4 Lean UX Canvas
 
-# Lean UX Canvas
+#### 1.2.2.4. Lean UX Canvas.
+
+| 1. Businesses Problem | 5. Solutions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 2. Businesses Outcomes                                                                                                                                                                                            |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Actualmente, los hogares y pequeños negocios tienen dificultades para controlar eficientemente su consumo eléctrico debido a la falta de herramientas tecnológicas accesibles que permitan visualizar el consumo en tiempo real. Los usuarios dependen principalmente del recibo de electricidad al finalizar el periodo de facturación, lo que dificulta detectar oportunamente consumos excesivos, fugas eléctricas, equipos defectuosos o picos anómalos de demanda. Esta falta de visibilidad genera sobrecostos, decisiones de consumo basadas en estimaciones tardías y una gestión energética reactiva. | - Dashboard de telemetría en tiempo real: Panel interactivo que centraliza y visualiza datos de consumo eléctrico (kWh y potencia) transmitidos por sensores IoT mediante gráficos dinámicos. <br> - Módulo de proyección de facturación: Herramienta de estimación que calcula el monto monetario proyectado del recibo mensual en función del consumo diario acumulado y las tarifas eléctricas vigentes. <br> - Sistema de alertas de umbrales y anomalías: Configuración de límites de gasto y detección de picos de demanda con notificaciones automáticas inmediatas vía correo o mensajería externa ante consumos inusuales. <br> - Sistema de alertas de umbrales y anomalías: Configuración de límites de gasto y detección de picos de demanda con notificaciones automáticas inmediatas vía correo o mensajería externa ante consumos inusuales. <br> - Analítica comparativa e histórico de consumo: Visualización cronológica y por franjas horarias que permite comparar periodos de consumo para identificar patrones pasivos o electrodomésticos de alto impacto. | - Tasa de retención mensual (User Retention) > 65%.<br> - Tasa de conversión en el Landing Page de 15%.<br> - Conversión Freemium a suscripción de pago del 8% en pymes.<br> - Churn Rate trimestral < 5% <br> - Disminución del Costo de Adquisición de Clientes |
+
+| 3. Users                                                                                                                               |
+|----------------------------------------------------------------------------------------------------------------------------------------|
+| - Jefes de hogar: Responsables del presupuesto y pago de servicios en viviendas urbanas, sin conocimientos técnicos eléctricos. <br> - Dueños de pequeños negocios (MYPE): Propietarios de locales (bodegas, panaderías, talleres) dependientes de maquinaria continua y refrigeración.|
+
+| 4. User Outcomes & Benefits                                                                                                                                                                                                                                                    |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| - Previsibilidad del gasto: Proyección en tiempo real del recibo mensual. <br> - Ahorro económico: Reducción de 10% a 20% del consumo identificando equipos ineficientes. <br> - Detección temprana: Alerta inmediata de fugas o máquinas encendidas fuera de horario. <br> - Gestión preventiva: Monitoreo proactivo diario frente a alertas en vez de esperar el recibo. |
+
+| 6. Hypotheses |
+|----------------|
+| - Creemos que los hogares y pequeños negocios utilizarán regularmente VoltLab si pueden visualizar su consumo eléctrico en tiempo real mediante una interfaz web sencilla e intuitiva.<br>- Creemos que los usuarios podrán reducir su consumo eléctrico entre 10% y 20% si reciben información clara sobre sus patrones de consumo y alertas ante comportamientos anómalos.<br>- Creemos que la proyección del costo de facturación permitirá a los usuarios anticipar sus gastos mensuales y tomar decisiones oportunas para evitar sobrecostos.<br>- Creemos que las alertas preventivas ayudarán a los usuarios a detectar oportunamente picos de consumo, posibles fugas eléctricas o equipos con comportamientos inusuales.<br>- Creemos que los propietarios de pequeños negocios adoptarán la solución si pueden utilizarla sin requerir conocimientos técnicos especializados y si el ahorro potencial justifica el costo de implementación de los dispositivos IoT.<br>- Creemos que la integración de sensores IoT con una plataforma web permitirá generar información más útil para la toma de decisiones que el uso exclusivo del recibo mensual de electricidad. |
+
+| 7. What's the most important thing we need to learn first? | 8. What's the least amount of work we need to do to learn the next most important thing? |
+|------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| ¿Realmente los hogares y pequeños negocios utilizarán una plataforma que les muestre su consumo eléctrico en tiempo real y tomarán decisiones a partir de esta información? También necesitamos validar si consideran suficientemente valiosas las funciones de monitoreo, proyección de costos y alertas preventivas como para adoptar la solución. | Validar el interés y comportamiento de los usuarios sin construir inicialmente toda la infraestructura IoT y la plataforma completa:<br><br>- Prototipo interactivo: Crear un mockup navegable de VoltLab que simule el dashboard, gráficos de consumo, proyección de costos y alertas.<br>- Simulación de datos IoT: Utilizar datos de consumo simulados para mostrar cómo funcionaría el monitoreo en tiempo real.<br>- Prueba con usuarios: Presentar el prototipo a jefes de hogar y propietarios de pequeños negocios y observar si comprenden los indicadores y qué acciones tomarían ante diferentes escenarios de consumo.<br>- Encuesta y entrevistas: Recopilar información sobre sus principales dificultades con el consumo eléctrico, disposición a utilizar sensores IoT y valor percibido de las funciones propuestas.<br>- Landing page: Crear una página informativa que explique la propuesta de VoltLab y permita medir el interés de potenciales usuarios mediante un registro o formulario. | 
+
 
 ## 1.3 Segmentos Objetivo
+
+VoltLab está dirigido a dos segmentos principales de usuarios que comparten la necesidad de monitorear y controlar su consumo eléctrico de manera más eficiente:
+
+- **Hogares urbanos con consumo eléctrico medio-alto:** Familias y propietarios de vivienda interesados en reducir su gasto en electricidad, que buscan herramientas accesibles para entender en qué momentos y con qué dispositivos consumen más energía, y así tomar decisiones informadas sobre su uso.
+
+- **Pequeños negocios (PYMEs):** Emprendedores y administradores de pequeños comercios (bodegas, restaurantes, talleres, oficinas pequeñas) que necesitan controlar sus costos operativos y evitar sobrecostos por consumo eléctrico ineficiente, así como detectar anomalías (picos de consumo, fugas energéticas) que puedan indicar fallas en equipos.
+
+Ambos segmentos comparten un perfil común: buscan una solución tecnológica intuitiva, de bajo costo de implementación, que no requiera conocimientos técnicos avanzados, y que les brinde visibilidad en tiempo real sobre su consumo energético para tomar decisiones que impacten directamente en su ahorro económico.
 
 [^1]: Organismo Supervisor de la Inversión en Energía y Minería (Osinergmin). (2023). Guía de orientación sobre el uso eficiente y seguro de la energía eléctrica. https://www.gob.pe/osinergmin
 
