@@ -50,7 +50,48 @@ Los hogares y pequeños negocios enfrentan constantes dificultades en el control
 
 
 #### 1.2.2.2 Lean UX Assumptions
+**Business Assumptions**
 
+- Creemos que existe un mercado creciente y desatendido de hogares urbanos y pequeños negocios dispuestos a adoptar soluciones digitales para optimizar su gasto en servicios básicos.
+- Creemos que un modelo de negocio SaaS bajo esquema Freemium (con acceso básico gratuito para hogares y planes de suscripción mensual para pequeños negocios con soporte multidispositivo) es financieramente sostenible y escalable.
+- Creemos que el costo de adquisición de hardware IoT y el desarrollo de software open-source permiten mantener márgenes operativos rentables para la comercialización de la plataforma.
+- Creemos que VoltLab puede diferenciarse de las empresas tradicionales de suministro eléctrico al ofrecer una experiencia de usuario transparente, preventiva y centrada en la reducción del consumo, en lugar de actuar únicamente como un ente emisor de cobros.
+
+**Business Outcomes Assumptions**
+
+- Creemos que VoltLab aumentará el valor de vida del cliente si los pequeños negocios perciben un retorno de inversión claro frente al costo de su plan de suscripción.
+- Creemos que alcanzaremos una tasa de conversión del 15% en la landing page si la propuesta de valor comunica claramente el ahorro potencial de energía.
+- Creemos que mantendremos una tasa de retención mensual superior al 65% si los usuarios configuran al menos dos alertas de umbral de consumo durante su primera semana.
+- Creemos que lograremos que el 8% de los usuarios de pequeños negocios migren a un plan de pago si acceden a reportes analíticos avanzados de predicción de gasto.
+- Creemos que reduciremos la tasa de cancelación por debajo del 5% trimestral ofreciendo integración continua y confiable con los sensores IoT de medición eléctrica.
+
+
+
+**Users Assumptions**
+
+- Creemos que nuestros usuarios principales son jefes de hogar de zonas urbanas que gestionan el presupuesto familiar y buscan herramientas digitales para optimizar el gasto de servicios básicos.
+- Creemos que los administradores y dueños de micro y pequeñas empresas (bodegas, cafeterías, talleres) necesitan supervisar el consumo eléctrico continuo de sus maquinarias para proteger sus márgenes de ganancia.
+- Creemos que ambos segmentos de usuarios interactúan frecuentemente con navegadores web desde computadoras de escritorio o dispositivos móviles, pero carecen de conocimientos técnicos sobre telemetría o magnitudes eléctricas complejas.
+- Creemos que los propietarios de pequeños negocios tienen mayor disposición a delegar o compartir la visualización de métricas de consumo con socios o encargados de turno.
+- Creemos que los jefes de hogar priorizan la rapidez de configuración y la simplicidad visual por encima de reportes analíticos densos.
+
+
+
+**Users Outcomes and Benefit Assumptions**
+
+- Creemos que los jefes de hogar lograrán tranquilidad económica al conocer la proyección estimada de su recibo de luz en tiempo real antes del cierre de facturación.
+- Creemos que los dueños de pequeños negocios protegerán sus márgenes operativos al identificar oportunamente consumos pasivos y maquinarias que funcionan de forma ineficiente fuera del horario comercial.
+- Creemos que los usuarios transicionarán de un comportamiento reactivo a una gestión energética preventiva al recibir alertas instantáneas cuando se detecten patrones anómalos o fugas eléctricas.
+- Creemos que los usuarios residenciales y comerciales adoptarán hábitos de uso responsable si cuentan con comparativas históricas comprensibles que no dependan de terminología técnica compleja.
+- Creemos que ambos segmentos evitarán sobrecostos mensuales imprevistos al poder configurar y respetar umbrales presupuestales personalizados dentro de la plataforma.
+
+
+**Feature Assumptions**
+
+- Creemos que un dashboard interactivo con actualización en tiempo real permitirá a los usuarios comprender inmediatamente la carga energética activa generada por los sensores IoT en su inmueble.
+- Creemos que una herramienta de proyección de facturación mensual en moneda local eliminará la incertidumbre de los usuarios frente al cobro final de su recibo eléctrico.
+- Creemos que un sistema de alertas preventivas configurables ante umbrales y consumos anómalos facilitará la detección rápida de fugas eléctricas o equipos encendidos fuera de horario.
+- Creemos que un módulo de analítica histórica y tendencias de consumo permitirá a los usuarios identificar electrodomésticos y maquinarias ineficientes para adoptar medidas correctivas de ahorro.
 
 #### 1.2.2.3 Lean UX Hypothesis Statements
 
