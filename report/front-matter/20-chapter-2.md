@@ -121,7 +121,34 @@ User Journey Mapping Administradores de pequeños negocios:
 
 ---
 
-## 2.4. Big Picture EventStorming.
+# 2.4. BIG PICTURE EVENT STORMING
+
+El Big Picture Event Storming permite comprender de manera general el funcionamiento del sistema, identificando eventos de dominio, actores, puntos de dolor y aspectos pendientes de análisis.
+
+---
+
+## 2.4.1. OPEN
+
+**Objetivo:** Identificar todos los eventos de dominio relacionados con el sistema.
+
+![Big Picture Event Storming 1](../images/big-picture-event-storming/open.png)
+
+---
+
+## 2.4.2. EXPLORE
+
+**Objetivo:** Identificar actores, puntos de dolor y establecer una secuencia entre los eventos.
+
+![Big Picture Event Storming 2](../images/big-picture-event-storming/explore.png)
+
+---
+
+## 2.4.3. CLOSE
+
+**Objetivo:** Identificar problemas encontrados, temas que requieren investigación y elementos fuera del alcance actual.
+
+![Big Picture Event Storming 3](../images/big-picture-event-storming/close.png)
+
 
 ---
 
