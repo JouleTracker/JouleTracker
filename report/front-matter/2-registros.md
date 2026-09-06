@@ -10,3 +10,5 @@
 | 0.6     | 04/09/2026 | Jara Espinoza Miguel Angel           | Corrections Lean UX Canvas         |
 | 0.7     | 05/09/2026 | Jara Espinoza Miguel Angel           | User Persona                       |
 | 0.8     | 06/09/2026 | Jara Espinoza Miguel Angel           | User Task Matrix                   |
+| 0.9     | 06/09/2026 | Rodrigo Velasquez Velasquez | Lean UX Problem Statements |
+| 1.0     | 06/09/2026 | Rodrigo Velasquez Velasquez | Competitive Analysis and Competitive Strategies and Tactics |
