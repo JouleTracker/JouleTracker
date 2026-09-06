@@ -105,7 +105,17 @@ Para comprender mejor a nuestros usuarios y construir arquetipos representativos
 
 ### 2.3.2. User Task Matrix.
 
-### 2.3.3. User Journey Mapping.
+## 2.3.3 User Journey Mapping
+
+Estos gráficos fueron desarrollados en Figma y se pueden visualizar mediante el enlace: https://www.figma.com/design/edK8BubeLxHBk7XgWAAwqs/Journey-Map-Template--Community-?node-id=0-1&p=f&t=hFmkmXytS2RPTiam-0
+
+User Journey Mapping Propietarios de hogares urbanos:
+
+![User Journey Mapping Propietarios de hogares urbanos](../images/user-journey-mapping/segmento1.png)
+
+User Journey Mapping Administradores de pequeños negocios:
+
+![User Journey Mapping Administradores de pequeños negocios](../images/user-journey-mapping/segmento2.png)
 
 ### 2.3.4. Empathy Mapping.
 
@@ -116,5 +126,3 @@ Para comprender mejor a nuestros usuarios y construir arquetipos representativos
 ---
 
 ## 2.5. Ubiquitous Language.
-
-
