@@ -105,6 +105,44 @@ Para comprender mejor a nuestros usuarios y construir arquetipos representativos
 
 ### 2.3.2. User Task Matrix.
 
+- **Segmento objetivo 1: Propietarios de hogares urbanos**
+
+| User Task                                                                  | Frecuencia | Importancia |
+|----------------------------------------------------------------------------|------------|-------------|
+| Revisar el importe del recibo de luz emitido por la distribuidora            | Mensual    | Crítica     |
+| Verificar el medidor eléctrico físico del inmueble                       | Esporádica       | Baja        |
+| Calcular y provisionar el presupuesto para servicios básicos              | Mensual       | Alta        |
+| Inspeccionar el apagado de artefactos y luces fuera de horario              | Diaria       | Media       |
+| Supervisar el estado operativo y calentamiento de maquinaria o electrodomésticos                        | Esporádica      | Media       |
+| Identificar variaciones o incrementos no explicados en el cobro del servicio  | Mensual       | Alta        |
+| Ajustar hábitos de uso de equipos de alta demanda (hornos, termas, calentadores)           | Semanal      | Alta        |
+| Consultar tarifas y horarios de consumo con el proveedor eléctrico                        | Esporádica      | Baja        |
+| Establecer acuerdos o normas de uso de energía con el entorno (familia o personal)                     | Mensual      | Media       |
+| Gestionar reclamos ante la distribuidora por cobros desmedidos o fallas de suministro | Esporádica       | Alta        |
+
+
+
+<sub>*Tabla. User Task para el segmento de propietarios de hogares urbanos*</sub>
+
+- **Segmento objetivo 2: Administradores de pequeños negocios**
+
+| User Task                                                                  | Frecuencia | Importancia |
+|----------------------------------------------------------------------------|------------|-------------|
+| Revisar el importe del recibo de luz emitido por la distribuidora            | Mensual    | Crítica     |
+| Verificar el medidor eléctrico físico del inmueble                       | Esporádica | Media       |
+| Calcular y provisionar el presupuesto para servicios básicos              | Semanal    | Crítica     |
+| Inspeccionar el apagado de artefactos y luces fuera de horario              | Diaria     | Crítica     |
+| Supervisar el estado operativo y calentamiento de maquinaria o electrodomésticos                        | Diaria     | Crítica     |
+| Identificar variaciones o incrementos no explicados en el cobro del servicio  | Mensual    | Crítica     |
+| Ajustar hábitos de uso de equipos de alta demanda (hornos, termas, calentadores)           | Diaria     | Alta        |
+| Consultar tarifas y horarios de consumo con el proveedor eléctrico                        | Mensual    | Media       |
+| Establecer acuerdos o normas de uso de energía con el entorno (familia o personal)                     | Semanal    | Alta        |
+| Gestionar reclamos ante la distribuidora por cobros desmedidos o fallas de suministro | Esporádica | Crítica     |
+
+
+
+<sub>*Tabla. User Task para el segmento de administradores de pequeños negocios*</sub>
+
 ## 2.3.3 User Journey Mapping
 
 Estos gráficos fueron desarrollados en Figma y se pueden visualizar mediante el enlace: https://www.figma.com/design/edK8BubeLxHBk7XgWAAwqs/Journey-Map-Template--Community-?node-id=0-1&p=f&t=hFmkmXytS2RPTiam-0
