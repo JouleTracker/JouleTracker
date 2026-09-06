@@ -91,6 +91,18 @@ Para comprender mejor a nuestros usuarios y construir arquetipos representativos
 
 ### 2.3.1. User Personas.
 
+- **Segmento objetivo 1: Segmento Residencial (Hogares)**
+
+![](../images/userpersona-1.png)
+
+<sub>*Ilustración. User Persona padre de familia administrador del hogar*</sub>
+
+- **Segmento objetivo 2: Segmento Comercial (Pequeños Negocios / MYPE)**
+
+![](../images/userpersona-2.png)
+
+<sub>*Ilustración. User Persona dueños de pequeño negocio*</sub>
+
 ### 2.3.2. User Task Matrix.
 
 ### 2.3.3. User Journey Mapping.
