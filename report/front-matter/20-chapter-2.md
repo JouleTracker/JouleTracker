@@ -409,7 +409,7 @@ Para comprender mejor a nuestros usuarios y construir arquetipos representativos
 **Screenshot del video:**
 
 <th align="center">
-<img src="../images/img-entrevistas/diana-S2-E1.png" width="200"><br>
+<img src="../images/img-entrevistas/diana-S2-E1.png" width="800"><br>
 </th>
 
 **Resumen descriptivo de la entrevista:**
