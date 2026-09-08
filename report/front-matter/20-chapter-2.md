@@ -395,6 +395,49 @@ Para comprender mejor a nuestros usuarios y construir arquetipos representativos
 
 ### 2.2.2. Registro de entrevistas.
 
+Entrevista 1: Propietaria de Bodega
+**Edad:** 40 años
+**Distrito:** San Juan de Lurigancho
+**Duracion:** 5:33
+**Screenshot del video:**
+
+
+**Resumen descriptivo de la entrevista:**
+
+Diana tiene 40 años y es propietaria de una bodega en San Juan de Lurigancho, negocio que administra desde hace más de 10 años junto con su esposo. Ella se encarga principalmente de atender el negocio y ocasionalmente recibe apoyo de su hija. Actualmente no lleva un control específico del consumo eléctrico y solo revisa el monto total cuando recibe el recibo. Identifica al congelador de bebidas y helados y a las refrigeradoras como los equipos de mayor consumo.
+
+La entrevistada señala que en algunas ocasiones el recibo aumenta sin una causa clara, lo que le genera preocupación porque no sabe si existe algún equipo malogrado. También menciona que ha tenido problemas con equipos eléctricos, como enchufes que se han quemado, y que normalmente identifica estos problemas cuando ya presentan señales físicas como calentamiento, ruidos extraños u olores.
+
+Considera muy importante recibir alertas sobre consumos anómalos, ya que podría actuar antes de que un equipo se malogre. También considera útil conocer el consumo individual de cada refrigeradora y visualizar una proyección del próximo recibo para poder planificar el dinero destinado al pago de electricidad. Está bastante dispuesta a utilizar una plataforma de este tipo siempre que sea fácil de usar.
+
+En cuanto a tecnología, utiliza principalmente su celular y ocasionalmente una laptop. Usa WhatsApp y Facebook con frecuencia y actualmente utiliza una libreta para registrar ventas y, ocasionalmente, Excel desde el celular. Nunca ha utilizado sensores o sistemas de monitoreo eléctrico, pero se siente cómoda utilizando smartphones y aplicaciones móviles.
+
+**Características objetivas:**
+
+- **Rol:** Propietaria y administradora de una bodega.
+- **Edad:** 40 años.
+- **Distrito:** San Juan de Lurigancho.
+- **Antigüedad del negocio:** 11 años aproximadamente.
+- **Equipos de mayor consumo:** Congelador de bebidas y helados y dos refrigeradoras.
+- **Control actual del consumo:** No realiza un control específico; revisa el recibo cuando llega.
+- **Herramientas digitales:** Libreta, Excel en el celular.
+- **Dispositivos utilizados:** Celular y laptop.
+- **Redes y canales de interacción:** WhatsApp y Facebook.
+- **Experiencia con sensores eléctricos:** Ninguna.
+- **Uso de aplicaciones móviles:** Frecuente.
+
+**Características subjetivas:**
+
+- **Personalidad:** Práctica y orientada a resolver problemas, con disposición a utilizar nuevas tecnologías siempre que sean sencillas.
+- **Principal frustración:** Enterarse de los problemas eléctricos cuando ya ocurrieron.
+- **Necesidades:** Conocer el consumo individual de sus equipos, recibir alertas y anticipar el costo de la electricidad.
+- **Motivaciones:** Evitar daños en los equipos y reducir pérdidas económicas.
+- **Preocupaciones:** Sobrecostos inesperados y posibles fallas de los equipos.
+- **Funcionalidad de mayor interés:** Alertas de consumo anómalo.
+- **Disposición a adoptar tecnología:** Alta, siempre que la plataforma sea fácil de utilizar.
+- **Frecuencia esperada de uso:** Diaria, principalmente antes de abrir la tienda.
+
+
 ### 2.2.3 Análisis de entrevistas.
 
 ---
