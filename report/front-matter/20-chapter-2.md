@@ -81,4 +81,51 @@ Para comprender mejor a nuestros usuarios y construir arquetipos representativos
 ### 2.2.2. Registro de entrevistas.
 
 
+## 2.5. Ubiquitous Language
 
+Para VoltLab se establece un lenguaje común basado en los conceptos que
+forman parte del problema y de la solución propuesta. La finalidad es
+mantener un significado claro para los principales elementos relacionados
+con el consumo eléctrico, su monitoreo y el control de los costos.
+
+### Términos generales
+
+| Término | Definición | Contexto |
+|---|---|---|
+| Usuario | Persona que utiliza VoltLab para consultar información sobre su consumo eléctrico y tomar decisiones sobre su uso de energía. | General |
+| Hogar | Vivienda en la que se registra y analiza el consumo eléctrico. | Hogar |
+| Negocio | Establecimiento en el que se registra y analiza el consumo eléctrico generado por sus actividades. | Negocio |
+| Consumo eléctrico | Cantidad de energía utilizada por un hogar o negocio durante un período determinado. | Consumo |
+| Uso de energía | Manera en que se distribuye y utiliza la energía eléctrica en un hogar o negocio. | Consumo |
+| Recibo de luz | Documento que muestra el consumo registrado y el monto que debe pagarse por la electricidad utilizada. | Facturación |
+| Costo de energía | Monto correspondiente a la energía eléctrica consumida durante un período. | Facturación |
+
+### Términos de monitoreo
+
+| Término | Definición | Contexto |
+|---|---|---|
+| Sensor | Dispositivo encargado de medir el consumo eléctrico y enviar los datos registrados a la plataforma. | Sensores |
+| Lectura | Dato obtenido por un sensor que representa el consumo eléctrico registrado en un momento determinado. | Sensores |
+| Monitoreo en tiempo real | Consulta del consumo eléctrico a medida que se generan nuevas lecturas. | Monitoreo |
+| Historial de consumo | Conjunto de lecturas y registros de consumo correspondientes a períodos anteriores. | Monitoreo |
+| Pico de consumo | Aumento considerable del consumo eléctrico en un período corto respecto al comportamiento habitual. | Monitoreo |
+| Límite de consumo | Valor establecido para identificar cuándo el consumo supera un nivel determinado. | Monitoreo |
+| Consumo anómalo | Comportamiento del consumo que se diferencia de los valores habituales registrados. | Monitoreo |
+
+### Términos de alertas y ahorro
+
+| Término | Definición | Contexto |
+|---|---|---|
+| Alerta | Aviso que informa al usuario sobre una situación relevante relacionada con su consumo eléctrico. | Alertas |
+| Alerta de consumo alto | Aviso generado cuando el consumo supera el límite establecido o el nivel esperado. | Alertas |
+| Alerta de consumo anómalo | Aviso generado cuando se identifica un comportamiento inusual en el consumo eléctrico. | Alertas |
+| Recomendación de ahorro | Sugerencia orientada a reducir el consumo eléctrico o el costo del servicio. | Ahorro |
+| Ahorro de energía | Reducción del consumo eléctrico mediante un uso más eficiente de los equipos y recursos disponibles. | Ahorro |
+
+### Términos de proyección
+
+| Término | Definición | Contexto |
+|---|---|---|
+| Proyección de consumo | Estimación de la cantidad de energía que se podría consumir al finalizar un período. | Proyección |
+| Proyección de costo | Estimación del monto que podría pagarse en el próximo recibo según el consumo registrado. | Proyección |
+| Consumo esperado | Cantidad de energía que se estima utilizar tomando como referencia el comportamiento registrado anteriormente. | Proyección |
