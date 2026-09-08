@@ -8,6 +8,7 @@
 | 0.4     | 03/09/2026 | Choquehuanca Vasquez Alejandro Samir | Entrevistas                             |
 | 0.5     | 04/09/2026 | Jara Espinoza Miguel Angel           | Lean UX Assumptions                     |
 | 0.6     | 04/09/2026 | Jara Espinoza Miguel Angel           | Corrections Lean UX Canvas              |
-| 0.7     | 05/09/2026 | Jara Espinoza Miguel Angel           | User Persona                            |
-| 0.8     | 06/09/2026 | Jara Espinoza Miguel Angel           | User Task Matrix                        |
-| 0.9     | 06/09/2026 | Rodrigo Velasquez Velasquez          | Lean UX Problem Statements              |
+| 0.7     | 04/09/2026 | Matihues Quevedo Mijail Alexander    | Lean UX Hypotesis Statements            |
+| 0.8     | 05/09/2026 | Jara Espinoza Miguel Angel           | User Persona                            |
+| 0.9     | 06/09/2026 | Jara Espinoza Miguel Angel           | User Task Matrix                        |
+| 0.10     | 06/09/2026 | Rodrigo Velasquez Velasquez         | Lean UX Problem Statements              |
