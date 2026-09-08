@@ -396,9 +396,13 @@ Para comprender mejor a nuestros usuarios y construir arquetipos representativos
 ### 2.2.2. Registro de entrevistas.
 
 Entrevista 1: Propietaria de Bodega
+
 **Edad:** 40 años
+
 **Distrito:** San Juan de Lurigancho
+
 **Duracion:** 5:33
+
 **Screenshot del video:**
 
 
