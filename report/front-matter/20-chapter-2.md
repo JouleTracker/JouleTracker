@@ -407,7 +407,9 @@ Para comprender mejor a nuestros usuarios y construir arquetipos representativos
 **Duracion:** 5:33
 
 **Screenshot del video:**
-
+<th align="center">
+<img src="../images/SS entrevistas/Diana-S2-E1.png" width="100"><br>
+<b>Entrevista 1</b>
 **Resumen descriptivo de la entrevista:**
 
 Diana tiene 40 años y es propietaria de una bodega en San Juan de Lurigancho, negocio que administra desde hace más de 10 años junto con su esposo. Ella se encarga principalmente de atender el negocio y ocasionalmente recibe apoyo de su hija. Actualmente no lleva un control específico del consumo eléctrico y solo revisa el monto total cuando recibe el recibo. Identifica al congelador de bebidas y helados y a las refrigeradoras como los equipos de mayor consumo.
