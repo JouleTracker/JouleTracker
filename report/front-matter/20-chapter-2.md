@@ -408,7 +408,9 @@ Para comprender mejor a nuestros usuarios y construir arquetipos representativos
 
 **Screenshot del video:**
 
-<img src="JouleTracker/report/images/img-entrevistas/diana-S2-E1.png" width="85"><br>
+<th align="center">
+<img src="../images/img-entrevistas/diana-S2-E1.png" width="85"><br>
+</th>
 
 **Resumen descriptivo de la entrevista:**
 
