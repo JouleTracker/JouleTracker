@@ -461,7 +461,11 @@ En cuanto a tecnología, utiliza principalmente su celular y ocasionalmente una 
 
 **Duración:** 4:29
 
-Screenshot del video: -
+**Screenshot del video:**
+
+<th align="center">
+<img src="../images/img-entrevistas/jesus-S1-E2.png" width="800"><br>
+</th>
 
 **Resumen descriptivo de la entrevista:**
 
@@ -500,7 +504,11 @@ Jesús tiene 34 años y vive en Los Olivos junto con su esposa y su hijo de 5 a�
 
 **Duración:** 5:37
 
-Screenshot del video: -
+**Screenshot del video:**
+
+<th align="center">
+<img src="../images/img-entrevistas/miguel-S1-E3.png" width="800"><br>
+</th>
 
 **Resumen descriptivo de la entrevista:**
 
@@ -540,7 +548,11 @@ Fabrizio tiene 26 años, vive solo en un departamento pequeño de un dormitorio 
 
 **Duración:** 4:49
 
-Screenshot del video: —
+**Screenshot del video:**
+
+<th align="center">
+<img src="../images/img-entrevistas/eduardo-S2-E4.png" width="800"><br>
+</th>
 
 **Resumen descriptivo de la entrevista:**
 
@@ -580,7 +592,11 @@ Eduardo tiene 38 años, es dueño de un taller mecánico en Comas y también tra
 
 **Duración:** 5:32
 
-Screenshot del video: —
+**Screenshot del video:**
+
+<th align="center">
+<img src="../images/img-entrevistas/renzo-S2-E5.png" width="800"><br>
+</th>
 
 **Resumen descriptivo de la entrevista:**
 
@@ -622,7 +638,11 @@ Renzo tiene 42 años y administra un minimarket en Carabayllo. Es administrador 
 
 **Duración:** 5:58
 
-Screenshot del video: —
+**Screenshot del video:**
+
+<th align="center">
+<img src="../images/img-entrevistas/carlos-S1-E6.png" width="800"><br>
+</th>
 
 **Resumen descriptivo de la entrevista:**
 
