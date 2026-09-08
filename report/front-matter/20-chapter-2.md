@@ -320,6 +320,7 @@ JouleTracker priorizará inicialmente las herramientas esenciales para comprende
 - Crear contenido relacionado con ahorro y eficiencia energética.
 - Establecer alianzas con electricistas y pequeños negocios.
 - Mejorar progresivamente la plataforma.
+  
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
@@ -395,7 +396,9 @@ Para comprender mejor a nuestros usuarios y construir arquetipos representativos
 
 ### 2.2.2. Registro de entrevistas.
 
-**Entrevista 1: Propietaria de Bodega**
+**Entrevista 1: Diana**
+
+**Segmento:** 2
 
 **Edad:** 40 años
 
@@ -404,8 +407,6 @@ Para comprender mejor a nuestros usuarios y construir arquetipos representativos
 **Duracion:** 5:33
 
 **Screenshot del video:**
-
-
 
 **Resumen descriptivo de la entrevista:**
 
@@ -442,6 +443,206 @@ En cuanto a tecnología, utiliza principalmente su celular y ocasionalmente una 
 - **Disposición a adoptar tecnología:** Alta, siempre que la plataforma sea fácil de utilizar.
 - **Frecuencia esperada de uso:** Diaria, principalmente antes de abrir la tienda.
 
+**Entrevista 2: Jesús**
+
+**Segmento:** 1
+
+**Edad:** 34 años
+
+**Distrito:** Los Olivos
+
+**Tipo de vivienda:** Departamento de 3 pisos
+
+**Cantidad de personas en el hogar:** 3
+
+**Duración:** 4:29
+
+Screenshot del video: -
+
+**Resumen descriptivo de la entrevista:**
+
+Jesús tiene 34 años y vive en Los Olivos junto con su esposa y su hijo de 5 años, en un departamento de 3 pisos. Él es quien se encarga de revisar y pagar el recibo de luz, principalmente mediante la aplicación de su banco. Considera que los equipos que más consumen energía son el aire acondicionado y la lavadora. Actualmente no puede conocer cuánto está gastando antes de recibir el recibo, por lo que recién identifica el monto a fin de mes. Ha tenido un recibo elevado durante el verano y supuso que se debía al uso del aire acondicionado, aunque no pudo confirmarlo. Le interesa conocer qué aparato consume más para poder controlar su uso y cambiar hábitos. Considera muy importantes las alertas de consumo elevado y también le gustaría visualizar el gasto en tiempo real mediante un dashboard en su celular. Está dispuesto a instalar un sensor siempre que la instalación sea sencilla y considera que la proyección del recibo mensual sería la funcionalidad más importante.
+
+- **Características objetivas:**
+- **Rol:** Responsable de pagar y revisar el recibo de electricidad del hogar.
+- **Herramientas de trabajo:** Aplicación del banco y Excel compartido con su esposa.
+- **Canal de comunicación:** WhatsApp.
+- **Tecnología usada:** Celular y laptop.
+- **Flujo de trabajo:** Revisa el recibo cuando llega y compara el consumo principalmente cuando nota un aumento importante.
+- **Control actual de electricidad:** No realiza un seguimiento previo del consumo; revisa el monto al final del mes.
+- **Electrodomésticos de mayor consumo:** Aire acondicionado y lavadora.
+- **Frecuencia de revisión esperada de VoltLab:** Semanal.
+
+  **Características subjetivas:**
+  
+- **Personalidad:** Cómodo con la tecnología y con interés en utilizar herramientas digitales sencillas.
+- **Influencias:** Su esposa participa junto con él en el control de los gastos del hogar.
+- **Necesidades:** Saber qué aparato consume más, conocer el gasto en tiempo real y anticipar el monto del próximo recibo.
+- **Principal frustración:** Solo conoce el consumo al final del mes, cuando ya no puede reducir el gasto de ese período.
+- **Disposición a adoptar tecnología:** Alta, siempre que la instalación del sensor no sea complicada.
+- **Funcionalidad de mayor interés:** Proyección del recibo mensual.
+
+**Entrevista 3: Miguel**
+
+**Segmento:** 1
+
+**Edad:** 26 años
+
+**Distrito:** Surco
+
+**Tipo de vivienda:** Departamento pequeño de un dormitorio
+
+**Cantidad de personas en el hogar:** 1
+
+**Duración:** 5:37
+
+Screenshot del video: -
+
+**Resumen descriptivo de la entrevista:**
+
+Fabrizio tiene 26 años, vive solo en un departamento pequeño de un dormitorio en Surco y se encarga personalmente de pagar y revisar su recibo de luz. Los equipos que considera de mayor consumo son el refrigerador y su laptop gaming, que permanece encendida durante bastante tiempo. Actualmente no tiene información sobre cuánto consume durante el mes y recién conoce el gasto cuando llega el recibo. Ha experimentado un aumento del recibo durante un período en el que trabajó remotamente y supuso que se debió al mayor uso de la laptop y el aire acondicionado. No suele comparar su consumo mensualmente y tampoco cuenta con una estrategia específica de ahorro. Le interesa conocer en qué momentos del día consume más para modificar sus horarios de uso. Considera interesante el monitoreo en tiempo real y está bastante dispuesto a probar sensores debido a su interés por la tecnología. También indicó que utilizaría la plataforma diariamente si tiene un buen diseño.
+
+**Características objetivas:**
+
+- **Rol:** Responsable de pagar y revisar el recibo de electricidad de su hogar.
+- **Herramientas de trabajo:** Notion ocasionalmente para registrar gastos.
+- **Canal de comunicación:** Whatsapp.
+- **Tecnología usada:** Celular, laptop y consola de videojuegos.
+- **Flujo de trabajo:** Revisa principalmente el consumo cuando recibe el recibo y no realiza un seguimiento constante durante el mes.
+- **Control actual de electricidad:** No cuenta con un sistema específico para controlar el consumo.
+- **Electrodomésticos/equipos de mayor consumo:** Refrigerador y laptop gaming.
+- **Frecuencia de revisión esperada de VoltLab:** Diaria.
+
+**Características subjetivas:**
+
+- **Personalidad:** Interesado en la tecnología y en herramientas visuales con datos.
+- **Influencias:** Su interés por los videojuegos hace que valore los dashboards y la visualización de datos.
+- **Necesidades:** Conocer los momentos del día en los que consume más y visualizar el consumo mientras utiliza sus equipos.
+- **Principal frustración:** No puede saber cuánto está gastando hasta que llega el recibo, lo que convierte el gasto mensual en una sorpresa.
+- **Disposición a adoptar tecnología:** Alta; le gusta probar tecnología nueva.
+- **Funcionalidad de mayor interés:** Monitoreo en tiempo real.
+
+**Entrevista 4: Eduardo**
+
+**Segmento:** 2
+
+**Edad:** 38 años
+
+**Distrito:** Comas
+
+**Tipo de negocio:** Taller mecánico
+
+**Tiempo en el negocio:** 7 años
+
+**Duración:** 4:49
+
+Screenshot del video: —
+
+**Resumen descriptivo de la entrevista:**
+
+Eduardo tiene 38 años, es dueño de un taller mecánico en Comas y también trabaja como mecánico principal. Lleva 7 años con el negocio, comenzó solo y actualmente cuenta con dos ayudantes. Las máquinas que más energía consumen son el compresor de aire y las máquinas de soldar. Actualmente no realiza un control específico del gasto eléctrico y solo paga el recibo mensual, cuyo monto algunas veces lo sorprende. Una de sus principales dificultades es identificar qué máquina consume más y explicar por qué aumenta el recibo. Aproximadamente una vez al mes se dispara el térmico y debe revisar manualmente la causa. Considera muy importante recibir alertas para evitar daños en los equipos o cortes de luz durante un trabajo. También considera útil proyectar el próximo recibo para planificar los gastos del taller. Está dispuesto a utilizar una plataforma web/IoT si le ayuda a prevenir problemas con las máquinas y considera que la detección de fallas sería la funcionalidad más importante.
+
+**Características objetivas:**
+
+- **Rol:** Dueño y mecánico principal del taller.
+- **Herramientas de trabajo:** WhatsApp Business para coordinar con clientes.
+- **Canal de comunicación:** WhatsApp Business.
+- **Tecnología usada:** Celular.
+- **Flujo de trabajo:** Coordina trabajos con clientes y utiliza diariamente las máquinas del taller.
+- **Control actual de electricidad:** Solo paga el recibo mensual y no realiza un seguimiento específico del consumo.
+- **Equipos de mayor consumo:** Compresor de aire y máquinas de soldar.
+- **Frecuencia de revisión esperada de VoltLab:** Diaria, principalmente por las mañanas antes de encender las máquinas.
+
+**Características subjetivas:**
+
+- **Personalidad:** Prefiere herramientas simples y directas.
+- **Influencias:** La necesidad de evitar problemas con sus máquinas y cortes de luz influye en su interés por la plataforma.
+- **Necesidades:** Conocer el consumo de cada máquina, detectar fallas y prevenir daños o cortes de electricidad.
+- **Principal frustración:** Siempre termina reaccionando después de que ocurre el problema, cuando ya se malogró algo o se disparó el térmico.
+- **Disposición a adoptar tecnología:** Alta, siempre que le ayude a evitar problemas con las máquinas.
+- **Funcionalidad de mayor interés:** Detección de fallas en equipos.
+
+**Entrevista 5: Renzo**
+
+**Segmento:** 2
+
+**Edad:** 42 años
+
+**Distrito:** Carabayllo
+
+**Tipo de negocio:** Minimarket
+
+**Tiempo en el negocio:** 5 años
+
+**Duración:** 5:32
+
+Screenshot del video: —
+
+**Resumen descriptivo de la entrevista:**
+
+Renzo tiene 42 años y administra un minimarket en Carabayllo. Es administrador y dueño del negocio junto con su esposa, y llevan 5 años con el establecimiento. Los equipos que más energía consumen son las cámaras de frío y los congeladores de helados, varios de los cuales permanecen encendidos las 24 horas. Actualmente no cuentan con un control específico del consumo eléctrico y solo revisan el total del recibo. Durante el verano el recibo suele aumentar considerablemente, pero no puede determinar si el incremento se debe a las cámaras de frío o a otro factor. Además, aproximadamente un par de veces al año alguna cámara de frío presenta fallas y esto ocasiona pérdidas importantes de mercadería. Le interesa poder detectar si una cámara está funcionando mal antes de que falle por completo. Considera muy importantes las alertas y también encuentra útil la proyección del recibo, especialmente durante el verano. Está bastante dispuesto a utilizar una plataforma web/IoT y considera que la detección de fallas en equipos sería la funcionalidad más importante.
+
+**Características objetivas:**
+
+- **Rol:** Administrador y dueño del minimarket.
+- **Herramientas de trabajo:** Sistema básico de punto de venta.
+- **Canal de comunicación:** Whastapp.
+- **Tecnología usada:** Celular y tablet.
+- **Flujo de trabajo:** Administra el minimarket junto con su esposa y utiliza dispositivos tecnológicos para las actividades del negocio.
+- **Control actual de electricidad:** Solo revisa el total del recibo y no cuenta con un control específico.
+- **Equipos de mayor consumo:** Cámaras de frío y congeladores de helados.
+- **Frecuencia de revisión esperada de VoltLab:** Diaria, especialmente para revisar el estado de las cámaras de frío.
+
+**Características subjetivas:**
+
+- **Personalidad:** Orientado a prevenir pérdidas económicas y problemas con los equipos.
+- **Influencias:** Las pérdidas de mercadería ocasionadas por fallas en las cámaras de frío aumentan su interés por prevenir estos problemas.
+- **Necesidades:** Detectar fallas en las cámaras antes de que ocurran daños mayores y evitar pérdidas de mercadería.
+- **Principal frustración:** Se entera de los problemas cuando ya es demasiado tarde y la mercadería ya se ha perdido.
+- **Disposición a adoptar tecnología:** Alta, especialmente si ayuda a evitar pérdidas.
+- **Funcionalidad de mayor interés:** Detección de fallas en equipos.
+
+**Entrevista 6: Carlos**
+
+**Segmento:** 1
+
+**Edad:** 45 años
+
+**Distrito:** Comas
+
+**Ocupación:** Empleado administrativo
+
+**Tipo de vivienda:** Casa propia
+
+**Cantidad de personas en el hogar:** 4
+
+**Duración:** 5:58
+
+Screenshot del video: —
+
+**Resumen descriptivo de la entrevista:**
+
+Carlos tiene 45 años, trabaja en administración y vive con su esposa y sus dos hijos en una casa propia en Comas. Se encarga de pagar los servicios básicos y de revisar que todo funcione correctamente en la vivienda, incluyendo las instalaciones eléctricas. Lleva aproximadamente 10 años viviendo en la casa y se encarga de organizar los pagos mensuales de la familia. Los equipos que considera de mayor consumo son la refrigeradora, la therma eléctrica y la computadora de escritorio que utiliza para teletrabajo. Actualmente no lleva un control estricto del consumo eléctrico y espera a que llegue el recibo para conocer el gasto. Ha experimentado variaciones inesperadas en el recibo y tuvo un problema con la therma que provocaba que saltara la luz debido a un falso contacto. Considera útil conocer qué artefacto consume más y considera muy importantes las alertas para prevenir cortocircuitos o detectar equipos que hayan quedado encendidos. También valora la proyección del recibo para anticipar el gasto familiar. Está dispuesto a utilizar una aplicación si es práctica y envía notificaciones claras al celular.
+
+**Características objetivas:**
+
+- **Rol:** Responsable de pagar los servicios básicos y revisar el funcionamiento de la casa.
+- **Herramientas de trabajo:** WhatsApp y un archivo básico de Excel.
+- **Canal de comunicación:** WhatsApp.
+- **Tecnología usada:** Smartphone y laptop.
+- **Flujo de trabajo:** Organiza los pagos mensuales de la familia y revisa el consumo principalmente cuando recibe el recibo.
+- **Control actual de electricidad:** No lleva un control estricto; revisa el consumo cuando llega el recibo.
+- **Electrodomésticos de mayor consumo:** Refrigeradora, therma eléctrica y computadora de escritorio.
+- **Frecuencia de revisión esperada de VoltLab:** Un par de veces por semana, especialmente los fines de semana o a mitad de mes.
+
+**Características subjetivas:**
+
+- **Personalidad:** Responsable de la organización de los gastos familiares y orientado a prevenir problemas en el hogar.
+- **Influencias:** Las necesidades del presupuesto familiar y la seguridad de las instalaciones eléctricas influyen en su interés por controlar el consumo.
+- **Necesidades:** Identificar qué artefactos consumen más, prevenir problemas eléctricos y anticipar el costo del próximo recibo.
+- **Principal frustración:** Permanece sin información durante el mes y solo descubre los problemas cuando llega un recibo elevado.
+- **Disposición a adoptar tecnología:** Alta, siempre que la aplicación sea práctica y las notificaciones sean claras.
+- **Funcionalidad de mayor interés:** Alertas de consumo anómalo y proyección de costos.
 
 ### 2.2.3 Análisis de entrevistas.
 
