@@ -407,7 +407,7 @@ Para comprender mejor a nuestros usuarios y construir arquetipos representativos
 **Duracion:** 5:33
 
 **Screenshot del video:**
-<img src="report/images/img-entrevistas/diana-S2-E1.png" width="85"><br>
+<img src="images/img-entrevistas/diana-S2-E1.png" width="85"><br>
 <b>Diana</b>
 
 **Resumen descriptivo de la entrevista:**
