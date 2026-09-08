@@ -11,4 +11,4 @@
 | 0.7     | 04/09/2026 | Matihues Quevedo Mijail Alexander    | Lean UX Hypotesis Statements            |
 | 0.8     | 05/09/2026 | Jara Espinoza Miguel Angel           | User Persona                            |
 | 0.9     | 06/09/2026 | Jara Espinoza Miguel Angel           | User Task Matrix                        |
-| 0.10     | 06/09/2026 | Rodrigo Velasquez Velasquez         | Lean UX Problem Statements              |
+| 1.0     | 06/09/2026 | Rodrigo Velasquez Velasquez          | Lean UX Problem Statements              |
