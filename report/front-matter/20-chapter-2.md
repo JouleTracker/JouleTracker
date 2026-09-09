@@ -406,6 +406,8 @@ Para comprender mejor a nuestros usuarios y construir arquetipos representativos
 
 **Duracion:** 5:33
 
+**Enlace:** https://drive.google.com/file/d/1T1ekjJx43tot4FRl98fvUiI7GWTFWnG2/view?usp=sharing
+
 **Screenshot del video:**
 
 <th align="center">
@@ -461,6 +463,8 @@ En cuanto a tecnología, utiliza principalmente su celular y ocasionalmente una 
 
 **Duración:** 4:29
 
+**Enlace:** https://drive.google.com/file/d/11ItNSd3SeNRmH7W_oouJ6PxabMyPYdfC/view?usp=drive_link
+
 **Screenshot del video:**
 
 <th align="center">
@@ -503,6 +507,8 @@ Jesús tiene 34 años y vive en Los Olivos junto con su esposa y su hijo de 5 a�
 **Cantidad de personas en el hogar:** 1
 
 **Duración:** 5:37
+
+**Enlace:** https://drive.google.com/file/d/1N_08mO-F5MVO0H6xhkB3BGIRB1w67CWg/view?usp=drive_link
 
 **Screenshot del video:**
 
@@ -548,6 +554,8 @@ Fabrizio tiene 26 años, vive solo en un departamento pequeño de un dormitorio 
 
 **Duración:** 4:49
 
+**Enlace:** https://drive.google.com/file/d/12_xbrufI69pNd41a6I_E6cfacaP5qPYf/view?usp=drive_link
+
 **Screenshot del video:**
 
 <th align="center">
@@ -591,6 +599,8 @@ Eduardo tiene 38 años, es dueño de un taller mecánico en Comas y también tra
 **Tiempo en el negocio:** 5 años
 
 **Duración:** 5:32
+
+**Enlace:** https://drive.google.com/file/d/1bZhrellk3Swd-OCe8f2QY-MQYovcJkUN/view?usp=drive_link
 
 **Screenshot del video:**
 
@@ -637,6 +647,8 @@ Renzo tiene 42 años y administra un minimarket en Carabayllo. Es administrador 
 **Cantidad de personas en el hogar:** 4
 
 **Duración:** 5:58
+
+**Enlace:** https://drive.google.com/file/d/1RaXYge4Z2d93OBVtmWltCUo8J2RPoInx/view?usp=drive_link
 
 **Screenshot del video:**
 
