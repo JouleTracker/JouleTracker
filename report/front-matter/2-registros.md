@@ -14,3 +14,4 @@
 | 1.0     | 06/09/2026 | Rodrigo Velasquez Velasquez | Competitive Analysis and Competitive Strategies and Tactics |
 | 1.1     | 07/09/2026 | Matihues Quevedo Mijail Alexander    | Registro de Entrevistas            |
 | 1.2     | 07/09/2026 | Matihues Quevedo Mijail Alexander    | Analisis de Entrevistas            |
+| 1.3     | 07/09/2026 | Matihues Quevedo Mijail Alexander    | Empathy Mapping                    |
