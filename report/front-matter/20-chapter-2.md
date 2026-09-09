@@ -704,6 +704,39 @@ Las funcionalidades de monitoreo y proyección de costos presentan un interés e
 
 El 100% presenta una disposición positiva hacia el uso de aplicaciones para monitorear el consumo eléctrico. Sin embargo, Jesús y Carlos condicionan esta disposición a que la instalación y el uso sean sencillos, mientras que Fabrizio muestra una mayor afinidad hacia la experimentación con nuevas tecnologías.
 
+
+**Segmento 2: PYMEs**
+
+Este segmento está compuesto por Diana, propietaria de una bodega; Eduardo, dueño de un taller mecánico; y Renzo, administrador y copropietario de un minimarket. Los tres dependen directamente del funcionamiento de equipos eléctricos para desarrollar sus actividades comerciales.
+
+**Falta de control del consumo eléctrico**
+
+El 100% de las PYMEs entrevistadas indicó que no lleva un control específico del consumo eléctrico. Diana, Eduardo y Renzo únicamente revisan o pagan el recibo mensual sin disponer de información sobre el consumo individual de sus equipos.
+
+**Dependencia de equipos de alto consumo**
+
+El 100% identifica equipos que permanecen funcionando durante largos periodos y que representan una parte importante de su consumo. Diana destaca congeladores y refrigeradoras, Eduardo el compresor y las máquinas de soldar, y Renzo las cámaras de frío y congeladores que funcionan durante las 24 horas.
+
+**Detección tardía de fallas**
+
+El 100% manifestó que normalmente identifica los problemas eléctricos o de los equipos después de que aparecen señales evidentes de falla. Diana detecta problemas mediante calentamiento, ruidos o incluso olor a quemado; Eduardo cuando se dispara el térmico o una máquina se calienta; y Renzo cuando una cámara empieza a fallar o la mercadería comienza a deteriorarse.
+
+**Importancia de la prevención**
+
+El 100% considera muy importante recibir alertas antes de que ocurra una falla grave. Diana busca evitar daños en sus equipos, Eduardo quiere prevenir daños y cortes durante sus trabajos, y Renzo busca evitar pérdidas de mercadería.
+
+**Interés en detección de fallas**
+
+El 67% de los entrevistados considera la detección de fallas en equipos como la funcionalidad más importante. Eduardo y Renzo la seleccionaron directamente como su principal necesidad, mientras que Diana priorizó las alertas de consumo anómalo debido a su preocupación por fallas en sus equipos.
+
+**Utilidad de la proyección del recibo**
+
+El 100% considera útil conocer una proyección del próximo recibo. Diana la relaciona con la planificación de sus gastos, Eduardo con la organización de los gastos del taller y Renzo principalmente con la planificación durante los meses de verano, cuando aumenta su consumo.
+
+**Adopción tecnológica**
+
+El 100% presenta una disposición positiva para utilizar una plataforma de monitoreo eléctrico, siempre que esta aporte un beneficio claro. Diana y Eduardo resaltan la necesidad de que sea sencilla, mientras que Renzo estaría dispuesto a utilizarla principalmente para evitar pérdidas económicas relacionadas con fallas en sus equipos.
+
 ---
 
 ## 2.3. Needfinding.
