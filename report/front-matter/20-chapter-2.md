@@ -670,6 +670,40 @@ Carlos tiene 45 años, trabaja en administración y vive con su esposa y sus dos
 
 ### 2.2.3 Análisis de entrevistas.
 
+El análisis de las entrevistas realizadas permite identificar patrones comunes en los dos segmentos objetivo de VoltLab: Hogares y PYMEs. A partir de las seis entrevistas realizadas, tres corresponden al segmento de Hogares y tres al segmento de PYMEs. Se identificaron características objetivas y subjetivas relacionadas con la forma en que los usuarios gestionan actualmente su consumo eléctrico, los problemas que enfrentan y las funcionalidades que consideran más importantes para una solución de monitoreo energético.
+
+**Segmento 1: Hogares**
+
+Este segmento está compuesto por tres entrevistados: Jesús, Miguel y Carlos. Los tres se encargan directamente de revisar o gestionar los gastos relacionados con la electricidad de sus hogares.
+
+**Control del consumo eléctrico**
+
+El 100% de los entrevistados indicó que actualmente no cuenta con un sistema de monitoreo que permita conocer cuánto consume durante el mes antes de recibir el recibo. Los tres usuarios dependen principalmente del monto final de la factura para conocer su consumo.
+
+**Dificultad para explicar aumentos en el recibo**
+
+El 100% manifestó haber experimentado situaciones en las que el recibo aumentó sin poder identificar con certeza qué aparato ocasionó el incremento. Jesús relacionó un aumento con el uso del aire acondicionado, Fabrizio con el uso prolongado de la laptop y el aire acondicionado, mientras que Carlos señaló que no podía determinar qué artefacto generaba los incrementos.
+
+**Falta de estrategias de ahorro**
+
+El 67% de los entrevistados no cuenta con una estrategia estructurada para controlar su consumo eléctrico. Jesús únicamente procura no dejar luces encendidas y Fabrizio utiliza los equipos según sus necesidades. Carlos, aunque lleva un control general de sus gastos familiares, no realiza un seguimiento específico del consumo eléctrico.
+
+**Interés en conocer el consumo por dispositivo**
+
+El 67% mostró interés específico en conocer qué artefactos representan un mayor consumo. Jesús quiere identificar qué aparato gasta más para controlar sus hábitos, mientras que Carlos busca comparar el consumo de diferentes artefactos para tomar decisiones sobre su uso o reemplazo. Fabrizio, por su parte, mostró mayor interés en conocer los momentos del día con mayor consumo.
+
+**Importancia de las alertas**
+
+El 100% considera importantes las alertas relacionadas con consumos elevados o anómalos. Jesús y Carlos las relacionan con la posibilidad de reaccionar antes de recibir un recibo elevado, mientras que Fabrizio también las considera importantes, aunque señala que deberían ser suficientemente notorias para captar su atención.
+
+**Interés en monitoreo y proyección de costos**
+
+Las funcionalidades de monitoreo y proyección de costos presentan un interés elevado, aunque las prioridades varían entre usuarios. Jesús considera más importante la proyección del recibo mensual, Fabrizio prioriza el monitoreo en tiempo real, mientras que Carlos considera importantes tanto las alertas como la proyección de costos.
+
+**Adopción tecnológica**
+
+El 100% presenta una disposición positiva hacia el uso de aplicaciones para monitorear el consumo eléctrico. Sin embargo, Jesús y Carlos condicionan esta disposición a que la instalación y el uso sean sencillos, mientras que Fabrizio muestra una mayor afinidad hacia la experimentación con nuevas tecnologías.
+
 ---
 
 ## 2.3. Needfinding.
