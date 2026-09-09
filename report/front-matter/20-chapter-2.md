@@ -820,6 +820,17 @@ User Journey Mapping Administradores de pequeños negocios:
 ![User Journey Mapping Administradores de pequeños negocios](../images/user-journey-mapping/segmento2.png)
 
 ### 2.3.4. Empathy Mapping.
+**Empathy Map Segmento 1**
+
+<th align="center">
+<img src="../images/img-entrevistas/empathymaps1.png" width="800"><br>
+</th>
+
+**Empathy Map Segmento 2**
+
+<th align="center">
+<img src="../images/img-entrevistas/empathymaps2.png" width="800"><br>
+</th>
 
 ---
 
