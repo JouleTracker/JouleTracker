@@ -48,18 +48,15 @@ Los hogares y pequeños negocios enfrentan constantes dificultades en el control
 
 #### 1.2.2.1 Lean UX Problem Statements
 
+El estado actual de la gestión y monitoreo del consumo eléctrico se ha enfocado principalmente en hogares urbanos y pequeños negocios mediante un flujo de facturación mensual netamente reactivo, donde los usuarios enfrentan cobros inesperados, carecen de visibilidad sobre qué dispositivos o maquinarias generan picos de carga, y asumen pérdidas económicas por fugas eléctricas sin poder detectarlas a tiempo.
 
-A partir de los assumptions definidos, se establecen las hipótesis de valor del producto. Cada una de ellas relaciona la propuesta de valor de JouleTracker con las necesidades de los hogares y pequeños negocios, así como con las principales funcionalidades del sistema.
+Lo que los productos y servicios existentes no logran abordar es la falta de información accesible en tiempo real y la desconexión tecnológica, dejando a los consumidores sin herramientas preventivas que desglosen su gasto antes del cierre del ciclo de facturación.
 
-- Creemos que lograremos mejorar el control del consumo eléctrico si los usuarios pueden visualizar su consumo de energía en tiempo real, porque esto les permitirá identificar rápidamente aumentos o comportamientos inusuales en el uso de electricidad. Sabremos que hemos tenido éxito cuando más del 80% de los usuarios consulte su consumo en tiempo real al menos una vez por semana.
+Nuestro producto, JouleTracker, abordará esta brecha mediante una plataforma SaaS que integra dispositivos de telemetría IoT para centralizar el monitoreo del flujo energético en tiempo real, proyectar los costos de facturación y automatizar alertas preventivas ante umbrales de sobre consumo o anomalías.
 
-- Creemos que lograremos reducir el consumo innecesario de energía si los usuarios reciben alertas cuando su consumo supere determinados límites, porque podrán tomar acciones de manera oportuna para evitar un gasto excesivo. Sabremos que hemos tenido éxito cuando al menos el 70% de los usuarios que reciba una alerta revise o reduzca su consumo después de recibirla.
+Nuestro enfoque inicial serán los jefes de hogar de zonas urbanas con consumos medio-altos y los propietarios o administradores de micro y pequeñas empresas (PYMEs) que buscan proteger sus márgenes operativos.
 
-- Creemos que mejoraremos la toma de decisiones de los usuarios si ofrecemos gráficos e información histórica sobre su consumo eléctrico, porque podrán comparar periodos e identificar patrones de consumo. Sabremos que hemos tenido éxito cuando más del 75% de los usuarios consulte sus reportes o gráficos históricos al menos una vez al mes.
-
-- Creemos que aumentaremos la utilidad de JouleTracker para hogares y pequeños negocios si permitimos establecer límites personalizados de consumo, porque cada usuario podrá adaptar el sistema de acuerdo con sus necesidades y presupuesto. Sabremos que hemos tenido éxito cuando más del 60% de los usuarios configure al menos un límite de consumo dentro de la plataforma.
-
-- Creemos que mejoraremos la experiencia del usuario si presentamos la información mediante un dashboard sencillo y fácil de comprender, porque los usuarios podrán conocer rápidamente su nivel de consumo sin necesidad de tener conocimientos técnicos sobre electricidad. Sabremos que hemos tenido éxito cuando más del 80% de los usuarios pueda identificar su consumo actual y acceder a sus principales estadísticas sin requerir asistencia.
+Sabremos que tenemos éxito cuando veamos que los usuarios interactúan frecuentemente con los dashboards y alertas, logrando una tasa de retención mensual superior al 65%, una conversión del 15% en la landing page, y que al menos el 8% de los pequeños negocios migren exitosamente a planes de suscripción de pago tras comprobar la optimización de sus costos.
 
 #### 1.2.2.2 Lean UX Assumptions
 **Business Assumptions**
