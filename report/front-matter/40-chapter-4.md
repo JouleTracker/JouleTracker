@@ -352,3 +352,59 @@ Finalmente, la vista detalla los componentes de infraestructura de salida (Repos
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagrams
+
+En esta sección se presentan los diagramas de base de datos de cada Bounded Context, mostrando sus tablas, columnas, tipos de datos, claves primarias y foráneas, constraints y relaciones, con el fin de representar la estructura necesaria para la correcta persistencia de la información.
+
+## 1. User Management Database Diagram
+
+El **User Management Database Diagram** representa la estructura de persistencia responsable de gestionar la información de los usuarios del sistema. Este bounded context permite almacenar los datos básicos de identificación, autenticación, rol y estado de cada usuario, manteniendo la información necesaria para controlar su acceso y participación dentro de la plataforma.
+
+Las entidades pertenecientes a este contexto se encuentran enfocadas exclusivamente en la gestión de usuarios y sus datos de acceso, evitando almacenar información propia de otros bounded contexts.
+
+[DB1](../images/db-diagrams/db1.png)
+
+
+## 2. Monitoring Space Database Diagram
+
+El **Monitoring Space Database Diagram** representa la estructura de persistencia utilizada para gestionar los espacios que serán monitoreados por la plataforma. Un espacio puede representar un hogar, negocio u otro establecimiento donde se realiza el seguimiento del consumo energético.
+
+Este bounded context permite almacenar la información de los espacios monitoreados, sus características generales y la relación de los usuarios con dichos espacios. La información relacionada directamente con dispositivos o mediciones pertenece a sus respectivos bounded contexts.
+
+
+[DB2](../images/db-diagrams/db2.png)
+
+## 3. Device Management Database Diagram
+
+El **Device Management Database Diagram** representa la estructura de persistencia encargada de administrar los dispositivos IoT y sensores utilizados por la plataforma. Este contexto mantiene la información relacionada con el registro, configuración, estado y seguimiento de los dispositivos.
+
+Las entidades de este bounded context permiten identificar los dispositivos y sensores disponibles, almacenar sus configuraciones y mantener un historial de sus estados. Las mediciones generadas por estos dispositivos pertenecen al bounded context de Energy Monitoring.
+
+
+[DB3](../images/db-diagrams/db3.png)
+
+## 4. Energy Monitoring Database Diagram
+
+El **Energy Monitoring Database Diagram** representa la estructura de persistencia responsable de almacenar las mediciones obtenidas desde los dispositivos IoT. Este bounded context permite registrar los datos de consumo y las variables eléctricas asociadas a cada medición.
+
+También contempla la organización de las mediciones en lotes y el control de su calidad o validación. Las referencias hacia dispositivos y sensores pertenecen conceptualmente al contexto de Device Management, por lo que no se establecen dependencias de base de datos que rompan la autonomía entre bounded contexts.
+
+
+[DB4](../images/db-diagrams/db4.png)
+
+## 5. Consumption Analysis Database Diagram
+
+El **Consumption Analysis Database Diagram** representa la estructura de persistencia utilizada para analizar la información de consumo previamente registrada. Este bounded context permite almacenar perfiles de consumo, análisis realizados sobre determinados periodos, patrones identificados y anomalías detectadas.
+
+Su responsabilidad se centra en transformar las mediciones recopiladas en información útil para comprender el comportamiento del consumo. Las referencias hacia los espacios monitoreados se manejan como referencias externas al bounded context correspondiente.
+
+
+[DB5](../images/db-diagrams/db5.png)
+
+## 6. Recommendation Management Database Diagram
+
+El **Recommendation Management Database Diagram** representa la estructura de persistencia responsable de gestionar las recomendaciones generadas a partir del análisis del consumo. Este bounded context permite registrar recomendaciones, su descripción, prioridad, ahorro estimado y estado de seguimiento.
+
+Asimismo, permite almacenar las acciones asociadas a cada recomendación, facilitando el seguimiento de las medidas propuestas para mejorar el comportamiento del consumo. Las referencias hacia espacios monitoreados o resultados de análisis se mantienen como referencias externas, preservando la independencia del bounded context.
+
+
+[DB6](../images/db-diagrams/db6.png)
