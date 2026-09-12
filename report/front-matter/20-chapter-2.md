@@ -823,7 +823,7 @@ User Journey Mapping Administradores de pequeños negocios:
 **Empathy Map Segmento 1**
 
 <th align="center">
-<img src="../images/img-entrevistas/empathymaps1.png" width="800"><br>
+<img src="../images/persona_ empathymapt.png" width="800"><br>
 </th>
 
 **Empathy Map Segmento 2**
