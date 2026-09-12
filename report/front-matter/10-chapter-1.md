@@ -97,78 +97,62 @@ Sabremos que tenemos éxito cuando veamos que los usuarios interactúan frecuent
 
 **Feature Assumptions**
 
-- Creemos que un dashboard interactivo con actualización en tiempo real permitirá a los usuarios comprender inmediatamente la carga energética activa generada por los sensores IoT en su inmueble.
-- Creemos que una herramienta de proyección de facturación mensual en moneda local eliminará la incertidumbre de los usuarios frente al cobro final de su recibo eléctrico.
-- Creemos que un sistema de alertas preventivas configurables ante umbrales y consumos anómalos facilitará la detección rápida de fugas eléctricas o equipos encendidos fuera de horario.
-- Creemos que un módulo de analítica histórica y tendencias de consumo permitirá a los usuarios identificar electrodomésticos y maquinarias ineficientes para adoptar medidas correctivas de ahorro.
+- Creemos que la integración automatizada de sensores IoT permitirá a los usuarios recopilar datos energéticos continuos sin necesidad de realizar registros manuales.
+- Creemos que un dashboard interactivo en tiempo real permitirá a los usuarios comprender inmediatamente la carga energética activa en su inmueble.
+- Creemos que una herramienta de proyección de facturación mensual en moneda local eliminará la incertidumbre de los usuarios frente al cobro final de su empresa eléctrica.
+- Creemos que un módulo de analítica histórica y tendencias de consumo permitirá a los usuarios identificar hábitos ineficientes a lo largo del tiempo.
+- Creemos que un sistema de alertas preventivas configurables facilitará la detección rápida de fugas eléctricas o equipos encendidos por accidente.
+- Creemos que permitir agrupar sensores por áreas específicas (ej. cocina, refrigeración) ayudará a los pequeños negocios a identificar sus mayores fuentes de gasto.
 
 ### 1.2.2.3 Lean UX Hypothesis Statements
 
 Hypothesis Statement 01
 
-**Creemos** que permitir a los usuarios monitoreen su consumo eléctrico en tiempo real, podrán tomar decisiones sobre el uso de la energía en el momento oportuno y evitar consumos innecesarios.
+**Creemos** que integrar sensores IoT automatizados para la ingesta de datos logrará que los usuarios confíen en la precisión y continuidad de la plataforma.
 
 **Sabremos** que hemos tenido éxisto
 
-**Cuando** al menos el 80% de los usuarios activos consulte el monitoreo de consumo eléctronico en tiempo real al menos una vez por semana durante los primeros 3 meses de uso.
+**Cuando** al menos el 90% de los sensores vinculados mantenga una transmisión continua sin caídas reportadas por más de 7 días durante los primeros meses de uso.
 
 Hypothesis Statement 02
 
-**Creemos** que proporcionar a los usuarios una proyección del costo de su facturación eléctrica les permitirá anticipar sus gastos y tomar medidas para evitar sobrecostos.
+**Creemos** que proporcionar un dashboard de monitoreo en tiempo real logrará que los usuarios identifiquen picos inusuales de energía de manera inmediata.
 
 **Sabremos** que hemos tenido éxito
 
-**Cuando** al menos el 75% de los usuarios consulte la proyección de su facturación durante cada ciclo de consumo durante los primeros 3 meses de uso.
+**Cuando** al menos el 80% de los usuarios activos consulte su dashboard al menos dos veces por semana.
 
 Hypothesis Statement 03
 
-**Creemos** que implementar un sistema de detección de anomalías permitirá a los usuarios identificar oportunamente picos inusuales de consumo, posibles fugas eléctricas o comportamientos anormales de sus equipos.
+**Creemos** que mostrar una proyección estimada del costo mensual logrará que los usuarios planifiquen mejor su presupuesto familiar o comercial.
 
 **Sabremos** que hemos tenido éxito
 
-**Cuando** al menos el 70% de las anomalías detectadas por VoltLab sean revisadas por los usuarios durante los primeros 6 meses de uso.
+**Cuando** el 75% de los usuarios revise su proyección económica antes de los últimos 5 días del cierre de su ciclo de facturación.
 
 Hypothesis Statement 04
 
-**Creemos** que implementar alertas preventivas sobre consumos elevados y anomalías permitirá a los usuarios actuar oportunamente y reducir el riesgo de sobrecostos en su facturación eléctrica.
+**Creemos** proporcionar gráficos de analítica histórica logrará que los usuarios reconozcan y corrijan patrones de consumo ineficientes.
 
 **Sabremos** que hemos tenido éxito
 
-**Cuando** al menos el 70% de las alertas preventivas generadas por VoltLab sean visualizadas por los usuarios durante los primeros 3 meses de uso.
+**Cuando** más del 70% de los usuarios utilice los filtros de fechas para comparar su consumo respecto al mes anterior.
 
 Hypothesis Statement 05
 
-**Creemos** que integrar sensores IoT con la plataforma VoltLab permitirá automatizar la recopilación de datos energéticos y proporcionar información continua sobre el consumo eléctrico.
+**Creemos** que implementar alertas preventivas sobre umbrales de consumo logrará que los usuarios reaccionen a tiempo y reduzcan sobrecostos operativos.
 
 **Sabremos** que hemos tenido éxito
 
-**Cuando** al menos el 90% de las mediciones generadas por los dispositivos IoT sean registradas correctamente en VoltLab durante los primeros 3 meses de funcionamiento.
+**Cuando** el 60% de los usuarios configure al menos un límite de consumo mensual y el 70% visualice las notificaciones generadas.
 
 Hypothesis Statement 06
 
-**Creemos** que proporcionar un historial del consumo eléctrico permitirá a los usuarios comparar sus patrones de consumo e identificar cambios que puedan generar mayores costos.
+**Creemos** que segmentar el monitoreo por áreas de negocio logrará que los dueños de PYMEs identifiquen maquinarias específicas que consumen demasiada energía.
 
 **Sabremos** que hemos tenido éxito
 
-**Cuando** al menos el 70% de los usuarios consulte su historial de consumo y realice al menos una comparación entre diferentes periodos durante los primeros 3 meses de uso.
-
-Hypothesis Statement 07
-
-**Creemos** que proporcionar una visualización centralizada de las métricas energéticas permitirá a los usuarios comprender con mayor facilidad su comportamiento de consumo y tomar decisiones informadas.
-
-**Sabremos** que hemos tenido éxito
-
-**Cuando** al menos el 80% de los usuarios utilice las visualizaciones de consumo de VoltLab durante los primeros 3 meses de uso.
-
-Hypothesis Statement 08
-
-**Creemos** que centralizar el monitoreo, las proyecciones de costos, las anomalías y las alertas en una sola plataforma permitirá a los usuarios gestionar su consumo eléctrico de manera más eficiente y reducir gastos innecesarios.
-
-**Sabremos** que hemos tenido éxito
-
-**Cuando** al menos el 75% de los usuarios utilice dos o más funcionalidades de VoltLab de manera recurrente durante los primeros 3 meses de uso.
-
-
+**Cuando** el 80% de los usuarios del segmento comercial asigne sus sensores a más de un área estructurada dentro de la plataforma.
 
 ### 1.2.2.4. Lean UX Canvas
 
