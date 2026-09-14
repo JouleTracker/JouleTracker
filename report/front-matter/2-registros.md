@@ -15,3 +15,4 @@
 | 1.3     | 09/09/2026 |Alejandro Samir Choquehuanca Vasquez | Landing Page UI Design, Landing Page Wireframe | 
 | 1.4     | 10/09/2026 | Alejandro Samir Choquehuanca Vasquez | Landing Page Mock-ups || 
 1.5     | 11/09/2026 | Alejandro Samir Choquehuanca Vasquez |Web Applications Prototyping | 
+|1.6 | 14/09/2026 | Alejandro Samir Choquehuanca Vasquez | Web Applications Mock-Ups | 

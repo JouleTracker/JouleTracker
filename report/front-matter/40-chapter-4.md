@@ -439,6 +439,110 @@ En la versión mobile del Dashboard, la navegación lateral se reemplaza por una
 
 ### 4.4.3. Web Applications Mock-ups
 
+Los mock-ups de JouleTracker muestran la versión visual final de la aplicación, incorporando la paleta de verdes, la tipografía y el espaciado definidos para la marca. En estas vistas se evidencia cómo la jerarquía visual y la arquitectura de información definidas en los wireframes se traducen en pantallas operativas, claras y consistentes tanto para el jefe de hogar como para el dueño de un pequeño negocio.
+
+En escritorio, los mock-ups reflejan una interfaz de trabajo con navegación lateral persistente, tarjetas de métricas, gráficos y tablas orientadas a la lectura del consumo eléctrico. En mobile, la experiencia se reorganiza en bloques táctiles de una sola columna, priorizando la consulta rápida y las acciones esenciales.
+<img src="../images/figma/Dashboard_Figma_(Desktop)_1.jpeg" alt="Dashboard Inicio" width="700" />
+
+<img src="../images/figma/Dashboard_Figma_(Desktop)_2.jpeg" alt="Dashboard Consumo" width="700" />
+
+<img src="../images/figma/Dashboard_Figma_(Desktop)_3.jpeg" alt="Dashboard Dispositivos" width="700" />
+
+<img src="../images/figma/Dashboard_Figma_(Desktop)_4.jpeg" alt="Dashboard Alertas" width="700" />
+
+<img src="../images/figma/Dashboard_Figma_(Desktop)_5.jpeg" alt="Dashboard Reportes" width="700" />
+
+<img src="../images/figma/Dashboard_Figma_(Desktop)_6.jpeg" alt="Dashboard Recomendaciones" width="700" />
+
+<img src="../images/figma/Dashboard_Figma_(Desktop)_7.jpeg" alt="Dashboard Configuración" width="700" />
+
+<img src="../images/figma/Iniciar cuenta_Figma_(Desktop)_1.jpeg" alt="Dashboard Configuración" width="700" />
+
+<img src="../images/figma/Registrarse_Figma_(Desktop)_2.jpeg" alt="Dashboard Configuración" width="700" />
+
+**Login and Register Web**
+
+1) El header de la plataforma, con el logo, la navegación a las secciones del Landing Page (Inicio, Funcionalidades, Cómo funciona, Nosotros, Contáctanos) y el botón de Registrate, manteniendo la misma cabecera del resto del sitio.
+2) Es la sección donde el usuario podrá ingresar su información, en el caso del login pide su correo y contraseña, mientras que para registrarse pide nombre completo, correo, contraseña y confirmación de contraseña.
+3) Son los campos para rellenar la información solicitada, en el caso del login son solo dos campos, mientras que para registrarse son cuatro.
+4) Son los textos interactivos, estos redirigen al usuario a otras secciones del sistema según indique el texto (por ejemplo, ir al registro desde el login, o volver al login desde recuperar contraseña).
+5) El botón principal, en el caso del login permite iniciar sesión, mientras que en el registro permite crear la cuenta.
+6) El bloque lateral de apoyo, que refuerza el mensaje de valor de la plataforma junto con los beneficios clave (datos en tiempo real, alertas personalizadas, acceso desde cualquier dispositivo, o en el registro: fácil de usar, datos seguros, impacto real).
+
+<img src="../images/figma/Iniciar cuenta_Figma_(Desktop)_1.jpeg" alt="Dashboard Configuración" width="700" />
+
+**Dashboard - Inicio**
+
+1) La barra de navegación lateral de la plataforma, interactuando con ella el usuario puede navegar a las diferentes secciones del sistema: Inicio, Consumo, Dispositivos, Alertas, Reportes, Recomendaciones y Configuración.
+2) La sección superior con la vista general del consumo eléctrico del usuario, mostrando el consumo total, el costo estimado, el ahorro estimado y la cantidad de dispositivos activos.
+3) Los gráficos de consumo de energía y distribución por dispositivos, que muestran de forma visual en qué se está yendo la electricidad del hogar o negocio.
+4) Los paneles de consumo en tiempo real, comparativa de consumo y emisiones evitadas, que refuerzan al usuario el impacto directo de sus hábitos de consumo.
+5) Los paneles de alertas recientes y recomendaciones para el usuario, mostrando lo más urgente que necesita revisar.
+
+<img src="../images/figma/Dashboard_Figma_(Desktop)_1.jpeg" alt="Dashboard Inicio" width="700" />
+
+**Consumo**
+
+1) La barra de navegación lateral de la plataforma, interactuando con ella el usuario puede navegar a las diferentes secciones del sistema.
+2) La vista detallada del consumo eléctrico del periodo seleccionado, con las mismas métricas que Inicio pero enfocadas en el detalle del periodo actual.
+3) Los gráficos de consumo por día, comparativa de consumo y el historial de consumo con fecha, costo y estado de cada registro.
+
+<img src="../images/figma/Dashboard_Figma_(Desktop)_2.jpeg" alt="Dashboard Consumo" width="700" />
+
+
+**Dispositivos**
+
+1) La barra de navegación lateral de la plataforma, interactuando con ella el usuario puede navegar a las diferentes secciones del sistema.
+2) La sección con la vista general de los dispositivos conectados a la red eléctrica, mostrando cuántos dispositivos hay, el consumo total actual, el costo estimado del mes y el CO₂ evitado.
+3) La lista detallada de dispositivos, mostrando su estado, consumo actual, consumo acumulado, costo y última actividad, con acciones para gestionarlos.
+4) El botón principal de esta sección, el cual permite agregar un nuevo dispositivo a la red.
+
+<img src="../images/figma/Dashboard_Figma_(Desktop)_3.jpeg" alt="Dashboard Dispositivos" width="700" />
+
+**Alertas**
+
+1) La barra de navegación lateral de la plataforma, interactuando con ella el usuario puede navegar a las diferentes secciones del sistema.
+2) La sección con la vista general de las alertas del usuario, mostrando cuántas están activas, cuántas se resolvieron, el total del mes y la reducción de alertas respecto al mes anterior.
+3) La lista detallada de las alertas, filtrable por tipo, mostrando el mensaje, el dispositivo relacionado, la fecha, el estado y las acciones disponibles para cada una.
+
+<img src="../images/figma/Dashboard_Figma_(Desktop)_4.jpeg" alt="Dashboard Alertas" width="700" />
+
+**Reportes**
+
+1) La barra de navegación lateral de la plataforma, interactuando con ella el usuario puede navegar a las diferentes secciones del sistema.
+2) El botón para generar un nuevo reporte y el selector de rango de fechas a analizar.
+3) La sección con la vista general del periodo (consumo total, costo total, emisiones de CO₂ y días analizados) junto a los gráficos de consumo, comparativa, tendencia y el historial de reportes guardados.
+
+<img src="../images/figma/Dashboard_Figma_(Desktop)_5.jpeg" alt="Dashboard Reportes" width="700" />
+
+**Recomendaciones**
+
+1) La barra de navegación lateral de la plataforma, interactuando con ella el usuario puede navegar a las diferentes secciones del sistema.
+2) La sección con la vista general del ahorro potencial, la reducción estimada, el CO₂ evitado y el número de recomendaciones activas.
+3) Las tarjetas de recomendaciones personalizadas, filtrables por categoría, mostrando el ahorro estimado de cada una y un acceso para ver más detalles.
+<img src="../images/figma/Dashboard_Figma_(Desktop)_6.jpeg" alt="Dashboard Recomendaciones" width="700" />
+
+**Configuración**
+
+1) La barra de navegación lateral de la plataforma, interactuando con ella el usuario puede navegar a las diferentes secciones del sistema.
+2) La sección de información personal, donde el usuario administra su nombre, correo y teléfono.
+3) La sección para cambiar la contraseña, manteniendo la cuenta segura.
+4) La sección "Mi hogar", donde el usuario configura el tipo de vivienda, número de habitantes, ubicación y tarifa eléctrica para obtener recomendaciones más precisas.
+5) La sección de preferencias de consumo (unidad de energía, moneda, formato de fecha y hora) y la sección de notificaciones, donde el usuario elige qué avisos quiere recibir.
+
+<img src="../images/figma/Dashboard_Figma_(Desktop)_7.jpeg" alt="Dashboard Configuración" width="700" />
+
+**Mobile**
+
+1) La navegación se compacta en una barra inferior con acceso a los módulos más usados, dejando el resto en un menú desplegable.
+2) Cada sección conserva las mismas métricas y funcionalidades de la versión desktop, pero reorganizadas en una sola columna para facilitar la lectura y la interacción táctil.
+<img src="../images/figma/Dashboard_Figma_(Mobile)_3.jpeg" alt="Dashboard Iniciar sesión" width="700" />
+<img src="../images/figma/Dashboard_Figma_(Mobile)_1.jpeg" alt="Dashboard Crear Cuenta" width="700" />
+
+<img src="../images/figma/Dashboard_Figma_(Mobile)_2.jpeg" alt="Dashboard mobile" width="700" />
+
+
+
 ### 4.4.4. Web Applications User Flow Diagrams
 
 <img src="../images/userflow/userflow1.png" alt="userflows - Inicio de sesion" width="1200" />
