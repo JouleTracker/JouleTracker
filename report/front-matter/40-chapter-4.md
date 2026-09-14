@@ -429,13 +429,13 @@ En la versión mobile del Dashboard, la navegación lateral se reemplaza por una
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-<img src="../images/wireflows/wireflow1.png" alt="WireFlows - Registrarse" width="700" />
+<img src="../images/wireflows/wireflow1.png" alt="WireFlows - Registrarse" width="1200" />
 
-<img src="../images/wireflows/wireflow2.png" alt="WireFlows - Consumo" width="700" />
+<img src="../images/wireflows/wireflow2.png" alt="WireFlows - Consumo" width="1200" />
 
-<img src="../images/wireflows/wireflow3.png" alt="WireFlows - Dispostivos" width="700" />
+<img src="../images/wireflows/wireflow3.png" alt="WireFlows - Dispostivos" width="1200" />
 
-<img src="../images/wireflows/wireflow4.png" alt="WireFlows - Alertas" width="700" />
+<img src="../images/wireflows/wireflow4.png" alt="WireFlows - Alertas" width="1200" />
 
 ### 4.4.3. Web Applications Mock-ups
 
