@@ -441,6 +441,11 @@ En la versión mobile del Dashboard, la navegación lateral se reemplaza por una
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
+<img src="../images/userflow/userflow.png" alt="userflows - Inicio de sesion" width="1200" />
+
+<img src="../images/userflow/userflow2.png" alt="userflows - Registro" width="1200" />
+
+<img src="../images/userflow/userflow3.png" alt="userflows - Registro de dispositivos" width="1200" />
 
 
 ## 4.5. Aplicación Web Prototyping.
