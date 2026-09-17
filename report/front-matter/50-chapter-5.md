@@ -14,7 +14,6 @@
 ### 5.2.X.6. Services Documentation Evidence for Sprint Review.
 ### 5.2.X.7. Software Deployment Evidence for Sprint Review.
 ### 5.2.X.8. Team Collaboration Insights during Sprint.
-7/44
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
 ### 5.3.2. Registro de Entrevistas.
