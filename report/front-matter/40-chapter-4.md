@@ -29,39 +29,96 @@ Uso de la tipografía "Roboto" en textos generales.
 
 **Fuente:** [Google Fonts - Roboto.](https://www.1001fonts.com/roboto-font.html)
 
+### 4.1.2. Web Style Guidelines
+
+#### Paleta de colores
+
+La elección de colores en **JouleTracker** busca transmitir una identidad tecnológica, moderna y relacionada con la eficiencia energética, el ahorro y el uso responsable de los recursos.
+
+La paleta completa está conformada por colores principales, secundarios y neutros, los cuales se aplican de acuerdo con la función y jerarquía de cada elemento dentro de la interfaz.
+
+**Figura 1:** Paleta completa de colores
+
+![Paleta completa](../images/colors/colors.png)
+
+**Paleta completa en Coolors:**  
+[https://coolors.co/214029-dcedd5-bed4c2-4f378a-eaddff-ffffff-1a1a1a-404040](https://coolors.co/214029-dcedd5-bed4c2-4f378a-eaddff-ffffff-1a1a1a-404040)
+
+---
+
 #### Colores principales
 
-La elección de colores en JouleTracker busca transmitir una identidad tecnológica, moderna y relacionada con la eficiencia energética.
+La paleta principal está compuesta por diferentes tonalidades de verde, utilizadas para representar sostenibilidad, eficiencia y gestión responsable del consumo eléctrico.
 
-![Colors](../images/colors/colors.png)
+- **Verde oscuro `#214029`**: color principal de la interfaz. Se utiliza en botones, llamadas a la acción, enlaces, elementos seleccionados y componentes que requieren mayor énfasis visual.
+- **Verde claro `#DCEDD5`**: color complementario utilizado principalmente en fondos, secciones destacadas, bloques de información y superficies.
+- **Verde medio `#BED4C2`**: utilizado en fondos secundarios, separadores, elementos de apoyo y diferentes superficies de la interfaz.
 
-El color azul **#0066FF** se establece como color principal y se utiliza para acciones importantes, botones, enlaces y elementos seleccionados. Este color permite destacar las acciones principales y facilita la identificación de los elementos interactivos.
+**Figura 2:** Colores principales
 
-El color verde **#10B981** funciona como color secundario y se utiliza para representar estados positivos, eficiencia y resultados favorables dentro de la plataforma.
+![Colores principales](../images/colors/primary-colors.png)
 
-El color ámbar **#F59E0B** corresponde al color terciario y se utiliza principalmente para advertencias o situaciones que requieren atención.
+**Paleta en Coolors:**  
+[https://coolors.co/214029-dcedd5-bed4c2](https://coolors.co/214029-dcedd5-bed4c2)
 
-Por último, el color **#0F172A** funciona como color neutral y se emplea principalmente en títulos, textos principales y otros elementos que requieren un alto nivel de contraste.
+---
 
-En conjunto, esta paleta permite establecer una jerarquía visual clara y utilizar los colores de manera semántica para comunicar diferentes estados de la aplicación.
+#### Colores secundarios
+
+Los colores secundarios complementan la paleta principal y permiten establecer diferentes niveles de jerarquía visual dentro de la interfaz.
+
+La paleta secundaria utiliza tonalidades moradas para diferenciar determinados elementos sin reemplazar el protagonismo de los colores verdes.
+
+- **Morado `#4F378A`**: utilizado como color de acento en componentes secundarios, indicadores, elementos destacados y recursos visuales que requieren diferenciación.
+- **Lavanda `#EADDFF`**: utilizado principalmente en fondos suaves, tarjetas y superficies asociadas a elementos de acento.
+
+**Figura 3:** Colores secundarios
+
+![Colores secundarios](../images/colors/secondary-colors.png)
+
+**Paleta en Coolors:**  
+[https://coolors.co/4f378a-eaddff](https://coolors.co/4f378a-eaddff)
+
+---
+
+#### Colores neutros
+
+Los colores neutros permiten estructurar la interfaz y garantizar una adecuada legibilidad de los contenidos.
+
+- **Blanco `#FFFFFF`**: utilizado principalmente como fondo principal y superficie de diferentes componentes.
+- **Negro suave `#1A1A1A`**: utilizado en títulos, encabezados y textos de mayor jerarquía.
+- **Gris oscuro `#404040`**: utilizado en textos secundarios, descripciones, etiquetas y contenido informativo.
+
+Estos colores proporcionan contraste y permiten complementar las paletas principal y secundaria.
+
+**Figura 4:** Colores neutros
+
+![Colores neutros](../images/colors/neutral-colors.png)
+
+**Paleta en Coolors:**  
+[https://coolors.co/ffffff-1a1a1a-404040](https://coolors.co/ffffff-1a1a1a-404040)
+
+---
 
 #### Estilo visual
 
-El estilo visual de JouleTracker busca mantener una interfaz limpia, moderna y enfocada en la información.
+El estilo visual de **JouleTracker** busca mantener una interfaz limpia, moderna, tecnológica y enfocada en la información.
 
-La combinación del azul principal **#0066FF** con el verde **#10B981** permite destacar acciones y estados positivos, mientras que el ámbar **#F59E0B** se reserva para situaciones de advertencia.
+La combinación del **verde oscuro `#214029`** con los verdes **#DCEDD5** y **#BED4C2** constituye la base visual de la plataforma. El verde oscuro se utiliza para elementos de mayor importancia, mientras que los tonos claros permiten diferenciar secciones y superficies sin generar una apariencia saturada.
 
-El color **#0F172A** proporciona contraste para títulos y textos importantes. Los fondos claros permiten que los contenidos sean fáciles de identificar y evitan una interfaz visualmente saturada.
+Los colores de acento **#4F378A** y **#EADDFF** se incorporan en componentes secundarios, indicadores y elementos que requieren una diferenciación visual respecto de los elementos principales.
+
+Los colores neutros **#FFFFFF**, **#1A1A1A** y **#404040** proporcionan la estructura necesaria para fondos, títulos, textos y contenidos informativos.
 
 Los componentes utilizan formas simples y bordes suavemente redondeados para mantener una apariencia moderna. Las tarjetas y bloques de información permiten agrupar contenidos relacionados y mejorar la organización visual.
 
 #### Interactividad
 
-Los elementos interactivos de JouleTracker proporcionan retroalimentación visual para indicar al usuario cuándo un elemento puede ser seleccionado, cuándo se encuentra activo o cuándo una acción ha sido realizada.
+Los elementos interactivos de **JouleTracker** proporcionan retroalimentación visual para indicar al usuario cuándo un elemento puede ser seleccionado, cuándo se encuentra activo o cuándo una acción ha sido realizada.
 
-Los botones principales utilizan el color **#0066FF** y pueden presentar una variación de tono durante estados como `hover` o `active`.
+Los botones principales utilizan el **verde oscuro `#214029`** y pueden presentar variaciones sutiles de tono durante estados como `hover`, `focus` o `active`.
 
-Los elementos seleccionados mantienen una diferenciación visual respecto al resto de opciones para facilitar la orientación dentro de la interfaz.
+Los elementos seleccionados mantienen una diferenciación visual mediante el uso de los colores principales o secundarios, permitiendo identificar fácilmente la opción activa dentro de la interfaz.
 
 Las tarjetas y componentes interactivos pueden utilizar cambios sutiles de elevación o sombra al pasar el cursor, proporcionando feedback inmediato sin generar distracciones.
 
@@ -69,11 +126,9 @@ Las transiciones son suaves y breves, buscando que las interacciones sean natura
 
 ---
 
-### 4.1.2. Web Style Guidelines
+### 4.1.2.1. Responsividad
 
-#### Responsividad
-
-El diseño de JouleTracker está orientado a diferentes tamaños de pantalla, permitiendo adaptar la interfaz desde dispositivos móviles hasta computadoras de escritorio.
+El diseño de **JouleTracker** está orientado a diferentes tamaños de pantalla, permitiendo adaptar la interfaz desde dispositivos móviles hasta computadoras de escritorio.
 
 Los elementos se reorganizan de acuerdo con el espacio disponible, pasando de estructuras horizontales a verticales cuando es necesario. También se ajustan los tamaños, márgenes y espacios para mantener una correcta legibilidad.
 
@@ -83,17 +138,21 @@ La aplicación de principios responsive permite que las principales funcionalida
 
 Los componentes mantienen un estilo visual consistente mediante el uso de la misma tipografía, colores y reglas de espaciado.
 
-Los botones utilizan principalmente el color **#0066FF** para las acciones principales, mientras que las acciones secundarias pueden utilizar estilos neutros.
+Los botones utilizan principalmente el **verde oscuro `#214029`** para las acciones principales, mientras que las acciones secundarias pueden utilizar estilos neutros o los colores de acento definidos en la paleta.
 
-Las tarjetas permiten organizar información relacionada y presentar datos de manera diferenciada. Los indicadores pueden utilizar los colores semánticos definidos en la paleta para representar estados positivos o situaciones que requieren atención.
+Las tarjetas permiten organizar información relacionada y presentar datos de manera diferenciada. Los fondos **#DCEDD5** y **#BED4C2** pueden utilizarse para generar diferentes niveles de agrupación visual.
 
-Esta consistencia facilita el reconocimiento de patrones y permite que el usuario comprenda rápidamente el propósito de cada elemento.
+Los indicadores y elementos secundarios pueden utilizar **#4F378A** y **#EADDFF** para establecer una diferenciación visual respecto de los elementos principales.
+
+Los colores neutros **#FFFFFF**, **#1A1A1A** y **#404040** se utilizan para estructurar fondos, títulos, textos y contenido informativo.
 
 #### Accesibilidad
 
-Se prioriza un contraste adecuado entre textos y fondos para facilitar la lectura.
+Se prioriza un contraste adecuado entre textos y fondos para facilitar la lectura y mejorar la accesibilidad de la interfaz.
 
-El color **#0F172A** se utiliza principalmente para textos sobre fondos claros, mientras que los colores de los elementos interactivos deben mantener suficiente contraste para poder ser identificados fácilmente.
+El **negro suave `#1A1A1A`** y el **gris oscuro `#404040`** se utilizan principalmente para textos sobre fondos claros, mientras que el **verde oscuro `#214029`** proporciona contraste para botones y otros elementos interactivos.
+
+Los colores claros **#DCEDD5**, **#BED4C2** y **#EADDFF** se utilizan principalmente como fondos o superficies, evitando depender únicamente del color para comunicar información.
 
 Además, los elementos interactivos deben ser accesibles mediante teclado y presentar estados de `focus` visibles.
 
@@ -105,12 +164,14 @@ Las interacciones utilizan transiciones sutiles para proporcionar retroalimentac
 
 Entre los efectos considerados se encuentran:
 
-- Cambio de color en botones.
+- Cambio sutil de color en botones.
 - Modificación visual de los elementos seleccionados.
 - Elevación ligera de tarjetas durante el estado `hover`.
 - Transiciones suaves entre estados.
+- Aparición progresiva de determinados bloques de información.
+- Microinteracciones en elementos interactivos.
 
-Estas animaciones tienen como objetivo mejorar la experiencia de usuario y proporcionar una respuesta visual clara ante las acciones realizadas.
+Estas animaciones tienen como objetivo mejorar la experiencia de usuario y proporcionar una respuesta visual clara ante las acciones realizadas, manteniendo siempre una interfaz limpia y profesional.
 
 ---
 
