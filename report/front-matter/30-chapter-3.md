@@ -157,3 +157,9 @@ El Impact Mapping de JouleTracker refleja la relación entre los objetivos de ne
 |   55    |     TS-15     | Calculate Estimated Cost                                | Como desarrollador , quiero implementar el cálculo del costo estimado, para convertir el consumo registrado en un importe aproximado según la tarifa configurada.                   |      5       |
 |   56    |     TS-16     | Manage Business Areas                                   | Como desarrollador , quiero implementar la gestión de áreas de pequeños negocios, para organizar sensores y consumo eléctrico por zonas.                                            |      5       |
 |   57    |     TS-17     | Get Business Dashboard Metrics                          | Como desarrollador , quiero implementar las consultas del dashboard para pequeños negocios, para obtener consumo total y métricas por área.                                         |      8       |
+
+Se adjunta captura del product backlog de JouleTracker, donde se observa la priorización de historias de usuario y tareas técnicas, junto con sus respectivos puntos de historia (Story Points) para estimar el esfuerzo requerido en su desarrollo. 
+
+![](../images/backlog/productBacklog.png)
+
+Se adjunta link del proyecto creado en Jira Software Cloud, donde se puede consultar el product backlog completo y actualizado de JouleTracker: [Jira Software Cloud - JouleTracker](https://alejandrochoquehuanca007.atlassian.net/jira/software/projects/JOUL/boards/1/backlog?atlOrigin=eyJpIjoiYzkxZjFiZTFlZTEzNDEwMzk2ZmEwZDBhODJmNDI4OWYiLCJwIjoiaiJ9)
