@@ -56,7 +56,7 @@ La paleta principal está compuesta por diferentes tonalidades de verde, utiliza
 
 **Figura 2:** Colores principales
 
-![Colores principales](../images/colors/primary-colors.png)
+![Colores principales](../images/colors/colors2.png)
 
 **Paleta en Coolors:**  
 [https://coolors.co/214029-dcedd5-bed4c2](https://coolors.co/214029-dcedd5-bed4c2)
@@ -74,7 +74,7 @@ La paleta secundaria utiliza tonalidades moradas para diferenciar determinados e
 
 **Figura 3:** Colores secundarios
 
-![Colores secundarios](../images/colors/secondary-colors.png)
+![Colores secundarios](../images/colors/colors3.png)
 
 **Paleta en Coolors:**  
 [https://coolors.co/4f378a-eaddff](https://coolors.co/4f378a-eaddff)
@@ -93,7 +93,7 @@ Estos colores proporcionan contraste y permiten complementar las paletas princip
 
 **Figura 4:** Colores neutros
 
-![Colores neutros](../images/colors/neutral-colors.png)
+![Colores neutros](../images/colors/colors4.png)
 
 **Paleta en Coolors:**  
 [https://coolors.co/ffffff-1a1a1a-404040](https://coolors.co/ffffff-1a1a1a-404040)
