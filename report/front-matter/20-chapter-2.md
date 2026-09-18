@@ -2,297 +2,38 @@
 
 ### 2.1.1. Análisis competitivo.
 
-<table border="1" cellspacing="0" cellpadding="7" style="border-collapse: collapse; width: 100%; border: 2px solid black;">
-<tr>
-<th colspan="6" align="left">Competitive Analysis Landscape</th>
-</tr>
-
-<tr>
-<td colspan="2" rowspan="2"><b>¿Por qué llevar a cabo este análisis?</b></td>
-<td colspan="4"><b>Identificar las características, fortalezas y debilidades de las principales empresas que ofrecen soluciones de monitoreo del consumo eléctrico mediante dispositivos inteligentes y plataformas digitales, con el propósito de reconocer oportunidades de diferenciación y establecer una propuesta de valor competitiva para JouleTracker.</b></td>
-</tr>
-
-<tr>
-<td colspan="4">&nbsp;<br><br></td>
-</tr>
-
-<tr>
-<td colspan="2"><b>Competidores</b></td>
-
-<th align="center">
-<img src="../images/competitors/JouleTracker.png" width="85"><br>
-<b>JouleTracker</b>
-</th>
-
-<th align="center">
-<img src="../images/competitors/emporia.png" width="85"><br>
-<b>Emporia Energy</b>
-</th>
-
-<th align="center">
-<img src="../images/competitors/Eyedro.png" width="85"><br>
-<b>Eyedro Green Solutions</b>
-</th>
-
-<th align="center">
-<img src="../images/competitors/wattwatchers.png" width="85"><br>
-<b>Wattwatchers</b>
-</th>
-</tr>
-
-<tr>
-<td rowspan="2" align="center"><b>Perfil</b></td>
-<td><b>Overview</b></td>
-
-<td>
-JouleTracker es una startup orientada al monitoreo y control del consumo eléctrico en hogares y pequeños negocios. Mediante sensores IoT recopila información del consumo energético y la presenta en una plataforma digital con datos en tiempo real, históricos, gráficos y alertas configurables.
-</td>
-
-<td>
-Emporia Energy es una empresa especializada en soluciones inteligentes para la gestión energética. Su sistema Vue Energy Monitor permite medir el consumo eléctrico total y el consumo correspondiente a diferentes circuitos mediante sensores instalados en el panel eléctrico.
-</td>
-
-<td>
-Eyedro Green Solutions desarrolla soluciones de hardware y software para el monitoreo del consumo eléctrico. Sus dispositivos recopilan información energética y la envían a la plataforma MyEyedro, desde donde los usuarios pueden visualizar y analizar sus datos.
-</td>
-
-<td>
-Wattwatchers es una empresa especializada en tecnología para el monitoreo y gestión de energía. Sus dispositivos permiten recopilar información de distintos circuitos eléctricos y visualizarla mediante plataformas digitales dirigidas a hogares y pequeños negocios.
-</td>
-</tr>
-
-<tr>
-<td><b>Ventaja competitiva<br>¿Qué valor ofrece a los clientes?</b></td>
-
-<td>
-Ofrece una plataforma sencilla y accesible que permite conocer el consumo eléctrico en tiempo real, revisar información histórica y recibir alertas cuando se superan determinados límites, facilitando el control de los gastos energéticos.
-</td>
-
-<td>
-Permite supervisar el consumo general y diferentes circuitos eléctricos de forma independiente, facilitando la identificación de equipos o áreas que generan un mayor consumo.
-</td>
-
-<td>
-Combina dispositivos de medición eléctrica con una plataforma cloud que permite consultar consumo, costos, históricos, gráficos y reportes desde distintos dispositivos.
-</td>
-
-<td>
-Ofrece monitoreo energético detallado mediante dispositivos capaces de supervisar varios circuitos, complementados con herramientas digitales para visualizar y analizar la información obtenida.
-</td>
-</tr>
-
-<tr>
-<td align="center"><b>Perfil de Marketing</b></td>
-<td><b>Mercado objetivo</b></td>
-
-<td>
-Hogares y pequeños negocios interesados en conocer, controlar y reducir su consumo eléctrico mediante una solución sencilla y accesible.
-</td>
-
-<td>
-Hogares y pequeñas instalaciones comerciales que desean monitorear el consumo eléctrico general y por circuitos.
-</td>
-
-<td>
-Hogares, pequeños negocios y organizaciones interesadas en conocer detalladamente su consumo energético y administrar mejor sus costos eléctricos.
-</td>
-
-<td>
-Hogares y pequeños negocios que requieren monitoreo energético en tiempo real y análisis de diferentes circuitos eléctricos.
-</td>
-</tr>
-
-<tr>
-<td>&nbsp;</td>
-<td><b>Estrategias de marketing</b></td>
-
-<td>
-Redes sociales, contenido educativo sobre ahorro energético, demostraciones de la plataforma, pruebas piloto y futuras alianzas con pequeños negocios, electricistas y proveedores tecnológicos.
-</td>
-
-<td>
-Marketing digital, comercialización de dispositivos, contenido relacionado con eficiencia energética y promoción de productos inteligentes para la gestión del consumo.
-</td>
-
-<td>
-Promoción de soluciones de monitoreo energético, contenido relacionado con eficiencia energética, demostraciones de MyEyedro y comercialización de diferentes equipos de medición.
-</td>
-
-<td>
-Promoción de soluciones de gestión energética, alianzas empresariales y difusión de sus dispositivos, aplicaciones y herramientas tecnológicas.
-</td>
-</tr>
-
-<tr>
-<td rowspan="3" align="center"><b>Perfil del Producto</b></td>
-<td><b>Productos &amp; Servicios</b></td>
-
-<td>
-Sensores IoT, monitoreo eléctrico en tiempo real, dashboard web, históricos, gráficos, estadísticas, configuración de límites y alertas ante consumos elevados.
-</td>
-
-<td>
-Vue Energy Monitor, sensores para circuitos eléctricos, aplicación móvil y web, información en tiempo real, históricos y monitoreo individual de circuitos.
-</td>
-
-<td>
-Medidores eléctricos, sensores de corriente, plataforma MyEyedro, visualización en tiempo real, históricos, análisis de costos y reportes energéticos.
-</td>
-
-<td>
-Dispositivos de monitoreo energético, supervisión de múltiples circuitos, plataforma web, aplicación móvil, históricos y herramientas para el análisis del consumo.
-</td>
-</tr>
-
-<tr>
-<td><b>Precios &amp; Costos</b></td>
-
-<td>
-Se plantea utilizar sensores IoT de costo accesible. Los principales costos corresponden al hardware, desarrollo y mantenimiento de la plataforma, infraestructura cloud, almacenamiento y soporte.
-</td>
-
-<td>
-Su modelo requiere la compra del dispositivo de monitoreo y de los sensores necesarios dependiendo de la cantidad de circuitos que el usuario quiera supervisar.
-</td>
-
-<td>
-Su modelo se basa principalmente en la comercialización de medidores y sensores. El costo depende del dispositivo, cantidad de sensores y características de la instalación.
-</td>
-
-<td>
-Los costos dependen del tipo de dispositivo utilizado, cantidad de circuitos monitoreados y servicios tecnológicos requeridos.
-</td>
-</tr>
-
-<tr>
-<td><b>Canales de distribución<br>(Web y/o Móvil)</b></td>
-
-<td>
-Plataforma web responsive, dashboard digital y futura aplicación móvil.
-</td>
-
-<td>
-Página web, aplicación móvil, plataforma digital y comercialización online de dispositivos.
-</td>
-
-<td>
-Página web, plataforma cloud MyEyedro y acceso mediante computadoras, tablets y dispositivos móviles.
-</td>
-
-<td>
-Página web, dashboard web, aplicación móvil y herramientas digitales de administración y monitoreo.
-</td>
-</tr>
-
-<tr>
-<td rowspan="5" align="center"><b>Análisis SWOT</b></td>
-<td colspan="5"><b>Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva.</b></td>
-</tr>
-
-<tr>
-<td><b>Fortalezas</b></td>
-
-<td>
-Plataforma sencilla, monitoreo en tiempo real, históricos, gráficos, alertas configurables, uso de sensores IoT y enfoque específico en hogares y pequeños negocios.
-</td>
-
-<td>
-Experiencia en monitoreo energético, medición de diferentes circuitos, plataforma digital consolidada y variedad de dispositivos relacionados con gestión energética.
-</td>
-
-<td>
-Experiencia en hardware y software de monitoreo, plataforma cloud propia, soluciones para hogares y negocios y herramientas de análisis del consumo.
-</td>
-
-<td>
-Experiencia en tecnología energética, monitoreo de múltiples circuitos, plataformas digitales y soluciones dirigidas a hogares y pequeños negocios.
-</td>
-</tr>
-
-<tr>
-<td><b>Debilidades</b></td>
-
-<td>
-Marca nueva, recursos iniciales limitados, dependencia de sensores IoT y menor cantidad de funcionalidades durante las primeras versiones.
-</td>
-
-<td>
-Requiere la instalación de hardware dentro del panel eléctrico y sensores adicionales para obtener información detallada de múltiples circuitos.
-</td>
-
-<td>
-Requiere hardware especializado y puede presentar mayor complejidad para usuarios que únicamente necesitan conocer información básica de su consumo.
-</td>
-
-<td>
-Su ecosistema tecnológico puede resultar más complejo para usuarios que solamente necesitan herramientas básicas de monitoreo energético.
-</td>
-</tr>
-
-<tr>
-<td><b>Oportunidades</b></td>
-
-<td>
-Crecimiento del interés por reducir gastos eléctricos, mayor disponibilidad de sensores IoT económicos, digitalización de hogares y pequeños negocios y mayor preocupación por la eficiencia energética.
-</td>
-
-<td>
-Crecimiento de hogares inteligentes, sistemas solares y mayor interés de los usuarios por conocer detalladamente su consumo energético.
-</td>
-
-<td>
-Mayor interés de hogares y negocios por reducir sus costos eléctricos y crecimiento de las soluciones digitales relacionadas con eficiencia energética.
-</td>
-
-<td>
-Crecimiento de las tecnologías de energía inteligente y mayor necesidad de analizar y administrar información relacionada con el consumo eléctrico.
-</td>
-</tr>
-
-<tr>
-<td><b>Amenazas</b></td>
-
-<td>
-Presencia de competidores internacionales, aparición de dispositivos IoT más económicos, posibles fallas de hardware y rápida evolución tecnológica.
-</td>
-
-<td>
-Aparición de nuevas soluciones de monitoreo energético de menor costo y dispositivos inteligentes con funcionalidades similares.
-</td>
-
-<td>
-Incremento de competidores en el mercado de monitoreo energético y aparición de alternativas más económicas.
-</td>
-
-<td>
-Nuevos competidores, evolución acelerada de las tecnologías IoT y aparición de sistemas de monitoreo integrados directamente en otros dispositivos eléctricos.
-</td>
-</tr>
-
-<tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-
-</table>
-
+**Competitive Analysis Landscape**
+
+**¿Por qué llevar a cabo este análisis?**
+Identificar las características, fortalezas y debilidades de las principales empresas que ofrecen soluciones de monitoreo del consumo eléctrico mediante dispositivos inteligentes y plataformas digitales, con el propósito de reconocer oportunidades de diferenciación y establecer una propuesta de valor competitiva para JouleTracker.
+
+| Categoría               | Aspecto                                                 | JouleTracker                                                                                                                                                                                                                                                                                         | Emporia Energy                                                                                                                                                                                                                                                                    | Eyedro Green Solutions                                                                                                                                                                                                                                                | Wattwatchers                                                                                                                                                                                                                                                             |
+|-------------------------|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                         |                                                         | ![JouleTracker](../images/competitors/JouleTracker.png)                                                                                                                                                                                                                                              | ![Emporia Energy](../images/competitors/emporia.png)                                                                                                                                                                                                                              | ![Eyedro Green Solutions](../images/competitors/Eyedro.png)                                                                                                                                                                                                           | ![Wattwatchers](../images/competitors/wattwatchers.png)                                                                                                                                                                                                                  |
+| **Perfil**              | Overview                                                | JouleTracker es una startup orientada al monitoreo y control del consumo eléctrico en hogares y pequeños negocios. Mediante sensores IoT recopila información del consumo energético y la presenta en una plataforma digital con datos en tiempo real, históricos, gráficos y alertas configurables. | Emporia Energy es una empresa especializada en soluciones inteligentes para la gestión energética. Su sistema Vue Energy Monitor permite medir el consumo eléctrico total y el consumo correspondiente a diferentes circuitos mediante sensores instalados en el panel eléctrico. | Eyedro Green Solutions desarrolla soluciones de hardware y software para el monitoreo del consumo eléctrico. Sus dispositivos recopilan información energética y la envían a la plataforma MyEyedro, desde donde los usuarios pueden visualizar y analizar sus datos. | Wattwatchers es una empresa especializada en tecnología para el monitoreo y gestión de energía. Sus dispositivos permiten recopilar información de distintos circuitos eléctricos y visualizarla mediante plataformas digitales dirigidas a hogares y pequeños negocios. |
+| **Perfil**              | Ventaja competitiva — ¿Qué valor ofrece a los clientes? | Ofrece una plataforma sencilla y accesible que permite conocer el consumo eléctrico en tiempo real, revisar información histórica y recibir alertas cuando se superan determinados límites, facilitando el control de los gastos energéticos.                                                        | Permite supervisar el consumo general y diferentes circuitos eléctricos de forma independiente, facilitando la identificación de equipos o áreas que generan un mayor consumo.                                                                                                    | Combina dispositivos de medición eléctrica con una plataforma cloud que permite consultar consumo, costos, históricos, gráficos y reportes desde distintos dispositivos.                                                                                              | Ofrece monitoreo energético detallado mediante dispositivos capaces de supervisar varios circuitos, complementados con herramientas digitales para visualizar y analizar la información obtenida.                                                                        |
+| **Perfil de Marketing** | Mercado objetivo                                        | Hogares y pequeños negocios interesados en conocer, controlar y reducir su consumo eléctrico mediante una solución sencilla y accesible.                                                                                                                                                             | Hogares y pequeñas instalaciones comerciales que desean monitorear el consumo eléctrico general y por circuitos.                                                                                                                                                                  | Hogares, pequeños negocios y organizaciones interesadas en conocer detalladamente su consumo energético y administrar mejor sus costos eléctricos.                                                                                                                    | Hogares y pequeños negocios que requieren monitoreo energético en tiempo real y análisis de diferentes circuitos eléctricos.                                                                                                                                             |
+| **Perfil de Marketing** | Estrategias de marketing                                | Redes sociales, contenido educativo sobre ahorro energético, demostraciones de la plataforma, pruebas piloto y futuras alianzas con pequeños negocios, electricistas y proveedores tecnológicos.                                                                                                     | Marketing digital, comercialización de dispositivos, contenido relacionado con eficiencia energética y promoción de productos inteligentes para la gestión del consumo.                                                                                                           | Promoción de soluciones de monitoreo energético, contenido relacionado con eficiencia energética, demostraciones de MyEyedro y comercialización de diferentes equipos de medición.                                                                                    | Promoción de soluciones de gestión energética, alianzas empresariales y difusión de sus dispositivos, aplicaciones y herramientas tecnológicas.                                                                                                                          |
+| **Perfil del Producto** | Productos & Servicios                                   | Sensores IoT, monitoreo eléctrico en tiempo real, dashboard web, históricos, gráficos, estadísticas, configuración de límites y alertas ante consumos elevados.                                                                                                                                      | Vue Energy Monitor, sensores para circuitos eléctricos, aplicación móvil y web, información en tiempo real, históricos y monitoreo individual de circuitos.                                                                                                                       | Medidores eléctricos, sensores de corriente, plataforma MyEyedro, visualización en tiempo real, históricos, análisis de costos y reportes energéticos.                                                                                                                | Dispositivos de monitoreo energético, supervisión de múltiples circuitos, plataforma web, aplicación móvil, históricos y herramientas para el análisis del consumo.                                                                                                      |
+| **Perfil del Producto** | Precios & Costos                                        | Se plantea utilizar sensores IoT de costo accesible. Los principales costos corresponden al hardware, desarrollo y mantenimiento de la plataforma, infraestructura cloud, almacenamiento y soporte.                                                                                                  | Su modelo requiere la compra del dispositivo de monitoreo y de los sensores necesarios dependiendo de la cantidad de circuitos que el usuario quiera supervisar.                                                                                                                  | Su modelo se basa principalmente en la comercialización de medidores y sensores. El costo depende del dispositivo, cantidad de sensores y características de la instalación.                                                                                          | Los costos dependen del tipo de dispositivo utilizado, cantidad de circuitos monitoreados y servicios tecnológicos requeridos.                                                                                                                                           |
+| **Perfil del Producto** | Canales de distribución (Web y/o Móvil)                 | Plataforma web responsive, dashboard digital y futura aplicación móvil.                                                                                                                                                                                                                              | Página web, aplicación móvil, plataforma digital y comercialización online de dispositivos.                                                                                                                                                                                       | Página web, plataforma cloud MyEyedro y acceso mediante computadoras, tablets y dispositivos móviles.                                                                                                                                                                 | Página web, dashboard web, aplicación móvil y herramientas digitales de administración y monitoreo.                                                                                                                                                                      |
+| **Análisis SWOT**       | Fortalezas                                              | Plataforma sencilla, monitoreo en tiempo real, históricos, gráficos, alertas configurables, uso de sensores IoT y enfoque específico en hogares y pequeños negocios.                                                                                                                                 | Experiencia en monitoreo energético, medición de diferentes circuitos, plataforma digital consolidada y variedad de dispositivos relacionados con gestión energética.                                                                                                             | Experiencia en hardware y software de monitoreo, plataforma cloud propia, soluciones para hogares y negocios y herramientas de análisis del consumo.                                                                                                                  | Experiencia en tecnología energética, monitoreo de múltiples circuitos, plataformas digitales y soluciones dirigidas a hogares y pequeños negocios.                                                                                                                      |
+| **Análisis SWOT**       | Debilidades                                             | Marca nueva, recursos iniciales limitados, dependencia de sensores IoT y menor cantidad de funcionalidades durante las primeras versiones.                                                                                                                                                           | Requiere la instalación de hardware dentro del panel eléctrico y sensores adicionales para obtener información detallada de múltiples circuitos.                                                                                                                                  | Requiere hardware especializado y puede presentar mayor complejidad para usuarios que únicamente necesitan conocer información básica de su consumo.                                                                                                                  | Su ecosistema tecnológico puede resultar más complejo para usuarios que solamente necesitan herramientas básicas de monitoreo energético.                                                                                                                                |
+| **Análisis SWOT**       | Oportunidades                                           | Crecimiento del interés por reducir gastos eléctricos, mayor disponibilidad de sensores IoT económicos, digitalización de hogares y pequeños negocios y mayor preocupación por la eficiencia energética.                                                                                             | Crecimiento de hogares inteligentes, sistemas solares y mayor interés de los usuarios por conocer detalladamente su consumo energético.                                                                                                                                           | Mayor interés de hogares y negocios por reducir sus costos eléctricos y crecimiento de las soluciones digitales relacionadas con eficiencia energética.                                                                                                               | Crecimiento de las tecnologías de energía inteligente y mayor necesidad de analizar y administrar información relacionada con el consumo eléctrico.                                                                                                                      |
+| **Análisis SWOT**       | Amenazas                                                | Presencia de competidores internacionales, aparición de dispositivos IoT más económicos, posibles fallas de hardware y rápida evolución tecnológica.                                                                                                                                                 | Aparición de nuevas soluciones de monitoreo energético de menor costo y dispositivos inteligentes con funcionalidades similares.                                                                                                                                                  | Incremento de competidores en el mercado de monitoreo energético y aparición de alternativas más económicas.                                                                                                                                                          | Nuevos competidores, evolución acelerada de las tecnologías IoT y aparición de sistemas de monitoreo integrados directamente en otros dispositivos eléctricos.                                                                                                           |
 
 ### 2.1.2 Estrategias y tácticas frente a competidores
 
 Se plantean estrategias y tácticas preliminares que permitan a **JouleTracker** afrontar las fortalezas de sus competidores, aprovechar sus debilidades y responder a las oportunidades y amenazas presentes en el mercado de monitoreo y gestión del consumo eléctrico.
 
-| **Aspecto** | **JouleTracker** | **Emporia Energy** | **Eyedro Green Solutions** | **Wattwatchers** | **Acciones de JouleTracker** |
-|---|---|---|---|---|---|
-| **Fortalezas a afrontar** | Plataforma sencilla enfocada en hogares y pequeños negocios, con monitoreo en tiempo real, gráficos, históricos y alertas. | Cuenta con experiencia en monitoreo energético, medición individual de circuitos y una plataforma digital consolidada. | Combina hardware especializado con una plataforma cloud y ofrece soluciones tanto para hogares como para negocios. | Posee dispositivos de monitoreo energético, plataformas digitales y capacidad para gestionar múltiples circuitos. | JouleTracker buscará diferenciarse mediante facilidad de uso, accesibilidad, menor complejidad y adaptación a las necesidades de hogares y pequeños negocios. |
-| **Debilidades a aprovechar** | Al ser una startup nueva puede adaptar rápidamente sus funcionalidades según las necesidades de los usuarios. | Requiere instalación dentro del panel eléctrico y sensores adicionales para obtener mayor nivel de detalle. | Requiere hardware especializado y puede resultar más complejo para usuarios que solo desean funciones básicas. | Su ecosistema puede ser más complejo para usuarios que únicamente necesitan controlar su consumo cotidiano. | Utilizar sensores IoT accesibles y desarrollar una plataforma sencilla que muestre principalmente la información necesaria para comprender el consumo. |
-| **Oportunidades** | Mayor interés por reducir gastos eléctricos, crecimiento del IoT y digitalización de hogares y pequeños negocios. | La existencia de sus productos demuestra el interés de los usuarios por conocer detalladamente su consumo eléctrico. | Su presencia en hogares y negocios demuestra que existe demanda por plataformas capaces de convertir datos eléctricos en información útil. | Su enfoque en hogares y pequeños negocios demuestra el crecimiento del mercado de soluciones digitales para gestionar la energía. | Realizar pruebas piloto, generar contenido educativo, establecer alianzas con electricistas y pequeños negocios y adaptar progresivamente la plataforma a las necesidades del mercado. |
-| **Amenazas** | Competidores internacionales, dispositivos de menor costo, fallas de sensores y evolución acelerada de tecnologías IoT. | Puede incorporar nuevas funcionalidades, reducir costos y ampliar su ecosistema de productos. | Puede ampliar su oferta de soluciones y aumentar su presencia en nuevos mercados. | Puede aprovechar su experiencia tecnológica para incorporar nuevas funcionalidades dirigidas a pequeños consumidores. | Mantener una arquitectura modular, utilizar sensores accesibles, realizar pruebas periódicas y actualizar progresivamente el hardware y software. |
-| **Estrategia competitiva** | Ofrecer una solución digital sencilla y accesible para controlar el consumo eléctrico cotidiano. | Competir mediante una experiencia más sencilla para usuarios que no requieren configuraciones avanzadas. | Diferenciarse mediante una solución simple y adaptada específicamente al segmento objetivo. | Diferenciarse evitando funcionalidades empresariales innecesariamente complejas. | Posicionar a JouleTracker como una alternativa práctica y accesible para hogares y pequeños negocios que desean comprender y controlar su consumo eléctrico. |
-| **Tácticas preliminares** | Dashboard web, sensores IoT, monitoreo en tiempo real, históricos, gráficos, estadísticas, límites y alertas. | Simplificar la visualización de datos y mantener un costo inicial accesible. | Centralizar las principales funciones de monitoreo dentro de una interfaz sencilla. | Priorizar las herramientas esenciales de monitoreo antes de incorporar funcionalidades avanzadas. | Redes sociales, contenido educativo, pruebas piloto, alertas personalizadas, recopilación de feedback, mejora continua y futuras alianzas estratégicas. |
+| **Aspecto**                  | **JouleTracker**                                                                                                           | **Emporia Energy**                                                                                                     | **Eyedro Green Solutions**                                                                                                                 | **Wattwatchers**                                                                                                                  | **Acciones de JouleTracker**                                                                                                                                                           |
+|------------------------------|----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Fortalezas a afrontar**    | Plataforma sencilla enfocada en hogares y pequeños negocios, con monitoreo en tiempo real, gráficos, históricos y alertas. | Cuenta con experiencia en monitoreo energético, medición individual de circuitos y una plataforma digital consolidada. | Combina hardware especializado con una plataforma cloud y ofrece soluciones tanto para hogares como para negocios.                         | Posee dispositivos de monitoreo energético, plataformas digitales y capacidad para gestionar múltiples circuitos.                 | JouleTracker buscará diferenciarse mediante facilidad de uso, accesibilidad, menor complejidad y adaptación a las necesidades de hogares y pequeños negocios.                          |
+| **Debilidades a aprovechar** | Al ser una startup nueva puede adaptar rápidamente sus funcionalidades según las necesidades de los usuarios.              | Requiere instalación dentro del panel eléctrico y sensores adicionales para obtener mayor nivel de detalle.            | Requiere hardware especializado y puede resultar más complejo para usuarios que solo desean funciones básicas.                             | Su ecosistema puede ser más complejo para usuarios que únicamente necesitan controlar su consumo cotidiano.                       | Utilizar sensores IoT accesibles y desarrollar una plataforma sencilla que muestre principalmente la información necesaria para comprender el consumo.                                 |
+| **Oportunidades**            | Mayor interés por reducir gastos eléctricos, crecimiento del IoT y digitalización de hogares y pequeños negocios.          | La existencia de sus productos demuestra el interés de los usuarios por conocer detalladamente su consumo eléctrico.   | Su presencia en hogares y negocios demuestra que existe demanda por plataformas capaces de convertir datos eléctricos en información útil. | Su enfoque en hogares y pequeños negocios demuestra el crecimiento del mercado de soluciones digitales para gestionar la energía. | Realizar pruebas piloto, generar contenido educativo, establecer alianzas con electricistas y pequeños negocios y adaptar progresivamente la plataforma a las necesidades del mercado. |
+| **Amenazas**                 | Competidores internacionales, dispositivos de menor costo, fallas de sensores y evolución acelerada de tecnologías IoT.    | Puede incorporar nuevas funcionalidades, reducir costos y ampliar su ecosistema de productos.                          | Puede ampliar su oferta de soluciones y aumentar su presencia en nuevos mercados.                                                          | Puede aprovechar su experiencia tecnológica para incorporar nuevas funcionalidades dirigidas a pequeños consumidores.             | Mantener una arquitectura modular, utilizar sensores accesibles, realizar pruebas periódicas y actualizar progresivamente el hardware y software.                                      |
+| **Estrategia competitiva**   | Ofrecer una solución digital sencilla y accesible para controlar el consumo eléctrico cotidiano.                           | Competir mediante una experiencia más sencilla para usuarios que no requieren configuraciones avanzadas.               | Diferenciarse mediante una solución simple y adaptada específicamente al segmento objetivo.                                                | Diferenciarse evitando funcionalidades empresariales innecesariamente complejas.                                                  | Posicionar a JouleTracker como una alternativa práctica y accesible para hogares y pequeños negocios que desean comprender y controlar su consumo eléctrico.                           |
+| **Tácticas preliminares**    | Dashboard web, sensores IoT, monitoreo en tiempo real, históricos, gráficos, estadísticas, límites y alertas.              | Simplificar la visualización de datos y mantener un costo inicial accesible.                                           | Centralizar las principales funciones de monitoreo dentro de una interfaz sencilla.                                                        | Priorizar las herramientas esenciales de monitoreo antes de incorporar funcionalidades avanzadas.                                 | Redes sociales, contenido educativo, pruebas piloto, alertas personalizadas, recopilación de feedback, mejora continua y futuras alianzas estratégicas.                                |
 
 
 ## Estrategia general
@@ -410,9 +151,7 @@ Para comprender mejor a nuestros usuarios y construir arquetipos representativos
 
 **Screenshot del video:**
 
-<th align="center">
-<img src="../images/img-entrevistas/diana-S2-E1.png" width="800"><br>
-</th>
+![](../images/img-entrevistas/diana-S2-E1.png)
 
 **Resumen descriptivo de la entrevista:**
 
@@ -467,9 +206,8 @@ En cuanto a tecnología, utiliza principalmente su celular y ocasionalmente una 
 
 **Screenshot del video:**
 
-<th align="center">
-<img src="../images/img-entrevistas/jesus-S1-E2.png" width="800"><br>
-</th>
+![](../images/img-entrevistas/jesus-S1-E2.png)
+
 
 **Resumen descriptivo de la entrevista:**
 
@@ -512,9 +250,7 @@ Jesús tiene 34 años y vive en Los Olivos junto con su esposa y su hijo de 5 a�
 
 **Screenshot del video:**
 
-<th align="center">
-<img src="../images/img-entrevistas/miguel-S1-E3.png" width="800"><br>
-</th>
+![](../images/img-entrevistas/miguel-S1-E3.png)
 
 **Resumen descriptivo de la entrevista:**
 
@@ -558,9 +294,9 @@ Fabrizio tiene 26 años, vive solo en un departamento pequeño de un dormitorio 
 
 **Screenshot del video:**
 
-<th align="center">
-<img src="../images/img-entrevistas/eduardo-S2-E4.png" width="800"><br>
-</th>
+![](../images/img-entrevistas/eduardo-S2-E4.png)
+
+
 
 **Resumen descriptivo de la entrevista:**
 
@@ -604,9 +340,10 @@ Eduardo tiene 38 años, es dueño de un taller mecánico en Comas y también tra
 
 **Screenshot del video:**
 
-<th align="center">
-<img src="../images/img-entrevistas/renzo-S2-E5.png" width="800"><br>
-</th>
+![](../images/img-entrevistas/renzo-S2-E5.png)
+
+
+
 
 **Resumen descriptivo de la entrevista:**
 
@@ -652,9 +389,7 @@ Renzo tiene 42 años y administra un minimarket en Carabayllo. Es administrador 
 
 **Screenshot del video:**
 
-<th align="center">
-<img src="../images/img-entrevistas/carlos-S1-E6.png" width="800"><br>
-</th>
+![](../images/img-entrevistas/carlos-S1-E6.png)
 
 **Resumen descriptivo de la entrevista:**
 
@@ -771,18 +506,18 @@ El 100% presenta una disposición positiva para utilizar una plataforma de monit
 
 - **Segmento objetivo 1: Propietarios de hogares urbanos**
 
-| User Task                                                                  | Frecuencia | Importancia |
-|----------------------------------------------------------------------------|------------|-------------|
-| Revisar el importe del recibo de luz emitido por la distribuidora            | Mensual    | Crítica     |
-| Verificar el medidor eléctrico físico del inmueble                       | Esporádica       | Baja        |
-| Calcular y provisionar el presupuesto para servicios básicos              | Mensual       | Alta        |
-| Inspeccionar el apagado de artefactos y luces fuera de horario              | Diaria       | Media       |
-| Supervisar el estado operativo y calentamiento de maquinaria o electrodomésticos                        | Esporádica      | Media       |
-| Identificar variaciones o incrementos no explicados en el cobro del servicio  | Mensual       | Alta        |
-| Ajustar hábitos de uso de equipos de alta demanda (hornos, termas, calentadores)           | Semanal      | Alta        |
-| Consultar tarifas y horarios de consumo con el proveedor eléctrico                        | Esporádica      | Baja        |
-| Establecer acuerdos o normas de uso de energía con el entorno (familia o personal)                     | Mensual      | Media       |
-| Gestionar reclamos ante la distribuidora por cobros desmedidos o fallas de suministro | Esporádica       | Alta        |
+| User Task                                                                             | Frecuencia | Importancia |
+|---------------------------------------------------------------------------------------|------------|-------------|
+| Revisar el importe del recibo de luz emitido por la distribuidora                     | Mensual    | Crítica     |
+| Verificar el medidor eléctrico físico del inmueble                                    | Esporádica | Baja        |
+| Calcular y provisionar el presupuesto para servicios básicos                          | Mensual    | Alta        |
+| Inspeccionar el apagado de artefactos y luces fuera de horario                        | Diaria     | Media       |
+| Supervisar el estado operativo y calentamiento de maquinaria o electrodomésticos      | Esporádica | Media       |
+| Identificar variaciones o incrementos no explicados en el cobro del servicio          | Mensual    | Alta        |
+| Ajustar hábitos de uso de equipos de alta demanda (hornos, termas, calentadores)      | Semanal    | Alta        |
+| Consultar tarifas y horarios de consumo con el proveedor eléctrico                    | Esporádica | Baja        |
+| Establecer acuerdos o normas de uso de energía con el entorno (familia o personal)    | Mensual    | Media       |
+| Gestionar reclamos ante la distribuidora por cobros desmedidos o fallas de suministro | Esporádica | Alta        |
 
 
 
@@ -790,17 +525,17 @@ El 100% presenta una disposición positiva para utilizar una plataforma de monit
 
 - **Segmento objetivo 2: Administradores de pequeños negocios**
 
-| User Task                                                                  | Frecuencia | Importancia |
-|----------------------------------------------------------------------------|------------|-------------|
-| Revisar el importe del recibo de luz emitido por la distribuidora            | Mensual    | Crítica     |
-| Verificar el medidor eléctrico físico del inmueble                       | Esporádica | Media       |
-| Calcular y provisionar el presupuesto para servicios básicos              | Semanal    | Crítica     |
-| Inspeccionar el apagado de artefactos y luces fuera de horario              | Diaria     | Crítica     |
-| Supervisar el estado operativo y calentamiento de maquinaria o electrodomésticos                        | Diaria     | Crítica     |
-| Identificar variaciones o incrementos no explicados en el cobro del servicio  | Mensual    | Crítica     |
-| Ajustar hábitos de uso de equipos de alta demanda (hornos, termas, calentadores)           | Diaria     | Alta        |
-| Consultar tarifas y horarios de consumo con el proveedor eléctrico                        | Mensual    | Media       |
-| Establecer acuerdos o normas de uso de energía con el entorno (familia o personal)                     | Semanal    | Alta        |
+| User Task                                                                             | Frecuencia | Importancia |
+|---------------------------------------------------------------------------------------|------------|-------------|
+| Revisar el importe del recibo de luz emitido por la distribuidora                     | Mensual    | Crítica     |
+| Verificar el medidor eléctrico físico del inmueble                                    | Esporádica | Media       |
+| Calcular y provisionar el presupuesto para servicios básicos                          | Semanal    | Crítica     |
+| Inspeccionar el apagado de artefactos y luces fuera de horario                        | Diaria     | Crítica     |
+| Supervisar el estado operativo y calentamiento de maquinaria o electrodomésticos      | Diaria     | Crítica     |
+| Identificar variaciones o incrementos no explicados en el cobro del servicio          | Mensual    | Crítica     |
+| Ajustar hábitos de uso de equipos de alta demanda (hornos, termas, calentadores)      | Diaria     | Alta        |
+| Consultar tarifas y horarios de consumo con el proveedor eléctrico                    | Mensual    | Media       |
+| Establecer acuerdos o normas de uso de energía con el entorno (familia o personal)    | Semanal    | Alta        |
 | Gestionar reclamos ante la distribuidora por cobros desmedidos o fallas de suministro | Esporádica | Crítica     |
 
 
@@ -821,16 +556,12 @@ User Journey Mapping Administradores de pequeños negocios:
 
 ### 2.3.4. Empathy Mapping.
 **Empathy Map Segmento 1**
+![](../images/persona_empathymap1.png)
 
-<th align="center">
-<img src="../images/persona_ empathymapt.png" width="800"><br>
-</th>
 
 **Empathy Map Segmento 2**
 
-<th align="center">
-<img src="../images/persona_ empathymapj.png" width="800"><br>
-</th>
+![](../images/persona_empathymap2.png)
 
 ---
 
@@ -874,42 +605,42 @@ con el consumo eléctrico, su monitoreo y el control de los costos.
 
 ### Términos generales
 
-| Término | Definición | Contexto |
-|---|---|---|
-| Usuario | Persona que utiliza VoltLab para consultar información sobre su consumo eléctrico y tomar decisiones sobre su uso de energía. | General |
-| Hogar | Vivienda en la que se registra y analiza el consumo eléctrico. | Hogar |
-| Negocio | Establecimiento en el que se registra y analiza el consumo eléctrico generado por sus actividades. | Negocio |
-| Consumo eléctrico | Cantidad de energía utilizada por un hogar o negocio durante un período determinado. | Consumo |
-| Uso de energía | Manera en que se distribuye y utiliza la energía eléctrica en un hogar o negocio. | Consumo |
-| Recibo de luz | Documento que muestra el consumo registrado y el monto que debe pagarse por la electricidad utilizada. | Facturación |
-| Costo de energía | Monto correspondiente a la energía eléctrica consumida durante un período. | Facturación |
+| Término           | Definición                                                                                                                    | Contexto    |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------|
+| Usuario           | Persona que utiliza VoltLab para consultar información sobre su consumo eléctrico y tomar decisiones sobre su uso de energía. | General     |
+| Hogar             | Vivienda en la que se registra y analiza el consumo eléctrico.                                                                | Hogar       |
+| Negocio           | Establecimiento en el que se registra y analiza el consumo eléctrico generado por sus actividades.                            | Negocio     |
+| Consumo eléctrico | Cantidad de energía utilizada por un hogar o negocio durante un período determinado.                                          | Consumo     |
+| Uso de energía    | Manera en que se distribuye y utiliza la energía eléctrica en un hogar o negocio.                                             | Consumo     |
+| Recibo de luz     | Documento que muestra el consumo registrado y el monto que debe pagarse por la electricidad utilizada.                        | Facturación |
+| Costo de energía  | Monto correspondiente a la energía eléctrica consumida durante un período.                                                    | Facturación |
 
 ### Términos de monitoreo
 
-| Término | Definición | Contexto |
-|---|---|---|
-| Sensor | Dispositivo encargado de medir el consumo eléctrico y enviar los datos registrados a la plataforma. | Sensores |
-| Lectura | Dato obtenido por un sensor que representa el consumo eléctrico registrado en un momento determinado. | Sensores |
-| Monitoreo en tiempo real | Consulta del consumo eléctrico a medida que se generan nuevas lecturas. | Monitoreo |
-| Historial de consumo | Conjunto de lecturas y registros de consumo correspondientes a períodos anteriores. | Monitoreo |
-| Pico de consumo | Aumento considerable del consumo eléctrico en un período corto respecto al comportamiento habitual. | Monitoreo |
-| Límite de consumo | Valor establecido para identificar cuándo el consumo supera un nivel determinado. | Monitoreo |
-| Consumo anómalo | Comportamiento del consumo que se diferencia de los valores habituales registrados. | Monitoreo |
+| Término                  | Definición                                                                                            | Contexto  |
+|--------------------------|-------------------------------------------------------------------------------------------------------|-----------|
+| Sensor                   | Dispositivo encargado de medir el consumo eléctrico y enviar los datos registrados a la plataforma.   | Sensores  |
+| Lectura                  | Dato obtenido por un sensor que representa el consumo eléctrico registrado en un momento determinado. | Sensores  |
+| Monitoreo en tiempo real | Consulta del consumo eléctrico a medida que se generan nuevas lecturas.                               | Monitoreo |
+| Historial de consumo     | Conjunto de lecturas y registros de consumo correspondientes a períodos anteriores.                   | Monitoreo |
+| Pico de consumo          | Aumento considerable del consumo eléctrico en un período corto respecto al comportamiento habitual.   | Monitoreo |
+| Límite de consumo        | Valor establecido para identificar cuándo el consumo supera un nivel determinado.                     | Monitoreo |
+| Consumo anómalo          | Comportamiento del consumo que se diferencia de los valores habituales registrados.                   | Monitoreo |
 
 ### Términos de alertas y ahorro
 
-| Término | Definición | Contexto |
-|---|---|---|
-| Alerta | Aviso que informa al usuario sobre una situación relevante relacionada con su consumo eléctrico. | Alertas |
-| Alerta de consumo alto | Aviso generado cuando el consumo supera el límite establecido o el nivel esperado. | Alertas |
-| Alerta de consumo anómalo | Aviso generado cuando se identifica un comportamiento inusual en el consumo eléctrico. | Alertas |
-| Recomendación de ahorro | Sugerencia orientada a reducir el consumo eléctrico o el costo del servicio. | Ahorro |
-| Ahorro de energía | Reducción del consumo eléctrico mediante un uso más eficiente de los equipos y recursos disponibles. | Ahorro |
+| Término                   | Definición                                                                                           | Contexto |
+|---------------------------|------------------------------------------------------------------------------------------------------|----------|
+| Alerta                    | Aviso que informa al usuario sobre una situación relevante relacionada con su consumo eléctrico.     | Alertas  |
+| Alerta de consumo alto    | Aviso generado cuando el consumo supera el límite establecido o el nivel esperado.                   | Alertas  |
+| Alerta de consumo anómalo | Aviso generado cuando se identifica un comportamiento inusual en el consumo eléctrico.               | Alertas  |
+| Recomendación de ahorro   | Sugerencia orientada a reducir el consumo eléctrico o el costo del servicio.                         | Ahorro   |
+| Ahorro de energía         | Reducción del consumo eléctrico mediante un uso más eficiente de los equipos y recursos disponibles. | Ahorro   |
 
 ### Términos de proyección
 
-| Término | Definición | Contexto |
-|---|---|---|
-| Proyección de consumo | Estimación de la cantidad de energía que se podría consumir al finalizar un período. | Proyección |
-| Proyección de costo | Estimación del monto que podría pagarse en el próximo recibo según el consumo registrado. | Proyección |
-| Consumo esperado | Cantidad de energía que se estima utilizar tomando como referencia el comportamiento registrado anteriormente. | Proyección |
+| Término               | Definición                                                                                                     | Contexto   |
+|-----------------------|----------------------------------------------------------------------------------------------------------------|------------|
+| Proyección de consumo | Estimación de la cantidad de energía que se podría consumir al finalizar un período.                           | Proyección |
+| Proyección de costo   | Estimación del monto que podría pagarse en el próximo recibo según el consumo registrado.                      | Proyección |
+| Consumo esperado      | Cantidad de energía que se estima utilizar tomando como referencia el comportamiento registrado anteriormente. | Proyección |
