@@ -314,6 +314,23 @@ Luego de unos minutos, el deploy se realizara correctamente:
 ![](../images/deploy-steps/deploy-4.jpeg)
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+Durante el Sprint 1, Team Volta mantuvo una participación activa en el desarrollo de JouleTracker, distribuyendo las responsabilidades entre los integrantes de acuerdo con las actividades asignadas.
+
+Para evidenciar la colaboración del equipo se utilizaron las métricas proporcionadas por GitHub Insights, las cuales permiten visualizar la cantidad de commits realizados, la participación de los colaboradores y la evolución de las contribuciones dentro del repositorio.
+
+Las siguientes capturas muestran la actividad registrada por los integrantes durante el desarrollo del proyecto.
+
+![Insights 1](../images/Insights/Insights1.png)
+
+**Figura2:** Métricas generales de contribución del equipo obtenidas mediante GitHub Insights.
+
+
+![Insights 2](../images/Insights/Insights2.png)
+
+**Figura 2:** Detalle de la participación y commits realizados por los colaboradores del proyecto.
+
+Estas métricas permiten evidenciar el trabajo colaborativo desarrollado durante el sprint y observar la participación de los diferentes integrantes en la evolución del proyecto JouleTracker.
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
 ### 5.3.2. Registro de Entrevistas.
