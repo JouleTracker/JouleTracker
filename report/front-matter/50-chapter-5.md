@@ -181,6 +181,26 @@ Este procedimiento permite que JouleTracker mantenga una versión pública y acc
 ## 5.2. Landing Page, Services & Applications Implementation.
 
 ### 5.2.1. Sprint 1
+Durante el Sprint 1, Team Volta se enfocó en la implementación y preparación de la Landing Page de JouleTracker como principal producto visible para presentar la propuesta de valor de la solución.
+
+El objetivo del sprint fue desarrollar una interfaz web funcional, responsive y accesible utilizando HTML, CSS y JavaScript. La Landing Page fue diseñada para explicar de forma clara el propósito de JouleTracker, sus principales beneficios, funcionamiento, planes disponibles y medios de contacto.
+
+Durante este sprint también se organizaron las responsabilidades del equipo, se definieron las actividades correspondientes al desarrollo de la interfaz y se prepararon las evidencias necesarias para el Sprint Review.
+
+Entre los principales resultados obtenidos durante el Sprint 1 se encuentran:
+
+- Implementación de la Landing Page de JouleTracker.
+- Desarrollo de una interfaz responsive para distintos tamaños de pantalla.
+- Incorporación de navegación entre las principales secciones del sitio.
+- Implementación del cambio de idioma entre español e inglés.
+- Presentación de beneficios, funcionalidades, planes y propuesta de valor.
+- Incorporación de secciones de testimonios, preguntas frecuentes y contacto.
+- Aplicación de criterios básicos de accesibilidad mediante HTML semántico y atributos ARIA.
+- Despliegue de la Landing Page mediante GitHub Pages.
+- Preparación de evidencias de desarrollo, ejecución y despliegue para el Sprint Review.
+
+La versión desarrollada durante este sprint permitió contar con una primera implementación pública de JouleTracker, facilitando la presentación y validación de la propuesta ante los usuarios y durante la revisión del proyecto.
+
 ### 5.2.1.1. Sprint Planning 1.
 
 En el Sprint 1 como equipo nos centramos en la creación de la Landing Page de JouleTracker, que será la cara visible de nuestra plataforma ante los usuarios. En este sprint se definieron las funcionalidades necesarias para presentar la propuesta de valor de JouleTracker, informar sobre sus beneficios, explicar su funcionamiento y mostrar sus principales funcionalidades, además de facilitar el acceso al registro e inicio de sesión.
