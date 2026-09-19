@@ -19,6 +19,53 @@ La gestión de configuración de JouleTracker comprende principalmente los sigui
 - Gestión de las versiones generadas durante los diferentes sprints del proyecto.
 ### 5.1.1. Software Development Environment Configuration.
 ### 5.1.2. Source Code Management.
+JouleTracker utiliza Git como sistema de control de versiones y GitHub como plataforma para almacenar, administrar y compartir el código fuente y la documentación del proyecto entre los integrantes de Team Volta.
+
+El repositorio oficial del proyecto se encuentra disponible en el siguiente enlace:
+
+[Repositorio de JouleTracker](https://github.com/JouleTracker/JouleTracker)
+
+Para organizar el trabajo colaborativo, el equipo utiliza una estrategia basada en ramas. Cada integrante desarrolla las actividades correspondientes en ramas específicas, evitando realizar modificaciones directamente sobre las ramas principales del proyecto.
+
+Entre las ramas utilizadas se encuentran:
+
+| Rama | Propósito |
+|---|---|
+| `main` | Contiene la versión principal y estable del proyecto. |
+| `develop` | Rama utilizada para integrar avances antes de incorporarlos a la versión principal. |
+| `feature/chapter1` | Desarrollo y actualización del Capítulo I del informe. |
+| `feature/chapter2` | Desarrollo y actualización del Capítulo II del informe. |
+| `feature/chapter3` | Desarrollo y actualización del Capítulo III del informe. |
+| `feature/chapter4` | Desarrollo y actualización del Capítulo IV del informe. |
+| `feature/chapter5` | Desarrollo y actualización del Capítulo V del informe. |
+
+Cada modificación realizada en el proyecto es registrada mediante commits descriptivos que permiten identificar el propósito de los cambios realizados.
+
+El equipo emplea una estructura basada en Conventional Commits para mantener uniformidad en los mensajes registrados en el repositorio:
+
+`type(scope): description`
+
+Algunos ejemplos utilizados durante el desarrollo son:
+
+`docs(chapter4): add UML class diagrams`
+
+`docs(chapter5): add software configuration management`
+
+Los principales tipos de commit utilizados son:
+
+| Tipo | Descripción |
+|---|---|
+| `feat` | Incorporación de una nueva funcionalidad. |
+| `fix` | Corrección de errores. |
+| `docs` | Modificaciones relacionadas con la documentación. |
+| `style` | Cambios de formato que no afectan el funcionamiento del software. |
+| `refactor` | Modificaciones internas destinadas a mejorar la estructura del código. |
+| `test` | Incorporación o modificación de pruebas. |
+| `chore` | Cambios relacionados con mantenimiento o configuración del proyecto. |
+
+El flujo de trabajo seguido por los integrantes consiste principalmente en actualizar la información del repositorio remoto, cambiar a la rama correspondiente, realizar las modificaciones necesarias, registrar los archivos modificados, crear un commit descriptivo y finalmente enviar los cambios hacia la rama remota correspondiente.
+
+Este procedimiento permite mantener un historial organizado, identificar las contribuciones realizadas por cada integrante y reducir posibles conflictos durante la integración de los diferentes avances del proyecto.
 ### 5.1.3. Source Code Style Guide & Conventions.
 ### 5.1.4. Software Deployment Configuration.
 ## 5.2. Landing Page, Services & Applications Implementation.
