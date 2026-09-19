@@ -98,6 +98,7 @@ La Landing Page de JouleTracker fue desplegada para permitir su visualización y
 **Enlace de la página desplegada:** [JouleTracker Landing Page](https://jouletracker.github.io/JouleTracker-LandingPage/)
 
 **Enlace del video de ejecución:** [Video de ejecución](https://drive.google.com/file/d/1v6G61TiA350A7FiNq-jFrFq6u096fupr/view?usp=sharing)
+
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
@@ -106,6 +107,7 @@ La Landing Page de JouleTracker fue desplegada para permitir su visualización y
 ### 5.3.2. Registro de Entrevistas.
 ### 5.3.3. Evaluaciones según heurísticas.
 ## 5.4. Video About-the-Product.
+
 
 
 
