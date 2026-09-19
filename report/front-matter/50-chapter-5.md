@@ -1,5 +1,22 @@
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
+Para el desarrollo de JouleTracker, el equipo establece un proceso de gestión de configuración de software con el propósito de mantener organizados, controlados y disponibles los diferentes artefactos generados durante el proyecto.
+
+La gestión de configuración permite administrar el código fuente, la documentación, los recursos gráficos y las diferentes versiones desarrolladas durante los sprints. Para ello, el equipo utiliza Git como sistema de control de versiones distribuido y GitHub como plataforma para el almacenamiento remoto y la colaboración entre los integrantes de Team Volta.
+
+El repositorio de JouleTracker se organiza mediante diferentes ramas destinadas al desarrollo de capítulos, funcionalidades y componentes específicos del proyecto. Esta estrategia permite que cada integrante pueda trabajar de manera independiente sobre las actividades asignadas sin modificar directamente las ramas principales.
+
+Asimismo, el equipo emplea convenciones para los nombres de las ramas y los mensajes de commit, permitiendo mantener un historial comprensible de los cambios realizados durante el desarrollo.
+
+La gestión de configuración de JouleTracker comprende principalmente los siguientes elementos:
+
+- Control de versiones mediante Git.
+- Almacenamiento y colaboración mediante GitHub.
+- Uso de ramas para separar las diferentes actividades de desarrollo.
+- Registro de modificaciones mediante commits descriptivos.
+- Organización de la documentación y recursos del proyecto.
+- Integración progresiva de los cambios desarrollados por los integrantes del equipo.
+- Gestión de las versiones generadas durante los diferentes sprints del proyecto.
 ### 5.1.1. Software Development Environment Configuration.
 ### 5.1.2. Source Code Management.
 ### 5.1.3. Source Code Style Guide & Conventions.
