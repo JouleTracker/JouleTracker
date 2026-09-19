@@ -20,13 +20,21 @@ La gestión de configuración de JouleTracker comprende principalmente los sigui
 ### 5.1.1. Software Development Environment Configuration.
 
 | Producto de software | Propósito de uso en el proyecto | Actividad | Tipo de Acceso/enlace                      |
+
 |-------|-------------|----------------------------------|------------|-------------------------------------------|
-| GitHub | Repositorio utilizado para almacenar y gestionar el código fuente de la aplicación web, además de facilitar el control de versiones y la colaboración entre los integrantes.   | Software Development | [Github](https://github.com/) | 
+
+| GitHub | Repositorio utilizado para almacenar y gestionar el código fuente de la aplicación web, además de facilitar el control de versiones y la colaboración entre los integrantes.   | Software Development | [Github](https://github.com/) |
+
 | Jira | Herramienta utilizada para organizar, asignar y realizar el seguimiento de las tareas correspondientes a los Sprints del proyecto. | Project Management | [Jira](https://www.atlassian.com/) |
+
 | UXPressia | Herramienta utilizada para elaborar y organizar elementos relacionados con la experiencia del usuario, como personas y mapas de experiencia/journey maps. | Requirements Management / Product UX | [UXpressia](https://uxpressia.com/w/NxJgO) | 
+
 | Miro | Plataforma colaborativa utilizada para organizar información, desarrollar actividades de ideación y trabajar visualmente de manera conjunta durante el proyecto. | Requirements Management / Collaboration | [Miro](https://miro.com/es/) |
+
 | Visual Studio | Entorno de desarrollo utilizado para escribir, editar y ejecutar el código fuente de la aplicación web. | Software Development |[Visual Studio]([https://code.visualstudio.com/](https://visualstudio.microsoft.com/es/)) |
+
 | Figma | Herramienta utilizada para el diseño UX/UI de JouleTracker, incluyendo wireframes, mockups y prototipos de la aplicación. | Product UX/UI Design | [Figma](https://www.figma.com/) |
+
 
 ### 5.1.2. Source Code Management.
 JouleTracker utiliza Git como sistema de control de versiones y GitHub como plataforma para almacenar, administrar y compartir el código fuente y la documentación del proyecto entre los integrantes de Team Volta.
