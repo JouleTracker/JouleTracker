@@ -19,11 +19,16 @@ La gestión de configuración de JouleTracker comprende principalmente los sigui
 - Gestión de las versiones generadas durante los diferentes sprints del proyecto.
 ### 5.1.1. Software Development Environment Configuration.
 
-| Producto de software | Propósito de uso en el proyecto | Actividad | Tipo de Acceso/enlace                      |
+Durante el desarrollo de JouleTracker, el equipo utiliza diferentes herramientas de software para gestionar el proyecto, desarrollar la aplicación web, diseñar la interfaz y colaborar durante las diferentes actividades del ciclo de vida del producto.
 
-|-------|-------------|----------------------------------|------------|-------------------------------------------|
-
-
+| Producto de software | Propósito de uso en el proyecto | Actividad | Tipo de acceso / enlace |
+|---|---|---|---|
+| GitHub | Repositorio utilizado para almacenar y gestionar el código fuente de la aplicación web, además de facilitar el control de versiones y la colaboración entre los integrantes. | Software Development | [GitHub](https://github.com/) |
+| Jira | Herramienta utilizada para organizar, asignar y realizar el seguimiento de las tareas correspondientes a los Sprints del proyecto. | Project Management | [Jira](https://www.atlassian.com/) |
+| UXPressia | Herramienta utilizada para elaborar y organizar elementos relacionados con la experiencia del usuario, como personas y mapas de experiencia/journey maps. | Requirements Management / Product UX | [UXPressia](https://uxpressia.com/w/NxJgO) |
+| Miro | Plataforma colaborativa utilizada para organizar información, desarrollar actividades de ideación y trabajar visualmente de manera conjunta durante el proyecto. | Requirements Management / Collaboration | [Miro](https://miro.com/es/) |
+| Visual Studio | Entorno de desarrollo utilizado para escribir, editar y ejecutar el código fuente de la aplicación web. | Software Development | [Visual Studio](https://visualstudio.microsoft.com/es/) |
+| Figma | Herramienta utilizada para el diseño UX/UI de JouleTracker, incluyendo wireframes, mockups y prototipos de la aplicación. | Product UX/UI Design | [Figma](https://www.figma.com/) |
 
 
 ### 5.1.2. Source Code Management.
