@@ -103,6 +103,24 @@ La Landing Page de JouleTracker fue desplegada para permitir su visualización y
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+La evidencia del despliegue de la Landing Page durante el Sprint se mostrará a continuación, el despliegue se realizará en GitHub Pages.
+
+![](../images/deploy-steps/deploy-1.jpeg)
+
+Revisamos que el repositorio esté en público:
+
+![](../images/deploy-steps/deploy-2.jpeg)
+
+
+Nos dirigimos a la seccion de deploy, y selecionamos la rama main:
+
+![](../images/deploy-steps/deploy-3.jpeg)
+
+
+Luego de unos minutos, el deploy se realizara correctamente:
+
+![](../images/deploy-steps/deploy-4.jpeg)
+
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
