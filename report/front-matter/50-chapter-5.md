@@ -66,7 +66,55 @@ Los principales tipos de commit utilizados son:
 El flujo de trabajo seguido por los integrantes consiste principalmente en actualizar la información del repositorio remoto, cambiar a la rama correspondiente, realizar las modificaciones necesarias, registrar los archivos modificados, crear un commit descriptivo y finalmente enviar los cambios hacia la rama remota correspondiente.
 
 Este procedimiento permite mantener un historial organizado, identificar las contribuciones realizadas por cada integrante y reducir posibles conflictos durante la integración de los diferentes avances del proyecto.
+
 ### 5.1.3. Source Code Style Guide & Conventions.
+
+Durante el desarrollo de JouleTracker, Team Volta establece convenciones de código con el objetivo de mantener una estructura uniforme, legible y fácil de mantener entre los diferentes integrantes del equipo.
+
+Para el desarrollo de la Landing Page se utilizan principalmente HTML5, CSS y JavaScript, aplicando convenciones específicas para cada tecnología.
+
+#### HTML
+
+El código HTML utiliza etiquetas semánticas para representar correctamente la estructura y propósito de cada sección de la página.
+
+Entre las principales etiquetas utilizadas se encuentran:
+
+- `<header>` para la cabecera de la página.
+- `<nav>` para los elementos de navegación.
+- `<main>` para el contenido principal.
+- `<section>` para organizar las diferentes secciones.
+- `<article>` para representar contenido independiente.
+- `<button>` para elementos interactivos.
+- `<footer>` para información complementaria.
+
+Asimismo, se utilizan atributos de accesibilidad como:
+
+- `aria-label`
+- `aria-expanded`
+- `aria-controls`
+- `aria-hidden`
+
+Estos atributos permiten mejorar la accesibilidad y comprensión de los elementos interactivos de la aplicación.
+
+#### CSS
+
+Los estilos de JouleTracker se organizan mediante hojas de estilo externas. La Landing Page utiliza el archivo principal:
+
+`css/styles.css`
+
+Para mantener consistencia visual se utilizan variables CSS definidas mediante `:root`.
+
+Ejemplo:
+
+```css
+:root {
+  --primary: #214029;
+  --primary-100: #bed4c2;
+  --paper: #ffffff;
+  --radius: 14px;
+}
+```
+
 ### 5.1.4. Software Deployment Configuration.
 ## 5.2. Landing Page, Services & Applications Implementation.
 
@@ -89,8 +137,6 @@ Sprint Planning 1
 | Sprint 1 Goal | Nuestro enfoque en este sprint es desarrollar e implementar la Landing Page de JouleTracker, permitiendo que los visitantes conozcan la propuesta de valor de nuestra plataforma. La página presentará información sobre sus beneficios, funcionamiento y principales funcionalidades, además de facilitar el acceso al registro e inicio de sesión. Se considerará completado cuando las funcionalidades planificadas para la Landing Page se encuentren implementadas y disponibles para los usuarios. |
 | Sprint 1 Velocity | Límite de 32 SP |
 | Sum of Story Points | 32 SP |
-
-
 ### 5.2.1.2. Aspect Leaders and Collaborators
 
 | Team Member | GitHub username | Landing Page | UI & Responsive Design | Scripts and UX | SEO and Accessibility | Content and Assets |
