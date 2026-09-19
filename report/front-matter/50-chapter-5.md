@@ -245,6 +245,40 @@ Sprint Planning 1
 
 ### 5.2.1.3. Sprint Backlog 1.
 
+| US Id | US Title | Task Id | Task Title | Description | Estimation (Hours) | Assigned To | Status |
+|---|---|---|---|---|---:|---|---|
+| US-06 | Visualización de Landing Page | T01 | Crear estructura de la Landing Page | Construir la estructura principal de la página de inicio de JouleTracker, organizando las secciones principales de manera clara y ordenada. | 3 | Choquehuanca Vasquez, Alejandro Samir | Done |
+| US-06 | Visualización de Landing Page | T02 | Implementar diseño visual de la Landing Page | Aplicar estilos, tipografías, distribución y elementos visuales definidos para la página de inicio. | 3 | Matihues Quevedo, Mijail Alexander | Done |
+| US-07 | Consulta de beneficios de JouleTracker | T03 | Crear sección de beneficios | Implementar una sección que permita presentar los principales beneficios de utilizar JouleTracker. | 2 | Jara Espinoza, Miguel Angel | Done |
+| US-08 | Consulta del funcionamiento de JouleTracker | T04 | Crear sección de funcionamiento | Implementar una sección explicativa sobre el funcionamiento general de JouleTracker y su propuesta de valor. | 2 | Vidal Castro, Miguel Angel | Done |
+| US-09 | Consulta de funcionalidades principales | T05 | Crear sección de funcionalidades | Incorporar una sección para presentar las principales funcionalidades ofrecidas por JouleTracker. | 2 | Matihues Quevedo, Mijail Alexander | Done |
+| US-10 | Acceso a registro e inicio de sesión desde Landing Page | T06 | Implementar accesos de autenticación | Incorporar botones y enlaces que permitan al visitante acceder a las opciones de registro e inicio de sesión. | 2 | Choquehuanca Vasquez, Alejandro Samir | Done |
+| US-01 | Registro de usuario | T07 | Diseñar formulario de registro | Crear la interfaz del formulario para que los nuevos usuarios puedan ingresar sus datos personales y credenciales. | 3 | Jara Espinoza, Miguel Angel | Done |
+| US-01 | Registro de usuario | T08 | Implementar validaciones del formulario | Validar los campos obligatorios y controlar que la información ingresada cumpla con los formatos establecidos. | 2 | Jara Espinoza, Miguel Angel | Done |
+| US-01 | Registro de usuario | T09 | Integrar proceso de registro | Integrar la interfaz de registro con la lógica necesaria para permitir la creación de nuevas cuentas de usuario. | 3 | Vidal Castro, Miguel Angel | Done |
+| US-02 | Inicio de sesión | T10 | Diseñar formulario de inicio de sesión | Crear la interfaz para que los usuarios registrados puedan ingresar sus credenciales de acceso. | 2 | Jara Espinoza, Miguel Angel | Done |
+| US-02 | Inicio de sesión | T11 | Implementar validación de credenciales | Incorporar la validación de los datos ingresados durante el inicio de sesión. | 2 | Vidal Castro, Miguel Angel | Done |
+| US-02 | Inicio de sesión | T12 | Integrar proceso de autenticación | Integrar el formulario con la lógica de autenticación y control de acceso de los usuarios. | 3 | Vidal Castro, Miguel Angel | Done |
+| US-11 | Registro de sensor IoT | T13 | Diseñar formulario de registro de sensor | Crear la interfaz que permita al usuario ingresar la información necesaria para registrar un nuevo sensor IoT. | 2 | Matihues Quevedo, Mijail Alexander | Done |
+| US-11 | Registro de sensor IoT | T14 | Implementar validación de información del sensor | Validar los datos ingresados para garantizar que la información del sensor sea correcta y completa. | 2 | Matihues Quevedo, Mijail Alexander | Done |
+| US-11 | Registro de sensor IoT | T15 | Integrar registro de sensores | Integrar la interfaz y la lógica necesaria para permitir el registro de sensores dentro de la plataforma. | 3 | Choquehuanca Vasquez, Alejandro Samir | Done |
+| US-13 | Consulta del estado del sensor | T16 | Diseñar vista de estado del sensor | Crear una interfaz para mostrar el estado actual de los sensores registrados por el usuario. | 2 | Rodrigo Velasquez Velasquez | Done |
+| US-13 | Consulta del estado del sensor | T17 | Implementar indicadores de estado | Incorporar indicadores visuales que permitan identificar fácilmente el estado de cada sensor. | 2 | Rodrigo Velasquez Velasquez | Done |
+| US-13 | Consulta del estado del sensor | T18 | Integrar información del sensor | Integrar la información disponible de los sensores para mostrar su estado correspondiente en la plataforma. | 3 | Vidal Castro, Miguel Angel | Done |
+| US-16 | Visualización del Dashboard | T19 | Diseñar estructura del Dashboard | Crear la estructura principal del Dashboard para organizar la información relacionada con el consumo eléctrico. | 3 | Jara Espinoza, Miguel Angel | Done |
+| US-16 | Visualización del Dashboard | T20 | Implementar componentes del Dashboard | Incorporar tarjetas, indicadores y elementos visuales para presentar la información de consumo. | 3 | Matihues Quevedo, Mijail Alexander | Done |
+| US-16 | Visualización del Dashboard | T21 | Integrar información en el Dashboard | Integrar los diferentes componentes para presentar la información de manera centralizada al usuario. | 3 | Choquehuanca Vasquez, Alejandro Samir | Done |
+| US-17 | Visualización del consumo actual | T22 | Crear componente de consumo actual | Implementar el componente encargado de mostrar el consumo eléctrico actual del usuario. | 2 | Matihues Quevedo, Mijail Alexander | Done |
+| US-17 | Visualización del consumo actual | T23 | Diseñar indicador de consumo | Diseñar el indicador visual que permita identificar rápidamente el nivel de consumo eléctrico actual. | 2 | Rodrigo Velasquez Velasquez | Done |
+| US-17 | Visualización del consumo actual | T24 | Integrar consumo actual al Dashboard | Incorporar el componente de consumo actual dentro del Dashboard principal. | 2 | Jara Espinoza, Miguel Angel | Done |
+| US-36 | Consulta de última lectura | T25 | Diseñar componente de última lectura | Crear el componente visual destinado a mostrar la última lectura registrada por un sensor. | 2 | Rodrigo Velasquez Velasquez | Done |
+| US-36 | Consulta de última lectura | T26 | Implementar visualización de última lectura | Mostrar de manera clara la información correspondiente a la última lectura disponible. | 2 | Matihues Quevedo, Mijail Alexander | Done |
+| US-36 | Consulta de última lectura | T27 | Integrar última lectura al Dashboard | Incorporar la información de la última lectura dentro de la vista principal de monitoreo. | 2 | Choquehuanca Vasquez, Alejandro Samir | Done |
+| US-06 | Visualización de Landing Page | T28 | Adaptar Landing Page a diferentes resoluciones | Ajustar la interfaz para garantizar una correcta visualización en computadoras, tablets y dispositivos móviles. | 2 | Rodrigo Velasquez Velasquez | Done |
+| US-16 | Visualización del Dashboard | T29 | Adaptar Dashboard a diferentes resoluciones | Optimizar la distribución de los elementos del Dashboard para diferentes tamaños de pantalla. | 2 | Rodrigo Velasquez Velasquez | Done |
+| US-02 | Inicio de sesión | T30 | Validar navegación después del inicio de sesión | Verificar que el usuario sea dirigido correctamente a la plataforma después de completar el proceso de autenticación. | 1 | Jara Espinoza, Miguel Angel | Done |
+
+
 ### 5.2.1.4. Development Evidence for Sprint Review.
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
