@@ -326,7 +326,7 @@ Repositorio de Web Services
 
 El código fuente correspondiente a los servicios web del proyecto se encuentra en el siguiente repositorio:
 
-[JouleTracker Repository:](https://github.com/JouleTracker/JouleTracker)
+[JouleTracker Repositorio](https://github.com/JouleTracker/JouleTracker)
 
 
 | Endpoint | Action | HTTP Verb | Parameters | Response Example | Documentation URL |
