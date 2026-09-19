@@ -26,6 +26,7 @@ Sprint Planning 1
 | Sprint 1 Velocity | Límite de 32 SP |
 | Sum of Story Points | 32 SP |
 
+
 ### 5.2.1.2. Aspect Leaders and Collaborators
 
 | Team Member | GitHub username | Landing Page | UI & Responsive Design | Scripts and UX | SEO and Accessibility | Content and Assets |
@@ -42,6 +43,7 @@ Sprint Planning 1
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
 En esta sección se presentan las evidencias de ejecución correspondientes al Sprint 1 de JouleTracker. Las capturas muestran la implementación de la Landing Page y las principales funcionalidades desarrolladas durante el sprint, incluyendo la presentación de la propuesta de valor, los beneficios de la plataforma, su funcionamiento, las funcionalidades principales y el acceso al registro e inicio de sesión.
+
 
 #### Landing Page de JouleTracker
 
