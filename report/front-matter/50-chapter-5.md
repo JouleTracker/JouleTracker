@@ -309,6 +309,33 @@ La Landing Page de JouleTracker fue desplegada para permitir su visualización y
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
+Durante el **Sprint 1** se realizó la documentación de los servicios web relacionados con las funcionalidades desarrolladas para el sistema **JouleTracker**.
+
+La documentación permite identificar:
+
+- Los endpoints implementados.
+- Las acciones soportadas.
+- Los parámetros necesarios.
+- Las respuestas esperadas para cada servicio.
+
+Asimismo, se utilizaron **datos de prueba** para verificar la interacción con los servicios documentados.
+
+## Repositorio de Web Services
+
+El código fuente correspondiente a los servicios web del proyecto se encuentra en el siguiente repositorio:
+
+[Repository URL:](https://github.com/JouleTracker/JouleTracker)
+
+
+| Endpoint | Action | HTTP Verb | Parameters | Response Example | Documentation URL |
+|---|---|---|---|---|---|
+| `/api/auth/register` | Registrar usuario | POST | Datos del usuario: nombre, correo y contraseña | Respuesta indicando el registro exitoso del usuario | URL de documentación |
+| `/api/auth/login` | Iniciar sesión | POST | Correo y contraseña | Respuesta con la información necesaria para iniciar sesión | URL de documentación |
+| `/api/sensors` | Registrar sensor | POST | Información del sensor a registrar | Respuesta con los datos del sensor registrado | URL de documentación |
+| `/api/sensors/{sensorId}/status` | Consultar estado del sensor | GET | `sensorId` | Respuesta con el estado actual del sensor | URL de documentación |
+| `/api/dashboard/summary` | Consultar resumen del Dashboard | GET | Datos de autenticación del usuario | Respuesta con el resumen del consumo energético | URL de documentación |
+| `/api/readings/latest?sensorId={sensorId}` | Consultar última lectura | GET | `sensorId` | Respuesta con la última lectura registrada del sensor | URL de documentación |
+
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 La evidencia del despliegue de la Landing Page durante el Sprint se mostrará a continuación, el despliegue se realizará en GitHub Pages.
 
