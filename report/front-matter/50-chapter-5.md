@@ -116,6 +116,68 @@ Ejemplo:
 ```
 
 ### 5.1.4. Software Deployment Configuration.
+La configuración de despliegue de JouleTracker permite publicar las diferentes soluciones desarrolladas por Team Volta para que puedan ser visualizadas y evaluadas durante los Sprint Reviews.
+
+Durante el Sprint 1, la Landing Page de JouleTracker fue desplegada utilizando **GitHub Pages**, servicio que permite publicar contenido web estático directamente desde un repositorio de GitHub.
+
+La Landing Page está desarrollada utilizando HTML, CSS y JavaScript, por lo que puede ser desplegada directamente sin necesidad de configurar un servidor de aplicaciones adicional.
+
+El repositorio utilizado para la Landing Page es:
+
+[JouleTracker Landing Page Repository](https://github.com/JouleTracker/JouleTracker-LandingPage)
+
+La versión desplegada se encuentra disponible en:
+
+[JouleTracker Landing Page](https://jouletracker.github.io/JouleTracker-LandingPage/)
+
+#### Configuración del despliegue
+
+Para realizar el despliegue mediante GitHub Pages se sigue el siguiente procedimiento:
+
+1. Los integrantes desarrollan y validan los cambios correspondientes en el repositorio de la Landing Page.
+2. Los cambios aprobados son integrados en la rama principal `main`.
+3. Se accede a la configuración del repositorio en GitHub.
+4. En la sección **Settings > Pages**, se configura GitHub Pages como mecanismo de despliegue.
+5. Se selecciona la rama `main` como fuente del contenido publicado.
+6. GitHub procesa automáticamente los archivos HTML, CSS, JavaScript, imágenes y demás recursos almacenados en el repositorio.
+7. Una vez finalizado el proceso, la versión actualizada queda disponible mediante la URL pública de GitHub Pages.
+
+El flujo general de despliegue puede representarse de la siguiente manera:
+
+`Development → Git Repository → main → GitHub Pages → Production`
+
+#### Estructura utilizada para el despliegue
+
+La Landing Page mantiene una estructura organizada que permite que GitHub Pages interprete correctamente los recursos necesarios para mostrar el sitio web.
+
+Entre los principales recursos se encuentran:
+
+| Recurso | Propósito |
+|---|---|
+| `index.html` | Contiene la estructura principal de la Landing Page. |
+| `css/styles.css` | Contiene los estilos visuales y responsive de la interfaz. |
+| Archivos JavaScript | Gestionan el comportamiento dinámico e interacción de la página. |
+| `images/` | Contiene los recursos gráficos utilizados en la Landing Page. |
+| `favicon.svg` | Representa el ícono utilizado por el sitio web. |
+
+#### Validación posterior al despliegue
+
+Luego de realizar el despliegue, el equipo verifica que la aplicación pueda ser accedida correctamente desde la URL pública.
+
+La validación incluye:
+
+- Correcta visualización de la página principal.
+- Funcionamiento de la navegación entre secciones.
+- Carga correcta de imágenes y recursos.
+- Funcionamiento de los elementos desarrollados con JavaScript.
+- Correcta visualización en dispositivos móviles.
+- Validación del diseño responsive.
+- Funcionamiento del cambio de idioma.
+- Acceso correcto a la sección de contacto.
+- Verificación de enlaces internos y externos.
+
+Este procedimiento permite que JouleTracker mantenga una versión pública y accesible de la Landing Page durante las diferentes etapas del proyecto, facilitando su revisión y validación durante los Sprint Reviews.
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 
 ### 5.2.1. Sprint 1
