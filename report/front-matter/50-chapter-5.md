@@ -309,7 +309,9 @@ La Landing Page de JouleTracker fue desplegada para permitir su visualización y
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
-Durante el **Sprint 1** se realizó la documentación de los servicios web relacionados con las funcionalidades desarrolladas para el sistema **JouleTracker**.
+Durante el **Sprint 1** se realizó la documentación de los servicios web relacionados con las funcionalidades desarrolladas para el sistema 
+
+**JouleTracker**.
 
 La documentación permite identificar:
 
@@ -317,14 +319,14 @@ La documentación permite identificar:
 - Las acciones soportadas.
 - Los parámetros necesarios.
 - Las respuestas esperadas para cada servicio.
-
+- 
 Asimismo, se utilizaron **datos de prueba** para verificar la interacción con los servicios documentados.
 
-## Repositorio de Web Services
+Repositorio de Web Services
 
 El código fuente correspondiente a los servicios web del proyecto se encuentra en el siguiente repositorio:
 
-[Repository URL:](https://github.com/JouleTracker/JouleTracker)
+[JouleTracker Repository:](https://github.com/JouleTracker/JouleTracker)
 
 
 | Endpoint | Action | HTTP Verb | Parameters | Response Example | Documentation URL |
