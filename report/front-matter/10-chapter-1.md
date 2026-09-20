@@ -111,7 +111,7 @@ Hypothesis Statement 01
 
 **Creemos** que integrar sensores IoT automatizados para la ingesta de datos logrará que los usuarios confíen en la precisión y continuidad de la plataforma.
 
-**Sabremos** que hemos tenido éxisto
+**Sabremos** que hemos tenido éxito
 
 **Cuando** al menos el 90% de los sensores vinculados mantenga una transmisión continua sin caídas reportadas por más de 7 días durante los primeros meses de uso.
 
