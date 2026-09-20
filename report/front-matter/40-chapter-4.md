@@ -175,6 +175,52 @@ Estas animaciones tienen como objetivo mejorar la experiencia de usuario y propo
 
 ---
 
+## 4.1.3. Mobile Style Guidelines
+Las pautas de estilo para dispositivos móviles de JouleTracker tienen como objetivo principal garantizar que los usuarios (jefes de hogar y administradores de pequeños negocios) puedan consultar su consumo eléctrico en tiempo real, visualizar el dashboard y reaccionar a las alertas preventivas de manera rápida y cómoda desde sus smartphones, priorizando la interacción táctil y la lectura a simple vista.
+
+- Estructura general y Navegación
+
+La experiencia móvil de JouleTracker está diseñada para interacciones breves y operativas.
+
+Pantallas en una sola columna: Todos los gráficos de consumo y tablas de dispositivos se reorganizan verticalmente para evitar el desplazamiento horizontal (scroll horizontal).
+
+Header y Bottom Navigation: La barra superior (Header) se mantiene compacta, mostrando únicamente el logotipo y las alertas críticas (ícono de campana). La navegación principal (Dashboard, Dispositivos, Perfil) se traslada a una barra de navegación inferior (Bottom Navigation Bar) fija, permitiendo que el usuario cambie de módulo fácilmente usando el pulgar.
+
+Tarjetas de resumen (Cards): Los indicadores de consumo en tiempo real, proyecciones monetarias y alertas se presentan en tarjetas independientes con bordes redondeados y fondo blanco (#FFFFFF) o verde muy claro (#DCEDD5) sobre el fondo general, facilitando la separación visual.
+
+- Componentes básicos y Touch UI
+
+Los elementos interactivos están optimizados para la interacción táctil, evitando toques accidentales (fat-finger errors).
+
+Zonas de interacción (Touch Targets): Todos los botones, enlaces y controles interactivos tienen un tamaño mínimo de 44x44 píxeles (o 48x48 dp), garantizando que sean fáciles de presionar.
+
+Botones primarios: Ocupan el 100% del ancho del contenedor en pantallas móviles (con márgenes laterales), utilizando el verde oscuro (#214029) con texto blanco (#FFFFFF).
+
+Botones secundarios: Mantienen el formato ancho completo pero utilizan fondo transparente con borde verde oscuro o fondo gris claro, destacando acciones menos críticas como "Cancelar" o "Ver historial".
+
+Inputs de formulario: Los campos de texto (ej. inicio de sesión, configuración de umbrales) ocupan el ancho total de la pantalla, con un padding interno amplio y etiquetas (labels) situadas encima del campo, no a los lados.
+
+- Tipografía en Mobile
+
+Se mantiene el uso de las fuentes Inter y Roboto, pero se ajustan los tamaños y el interlineado para garantizar la legibilidad en pantallas pequeñas donde el dispositivo está más cerca del rostro del usuario.
+
+Títulos principales (H1 / Inter): 20 px a 22 px (Bold). Utilizado para los títulos de cada sección (ej. "Tu Dashboard").
+
+Subtítulos de tarjetas (H2 / Inter): 16 px a 18 px (SemiBold). Utilizado para nombrar métricas (ej. "Consumo Actual").
+
+Texto general y descripciones (Roboto): 14 px a 16 px (Regular). Utilizado para las recomendaciones de ahorro o descripciones de alertas.
+
+Texto secundario o de apoyo (Roboto): 12 px (Regular). Utilizado para fechas, horas de la última lectura IoT o etiquetas pequeñas.
+
+- Visualización de Datos y Alertas (Data Viz)
+
+- Dado que JouleTracker es una plataforma analítica basada en telemetría:
+
+Gráficos simplificados: Los gráficos de líneas o barras (para el historial comparativo) ocultan las leyendas extensas o ejes complejos por defecto. El usuario puede tocar un punto específico del gráfico para ver el valor exacto (Tooltips adaptados a mobile).
+
+Indicadores de estado (Tags): Se utilizan pastillas (pill-tags) de colores para identificar rápidamente el estado del consumo. Por ejemplo, texto verde oscuro sobre fondo verde claro (#BED4C2) para consumo normal, o el morado de acento (#4F378A) para destacar fugas o umbrales excedidos de forma que llamen la atención inmediatamente.
+
+
 ## 4.2. Information Architecture
 
 La arquitectura de información de JouleTracker organiza los contenidos y funcionalidades de la plataforma de manera que los usuarios puedan acceder fácilmente a la información relacionada con el consumo energético.
