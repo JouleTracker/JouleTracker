@@ -366,12 +366,12 @@ El código fuente correspondiente a los servicios web del proyecto se encuentra 
 
 | Endpoint | Action | HTTP Verb | Parameters | Response Example | Documentation URL |
 |---|---|---|---|---|---|
-| `/api/auth/register` | Registrar usuario | POST | Datos del usuario: nombre, correo y contraseña | Respuesta indicando el registro exitoso del usuario | URL de documentación |
-| `/api/auth/login` | Iniciar sesión | POST | Correo y contraseña | Respuesta con la información necesaria para iniciar sesión | URL de documentación |
-| `/api/sensors` | Registrar sensor | POST | Información del sensor a registrar | Respuesta con los datos del sensor registrado | URL de documentación |
-| `/api/sensors/{sensorId}/status` | Consultar estado del sensor | GET | `sensorId` | Respuesta con el estado actual del sensor | URL de documentación |
-| `/api/dashboard/summary` | Consultar resumen del Dashboard | GET | Datos de autenticación del usuario | Respuesta con el resumen del consumo energético | URL de documentación |
-| `/api/readings/latest?sensorId={sensorId}` | Consultar última lectura | GET | `sensorId` | Respuesta con la última lectura registrada del sensor | URL de documentación |
+| `/api/auth/register` | Registrar usuario | POST | Datos del usuario: nombre, correo y contraseña | Respuesta indicando el registro exitoso del usuario | [URL de documentación](https://jouletracker.github.io/JouleTracker-LandingPage/) |
+| `/api/auth/login` | Iniciar sesión | POST | Correo y contraseña | Respuesta con la información necesaria para iniciar sesión | [URL de documentación](https://jouletracker.github.io/JouleTracker-LandingPage/) |
+| `/api/sensors` | Registrar sensor | POST | Información del sensor a registrar | Respuesta con los datos del sensor registrado | [URL de documentación](https://jouletracker.github.io/JouleTracker-LandingPage/) |
+| `/api/sensors/{sensorId}/status` | Consultar estado del sensor | GET | `sensorId` | Respuesta con el estado actual del sensor | [URL de documentación](https://jouletracker.github.io/JouleTracker-LandingPage/) |
+| `/api/dashboard/summary` | Consultar resumen del Dashboard | GET | Datos de autenticación del usuario | Respuesta con el resumen del consumo energético | [URL de documentación](https://jouletracker.github.io/JouleTracker-LandingPage/) |
+| `/api/readings/latest?sensorId={sensorId}` | Consultar última lectura | GET | `sensorId` | Respuesta con la última lectura registrada del sensor | [URL de documentación](https://jouletracker.github.io/JouleTracker-LandingPage/) |
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 La evidencia del despliegue de la Landing Page durante el Sprint se mostrará a continuación, el despliegue se realizará en GitHub Pages.
