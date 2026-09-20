@@ -130,16 +130,5 @@
 | 12.6 | 19/09/2026 | Velasquez Velasquez Rodrigo | Sprint 1 Overview |
 | 12.7 | 19/09/2026 | Velasquez Velasquez Rodrigo | Team Collaboration Insights during Sprint |
 | 12.8 | 19/09/2026 | Matihues Quevedo Mijail Alexander | Actualización del Capítulo V |
-| 12.9 | 19/09/2026 | Matihues Quevedo Mijail Alexander | Actualización del Capítulo V |
-| 13.0 | 19/09/2026 | Matihues Quevedo Mijail Alexander | Actualización del Capítulo V |
-| 13.1 | 19/09/2026 | Matihues Quevedo Mijail Alexander | Actualización del Capítulo V |
-| 13.2 | 19/09/2026 | Matihues Quevedo Mijail Alexander | Actualización del Capítulo V |
-| 13.3 | 19/09/2026 | Matihues Quevedo Mijail Alexander | Actualización del Capítulo V |
-| 13.4 | 19/09/2026 | Matihues Quevedo Mijail Alexander | Actualización del Capítulo V |
-| 13.5 | 19/09/2026 | Matihues Quevedo Mijail Alexander | Actualización del Capítulo V |
-| 13.6 | 19/09/2026 | Matihues Quevedo Mijail Alexander | Actualización del Capítulo V |
-| 13.7 | 19/09/2026 | Matihues Quevedo Mijail Alexander | Actualización del Capítulo V |
-| 13.8 | 19/09/2026 | Matihues Quevedo Mijail Alexander | Actualización del Capítulo V |
-| 13.9 | 19/09/2026 | Matihues Quevedo Mijail Alexander | Actualización del Capítulo V |
-| 14.0 | 19/09/2026 | Matihues Quevedo Mijail Alexander | Actualización del Capítulo V |
+
 | 14.1 | 19/09/2026 | Matihues Quevedo Mijail Alexander | Actualización del Capítulo V |
