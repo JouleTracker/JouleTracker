@@ -281,6 +281,25 @@ Sprint Planning 1
 
 ### 5.2.1.4. Development Evidence for Sprint Review.
 
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|---|---|---|---|---|---|
+| JouleTracker | main | 10.1 | Web Applications Prototyping | Desarrollo del prototipado de las aplicaciones web de JouleTracker. | 14 de Septiembre, 2026 |
+| JouleTracker | main | 10.2 | Actualización del Capítulo V | Actualización de los contenidos correspondientes al Capítulo V. | 17 de Septiembre, 2026 |
+| JouleTracker | main | 10.3 | Actualización del Capítulo V | Actualización de los contenidos correspondientes al Capítulo V. | 17 de Septiembre, 2026 |
+| JouleTracker | main | 10.4 | Actualización del Capítulo V | Actualización de los contenidos correspondientes al Capítulo V. | 17 de Septiembre, 2026 |
+| JouleTracker | main | 10.5 | Actualización del Capítulo V | Actualización de los contenidos correspondientes al Capítulo V. | 17 de Septiembre, 2026 |
+| JouleTracker | main | 10.6 | Actualización del Capítulo V | Actualización de los contenidos correspondientes al Capítulo V. | 17 de Septiembre, 2026 |
+| JouleTracker | main | 11.7 | Sprint Planning 1, Aspect Leaders y Execution Evidence | Registro de la planificación del Sprint 1, responsables y evidencias de ejecución. | 18 de Septiembre, 2026 |
+| JouleTracker | main | 11.8 | Actualización de Execution Evidence for Sprint Review | Actualización de las evidencias de ejecución correspondientes al Sprint Review. | 18 de Septiembre, 2026 |
+| JouleTracker | main | 12.0 | Software Deployment Evidence for Sprint Review | Registro de evidencias relacionadas con el despliegue del software para el Sprint Review. | 18 de Septiembre, 2026 |
+| JouleTracker | main | 12.2 | Software Configuration Management | Configuración de la gestión de configuración del software. | 19 de Septiembre, 2026 |
+| JouleTracker | main | 12.3 | Source Code Management | Documentación de la gestión del código fuente. | 19 de Septiembre, 2026 |
+| JouleTracker | main | 12.4 | Source Code Style Guide & Conventions | Definición de la guía de estilos y convenciones para el código fuente. | 19 de Septiembre, 2026 |
+| JouleTracker | main | 12.5 | Software Deployment Configuration | Configuración relacionada con el despliegue del software. | 19 de Septiembre, 2026 |
+| JouleTracker | main | 12.6 | Sprint 1 Overview | Elaboración del resumen general correspondiente al Sprint 1. | 19 de Septiembre, 2026 |
+| JouleTracker | main | 12.7 | Team Collaboration Insights during Sprint | Registro de aspectos relacionados con la colaboración del equipo durante el Sprint. | 19 de Septiembre, 2026 |
+| JouleTracker | main | 12.8 | Actualización del Capítulo V | Actualización de los contenidos correspondientes al Capítulo V. | 19 de Septiembre, 2026 |
+
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
 En esta sección se presentan las evidencias de ejecución correspondientes al Sprint 1 de JouleTracker. Las capturas muestran la implementación de la Landing Page y las principales funcionalidades desarrolladas durante el sprint, incluyendo la presentación de la propuesta de valor, los beneficios de la plataforma, su funcionamiento, las funcionalidades principales y el acceso al registro e inicio de sesión.
