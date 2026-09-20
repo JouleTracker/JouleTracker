@@ -244,61 +244,29 @@ Sprint Planning 1
 | Rodrigo Velasquez Velasquez | Rodrigov233 | C | C | C | C | L |
 
 ### 5.2.1.3. Sprint Backlog 1.
-
-| US Id | US Title | Task Id | Task Title | Description | Estimation (Hours) | Assigned To | Status |
-|---|---|---|---|---|---:|---|---|
-| US-06 | Visualización de Landing Page | T01 | Crear estructura de la Landing Page | Construir la estructura principal de la página de inicio de JouleTracker, organizando las secciones principales de manera clara y ordenada. | 3 | Choquehuanca Vasquez, Alejandro Samir | Done |
-| US-06 | Visualización de Landing Page | T02 | Implementar diseño visual de la Landing Page | Aplicar estilos, tipografías, distribución y elementos visuales definidos para la página de inicio. | 3 | Matihues Quevedo, Mijail Alexander | Done |
-| US-07 | Consulta de beneficios de JouleTracker | T03 | Crear sección de beneficios | Implementar una sección que permita presentar los principales beneficios de utilizar JouleTracker. | 2 | Jara Espinoza, Miguel Angel | Done |
-| US-08 | Consulta del funcionamiento de JouleTracker | T04 | Crear sección de funcionamiento | Implementar una sección explicativa sobre el funcionamiento general de JouleTracker y su propuesta de valor. | 2 | Vidal Castro, Miguel Angel | Done |
-| US-09 | Consulta de funcionalidades principales | T05 | Crear sección de funcionalidades | Incorporar una sección para presentar las principales funcionalidades ofrecidas por JouleTracker. | 2 | Matihues Quevedo, Mijail Alexander | Done |
-| US-10 | Acceso a registro e inicio de sesión desde Landing Page | T06 | Implementar accesos de autenticación | Incorporar botones y enlaces que permitan al visitante acceder a las opciones de registro e inicio de sesión. | 2 | Choquehuanca Vasquez, Alejandro Samir | Done |
-| US-01 | Registro de usuario | T07 | Diseñar formulario de registro | Crear la interfaz del formulario para que los nuevos usuarios puedan ingresar sus datos personales y credenciales. | 3 | Jara Espinoza, Miguel Angel | Done |
-| US-01 | Registro de usuario | T08 | Implementar validaciones del formulario | Validar los campos obligatorios y controlar que la información ingresada cumpla con los formatos establecidos. | 2 | Jara Espinoza, Miguel Angel | Done |
-| US-01 | Registro de usuario | T09 | Integrar proceso de registro | Integrar la interfaz de registro con la lógica necesaria para permitir la creación de nuevas cuentas de usuario. | 3 | Vidal Castro, Miguel Angel | Done |
-| US-02 | Inicio de sesión | T10 | Diseñar formulario de inicio de sesión | Crear la interfaz para que los usuarios registrados puedan ingresar sus credenciales de acceso. | 2 | Jara Espinoza, Miguel Angel | Done |
-| US-02 | Inicio de sesión | T11 | Implementar validación de credenciales | Incorporar la validación de los datos ingresados durante el inicio de sesión. | 2 | Vidal Castro, Miguel Angel | Done |
-| US-02 | Inicio de sesión | T12 | Integrar proceso de autenticación | Integrar el formulario con la lógica de autenticación y control de acceso de los usuarios. | 3 | Vidal Castro, Miguel Angel | Done |
-| US-11 | Registro de sensor IoT | T13 | Diseñar formulario de registro de sensor | Crear la interfaz que permita al usuario ingresar la información necesaria para registrar un nuevo sensor IoT. | 2 | Matihues Quevedo, Mijail Alexander | Done |
-| US-11 | Registro de sensor IoT | T14 | Implementar validación de información del sensor | Validar los datos ingresados para garantizar que la información del sensor sea correcta y completa. | 2 | Matihues Quevedo, Mijail Alexander | Done |
-| US-11 | Registro de sensor IoT | T15 | Integrar registro de sensores | Integrar la interfaz y la lógica necesaria para permitir el registro de sensores dentro de la plataforma. | 3 | Choquehuanca Vasquez, Alejandro Samir | Done |
-| US-13 | Consulta del estado del sensor | T16 | Diseñar vista de estado del sensor | Crear una interfaz para mostrar el estado actual de los sensores registrados por el usuario. | 2 | Rodrigo Velasquez Velasquez | Done |
-| US-13 | Consulta del estado del sensor | T17 | Implementar indicadores de estado | Incorporar indicadores visuales que permitan identificar fácilmente el estado de cada sensor. | 2 | Rodrigo Velasquez Velasquez | Done |
-| US-13 | Consulta del estado del sensor | T18 | Integrar información del sensor | Integrar la información disponible de los sensores para mostrar su estado correspondiente en la plataforma. | 3 | Vidal Castro, Miguel Angel | Done |
-| US-16 | Visualización del Dashboard | T19 | Diseñar estructura del Dashboard | Crear la estructura principal del Dashboard para organizar la información relacionada con el consumo eléctrico. | 3 | Jara Espinoza, Miguel Angel | Done |
-| US-16 | Visualización del Dashboard | T20 | Implementar componentes del Dashboard | Incorporar tarjetas, indicadores y elementos visuales para presentar la información de consumo. | 3 | Matihues Quevedo, Mijail Alexander | Done |
-| US-16 | Visualización del Dashboard | T21 | Integrar información en el Dashboard | Integrar los diferentes componentes para presentar la información de manera centralizada al usuario. | 3 | Choquehuanca Vasquez, Alejandro Samir | Done |
-| US-17 | Visualización del consumo actual | T22 | Crear componente de consumo actual | Implementar el componente encargado de mostrar el consumo eléctrico actual del usuario. | 2 | Matihues Quevedo, Mijail Alexander | Done |
-| US-17 | Visualización del consumo actual | T23 | Diseñar indicador de consumo | Diseñar el indicador visual que permita identificar rápidamente el nivel de consumo eléctrico actual. | 2 | Rodrigo Velasquez Velasquez | Done |
-| US-17 | Visualización del consumo actual | T24 | Integrar consumo actual al Dashboard | Incorporar el componente de consumo actual dentro del Dashboard principal. | 2 | Jara Espinoza, Miguel Angel | Done |
-| US-36 | Consulta de última lectura | T25 | Diseñar componente de última lectura | Crear el componente visual destinado a mostrar la última lectura registrada por un sensor. | 2 | Rodrigo Velasquez Velasquez | Done |
-| US-36 | Consulta de última lectura | T26 | Implementar visualización de última lectura | Mostrar de manera clara la información correspondiente a la última lectura disponible. | 2 | Matihues Quevedo, Mijail Alexander | Done |
-| US-36 | Consulta de última lectura | T27 | Integrar última lectura al Dashboard | Incorporar la información de la última lectura dentro de la vista principal de monitoreo. | 2 | Choquehuanca Vasquez, Alejandro Samir | Done |
-| US-06 | Visualización de Landing Page | T28 | Adaptar Landing Page a diferentes resoluciones | Ajustar la interfaz para garantizar una correcta visualización en computadoras, tablets y dispositivos móviles. | 2 | Rodrigo Velasquez Velasquez | Done |
-| US-16 | Visualización del Dashboard | T29 | Adaptar Dashboard a diferentes resoluciones | Optimizar la distribución de los elementos del Dashboard para diferentes tamaños de pantalla. | 2 | Rodrigo Velasquez Velasquez | Done |
-| US-02 | Inicio de sesión | T30 | Validar navegación después del inicio de sesión | Verificar que el usuario sea dirigido correctamente a la plataforma después de completar el proceso de autenticación. | 1 | Jara Espinoza, Miguel Angel | Done |
-
+| US Id | US Title                               | Task Id | Task Title                                 | Description                                                                                  | Estimation (Hours) | Assigned To                           | Status |
+|-------|----------------------------------------|---------|--------------------------------------------|----------------------------------------------------------------------------------------------|--------------------|---------------------------------------|--------|
+| US-06 | Visualización de Landing Page          | T01     | Crear estructura HTML base                 | Construir la estructura semántica principal (header, main, footer) de la Landing Page.       | 3                  | Choquehuanca Vasquez, Alejandro Samir | Done   |
+| US-06 | Visualización de Landing Page          | T02     | Implementar hoja de estilos global         | Aplicar variables CSS, tipografías y diseño Mobile First para la estructura base.            | 3                  | Matihues Quevedo, Mijail Alexander    | Done   |
+| US-07 | Consulta de beneficios de JouleTracker | T03     | Maquetar sección de beneficios             | Implementar la grilla visual para destacar el ahorro energético y el monitoreo preventivo.   | 2                  | Jara Espinoza, Miguel Angel           | Done   |
+| US-08 | Consulta del funcionamiento            | T04     | Maquetar sección de cómo funciona          | Estructurar los pasos explicativos sobre la conexión de sensores IoT y la visualización.     | 2                  | Vidal Castro, Miguel Angel            | Done   |
+| US-09 | Consulta de funcionalidades            | T05     | Integrar tarjetas de funcionalidades       | Desarrollar los componentes visuales para el historial, alertas y proyecciones.              | 2                  | Matihues Quevedo, Mijail Alexander    | Done   |
+| US-39 | Soluciones para hogares y negocios     | T06     | Crear sección de segmentación              | Diseñar la vista que diferencia los beneficios para el jefe de hogar y la MYPE.              | 3                  | Rodrigo Velasquez Velasquez           | Done   |
+| US-10 | Acceso a registro e inicio de sesión   | T07     | Configurar barra de navegación y CTAs      | Incorporar los botones de "Iniciar Sesión" y "Registrarse" en el header vinculados a anclas. | 2                  | Choquehuanca Vasquez, Alejandro Samir | Done   |
+| US-06 | Visualización de Landing Page          | T08     | Implementar script de internacionalización | Añadir lógica en JavaScript Vanilla para alternar textos entre Español e Inglés.             | 3                  | Vidal Castro, Miguel Angel            | Done   |
+| US-06 | Visualización de Landing Page          | T09     | Despliegue en GitHub Pages                 | Configurar el repositorio público y activar el entorno de GitHub Pages para producción.      | 1                  | Jara Espinoza, Miguel Angel           | Done   |
 
 ### 5.2.1.4. Development Evidence for Sprint Review.
 
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
-|---|---|---|---|---|---|
-| JouleTracker | main | 10.1 | Web Applications Prototyping | Desarrollo del prototipado de las aplicaciones web de JouleTracker. | 14 de Septiembre, 2026 |
-| JouleTracker | main | 10.2 | Actualización del Capítulo V | Actualización de los contenidos correspondientes al Capítulo V. | 17 de Septiembre, 2026 |
-| JouleTracker | main | 10.3 | Actualización del Capítulo V | Actualización de los contenidos correspondientes al Capítulo V. | 17 de Septiembre, 2026 |
-| JouleTracker | main | 10.4 | Actualización del Capítulo V | Actualización de los contenidos correspondientes al Capítulo V. | 17 de Septiembre, 2026 |
-| JouleTracker | main | 10.5 | Actualización del Capítulo V | Actualización de los contenidos correspondientes al Capítulo V. | 17 de Septiembre, 2026 |
-| JouleTracker | main | 10.6 | Actualización del Capítulo V | Actualización de los contenidos correspondientes al Capítulo V. | 17 de Septiembre, 2026 |
-| JouleTracker | main | 11.7 | Sprint Planning 1, Aspect Leaders y Execution Evidence | Registro de la planificación del Sprint 1, responsables y evidencias de ejecución. | 18 de Septiembre, 2026 |
-| JouleTracker | main | 11.8 | Actualización de Execution Evidence for Sprint Review | Actualización de las evidencias de ejecución correspondientes al Sprint Review. | 18 de Septiembre, 2026 |
-| JouleTracker | main | 12.0 | Software Deployment Evidence for Sprint Review | Registro de evidencias relacionadas con el despliegue del software para el Sprint Review. | 18 de Septiembre, 2026 |
-| JouleTracker | main | 12.2 | Software Configuration Management | Configuración de la gestión de configuración del software. | 19 de Septiembre, 2026 |
-| JouleTracker | main | 12.3 | Source Code Management | Documentación de la gestión del código fuente. | 19 de Septiembre, 2026 |
-| JouleTracker | main | 12.4 | Source Code Style Guide & Conventions | Definición de la guía de estilos y convenciones para el código fuente. | 19 de Septiembre, 2026 |
-| JouleTracker | main | 12.5 | Software Deployment Configuration | Configuración relacionada con el despliegue del software. | 19 de Septiembre, 2026 |
-| JouleTracker | main | 12.6 | Sprint 1 Overview | Elaboración del resumen general correspondiente al Sprint 1. | 19 de Septiembre, 2026 |
-| JouleTracker | main | 12.7 | Team Collaboration Insights during Sprint | Registro de aspectos relacionados con la colaboración del equipo durante el Sprint. | 19 de Septiembre, 2026 |
-| JouleTracker | main | 12.8 | Actualización del Capítulo V | Actualización de los contenidos correspondientes al Capítulo V. | 19 de Septiembre, 2026 |
+| Repository               | Branch        | Commit Id | Commit Message                                       | Commit Message Body                                                        | Committed on (Date) |
+|--------------------------|---------------|-----------|------------------------------------------------------|----------------------------------------------------------------------------|---------------------|
+| JouleTracker-LandingPage | develop       | e4a7b1c   | feat: setup initial HTML structure and CSS variables | Creación del index.html y styles.css con colores corporativos.             | 2026-09-19          |
+| JouleTracker-LandingPage | feature/US-06 | 8f2d3a1   | feat: add responsive navbar and hero section         | Implementación del menú de navegación y vista principal con media queries. | 2026-09-20          |
+| JouleTracker-LandingPage | feature/US-07 | 1c9b4e5   | feat: implement benefits section layout              | Maquetación en CSS Grid para las tarjetas de beneficios.                   | 2026-09-21          |
+| JouleTracker-LandingPage | feature/US-39 | 6a8f9c2   | feat: add household and business solutions section   | Separación visual de propuestas para hogares y MYPEs.                      | 2026-09-22          |
+| JouleTracker-LandingPage | feature/US-06 | 3d5e7b8   | feat: add i18n language toggle script                | Archivo main.js con diccionario JSON para cambio de idioma ES/EN.          | 2026-09-23          |
+| JouleTracker-LandingPage | develop       | f1a9c4d   | Merge pull request #1 from feature/US-06             | Integración de internacionalización a develop.                             | 2026-09-24          |
+| JouleTracker-LandingPage | main          | 9b2a1f0   | Merge branch 'develop' into main for release         | Preparación de la rama principal para el despliegue final en GitHub Pages. | 2026-09-25          |
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
@@ -363,34 +331,9 @@ La Landing Page de JouleTracker fue desplegada para permitir su visualización y
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
-Durante el **Sprint 1** se realizó la documentación de los servicios web relacionados con las funcionalidades desarrolladas para el sistema 
+Durante el Sprint 1, el alcance del proyecto estuvo enfocado exclusivamente en el diseño, maquetación y despliegue de la Landing Page promocional. Al tratarse de un sitio web de contenido estático desarrollado con HTML5, CSS3 y JavaScript puro (Vanilla JS), la arquitectura actual no requiere interacción con bases de datos ni procesamiento del lado del servidor.
 
-**JouleTracker**.
-
-La documentación permite identificar:
-
-- Los endpoints implementados.
-- Las acciones soportadas.
-- Los parámetros necesarios.
-- Las respuestas esperadas para cada servicio.
-- 
-Asimismo, se utilizaron **datos de prueba** para verificar la interacción con los servicios documentados.
-
-Repositorio de Web Services
-
-El código fuente correspondiente a los servicios web del proyecto se encuentra en el siguiente repositorio:
-
-[JouleTracker Repositorio](https://github.com/JouleTracker/JouleTracker)
-
-
-| Endpoint | Action | HTTP Verb | Parameters | Response Example | Documentation URL |
-|---|---|---|---|---|---|
-| `/api/auth/register` | Registrar usuario | POST | Datos del usuario: nombre, correo y contraseña | Respuesta indicando el registro exitoso del usuario | [URL de documentación](https://jouletracker.github.io/JouleTracker-LandingPage/) |
-| `/api/auth/login` | Iniciar sesión | POST | Correo y contraseña | Respuesta con la información necesaria para iniciar sesión | [URL de documentación](https://jouletracker.github.io/JouleTracker-LandingPage/) |
-| `/api/sensors` | Registrar sensor | POST | Información del sensor a registrar | Respuesta con los datos del sensor registrado | [URL de documentación](https://jouletracker.github.io/JouleTracker-LandingPage/) |
-| `/api/sensors/{sensorId}/status` | Consultar estado del sensor | GET | `sensorId` | Respuesta con el estado actual del sensor | [URL de documentación](https://jouletracker.github.io/JouleTracker-LandingPage/) |
-| `/api/dashboard/summary` | Consultar resumen del Dashboard | GET | Datos de autenticación del usuario | Respuesta con el resumen del consumo energético | [URL de documentación](https://jouletracker.github.io/JouleTracker-LandingPage/) |
-| `/api/readings/latest?sensorId={sensorId}` | Consultar última lectura | GET | `sensorId` | Respuesta con la última lectura registrada del sensor | [URL de documentación](https://jouletracker.github.io/JouleTracker-LandingPage/) |
+Por consiguiente, en esta iteración inicial no se han implementado controladores, repositorios ni servicios de aplicación, motivo por el cual no se genera documentación técnica de endpoints mediante Swagger u OpenAPI. La especificación técnica de los servicios web (Backend API) se documentará en el próximo sprint correspondiente al desarrollo del Core Domain.
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 La evidencia del despliegue de la Landing Page durante el Sprint se mostrará a continuación, el despliegue se realizará en GitHub Pages.
