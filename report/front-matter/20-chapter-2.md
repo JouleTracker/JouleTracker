@@ -166,11 +166,11 @@ Jesús tiene 34 años y vive en Los Olivos junto con su esposa y su hijo de 5 a�
 
 **Resumen de entrevista:**
 
-Fabrizio (Miguel) tiene 26 años, vive solo en un departamento pequeño de un dormitorio en Surco y se encarga de pagar y revisar su recibo de luz. Los equipos de mayor consumo son el refrigerador y su laptop gaming. No tiene información de su gasto hasta que llega el recibo. Le interesa conocer en qué momentos del día consume más y está muy dispuesto a probar sensores por su interés en la tecnología.
+Fabrizio tiene 26 años, vive solo en un departamento pequeño de un dormitorio en Surco y se encarga de pagar y revisar su recibo de luz. Los equipos de mayor consumo son el refrigerador y su laptop gaming. No tiene información de su gasto hasta que llega el recibo. Le interesa conocer en qué momentos del día consume más y está muy dispuesto a probar sensores por su interés en la tecnología.
 
 | Detalle | Información |
 |---|---|
-| Entrevistado | Miguel (Fabrizio) |
+| Entrevistado | Fabrizio |
 | Edad | 26 años |
 | Distrito | Surco |
 | Tipo de vivienda | Departamento pequeño de un dormitorio |
