@@ -156,7 +156,7 @@ Jesús tiene 34 años y vive en Los Olivos junto con su esposa y su hijo de 5 a�
 | Personas en el hogar | 3 |
 | Equipos de mayor consumo | Aire acondicionado y lavadora |
 | Duración / Empieza en | 4:29 / 5:30 |
-| Enlace | [Ver entrevista](https://drive.google.com/file/d/1WuKB5ICpRxg8hbDhZ78kuxlv46FWIa4R/view?usp=sharing) |
+| Enlace | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQDB16irH02WS5laTL__j-iKAfsOETJD9oBPkazEy9YJjR4?e=NPJO2C&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzMwLjUyfX0%3D) |
 
 ---
 
@@ -177,7 +177,7 @@ Fabrizio tiene 26 años, vive solo en un departamento pequeño de un dormitorio 
 | Personas en el hogar | 1 |
 | Equipos de mayor consumo | Refrigerador y laptop gaming |
 | Duración | 5:36 / 9:52 |
-| Enlace | [Ver entrevista](https://drive.google.com/file/d/1WuKB5ICpRxg8hbDhZ78kuxlv46FWIa4R/view?usp=sharing) |
+| Enlace | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQDB16irH02WS5laTL__j-iKAfsOETJD9oBPkazEy9YJjR4?e=zT9AE1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTkyLjUzfX0%3D) |
 
 ---
 
@@ -187,11 +187,11 @@ Fabrizio tiene 26 años, vive solo en un departamento pequeño de un dormitorio 
 
 **Resumen de entrevista:**
 
-Carlos tiene 45 años, trabaja en administración y vive con su esposa y sus dos hijos en una casa propia en Comas. Se encarga de pagar los servicios básicos y revisar el funcionamiento eléctrico de la vivienda. Los equipos de mayor consumo son la refrigeradora, la therma eléctrica y la computadora de escritorio. Ha tenido problemas con la therma por falso contacto. Considera muy importantes las alertas para prevenir cortocircuitos y la proyección del recibo.
+Fabrizio tiene 45 años, trabaja en administración y vive con su esposa y sus dos hijos en una casa propia en Comas. Se encarga de pagar los servicios básicos y revisar el funcionamiento eléctrico de la vivienda. Los equipos de mayor consumo son la refrigeradora, la therma eléctrica y la computadora de escritorio. Ha tenido problemas con la therma por falso contacto. Considera muy importantes las alertas para prevenir cortocircuitos y la proyección del recibo.
 
 | Detalle | Información |
 |---|---|
-| Entrevistado | Carlos |
+| Entrevistado | Fabrizio |
 | Edad | 45 años |
 | Distrito | Comas |
 | Ocupación | Empleado administrativo |
@@ -199,7 +199,7 @@ Carlos tiene 45 años, trabaja en administración y vive con su esposa y sus dos
 | Personas en el hogar | 4 |
 | Equipos de mayor consumo | Refrigeradora, therma eléctrica y PC de escritorio |
 | Duración / Empeiza en | 5:58 / 31:49 |
-| Enlace | [Ver entrevista](https://drive.google.com/file/d/1WuKB5ICpRxg8hbDhZ78kuxlv46FWIa4R/view?usp=sharing) |
+| Enlace | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQDB16irH02WS5laTL__j-iKAfsOETJD9oBPkazEy9YJjR4?e=qIzO0l&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTU1MC44Mn19) |
 
 #### Segmento #2: Dueños y administradores de pequeños negocios
 
@@ -220,7 +220,7 @@ Diana tiene 40 años y es propietaria de una bodega en San Juan de Lurigancho, n
 | Antigüedad del negocio | 11 años |
 | Equipos de mayor consumo | Congelador de bebidas/helados y 2 refrigeradoras |
 | Duración / Empieza | 5:32 / 00:00 |
-| Enlace | [Ver entrevista](https://drive.google.com/file/d/1WuKB5ICpRxg8hbDhZ78kuxlv46FWIa4R/view?usp=sharing) |
+| Enlace | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQDB16irH02WS5laTL__j-iKAfsOETJD9oBPkazEy9YJjR4?e=chqLWL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D) |
 
 ---
 
@@ -241,7 +241,7 @@ Eduardo tiene 38 años, es dueño de un taller mecánico en Comas y trabaja como
 | Antigüedad del negocio | 7 años |
 | Equipos de mayor consumo | Compresor de aire y máquinas de soldar |
 | Duración / Empieza en | 4:48 / 15:33  |
-| Enlace | [Ver entrevista](https://drive.google.com/file/d/1WuKB5ICpRxg8hbDhZ78kuxlv46FWIa4R/view?usp=sharing) |
+| Enlace | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQDB16irH02WS5laTL__j-iKAfsOETJD9oBPkazEy9YJjR4?e=UCZGwb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6OTI5LjIyfX0%3D) |
 
 ---
 
@@ -262,7 +262,7 @@ Renzo tiene 42 años y administra un minimarket en Carabayllo junto con su espos
 | Antigüedad del negocio | 5 años |
 | Equipos de mayor consumo | Cámaras de frío y congeladores de helados |
 | Duración / Empieza | 5:32 : 31:49 |
-| Enlace | [Ver entrevista](https://drive.google.com/file/d/1WuKB5ICpRxg8hbDhZ78kuxlv46FWIa4R/view?usp=sharing) |
+| Enlace | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQDB16irH02WS5laTL__j-iKAfsOETJD9oBPkazEy9YJjR4?e=we5RKt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTIxOC40M319) |
 
 ### 2.2.3 Análisis de entrevistas.
 
