@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="200"></img><br>
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <strong>Facultad de Ingeniería</strong><br>
@@ -165,6 +165,7 @@
 
 ---
 
+<div style="page-break-after: always;"></div>
 
 # Project Report Collaboration Insights
 
@@ -184,17 +185,18 @@ El repositorio principal del Project Report se encuentra disponible en:
 
 En esta sección se presentan las métricas de colaboración obtenidas mediante GitHub Insights. Estas evidencias permiten visualizar los commits realizados por los integrantes del equipo durante la AV1 y reflejan la participación de Team Volta en la elaboración y evolución del Project Report.
 
-![Project Report Collaboration Insights AV1](../images/Insights/Insights1.png)
+![Project Report Collaboration Insights AV1](report/images/Insights/Insights1.png)
 
 **Figura:** Métricas generales de contribución de los integrantes de Team Volta durante la AV1.
 
-![Project Report Contributors AV1](../images/Insights/Insights2.png)
+![Project Report Contributors AV1](report/images/Insights/Insights2.png)
 
 **Figura:** Detalle de los commits y participación de los colaboradores del repositorio JouleTracker durante la AV1.
 
 
 ---
 
+ <div style="page-break-after: always;"></div>
 
 # Tabla de Contenidos
 
@@ -304,7 +306,7 @@ En esta sección se presentan las métricas de colaboración obtenidas mediante 
 
 **Criterio:** Capacidad de comunicarse efectivamente con un rango de audiencias.
 
-En el siguiente cuadro se describen las acciones realizadas y las conclusiones obtenidas por VoltLab durante la AV1, las cuales permiten sustentar el logro del ABET – EAC - Student Outcome 3. Durante esta etapa, los integrantes utilizaron diferentes medios de comunicación oral, escrita y visual para presentar la problemática, necesidades de los usuarios, requerimientos, decisiones de diseño, arquitectura e implementación inicial de JouleTracker.
+En el siguiente cuadro se describen las acciones realizadas y las conclusiones obtenidas por VoltLab durante la AV1, las cuales permiten sustentar el logro del ABET  â‚¬â€œ EAC - Student Outcome 3. Durante esta etapa, los integrantes utilizaron diferentes medios de comunicación oral, escrita y visual para presentar la problemática, necesidades de los usuarios, requerimientos, decisiones de diseño, arquitectura e implementación inicial de JouleTracker.
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 | ------------------- | -------------------- | ------------ |
@@ -315,6 +317,7 @@ En el siguiente cuadro se describen las acciones realizadas y las conclusiones o
 ---
 
 
+<div style="page-break-after: always;"></div>
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
@@ -337,11 +340,11 @@ Somos VoltLab, un equipo de estudiantes apasionados por la innovación tecnológ
 
 | Datos | Descripción | Foto                                                                                      |
 |-------|-------------|-------------------------------------------------------------------------------------------|
-| **Nombre:** Miguel Angel Jara Espinoza<br>**Carrera:** Ingeniería de Software<br>**Código:** U202512856 | Me llamo Miguel y soy un estudiante de la carrera de Ingeniería de Software actualmente cursando el quinto ciclo. Me considero una persona atenta y paciente. Cuento con conocimientos básicos en JavaScript, Python y C++, los cuales me permiten contribuir en el desarrollo y resolución de problemas dentro del proyecto. | <img src="../images/members/miguel.jpg" alt="Miguel Angel Jara Espinoza" width="500" />   |
-| **Nombre:** Miguel Angel Vidal Castro<br>**Carrera:** Ingeniería de Software<br>**Código:** U202314186 | Me llamo Miguel Angel Vidal Castro y soy estudiante de la carrera de Ingeniería de Software. Cuento con conocimientos en gestión de proyectos y optimización de procesos, que me permiten contribuir en la planificación, organización y seguimiento de las actividades del equipo. Me interesa la mejora continua y la búsqueda de soluciones eficientes para optimizar recursos y procesos. Dentro del proyecto, aporto principalmente en la coordinación de tareas, gestión de recursos y organización del trabajo, buscando que las actividades se desarrollen de manera ordenada y eficiente. | <img width="500" alt="Miguel Angel Vidal Castro" src="../images/members/vidal.jpg" />     |
-| **Nombre:** Alejandro Samir Choquehuanca Vasquez<br>**Carrera:** Ingeniería de Software<br>**Código:** U202420249 | Me llamo Alejandro Samir, pertenesco a la carrera de ingenieria de software, actualmente estoy en el 5to ciclo, estoy más enfocado en el desarrollo mobile y tratando de aprender y entender los diferentes lenguajes. Tengo conocimientos en Python, C++, Javascript, Html, Css, trabajo con diferentes herramientas como: visualStudio, Git Hub, Git. Me considero una persona trabajadora, responsable y con ganas de siguir aprendiendo | <img src="../images/members/alejandrosamir.jpeg" alt="Alejandro-logo" width="500" />      |
-| **Nombre:** Mijail Alexander Matihues Quevedo<br>**Carrera:** Ingeniería de Software<br>**Código:** U202413533 | Me llamo Mijail soy un estudiante de la carrera de Ingeniería de Software. Actualmente estoy cursando el 5to ciclo. Tengo conocimientos de Python, C++, JavaScript, HTML, Css. Me considero una persona responsable y atenta con ganas de contribuir y ayudar en el desarrollo del proyecto. | <img src="../images/members/mijail.png" alt="Mijail Alexander Matihues Quevedo" width="500" /> |
-| **Nombre:** Rodrigo Velasquez Velasquez<br>**Carrera:** Ingeniería de Software<br>**Código:** U202222074 | Me llamo Rodrigo y soy estudiante de la carrera de Ingeniería de Software, actualmente cursando el quinto ciclo. Tengo conocimientos en Java, Python, C++, JavaScript, bases de datos, Git y GitHub. También he trabajado con herramientas como Docker y MongoDB. Me considero una persona responsable, comprometida y con disposición para seguir aprendiendo y aportar en el desarrollo del proyecto. | <img src="../images/members/rodrigo.png" alt="Rodrigo Velasquez Velasquez" width="500" /> |
+| **Nombre:** Miguel Angel Jara Espinoza<br>**Carrera:** Ingeniería de Software<br>**Código:** U202512856 | Me llamo Miguel y soy un estudiante de la carrera de Ingeniería de Software actualmente cursando el quinto ciclo. Me considero una persona atenta y paciente. Cuento con conocimientos básicos en JavaScript, Python y C++, los cuales me permiten contribuir en el desarrollo y resolución de problemas dentro del proyecto. | <img src="report/images/members/miguel.jpg" alt="Miguel Angel Jara Espinoza" width="500" />   |
+| **Nombre:** Miguel Angel Vidal Castro<br>**Carrera:** Ingeniería de Software<br>**Código:** U202314186 | Me llamo Miguel Angel Vidal Castro y soy estudiante de la carrera de Ingeniería de Software. Cuento con conocimientos en gestión de proyectos y optimización de procesos, que me permiten contribuir en la planificación, organización y seguimiento de las actividades del equipo. Me interesa la mejora continua y la búsqueda de soluciones eficientes para optimizar recursos y procesos. Dentro del proyecto, aporto principalmente en la coordinación de tareas, gestión de recursos y organización del trabajo, buscando que las actividades se desarrollen de manera ordenada y eficiente. | <img width="500" alt="Miguel Angel Vidal Castro" src="report/images/members/vidal.jpg" />     |
+| **Nombre:** Alejandro Samir Choquehuanca Vasquez<br>**Carrera:** Ingeniería de Software<br>**Código:** U202420249 | Me llamo Alejandro Samir, pertenesco a la carrera de ingenieria de software, actualmente estoy en el 5to ciclo, estoy más enfocado en el desarrollo mobile y tratando de aprender y entender los diferentes lenguajes. Tengo conocimientos en Python, C++, Javascript, Html, Css, trabajo con diferentes herramientas como: visualStudio, Git Hub, Git. Me considero una persona trabajadora, responsable y con ganas de siguir aprendiendo | <img src="report/images/members/alejandrosamir.jpeg" alt="Alejandro-logo" width="500" />      |
+| **Nombre:** Mijail Alexander Matihues Quevedo<br>**Carrera:** Ingeniería de Software<br>**Código:** U202413533 | Me llamo Mijail soy un estudiante de la carrera de Ingeniería de Software. Actualmente estoy cursando el 5to ciclo. Tengo conocimientos de Python, C++, JavaScript, HTML, Css. Me considero una persona responsable y atenta con ganas de contribuir y ayudar en el desarrollo del proyecto. | <img src="report/images/members/mijail.png" alt="Mijail Alexander Matihues Quevedo" width="500" /> |
+| **Nombre:** Rodrigo Velasquez Velasquez<br>**Carrera:** Ingeniería de Software<br>**Código:** U202222074 | Me llamo Rodrigo y soy estudiante de la carrera de Ingeniería de Software, actualmente cursando el quinto ciclo. Tengo conocimientos en Java, Python, C++, JavaScript, bases de datos, Git y GitHub. También he trabajado con herramientas como Docker y MongoDB. Me considero una persona responsable, comprometida y con disposición para seguir aprendiendo y aportar en el desarrollo del proyecto. | <img src="report/images/members/rodrigo.png" alt="Rodrigo Velasquez Velasquez" width="500" /> |
 ## 1.2. Solution Profile
 ### 1.2.1.  Antecedentes y problemática
 Los hogares y pequeños negocios enfrentan constantes dificultades en el control eficiente de su gasto energético debido a la falta de herramientas tecnológicas accesibles que integren telemetría y monitoreo de consumo en tiempo real. Esta situación genera pérdidas económicas imprevistas por facturación excesiva, decisiones de consumo a ciegas basadas en estimaciones tardías y una notable incapacidad para detectar fugas eléctricas, equipos defectuosos o picos anómalos de demanda a lo largo del mes. Por otro lado, la interacción con las empresas distribuidoras de energía suele ser unidireccional y reactiva, entregando únicamente un recibo consolidado al finalizar el ciclo de facturación, lo que impide a los usuarios corregir sus patrones de consumo de manera oportuna. Existe la necesidad de una solución de software distribuida que permita centralizar la captura de datos energéticos mediante sensores IoT, procesar métricas de consumo en tiempo real, proyectar costos y automatizar alertas preventivas, facilitando la toma de decisiones informadas y promoviendo una cultura de eficiencia y sostenibilidad económica.
@@ -365,7 +368,7 @@ Los hogares y pequeños negocios enfrentan constantes dificultades en el control
 ## 1.2.2 Lean UX Process
 
 #### 1.2.2.1 Lean UX Problem Statements
-
+ 
 El estado actual de la gestión y monitoreo del consumo eléctrico se ha enfocado principalmente en hogares urbanos y pequeños negocios mediante un flujo de facturación mensual netamente reactivo, donde los usuarios enfrentan cobros inesperados, carecen de visibilidad sobre qué dispositivos o maquinarias generan picos de carga, y asumen pérdidas económicas por fugas eléctricas sin poder detectarlas a tiempo.
 
 Lo que los productos y servicios existentes no logran abordar es la falta de información accesible en tiempo real y la desconexión tecnológica, dejando a los consumidores sin herramientas preventivas que desglosen su gasto antes del cierre del ciclo de facturación.
@@ -477,11 +480,11 @@ Hypothesis Statement 06
 
 | 1. Business Problem                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 5. Solution Ideas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 2. Business Outcomes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| El estado actual de la gestión del consumo eléctrico se enfoca en un flujo de facturación mensual reactivo, donde los usuarios enfrentan cobros inesperados y asumen pérdidas por fugas sin poder detectarlas a tiempo. Los servicios existentes no logran abordar la falta de información en tiempo real, dejando a los consumidores sin herramientas preventivas. Nuestro producto, JouleTracker, abordará esta brecha mediante una plataforma SaaS que integra telemetría IoT para centralizar el monitoreo continuo, proyectar costos y automatizar alertas preventivas, enfocándose inicialmente en jefes de hogar y administradores de PYMEs.                                                                                                                                                                          | 1. Integración de Hardware IoT: Automatización de la ingesta de datos energéticos mediante sensores inteligentes para garantizar lecturas continuas.<br> 2. Dashboard en Tiempo Real: Interfaz visual para comprender inmediatamente la carga energética activa en el inmueble. <br> 3. Proyector de Costo Mensual: Herramienta de estimación económica en moneda local para anticipar la facturación. <br> 4. Analítica e Historial Comparativo: Gráficos con filtros de fechas para comparar consumos pasados e identificar hábitos ineficientes. <br> 5. Alertas Preventivas y Límites: Sistema de notificaciones automáticas frente a sobreconsumos o picos anómalos. <br> 6. Segmentación Comercial (MYPEs): Funcionalidad para agrupar sensores por áreas específicas de un negocio (ej. cocina, refrigeración) e identificar fuentes de gasto.  <br> | • Alcanzar una tasa de retención mensual superior al 65%.<br><br>• Obtener una tasa de conversión del 15% mediante la Landing Page.<br><br>• Lograr que al menos el 8% de los pequeños negocios migren de un plan Freemium a un plan de pago.<br><br>• Mantener una tasa de cancelación trimestral inferior al 5%.<br><br>• Incrementar progresivamente la adopción y uso recurrente de JouleTracker.                                                                                                                                                       |
+| El estado actual de la gestión del consumo eléctrico se enfoca en un flujo de facturación mensual reactivo, donde los usuarios enfrentan cobros inesperados y asumen pérdidas por fugas sin poder detectarlas a tiempo. Los servicios existentes no logran abordar la falta de información en tiempo real, dejando a los consumidores sin herramientas preventivas. Nuestro producto, JouleTracker, abordará esta brecha mediante una plataforma SaaS que integra telemetría IoT para centralizar el monitoreo continuo, proyectar costos y automatizar alertas preventivas, enfocándose inicialmente en jefes de hogar y administradores de PYMEs.                                                                                                                                                                          | 1. Integración de Hardware IoT: Automatización de la ingesta de datos energéticos mediante sensores inteligentes para garantizar lecturas continuas.<br> 2. Dashboard en Tiempo Real: Interfaz visual para comprender inmediatamente la carga energética activa en el inmueble. <br> 3. Proyector de Costo Mensual: Herramienta de estimación económica en moneda local para anticipar la facturación. <br> 4. Analítica e Historial Comparativo: Gráficos con filtros de fechas para comparar consumos pasados e identificar hábitos ineficientes. <br> 5. Alertas Preventivas y Límites: Sistema de notificaciones automáticas frente a sobreconsumos o picos anómalos. <br> 6. Segmentación Comercial (MYPEs): Funcionalidad para agrupar sensores por áreas específicas de un negocio (ej. cocina, refrigeración) e identificar fuentes de gasto.  <br> |  â‚¬¢ Alcanzar una tasa de retención mensual superior al 65%.<br><br> â‚¬¢ Obtener una tasa de conversión del 15% mediante la Landing Page.<br><br> â‚¬¢ Lograr que al menos el 8% de los pequeños negocios migren de un plan Freemium a un plan de pago.<br><br> â‚¬¢ Mantener una tasa de cancelación trimestral inferior al 5%.<br><br> â‚¬¢ Incrementar progresivamente la adopción y uso recurrente de JouleTracker.                                                                                                                                                       |
 | **3. Users**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | **7. Most Important Learning**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | **4. User Outcomes & Benefits**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | Jefes de hogar</b><br>Personas responsables de administrar el presupuesto familiar y pagar los servicios eléctricos de viviendas urbanas. Buscan reducir gastos y comprender mejor su consumo de energía.<br><br><b>Propietarios y administradores de pequeños negocios</b><br>Responsables de bodegas, cafeterías, panaderías, talleres y otros pequeños establecimientos que necesitan controlar sus costos eléctricos y detectar consumos anormales.                                                                                                                                                                                                                                                                                                                                                                      | ¿Los hogares y pequeños negocios utilizarán realmente una plataforma que les permita visualizar su consumo eléctrico en tiempo real y tomar decisiones basándose en esta información?<br><br>También necesitamos validar si consideran suficientemente valiosas las funciones de monitoreo, proyección de costos y alertas preventivas como para adoptar JouleTracker.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Previsibilidad del gasto</b><br>Conocer anticipadamente el costo aproximado del recibo eléctrico.<br><br><b>Ahorro económico</b><br>Identificar consumos innecesarios y equipos que utilizan energía de manera ineficiente.<br><br><b>Detección temprana</b><br>Identificar fugas, picos de consumo o equipos funcionando fuera de horarios habituales.<br><br><b>Gestión preventiva</b><br>Tomar acciones antes de que llegue el recibo mensual.<br><br><b>Mayor control</b><br>Comprender los patrones de consumo mediante información clara y accesible. |
 | **6. Hypotheses**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | **8. Least Effort to Learn**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| - Creemos que la integración de sensores IoT logrará que los usuarios confíen en la precisión y continuidad de la plataforma.<br> - Creemos que el dashboard en tiempo real logrará que los usuarios identifiquen picos inusuales de energía de manera inmediata.<br> - Creemos que mostrar una proyección de costos logrará que los usuarios planifiquen mejor su presupuesto familiar o comercial.<br> - Creemos que proporcionar gráficos históricos logrará que los usuarios reconozcan y corrijan patrones de consumo ineficientes.<br> - Creemos que las alertas preventivas sobre umbrales lograrán que los usuarios reaccionen a tiempo y reduzcan sobrecostos operativos.<br> - Creemos que segmentar el monitoreo por áreas de negocio logrará que las PYMEs identifiquen maquinarias específicas de alto consumo. |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | • Crear un prototipo interactivo del dashboard.<br><br>• Utilizar datos simulados de consumo eléctrico en tiempo real.<br><br>• Presentar el prototipo a jefes de hogar y propietarios de pequeños negocios.<br><br>• Realizar pruebas de usabilidad, entrevistas y encuestas.<br><br>• Evaluar si los usuarios comprenden los indicadores y toman decisiones utilizando la información presentada.<br><br>• Crear una Landing Page para medir el interés de potenciales usuarios.                                                                          |
+| - Creemos que la integración de sensores IoT logrará que los usuarios confíen en la precisión y continuidad de la plataforma.<br> - Creemos que el dashboard en tiempo real logrará que los usuarios identifiquen picos inusuales de energía de manera inmediata.<br> - Creemos que mostrar una proyección de costos logrará que los usuarios planifiquen mejor su presupuesto familiar o comercial.<br> - Creemos que proporcionar gráficos históricos logrará que los usuarios reconozcan y corrijan patrones de consumo ineficientes.<br> - Creemos que las alertas preventivas sobre umbrales lograrán que los usuarios reaccionen a tiempo y reduzcan sobrecostos operativos.<br> - Creemos que segmentar el monitoreo por áreas de negocio logrará que las PYMEs identifiquen maquinarias específicas de alto consumo. |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |  â‚¬¢ Crear un prototipo interactivo del dashboard.<br><br> â‚¬¢ Utilizar datos simulados de consumo eléctrico en tiempo real.<br><br> â‚¬¢ Presentar el prototipo a jefes de hogar y propietarios de pequeños negocios.<br><br> â‚¬¢ Realizar pruebas de usabilidad, entrevistas y encuestas.<br><br> â‚¬¢ Evaluar si los usuarios comprenden los indicadores y toman decisiones utilizando la información presentada.<br><br> â‚¬¢ Crear una Landing Page para medir el interés de potenciales usuarios.                                                                          |
 
 
 
@@ -506,6 +509,7 @@ Ambos segmentos comparten un perfil común: buscan una solución tecnológica in
 
 ---
 
+<div style="page-break-after: always;"></div>
 
 # Capítulo II: Requirements Elicitation & Analysis.
 ## 2.1. Competidores
@@ -518,9 +522,9 @@ Identificar las características, fortalezas y debilidades de las principales em
 
 | Categoría               | Aspecto                                                 | JouleTracker                                                                                                                                                                                                                                                                                         | Emporia Energy                                                                                                                                                                                                                                                                    | Eyedro Green Solutions                                                                                                                                                                                                                                                | Wattwatchers                                                                                                                                                                                                                                                             |
 |-------------------------|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                         |                                                         | ![JouleTracker](../images/competitors/JouleTracker.png)                                                                                                                                                                                                                                              | ![Emporia Energy](../images/competitors/emporia.png)                                                                                                                                                                                                                              | ![Eyedro Green Solutions](../images/competitors/Eyedro.png)                                                                                                                                                                                                           | ![Wattwatchers](../images/competitors/wattwatchers.png)                                                                                                                                                                                                                  |
+|                         |                                                         | ![JouleTracker](report/images/competitors/JouleTracker.png)                                                                                                                                                                                                                                              | ![Emporia Energy](report/images/competitors/emporia.png)                                                                                                                                                                                                                              | ![Eyedro Green Solutions](report/images/competitors/Eyedro.png)                                                                                                                                                                                                           | ![Wattwatchers](report/images/competitors/wattwatchers.png)                                                                                                                                                                                                                  |
 | **Perfil**              | Overview                                                | JouleTracker es una startup orientada al monitoreo y control del consumo eléctrico en hogares y pequeños negocios. Mediante sensores IoT recopila información del consumo energético y la presenta en una plataforma digital con datos en tiempo real, históricos, gráficos y alertas configurables. | Emporia Energy es una empresa especializada en soluciones inteligentes para la gestión energética. Su sistema Vue Energy Monitor permite medir el consumo eléctrico total y el consumo correspondiente a diferentes circuitos mediante sensores instalados en el panel eléctrico. | Eyedro Green Solutions desarrolla soluciones de hardware y software para el monitoreo del consumo eléctrico. Sus dispositivos recopilan información energética y la envían a la plataforma MyEyedro, desde donde los usuarios pueden visualizar y analizar sus datos. | Wattwatchers es una empresa especializada en tecnología para el monitoreo y gestión de energía. Sus dispositivos permiten recopilar información de distintos circuitos eléctricos y visualizarla mediante plataformas digitales dirigidas a hogares y pequeños negocios. |
-| **Perfil**              | Ventaja competitiva — ¿Qué valor ofrece a los clientes? | Ofrece una plataforma sencilla y accesible que permite conocer el consumo eléctrico en tiempo real, revisar información histórica y recibir alertas cuando se superan determinados límites, facilitando el control de los gastos energéticos.                                                        | Permite supervisar el consumo general y diferentes circuitos eléctricos de forma independiente, facilitando la identificación de equipos o áreas que generan un mayor consumo.                                                                                                    | Combina dispositivos de medición eléctrica con una plataforma cloud que permite consultar consumo, costos, históricos, gráficos y reportes desde distintos dispositivos.                                                                                              | Ofrece monitoreo energético detallado mediante dispositivos capaces de supervisar varios circuitos, complementados con herramientas digitales para visualizar y analizar la información obtenida.                                                                        |
+| **Perfil**              | Ventaja competitiva  â‚¬â€ ¿Qué valor ofrece a los clientes? | Ofrece una plataforma sencilla y accesible que permite conocer el consumo eléctrico en tiempo real, revisar información histórica y recibir alertas cuando se superan determinados límites, facilitando el control de los gastos energéticos.                                                        | Permite supervisar el consumo general y diferentes circuitos eléctricos de forma independiente, facilitando la identificación de equipos o áreas que generan un mayor consumo.                                                                                                    | Combina dispositivos de medición eléctrica con una plataforma cloud que permite consultar consumo, costos, históricos, gráficos y reportes desde distintos dispositivos.                                                                                              | Ofrece monitoreo energético detallado mediante dispositivos capaces de supervisar varios circuitos, complementados con herramientas digitales para visualizar y analizar la información obtenida.                                                                        |
 | **Perfil de Marketing** | Mercado objetivo                                        | Hogares y pequeños negocios interesados en conocer, controlar y reducir su consumo eléctrico mediante una solución sencilla y accesible.                                                                                                                                                             | Hogares y pequeñas instalaciones comerciales que desean monitorear el consumo eléctrico general y por circuitos.                                                                                                                                                                  | Hogares, pequeños negocios y organizaciones interesadas en conocer detalladamente su consumo energético y administrar mejor sus costos eléctricos.                                                                                                                    | Hogares y pequeños negocios que requieren monitoreo energético en tiempo real y análisis de diferentes circuitos eléctricos.                                                                                                                                             |
 | **Perfil de Marketing** | Estrategias de marketing                                | Redes sociales, contenido educativo sobre ahorro energético, demostraciones de la plataforma, pruebas piloto y futuras alianzas con pequeños negocios, electricistas y proveedores tecnológicos.                                                                                                     | Marketing digital, comercialización de dispositivos, contenido relacionado con eficiencia energética y promoción de productos inteligentes para la gestión del consumo.                                                                                                           | Promoción de soluciones de monitoreo energético, contenido relacionado con eficiencia energética, demostraciones de MyEyedro y comercialización de diferentes equipos de medición.                                                                                    | Promoción de soluciones de gestión energética, alianzas empresariales y difusión de sus dispositivos, aplicaciones y herramientas tecnológicas.                                                                                                                          |
 | **Perfil del Producto** | Productos & Servicios                                   | Sensores IoT, monitoreo eléctrico en tiempo real, dashboard web, históricos, gráficos, estadísticas, configuración de límites y alertas ante consumos elevados.                                                                                                                                      | Vue Energy Monitor, sensores para circuitos eléctricos, aplicación móvil y web, información en tiempo real, históricos y monitoreo individual de circuitos.                                                                                                                       | Medidores eléctricos, sensores de corriente, plataforma MyEyedro, visualización en tiempo real, históricos, análisis de costos y reportes energéticos.                                                                                                                | Dispositivos de monitoreo energético, supervisión de múltiples circuitos, plataforma web, aplicación móvil, históricos y herramientas para el análisis del consumo.                                                                                                      |
@@ -650,11 +654,11 @@ Para comprender mejor a nuestros usuarios y construir arquetipos representativos
 
 - **Entrevista #2**
 
-![](../images/img-entrevistas/jesus-S1-E2.png)
+![](report/images/img-entrevistas/jesus-S1-E2.png)
 
 **Resumen de entrevista:**
 
-Jesús tiene 34 años y vive en Los Olivos junto con su esposa y su hijo de 5 años, en un departamento de 3 pisos. Él es quien revisa y paga el recibo de luz mediante la app de su banco. Considera que el aire acondicionado y la lavadora son los equipos que más consumen. No puede conocer su gasto hasta que llega el recibo a fin de mes. Le interesaría un dashboard en tiempo real y considera que la proyección del recibo mensual sería la funcionalidad más importante.
+Jesús tiene 34 años y vive en Los Olivos junto con su esposa y su hijo de 5 años, en un departamento de 3 pisos. íâ€°l es quien revisa y paga el recibo de luz mediante la app de su banco. Considera que el aire acondicionado y la lavadora son los equipos que más consumen. No puede conocer su gasto hasta que llega el recibo a fin de mes. Le interesaría un dashboard en tiempo real y considera que la proyección del recibo mensual sería la funcionalidad más importante.
 
 | Detalle | Información |
 |---|---|
@@ -671,7 +675,7 @@ Jesús tiene 34 años y vive en Los Olivos junto con su esposa y su hijo de 5 a�
 
 - **Entrevista #3**
 
-![](../images/img-entrevistas/miguel-S1-E3.png)
+![](report/images/img-entrevistas/miguel-S1-E3.png)
 
 **Resumen de entrevista:**
 
@@ -692,7 +696,7 @@ Fabrizio tiene 26 años, vive solo en un departamento pequeño de un dormitorio 
 
 - **Entrevista #6**
 
-![](../images/img-entrevistas/carlos-S1-E6.png)
+![](report/images/img-entrevistas/carlos-S1-E6.png)
 
 **Resumen de entrevista:**
 
@@ -714,7 +718,7 @@ Fabrizio tiene 45 años, trabaja en administración y vive con su esposa y sus d
 
 - **Entrevista #1**
 
-![](../images/img-entrevistas/diana-S2-E1.png)
+![](report/images/img-entrevistas/diana-S2-E1.png)
 
 **Resumen de entrevista:**
 
@@ -726,7 +730,7 @@ Diana tiene 40 años y es propietaria de una bodega en San Juan de Lurigancho, n
 | Edad | 40 años |
 | Distrito | San Juan de Lurigancho |
 | Tipo de negocio | Bodega |
-| Antigüedad del negocio | 11 años |
+| Antigí¼edad del negocio | 11 años |
 | Equipos de mayor consumo | Congelador de bebidas/helados y 2 refrigeradoras |
 | Duración / Empieza | 5:32 / 00:00 |
 | Enlace | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQDB16irH02WS5laTL__j-iKAfsOETJD9oBPkazEy9YJjR4?e=chqLWL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D) |
@@ -735,7 +739,7 @@ Diana tiene 40 años y es propietaria de una bodega en San Juan de Lurigancho, n
 
 - **Entrevista #4**
 
-![](../images/img-entrevistas/eduardo-S2-E4.png)
+![](report/images/img-entrevistas/eduardo-S2-E4.png)
 
 **Resumen de entrevista:**
 
@@ -747,7 +751,7 @@ Eduardo tiene 38 años, es dueño de un taller mecánico en Comas y trabaja como
 | Edad | 38 años |
 | Distrito | Comas |
 | Tipo de negocio | Taller mecánico |
-| Antigüedad del negocio | 7 años |
+| Antigí¼edad del negocio | 7 años |
 | Equipos de mayor consumo | Compresor de aire y máquinas de soldar |
 | Duración / Empieza en | 4:48 / 15:33  |
 | Enlace | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQDB16irH02WS5laTL__j-iKAfsOETJD9oBPkazEy9YJjR4?e=UCZGwb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6OTI5LjIyfX0%3D) |
@@ -756,7 +760,7 @@ Eduardo tiene 38 años, es dueño de un taller mecánico en Comas y trabaja como
 
 - **Entrevista #5**
 
-![](../images/img-entrevistas/renzo-S2-E5.png)
+![](report/images/img-entrevistas/renzo-S2-E5.png)
 
 **Resumen de entrevista:**
 
@@ -768,7 +772,7 @@ Renzo tiene 42 años y administra un minimarket en Carabayllo junto con su espos
 | Edad | 42 años |
 | Distrito | Carabayllo |
 | Tipo de negocio | Minimarket |
-| Antigüedad del negocio | 5 años |
+| Antigí¼edad del negocio | 5 años |
 | Equipos de mayor consumo | Cámaras de frío y congeladores de helados |
 | Duración / Empieza | 5:32 : 31:49 |
 | Enlace | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQDB16irH02WS5laTL__j-iKAfsOETJD9oBPkazEy9YJjR4?e=we5RKt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTIxOC40M319) |
@@ -850,13 +854,13 @@ El 100% presenta una disposición positiva para utilizar una plataforma de monit
 
 - **Segmento objetivo 1: Segmento Residencial (Hogares)**
 
-![](../images/userpersona-1.png)
+![](report/images/userpersona-1.png)
 
 <sub>*Ilustración. User Persona padre de familia administrador del hogar*</sub>
 
 - **Segmento objetivo 2: Segmento Comercial (Pequeños Negocios / MYPE)**
 
-![](../images/userpersona-2.png)
+![](report/images/userpersona-2.png)
 
 <sub>*Ilustración. User Persona dueños de pequeño negocio*</sub>
 
@@ -906,20 +910,20 @@ Estos gráficos fueron desarrollados en Figma y se pueden visualizar mediante el
 
 User Journey Mapping Propietarios de hogares urbanos:
 
-![User Journey Mapping Propietarios de hogares urbanos](../images/user-journey-mapping/segmento1.png)
+![User Journey Mapping Propietarios de hogares urbanos](report/images/user-journey-mapping/segmento1.png)
 
 User Journey Mapping Administradores de pequeños negocios:
 
-![User Journey Mapping Administradores de pequeños negocios](../images/user-journey-mapping/segmento2.png)
+![User Journey Mapping Administradores de pequeños negocios](report/images/user-journey-mapping/segmento2.png)
 
 ### 2.3.4. Empathy Mapping.
 **Empathy Map Segmento 1**
-![](../images/persona_empathymap1.png)
+![](report/images/persona_empathymap1.png)
 
 
 **Empathy Map Segmento 2**
 
-![](../images/persona_empathymap2.png)
+![](report/images/persona_empathymap2.png)
 
 ---
 
@@ -933,7 +937,7 @@ El Big Picture Event Storming permite comprender de manera general el funcionami
 
 **Objetivo:** Identificar todos los eventos de dominio relacionados con el sistema.
 
-![Big Picture Event Storming 1](../images/big-picture-event-storming/open.png)
+![Big Picture Event Storming 1](report/images/big-picture-event-storming/open.png)
 
 ---
 
@@ -941,7 +945,7 @@ El Big Picture Event Storming permite comprender de manera general el funcionami
 
 **Objetivo:** Identificar actores, puntos de dolor y establecer una secuencia entre los eventos.
 
-![Big Picture Event Storming 2](../images/big-picture-event-storming/explore.png)
+![Big Picture Event Storming 2](report/images/big-picture-event-storming/explore.png)
 
 ---
 
@@ -949,7 +953,7 @@ El Big Picture Event Storming permite comprender de manera general el funcionami
 
 **Objetivo:** Identificar problemas encontrados, temas que requieren investigación y elementos fuera del alcance actual.
 
-![Big Picture Event Storming 3](../images/big-picture-event-storming/close.png)
+![Big Picture Event Storming 3](report/images/big-picture-event-storming/close.png)
 
 
 ---
@@ -1011,6 +1015,7 @@ con el consumo eléctrico, su monitoreo y el control de los costos.
 
 ---
 
+<div style="page-break-after: always;"></div>
 
 # Capítulo IV: Product Design
 
@@ -1031,7 +1036,7 @@ La combinación de ambas tipografías permite diferenciar los encabezados del co
 **Figura 1:**  
 Uso de la tipografía "Inter" en encabezados.
 
-![Inter](../images/typography/inter.png)
+![Inter](report/images/typography/inter.png)
 
 
 **Fuente:** [Google Fonts - Inter](https://www.1001fonts.com/inter-font.html)
@@ -1039,7 +1044,7 @@ Uso de la tipografía "Inter" en encabezados.
 **Figura 2:**  
 Uso de la tipografía "Roboto" en textos generales.
 
-![Roboto](../images/typography/roboto.png)
+![Roboto](report/images/typography/roboto.png)
 
 **Fuente:** [Google Fonts - Roboto.](https://www.1001fonts.com/roboto-font.html)
 
@@ -1053,7 +1058,7 @@ La paleta completa está conformada por colores principales, secundarios y neutr
 
 **Figura 1:** Paleta completa de colores
 
-![Paleta completa](../images/colors/colors.png)
+![Paleta completa](report/images/colors/colors.png)
 
 **Paleta completa en Coolors:**  
 [https://coolors.co/214029-dcedd5-bed4c2-4f378a-eaddff-ffffff-1a1a1a-404040](https://coolors.co/214029-dcedd5-bed4c2-4f378a-eaddff-ffffff-1a1a1a-404040)
@@ -1070,7 +1075,7 @@ La paleta principal está compuesta por diferentes tonalidades de verde, utiliza
 
 **Figura 2:** Colores principales
 
-![Colores principales](../images/colors/colors2.png)
+![Colores principales](report/images/colors/colors2.png)
 
 **Paleta en Coolors:**  
 [https://coolors.co/214029-dcedd5-bed4c2](https://coolors.co/214029-dcedd5-bed4c2)
@@ -1088,7 +1093,7 @@ La paleta secundaria utiliza tonalidades moradas para diferenciar determinados e
 
 **Figura 3:** Colores secundarios
 
-![Colores secundarios](../images/colors/colors3.png)
+![Colores secundarios](report/images/colors/colors3.png)
 
 **Paleta en Coolors:**  
 [https://coolors.co/4f378a-eaddff](https://coolors.co/4f378a-eaddff)
@@ -1107,7 +1112,7 @@ Estos colores proporcionan contraste y permiten complementar las paletas princip
 
 **Figura 4:** Colores neutros
 
-![Colores neutros](../images/colors/colors4.png)
+![Colores neutros](report/images/colors/colors4.png)
 
 **Paleta en Coolors:**  
 [https://coolors.co/ffffff-1a1a1a-404040](https://coolors.co/ffffff-1a1a1a-404040)
@@ -1388,52 +1393,52 @@ Los wireframes del Landing Page de JouleTracker representan la primera versión 
 
 En la versión desktop, el wireframe prioriza una hero section amplia con el mensaje "Tu consumo eléctrico bajo control", acompañada del botón "Comenzar gratis" y una navegación superior fija con acceso directo a cada sección. A partir de la cabecera, el contenido se organiza en bloques horizontales que muestran las funcionalidades clave de la plataforma, el funcionamiento en 4 pasos, una vista previa del panel de control, la sección "Nosotros" y los testimonios de usuarios, cerrando con un bloque de contacto. Esta distribución aprovecha el ancho completo de la pantalla y permite que el usuario recorra la página de forma escaneable, sin perder de vista el mensaje principal.
 
-<img src="../images/figma/JouleTrackerWireframe I (desktop).png" alt="Wireframe desktop del Landing Page" width="700" />
+<img src="report/images/figma/JouleTrackerWireframe I (desktop).png" alt="Wireframe desktop del Landing Page" width="700" />
 
 El primer contacto del usuario con la parte funcional de JouleTracker ocurre en el flujo de autenticación. Aquí buscamos que iniciar sesión o recuperar el acceso a la cuenta sea rápido y no genere fricción, ya que es el paso previo a que la persona pueda ver su consumo eléctrico. Por eso mantuvimos el mismo header del resto del sitio, y acompañamos el formulario con un mensaje que recuerda el beneficio principal de la plataforma ("Gestiona tu energía desde cualquier lugar"), para que el usuario no pierda de vista por qué está ahí.
 
-<img src="../images/figma/JouleTrackerWirframe 1.1.png" alt="Wireframe de Iniciar sesión" width="700" />
-<img src="../images/figma/JouleTrackerWireframe 1.2.png" alt="Recuperar contraseña" width="700" />
+<img src="report/images/figma/JouleTrackerWirframe 1.1.png" alt="Wireframe de Iniciar sesión" width="700" />
+<img src="report/images/figma/JouleTrackerWireframe 1.2.png" alt="Recuperar contraseña" width="700" />
 
 **Si el usuario no tiene cuenta** 
 Se puede registrar de una forma rapida, sencilla y segura.
-<img src="../images/figma/JouleTrackerWireframe 2.1.png" alt="Wireframe de registro" width="700" />
+<img src="report/images/figma/JouleTrackerWireframe 2.1.png" alt="Wireframe de registro" width="700" />
 
 Una vez que el usuario decide crear una cuenta, lo acompañamos en tres pasos: completar sus datos, verificar su correo y confirmar que todo salió bien. Dividimos este proceso en pantallas separadas en lugar de un solo formulario largo, para que se sienta más liviano y el usuario sepa siempre en qué parte del proceso está. En el registro reforzamos por qué vale la pena unirse (fácil de usar, datos seguros, impacto real), y cerramos con una confirmación clara de que la cuenta ya está lista para usarse.
 
-<img src="../images/figma/JouleTrackerWireframe 2.2.png" alt="Wireframe de verificación" width="700" />
+<img src="report/images/figma/JouleTrackerWireframe 2.2.png" alt="Wireframe de verificación" width="700" />
 
-<img src="../images/figma/JouleTrackerWireframe 2.3.png" alt="Wireframe de registro exitoso" width="700" />
+<img src="report/images/figma/JouleTrackerWireframe 2.3.png" alt="Wireframe de registro exitoso" width="700" />
 
 
 **Mobile**
 
 En la versión mobile, la estructura se reorganiza en una sola columna, priorizando el mensaje principal y el botón "Comenzar gratis" para que sean lo primero que vea el usuario. La navegación se compacta en un menú hamburguesa para no ocupar espacio innecesario en la pantalla, y las secciones (funcionalidades, cómo funciona, nosotros, testimonios y contacto) se apilan una debajo de otra en el mismo orden que en desktop. Así mantenemos la misma lógica de lectura, pero adaptada a una pantalla más pequeña y a una navegación táctil.
-<img src="../images/figma/JouleTrackerWireframe(mobile) 1.2.png" alt="Wireframe de inicio" width="700" />
+<img src="report/images/figma/JouleTrackerWireframe(mobile) 1.2.png" alt="Wireframe de inicio" width="700" />
 
-<img src="../images/figma/JouleTrackerWireframe(mobile) 1.1.png" alt="Wireframe de tu energía" width="700" /> 
+<img src="report/images/figma/JouleTrackerWireframe(mobile) 1.1.png" alt="Wireframe de tu energía" width="700" /> 
 
-<img src="../images/figma/JouleTrackerWireframe(mobile) 2.2.png" alt="Wireframe de funcionalidades" width="700" />
+<img src="report/images/figma/JouleTrackerWireframe(mobile) 2.2.png" alt="Wireframe de funcionalidades" width="700" />
 
-<img src="../images/figma/JouleTrackerWireframe(mobile) 2.1.png" alt="Wireframe de todo en un solo lugar" width="700" />
+<img src="report/images/figma/JouleTrackerWireframe(mobile) 2.1.png" alt="Wireframe de todo en un solo lugar" width="700" />
 
-<img src="../images/figma/JouleTrackerWireframe(mobile) 3.2.png" alt="Wireframe de opción de como funciona" width="700" />
+<img src="report/images/figma/JouleTrackerWireframe(mobile) 3.2.png" alt="Wireframe de opción de como funciona" width="700" />
 
-<img src="../images/figma/JouleTrackerWireframe(mobile) 3.1.png" alt="Wireframe de como funciona" width="700" />
+<img src="report/images/figma/JouleTrackerWireframe(mobile) 3.1.png" alt="Wireframe de como funciona" width="700" />
 
 En la versión mobile del flujo de autenticación, simplificamos cada pantalla a lo esencial: un solo formulario visible a la vez, sin distracciones, para que iniciar sesión o crear una cuenta desde el celular se sienta tan rápido como hacerlo desde una laptop. Mantuvimos las mismas opciones de acceso rápido (Google, Apple, Facebook, Instagram) y los mismos pasos del registro (crear cuenta, verificar correo, confirmación), pero apilados en una sola columna y con botones más grandes, pensados para el dedo y no para el cursor.
 
-<img src="../images/figma/JouleTrackerWireframe(mobile) 6.1.png" alt="Wireframe mobile de Iniciar sesión" width="700" />
+<img src="report/images/figma/JouleTrackerWireframe(mobile) 6.1.png" alt="Wireframe mobile de Iniciar sesión" width="700" />
 
-<img src="../images/figma/JouleTrackerWireframe(mobile) 6.2.png" alt="Wireframe mobile de Recuperar contraseña" width="700" />
+<img src="report/images/figma/JouleTrackerWireframe(mobile) 6.2.png" alt="Wireframe mobile de Recuperar contraseña" width="700" />
 
-<img src="../images/figma/JouleTrackerWireframe(mobile) 6.3.png" alt="Wireframe mobile de Recuperar contraseña" width="700" />
+<img src="report/images/figma/JouleTrackerWireframe(mobile) 6.3.png" alt="Wireframe mobile de Recuperar contraseña" width="700" />
 
 **Crear cuenta**
 
-<img src="../images/figma/JouleTrackerWireframe(mobile) 7.1.png" alt="Wireframe mobile de Recuperar contraseña" width="700" />
-<img src="../images/figma/JouleTrackerWireframe(mobile) 7.2.png" alt="Wireframe mobile de Recuperar contraseña" width="700" />
-<img src="../images/figma/JouleTrackerWireframe(mobile) 7.3.png" alt="Wireframe mobile de Recuperar contraseña" width="700" />
+<img src="report/images/figma/JouleTrackerWireframe(mobile) 7.1.png" alt="Wireframe mobile de Recuperar contraseña" width="700" />
+<img src="report/images/figma/JouleTrackerWireframe(mobile) 7.2.png" alt="Wireframe mobile de Recuperar contraseña" width="700" />
+<img src="report/images/figma/JouleTrackerWireframe(mobile) 7.3.png" alt="Wireframe mobile de Recuperar contraseña" width="700" />
 
 ## 4.3.2. Landing Page Mock-up.
 
@@ -1443,60 +1448,60 @@ Los mock-ups finales del Landing Page de JouleTracker representan la consolidaci
 
 En el mock-up desktop se evidencia una jerarquía visual clara, reforzada mediante el uso del verde institucional en botones, íconos y puntos de énfasis, combinado con fondos claros y bloques bien espaciados. La hero section destaca la propuesta de valor de JouleTracker acompañada de una imagen del dashboard en un laptop, dando una idea concreta del producto desde el primer momento. Las secciones posteriores mantienen la misma lógica del wireframe (funcionalidades, cómo funciona, vista previa de la plataforma, nosotros, testimonios y contacto), pero ahora con imágenes reales, íconos ilustrativos y una paleta consistente que facilita la comprensión rápida del producto.
 
-<img src="../images/figma/JouleTrackerMockap(desktop).png" alt="Mock-up desktop del Landing Page" width="700" />
+<img src="report/images/figma/JouleTrackerMockap(desktop).png" alt="Mock-up desktop del Landing Page" width="700" />
 
 **Iniciar sesion**
 
-<img src="../images/figma/JouleTrackerMockap(desktop) 1.1.png" alt="Mock-up desktop del Landing Page" width="700" />
-<img src="../images/figma/JouleTrackerMockap(desktop) 1.2.png" alt="Mock-up desktop del Landing Page" width="700" />
+<img src="report/images/figma/JouleTrackerMockap(desktop) 1.1.png" alt="Mock-up desktop del Landing Page" width="700" />
+<img src="report/images/figma/JouleTrackerMockap(desktop) 1.2.png" alt="Mock-up desktop del Landing Page" width="700" />
 
 **Registro**
 
-<img src="../images/figma/JouleTrackerMockap(desktop) 2.1.png" alt="Mock-up desktop del Landing Page" width="700" />
-<img src="../images/figma/JouleTrackerMockap(desktop) 2.2.png" alt="Mock-up desktop del Landing Page" width="700" />
-<img src="../images/figma/JouleTrackerMockap(desktop) 2.3.png" alt="Mock-up desktop del Landing Page" width="700" />
+<img src="report/images/figma/JouleTrackerMockap(desktop) 2.1.png" alt="Mock-up desktop del Landing Page" width="700" />
+<img src="report/images/figma/JouleTrackerMockap(desktop) 2.2.png" alt="Mock-up desktop del Landing Page" width="700" />
+<img src="report/images/figma/JouleTrackerMockap(desktop) 2.3.png" alt="Mock-up desktop del Landing Page" width="700" />
 
 
 **Mobile**
 
 En la versión mobile del mock-up, la estructura se adapta a pantallas reducidas manteniendo la misma paleta de verdes, tipografía y jerarquía visual que en desktop. La navegación se compacta en un menú desplegable que aparece al tocar el ícono superior, dejando siempre visibles los accesos a Registrarte e Iniciar sesión. Las secciones se apilan en una sola columna: primero el mensaje principal con la imagen del dispositivo móvil, luego las funcionalidades en tarjetas de dos columnas, el paso a paso de "¿Cómo funciona?", la vista previa de la plataforma, la sección "Nosotros" con la misión, visión y equipo, y finalmente el bloque de contacto con los datos de la empresa. Esta adaptación busca que la propuesta de JouleTracker siga siendo clara y fácil de recorrer con el dedo, sin perder la identidad visual definida para desktop.
 
-<img src="../images/figma/JouleTrackerMockap(mobile) 1.1.png" alt="Mock-up mobile del Landing Page" width="350" />
+<img src="report/images/figma/JouleTrackerMockap(mobile) 1.1.png" alt="Mock-up mobile del Landing Page" width="350" />
 
-<img src="../images/figma/JouleTrackerMockap(mobile) 1.2.png" alt="Mock-up mobile de Inicio" width="350" />
+<img src="report/images/figma/JouleTrackerMockap(mobile) 1.2.png" alt="Mock-up mobile de Inicio" width="350" />
 
-<img src="../images/figma/JouleTrackerMockap(mobile) 1.3.png" alt="Mock-up mobile del menu" width="350" />
+<img src="report/images/figma/JouleTrackerMockap(mobile) 1.3.png" alt="Mock-up mobile del menu" width="350" />
 
-<img src="../images/figma/JouleTrackerMockap(mobile) 1.4.png" alt="Mock-up mobile de funcionalidades" width="350" />
+<img src="report/images/figma/JouleTrackerMockap(mobile) 1.4.png" alt="Mock-up mobile de funcionalidades" width="350" />
 
-<img src="../images/figma/JouleTrackerMockap(mobile) 1.5.png" alt="Mock-up mobile de menu" width="350" />
+<img src="report/images/figma/JouleTrackerMockap(mobile) 1.5.png" alt="Mock-up mobile de menu" width="350" />
 
-<img src="../images/figma/JouleTrackerMockap(mobile) 1.6.png" alt="Mock-up mobile de Cómo funciona" width="350" />
+<img src="report/images/figma/JouleTrackerMockap(mobile) 1.6.png" alt="Mock-up mobile de Cómo funciona" width="350" />
 
-<img src="../images/figma/JouleTrackerMockap(mobile) 1.7.png" alt="Mock-up mobile de menu" width="350" />
+<img src="report/images/figma/JouleTrackerMockap(mobile) 1.7.png" alt="Mock-up mobile de menu" width="350" />
 
 
-<img src="../images/figma/JouleTrackerMockap(mobile) 1.8.png" alt="Mock-up mobile de nosotros" width="350" />
+<img src="report/images/figma/JouleTrackerMockap(mobile) 1.8.png" alt="Mock-up mobile de nosotros" width="350" />
 
-<img src="../images/figma/JouleTrackerMockap(mobile) 1.9.png" alt="Mock-up mobile de menu" width="350" />
+<img src="report/images/figma/JouleTrackerMockap(mobile) 1.9.png" alt="Mock-up mobile de menu" width="350" />
 
-<img src="../images/figma/JouleTrackerMockap(mobile) 2.1.png" alt="Mock-up mobile de contacto" width="350" />
+<img src="report/images/figma/JouleTrackerMockap(mobile) 2.1.png" alt="Mock-up mobile de contacto" width="350" />
 
 
 
 **El usuario puede ingresar con su cuenta**
 
-<img src="../images/figma/JouleTrackerMockap(mobile) 2.2.png" alt="Mock-up mobile verifica email." width="350" />
+<img src="report/images/figma/JouleTrackerMockap(mobile) 2.2.png" alt="Mock-up mobile verifica email." width="350" />
 
-<img src="../images/figma/JouleTrackerMockap(mobile) 2.3.png" alt="Mock-up mobile del Landing Page" width="350" />
+<img src="report/images/figma/JouleTrackerMockap(mobile) 2.3.png" alt="Mock-up mobile del Landing Page" width="350" />
 
-<img src="../images/figma/JouleTrackerMockap(mobile) 2.4.png" alt="Mock-up mobile del Landing Page" width="350" />
+<img src="report/images/figma/JouleTrackerMockap(mobile) 2.4.png" alt="Mock-up mobile del Landing Page" width="350" />
 
 **El usuario puede crear su propia cuenta**
 
-<img src="../images/figma/JouleTrackerMockap(mobile) 2.5.png" alt="Mock-up mobile del Landing Page" width="350" />
+<img src="report/images/figma/JouleTrackerMockap(mobile) 2.5.png" alt="Mock-up mobile del Landing Page" width="350" />
 
-<img src="../images/figma/JouleTrackerMockap(mobile) 2.6.png" alt="Mock-up mobile del Landing Page" width="350" />
+<img src="report/images/figma/JouleTrackerMockap(mobile) 2.6.png" alt="Mock-up mobile del Landing Page" width="350" />
 
 ## 4.4. Aplicación Web UX/UI Design.
 
@@ -1510,36 +1515,36 @@ Los wireframes de la aplicación definen la estructura base de las vistas más i
 
 En escritorio, los wireframes muestran una estructura consistente en los siete módulos del panel: un sidebar fijo a la izquierda con acceso a Inicio, Consumo, Dispositivos, Alertas, Reportes, Recomendaciones y Configuración, y un área central que cambia según el módulo seleccionado. En **Inicio** y **Consumo** se prioriza un resumen visual del gasto eléctrico mediante tarjetas de métricas y gráficos de consumo. En **Dispositivos** y **Alertas** el foco pasa a tablas con el detalle de cada dispositivo o notificación. En **Reportes** se organiza la información histórica con filtros y comparativas, mientras que en **Recomendaciones** se muestran tarjetas de sugerencias personalizadas de ahorro. Finalmente, **Configuración** agrupa los datos de la cuenta, del hogar y las preferencias del usuario en bloques independientes. Esta consistencia entre módulos facilita que el usuario aprenda a usar el panel una sola vez y lo aplique en cualquier sección.
 
-<img src="../images/figma/JouleTrackerDashboard(desktop) 1.1.png" alt="Wireframe del Dashboard - Inicio" width="700" />
-<img src="../images/figma/JouleTrackerDashboard(desktop) 1.2.png" alt="Wireframe del Dashboard - Consumo" width="700" />
-<img src="../images/figma/JouleTrackerDashboard(desktop) 1.3.png" alt="Wireframe del Dashboard - Dispositivos" width="700" />
-<img src="../images/figma/JouleTrackerDashboard(desktop) 1.4.png" alt="Wireframe del Dashboard - Alertas" width="700" />
-<img src="../images/figma/JouleTrackerDashboard(desktop) 1.5.png" alt="Wireframe del Dashboard - Reportes" width="700" />
-<img src="../images/figma/JouleTrackerDashboard(desktop) 1.6.png" alt="Wireframe del Dashboard - Recomendaciones" width="700" />
-<img src="../images/figma/JouleTrackerDashboard(desktop) 1.7.png" alt="Wireframe del Dashboard - Configuraciones" width="700" />
+<img src="report/images/figma/JouleTrackerDashboard(desktop) 1.1.png" alt="Wireframe del Dashboard - Inicio" width="700" />
+<img src="report/images/figma/JouleTrackerDashboard(desktop) 1.2.png" alt="Wireframe del Dashboard - Consumo" width="700" />
+<img src="report/images/figma/JouleTrackerDashboard(desktop) 1.3.png" alt="Wireframe del Dashboard - Dispositivos" width="700" />
+<img src="report/images/figma/JouleTrackerDashboard(desktop) 1.4.png" alt="Wireframe del Dashboard - Alertas" width="700" />
+<img src="report/images/figma/JouleTrackerDashboard(desktop) 1.5.png" alt="Wireframe del Dashboard - Reportes" width="700" />
+<img src="report/images/figma/JouleTrackerDashboard(desktop) 1.6.png" alt="Wireframe del Dashboard - Recomendaciones" width="700" />
+<img src="report/images/figma/JouleTrackerDashboard(desktop) 1.7.png" alt="Wireframe del Dashboard - Configuraciones" width="700" />
 
 **Mobile**
 
 En la versión mobile del Dashboard, la navegación lateral se reemplaza por una barra inferior fija con acceso directo a los módulos más usados (Inicio, Consumo, Dispositivos, Alertas) y un botón "Más" que despliega el resto de opciones (Reportes, Recomendaciones, Configuración, Contacto y Cerrar sesión) en un menú lateral. El contenido de cada módulo se reorganiza en una sola columna, apilando las tarjetas de métricas y los gráficos que en desktop iban en fila, para que toda la información siga siendo legible sin necesidad de hacer scroll horizontal. Las tablas de Dispositivos y Alertas se simplifican a listas verticales con la información esencial de cada fila, y en Configuración los bloques de información personal, hogar, preferencias y notificaciones se apilan uno debajo del otro, manteniendo el mismo criterio de agrupación que en la versión de escritorio.
 
-<img src="../images/figma/JouleTrackerDashboard(Mobile) 1.1.png" alt="Wireframe del Dashboard - Inicio" width="700" />
+<img src="report/images/figma/JouleTrackerDashboard(Mobile) 1.1.png" alt="Wireframe del Dashboard - Inicio" width="700" />
 
-<img src="../images/figma/JouleTrackerDashboard(Mobile) 1.2.png" alt="Wireframe del Dashboard - Inicio" width="700" />
+<img src="report/images/figma/JouleTrackerDashboard(Mobile) 1.2.png" alt="Wireframe del Dashboard - Inicio" width="700" />
 
-<img src="../images/figma/JouleTrackerDashboard(Mobile) 1.3.png" alt="Wireframe del Dashboard - Inicio" width="700" />
+<img src="report/images/figma/JouleTrackerDashboard(Mobile) 1.3.png" alt="Wireframe del Dashboard - Inicio" width="700" />
 
-<img src="../images/figma/JouleTrackerDashboard(Mobile) 1.4.png" alt="Wireframe del Dashboard - Inicio" width="700" />
+<img src="report/images/figma/JouleTrackerDashboard(Mobile) 1.4.png" alt="Wireframe del Dashboard - Inicio" width="700" />
 
-<img src="../images/figma/JouleTrackerDashboard(Mobile) 1.5.png" alt="Wireframe del Dashboard - Inicio" width="700" />
+<img src="report/images/figma/JouleTrackerDashboard(Mobile) 1.5.png" alt="Wireframe del Dashboard - Inicio" width="700" />
 
-<img src="../images/figma/JouleTrackerDashboard(Mobile) 1.6.png" alt="Wireframe del Dashboard - Inicio" width="700" />
+<img src="report/images/figma/JouleTrackerDashboard(Mobile) 1.6.png" alt="Wireframe del Dashboard - Inicio" width="700" />
 
-<img src="../images/figma/JouleTrackerDashboard(Mobile) 1.7.png" alt="Wireframe del Dashboard - Inicio" width="700" />
+<img src="report/images/figma/JouleTrackerDashboard(Mobile) 1.7.png" alt="Wireframe del Dashboard - Inicio" width="700" />
 
-<img src="../images/figma/JouleTrackerDashboard(Mobile) 1.8.png" alt="Wireframe del Dashboard - Inicio" width="700" />
+<img src="report/images/figma/JouleTrackerDashboard(Mobile) 1.8.png" alt="Wireframe del Dashboard - Inicio" width="700" />
 
 
-<img src="../images/figma/JouleTrackerDashboard(Mobile) 1.9.png" alt="Wireframe del Dashboard - Inicio" width="700" />
+<img src="report/images/figma/JouleTrackerDashboard(Mobile) 1.9.png" alt="Wireframe del Dashboard - Inicio" width="700" />
 
 
 
@@ -1550,36 +1555,36 @@ En la versión mobile del Dashboard, la navegación lateral se reemplaza por una
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-<img src="../images/wireflows/wireflow1.png" alt="WireFlows - Registrarse" width="1200" />
+<img src="report/images/wireflows/wireflow1.png" alt="WireFlows - Registrarse" width="1200" />
 
-<img src="../images/wireflows/wireflow2.png" alt="WireFlows - Consumo" width="1200" />
+<img src="report/images/wireflows/wireflow2.png" alt="WireFlows - Consumo" width="1200" />
 
-<img src="../images/wireflows/wireflow3.png" alt="WireFlows - Dispostivos" width="1200" />
+<img src="report/images/wireflows/wireflow3.png" alt="WireFlows - Dispostivos" width="1200" />
 
-<img src="../images/wireflows/wireflow4.png" alt="WireFlows - Alertas" width="1200" />
+<img src="report/images/wireflows/wireflow4.png" alt="WireFlows - Alertas" width="1200" />
 
 ### 4.4.3. Web Applications Mock-ups
 
 Los mock-ups de JouleTracker muestran la versión visual final de la aplicación, incorporando la paleta de verdes, la tipografía y el espaciado definidos para la marca. En estas vistas se evidencia cómo la jerarquía visual y la arquitectura de información definidas en los wireframes se traducen en pantallas operativas, claras y consistentes tanto para el jefe de hogar como para el dueño de un pequeño negocio.
 
 En escritorio, los mock-ups reflejan una interfaz de trabajo con navegación lateral persistente, tarjetas de métricas, gráficos y tablas orientadas a la lectura del consumo eléctrico. En mobile, la experiencia se reorganiza en bloques táctiles de una sola columna, priorizando la consulta rápida y las acciones esenciales.
-<img src="../images/figma/Dashboard_Figma_(Desktop)_1.jpeg" alt="Dashboard Inicio" width="700" />
+<img src="report/images/figma/Dashboard_Figma_(Desktop)_1.jpeg" alt="Dashboard Inicio" width="700" />
 
-<img src="../images/figma/Dashboard_Figma_(Desktop)_2.jpeg" alt="Dashboard Consumo" width="700" />
+<img src="report/images/figma/Dashboard_Figma_(Desktop)_2.jpeg" alt="Dashboard Consumo" width="700" />
 
-<img src="../images/figma/Dashboard_Figma_(Desktop)_3.jpeg" alt="Dashboard Dispositivos" width="700" />
+<img src="report/images/figma/Dashboard_Figma_(Desktop)_3.jpeg" alt="Dashboard Dispositivos" width="700" />
 
-<img src="../images/figma/Dashboard_Figma_(Desktop)_4.jpeg" alt="Dashboard Alertas" width="700" />
+<img src="report/images/figma/Dashboard_Figma_(Desktop)_4.jpeg" alt="Dashboard Alertas" width="700" />
 
-<img src="../images/figma/Dashboard_Figma_(Desktop)_5.jpeg" alt="Dashboard Reportes" width="700" />
+<img src="report/images/figma/Dashboard_Figma_(Desktop)_5.jpeg" alt="Dashboard Reportes" width="700" />
 
-<img src="../images/figma/Dashboard_Figma_(Desktop)_6.jpeg" alt="Dashboard Recomendaciones" width="700" />
+<img src="report/images/figma/Dashboard_Figma_(Desktop)_6.jpeg" alt="Dashboard Recomendaciones" width="700" />
 
-<img src="../images/figma/Dashboard_Figma_(Desktop)_7.jpeg" alt="Dashboard Configuración" width="700" />
+<img src="report/images/figma/Dashboard_Figma_(Desktop)_7.jpeg" alt="Dashboard Configuración" width="700" />
 
-<img src="../images/figma/Iniciar cuenta_Figma_(Desktop)_1.jpeg" alt="Dashboard Configuración" width="700" />
+<img src="report/images/figma/Iniciar cuenta_Figma_(Desktop)_1.jpeg" alt="Dashboard Configuración" width="700" />
 
-<img src="../images/figma/Registrarse_Figma_(Desktop)_2.jpeg" alt="Dashboard Configuración" width="700" />
+<img src="report/images/figma/Registrarse_Figma_(Desktop)_2.jpeg" alt="Dashboard Configuración" width="700" />
 
 **Login and Register Web**
 
@@ -1590,7 +1595,7 @@ En escritorio, los mock-ups reflejan una interfaz de trabajo con navegación lat
 5) El botón principal, en el caso del login permite iniciar sesión, mientras que en el registro permite crear la cuenta.
 6) El bloque lateral de apoyo, que refuerza el mensaje de valor de la plataforma junto con los beneficios clave (datos en tiempo real, alertas personalizadas, acceso desde cualquier dispositivo, o en el registro: fácil de usar, datos seguros, impacto real).
 
-<img src="../images/figma/Iniciar cuenta_Figma_(Desktop)_1.jpeg" alt="Dashboard Configuración" width="700" />
+<img src="report/images/figma/Iniciar cuenta_Figma_(Desktop)_1.jpeg" alt="Dashboard Configuración" width="700" />
 
 **Dashboard - Inicio**
 
@@ -1600,7 +1605,7 @@ En escritorio, los mock-ups reflejan una interfaz de trabajo con navegación lat
 4) Los paneles de consumo en tiempo real, comparativa de consumo y emisiones evitadas, que refuerzan al usuario el impacto directo de sus hábitos de consumo.
 5) Los paneles de alertas recientes y recomendaciones para el usuario, mostrando lo más urgente que necesita revisar.
 
-<img src="../images/figma/Dashboard_Figma_(Desktop)_1.jpeg" alt="Dashboard Inicio" width="700" />
+<img src="report/images/figma/Dashboard_Figma_(Desktop)_1.jpeg" alt="Dashboard Inicio" width="700" />
 
 **Consumo**
 
@@ -1608,17 +1613,17 @@ En escritorio, los mock-ups reflejan una interfaz de trabajo con navegación lat
 2) La vista detallada del consumo eléctrico del periodo seleccionado, con las mismas métricas que Inicio pero enfocadas en el detalle del periodo actual.
 3) Los gráficos de consumo por día, comparativa de consumo y el historial de consumo con fecha, costo y estado de cada registro.
 
-<img src="../images/figma/Dashboard_Figma_(Desktop)_2.jpeg" alt="Dashboard Consumo" width="700" />
+<img src="report/images/figma/Dashboard_Figma_(Desktop)_2.jpeg" alt="Dashboard Consumo" width="700" />
 
 
 **Dispositivos**
 
 1) La barra de navegación lateral de la plataforma, interactuando con ella el usuario puede navegar a las diferentes secciones del sistema.
-2) La sección con la vista general de los dispositivos conectados a la red eléctrica, mostrando cuántos dispositivos hay, el consumo total actual, el costo estimado del mes y el CO₂ evitado.
+2) La sección con la vista general de los dispositivos conectados a la red eléctrica, mostrando cuántos dispositivos hay, el consumo total actual, el costo estimado del mes y el CO â€šâ€š evitado.
 3) La lista detallada de dispositivos, mostrando su estado, consumo actual, consumo acumulado, costo y última actividad, con acciones para gestionarlos.
 4) El botón principal de esta sección, el cual permite agregar un nuevo dispositivo a la red.
 
-<img src="../images/figma/Dashboard_Figma_(Desktop)_3.jpeg" alt="Dashboard Dispositivos" width="700" />
+<img src="report/images/figma/Dashboard_Figma_(Desktop)_3.jpeg" alt="Dashboard Dispositivos" width="700" />
 
 **Alertas**
 
@@ -1626,22 +1631,22 @@ En escritorio, los mock-ups reflejan una interfaz de trabajo con navegación lat
 2) La sección con la vista general de las alertas del usuario, mostrando cuántas están activas, cuántas se resolvieron, el total del mes y la reducción de alertas respecto al mes anterior.
 3) La lista detallada de las alertas, filtrable por tipo, mostrando el mensaje, el dispositivo relacionado, la fecha, el estado y las acciones disponibles para cada una.
 
-<img src="../images/figma/Dashboard_Figma_(Desktop)_4.jpeg" alt="Dashboard Alertas" width="700" />
+<img src="report/images/figma/Dashboard_Figma_(Desktop)_4.jpeg" alt="Dashboard Alertas" width="700" />
 
 **Reportes**
 
 1) La barra de navegación lateral de la plataforma, interactuando con ella el usuario puede navegar a las diferentes secciones del sistema.
 2) El botón para generar un nuevo reporte y el selector de rango de fechas a analizar.
-3) La sección con la vista general del periodo (consumo total, costo total, emisiones de CO₂ y días analizados) junto a los gráficos de consumo, comparativa, tendencia y el historial de reportes guardados.
+3) La sección con la vista general del periodo (consumo total, costo total, emisiones de CO â€šâ€š y días analizados) junto a los gráficos de consumo, comparativa, tendencia y el historial de reportes guardados.
 
-<img src="../images/figma/Dashboard_Figma_(Desktop)_5.jpeg" alt="Dashboard Reportes" width="700" />
+<img src="report/images/figma/Dashboard_Figma_(Desktop)_5.jpeg" alt="Dashboard Reportes" width="700" />
 
 **Recomendaciones**
 
 1) La barra de navegación lateral de la plataforma, interactuando con ella el usuario puede navegar a las diferentes secciones del sistema.
-2) La sección con la vista general del ahorro potencial, la reducción estimada, el CO₂ evitado y el número de recomendaciones activas.
+2) La sección con la vista general del ahorro potencial, la reducción estimada, el CO â€šâ€š evitado y el número de recomendaciones activas.
 3) Las tarjetas de recomendaciones personalizadas, filtrables por categoría, mostrando el ahorro estimado de cada una y un acceso para ver más detalles.
-<img src="../images/figma/Dashboard_Figma_(Desktop)_6.jpeg" alt="Dashboard Recomendaciones" width="700" />
+<img src="report/images/figma/Dashboard_Figma_(Desktop)_6.jpeg" alt="Dashboard Recomendaciones" width="700" />
 
 **Configuración**
 
@@ -1651,26 +1656,26 @@ En escritorio, los mock-ups reflejan una interfaz de trabajo con navegación lat
 4) La sección "Mi hogar", donde el usuario configura el tipo de vivienda, número de habitantes, ubicación y tarifa eléctrica para obtener recomendaciones más precisas.
 5) La sección de preferencias de consumo (unidad de energía, moneda, formato de fecha y hora) y la sección de notificaciones, donde el usuario elige qué avisos quiere recibir.
 
-<img src="../images/figma/Dashboard_Figma_(Desktop)_7.jpeg" alt="Dashboard Configuración" width="700" />
+<img src="report/images/figma/Dashboard_Figma_(Desktop)_7.jpeg" alt="Dashboard Configuración" width="700" />
 
 **Mobile**
 
 1) La navegación se compacta en una barra inferior con acceso a los módulos más usados, dejando el resto en un menú desplegable.
 2) Cada sección conserva las mismas métricas y funcionalidades de la versión desktop, pero reorganizadas en una sola columna para facilitar la lectura y la interacción táctil.
-<img src="../images/figma/Dashboard_Figma_(Mobile)_3.jpeg" alt="Dashboard Iniciar sesión" width="700" />
-<img src="../images/figma/Dashboard_Figma_(Mobile)_1.jpeg" alt="Dashboard Crear Cuenta" width="700" />
+<img src="report/images/figma/Dashboard_Figma_(Mobile)_3.jpeg" alt="Dashboard Iniciar sesión" width="700" />
+<img src="report/images/figma/Dashboard_Figma_(Mobile)_1.jpeg" alt="Dashboard Crear Cuenta" width="700" />
 
-<img src="../images/figma/Dashboard_Figma_(Mobile)_2.jpeg" alt="Dashboard mobile" width="700" />
+<img src="report/images/figma/Dashboard_Figma_(Mobile)_2.jpeg" alt="Dashboard mobile" width="700" />
 
 
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
-<img src="../images/userflow/userflow1.png" alt="userflows - Inicio de sesion" width="1200" />
+<img src="report/images/userflow/userflow1.png" alt="userflows - Inicio de sesion" width="1200" />
 
-<img src="../images/userflow/userflow2.png" alt="userflows - Registro" width="1200" />
+<img src="report/images/userflow/userflow2.png" alt="userflows - Registro" width="1200" />
 
-<img src="../images/userflow/userflow3.png" alt="userflows - Registro de dispositivos" width="1200" />
+<img src="report/images/userflow/userflow3.png" alt="userflows - Registro de dispositivos" width="1200" />
 
 
 ## 4.5. Aplicación Web Prototyping.
@@ -1679,12 +1684,12 @@ La fase de prototipado de JouleTracker nos permitió simular la navegación real
 
 **Escritorio**
 
-<img src="../images/figma/desktop-prototype.png" alt="desktop-prototype" width="700" />
+<img src="report/images/figma/desktop-prototype.png" alt="desktop-prototype" width="700" />
 
 <a href="https://www.figma.com/proto/I9Hbim3oES3bOynqQrzlHw/JouleTracker_Mockap-II--Desktop-?node-id=24-13&t=ywhOr6HZ8TOlJlUd-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=24%3A13" target="_blank">Ver prototipo en Figma</a>
 
 **Mobile**
-<img src="../images/figma/mobile-prototype.png" alt="mobileprototype" width="700" />
+<img src="report/images/figma/mobile-prototype.png" alt="mobileprototype" width="700" />
 
 <a href="https://www.figma.com/proto/2cOm4G2UT14h4DdrItKjsA/JouleTracker_Mockap_mobile?node-id=2-66&t=e5ma48eTjakvBbnU-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1" target="_blank">Ver prototipo en Figma</a>
 
@@ -1707,38 +1712,38 @@ Bounded Context 1: Identity & Access Management
 
 Este contexto delimitado constituye el núcleo de seguridad y gestión de accesos para los usuarios residenciales y comerciales dentro de la plataforma JoulTracker. Se identificaron entidades clave como Usuario, Credenciales y Sesión, junto con conceptos del lenguaje ubicuo como token y autenticación. A partir de comandos como Register User y Log In, se generan eventos como User registered y User authenticated. Asimismo, se definieron políticas de seguridad automatizadas, como el envío de códigos de verificación tras el registro inicial y el bloqueo preventivo de cuentas tras detectar múltiples intentos fallidos de acceso.
 
-![bounded context 1](../images/design-level-event-storming/bc1.png)
+![bounded context 1](report/images/design-level-event-storming/bc1.png)
 
 
 Bounded Context 2: Device & Telemetry Management
 
 Este contexto delimitado centraliza la gestión del hardware IoT y la ingesta física de datos hacia la plataforma. Se identificaron entidades como SensorDevice y Telemetry, junto con conceptos del lenguaje ubicuo como payload y heartbeat. A partir de comandos como Register Sensor y Send Telemetry Data, se generan eventos como Sensor registered y Data received. Se establecieron políticas reactivas críticas para mantener la consistencia del estado del hardware, como la desconexión automática del sensor al detectar un timeout prolongado en la red y su posterior reconexión automática al recuperar la transmisión.
 
-![bounded context 2](../images/design-level-event-storming/bc2.png)
+![bounded context 2](report/images/design-level-event-storming/bc2.png)
 
 Bounded Context 3: Dashboard & Energy Analytics
 
 Este contexto conforma el núcleo analítico de JoulTracker, responsable de procesar la telemetría y calcular el gasto energético en tiempo real. Se manejan entidades como ConsumptionMetric y TariffPlan, utilizando términos como kilovatio-hora (kWh) y estimación monetaria. Mediante comandos como Calculate Energy Consumption y Calculate Estimated Cost, el sistema emite eventos como Energy consumption calculated y Estimated cost calculated. Las políticas de este contexto aseguran la actualización continua del dashboard cada vez que se ingesta nueva data y la conversión automática del consumo a moneda local según la tarifa vigente configurada.
 
-![bounded context 3](../images/design-level-event-storming/bc3.png)
+![bounded context 3](report/images/design-level-event-storming/bc3.png)
 
 Bounded Context 4: Profiles & History Management
 
 Este contexto delimitado gestiona la información personal de los usuarios y la consolidación estructurada de sus series temporales de consumo. Destacan entidades como UserProfile e HistoricalLog. A través de comandos como Update User Profile y Filter Consumption History, el sistema dispara eventos como Profile updated y History date range filtered. Una política clave en este módulo es la consolidación diaria automatizada (a través de disparadores de tiempo o cronjobs), que congela y empaqueta las lecturas cada 24 horas para garantizar consultas históricas eficientes sin sobrecargar la base de datos.
 
-![bounded context 4](../images/design-level-event-storming/bc4.png)
+![bounded context 4](report/images/design-level-event-storming/bc4.png)
 
 Bounded Context 5: Alerting & Energy Optimization
 
 Este contexto es el motor de prevención y optimización energética de la plataforma. Gira en torno a entidades como ConsumptionThreshold y AlertNotification, integrando conceptos como umbral de advertencia y patrón de consumo. A partir de comandos como Set Consumption Limit y Evaluate Consumption Thresholds, se originan eventos como Consumption limit set y Abnormal consumption detected. Sus políticas son altamente reactivas: evalúan cada nuevo registro contra las metas del usuario para despachar notificaciones inmediatas o generar recomendaciones de ahorro de forma automática si se detectan patrones anómalos.
 
-![bounded context 5](../images/design-level-event-storming/bc5.png)
+![bounded context 5](report/images/design-level-event-storming/bc5.png)
 
 Bounded Context 6: Facility & Small Business Analytics
 
 Este contexto delimitado provee las herramientas avanzadas de estructuración física para el segmento comercial (MYPE). Se identificaron entidades como BusinessArea y conceptos como mapeo de zonas y rendimiento de equipamiento. Comandos como Create Business Area y Compare Areas Consumption desencadenan eventos clave como Business area registered y Area consumption compared. Las políticas de este contexto automatizan la agregación de métricas por zona y alertan sobre consumos atípicos (fugas energéticas o maquinaria encendida por error) cuando los locales comerciales se encuentran fuera de su horario de atención.
 
-![bounded context 6](../images/design-level-event-storming/bc6.png)
+![bounded context 6](report/images/design-level-event-storming/bc6.png)
 
 Se adjunta el enlance del table de miro con el proceso: [miro](https://miro.com/welcomeonboard/TnpJZmYyak5sRFNiYk9yemozbUJtUjBLZDZyYUpTek9McmxaMk9lM0VlTkFEZy81cU5OWWxrZ0U2Rkp0aUxVbWxMOXhrbDEvNkU5QTE3djZjbDNXb0tKa0EydzdPN20yN3dxUXNXSzdXb1J4ZDJITG5ndnJXN1piUnEyeEJpdEl3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=815831854787)
 
@@ -1751,7 +1756,7 @@ Para este proyecto, el diagrama detalla la relación entre la plataforma y sus p
 
 El propósito de esta vista es proporcionar una comprensión clara y no técnica del alcance del sistema, el flujo principal de valor y sus dependencias tecnológicas externas.
 
-![context](../images/Architecture-Diagrams/C4Context.png)
+![context](report/images/Architecture-Diagrams/C4Context.png)
 
 ### 4.6.3. Software Architecture Container Diagrams
 
@@ -1762,7 +1767,7 @@ Para la plataforma JouleTracker, el diagrama ilustra una separación arquitectó
 
 Adicionalmente, esta vista mapea el flujo de los datos especificando los protocolos de comunicación utilizados (como llamadas HTTPS/REST y conexiones a base de datos). También evidencia que es la Backend API la que asume la responsabilidad exclusiva de orquestar la ingesta directa desde los sensores IoT y la integración segura con los servicios de terceros (Stripe y Brevo) identificados en el nivel anterior.
 
-![container](../images/Architecture-Diagrams/C4Container.png)
+![container](report/images/Architecture-Diagrams/C4Container.png)
 
 
 ### 4.6.4. Software Architecture Components Diagrams
@@ -1774,7 +1779,7 @@ Para la API de JouleTracker, el diagrama ilustra una arquitectura interna fuerte
 
 Finalmente, la vista detalla los componentes de infraestructura de salida (Repositorios SQL y Clientes REST), que asumen la responsabilidad puramente técnica de persistir los agregados en la base de datos relacional y ejecutar las llamadas hacia los sistemas de terceros como Stripe y Brevo, manteniendo el núcleo del negocio aislado de los detalles de implementación externa.
 
-![component](../images/Architecture-Diagrams/C4Component.png)
+![component](report/images/Architecture-Diagrams/C4Component.png)
 
 
 ## 4.7. Software Object-Oriented Design
@@ -1784,7 +1789,7 @@ Finalmente, la vista detalla los componentes de infraestructura de salida (Repos
 #### Consumption Analysis Context
 
 <p align="center">
-  <img src="../images/Uml-Diagram/Consumption Analysis Context .png" width="100%">
+  <img src="report/images/Uml-Diagram/Consumption Analysis Context .png" width="100%">
 </p>
 
 [Ver diagrama UML en PlantUML](https://www.plantuml.com/plantuml/png/tLXDR-Cs4BthLn2-DDr53BUz6K6mhkrc1UGZjUAsLqQQA4GaKIL7NhZj_lUEP4OX8rdq6jbBSh58pZoIR-ODoNpIo1LMUHPay80C9LCYVKIM20Kn2ba4-aaK9LSyPoMFdtWA4MupOFKmBz8CB8CuurhF49Muhn32M1QH-0VO97WK2J38Izoo7F9xK3e8TCm9vkV9PCA-Y0GVBPoa5EoNoIG8p8niHBF9F8SYuVMQSbvGBpLnpCio4t7JEtxWCKzWnFuD66ExnR2LutZLElxMsBApizt7-Rdngly-iXGAK1p1zJwf6xn8fYoyw3MOxyP_dBwQraAkogJZ5Y77Iblewxr61yoG0hfZ-jTjH4J2oTyLg6sz-7qMlzS6X7qfD9wv9kVM31IukCeuGiGteaXNeAiCTGi_xnr-nhOx6yolmTT30ft8d8jYdCi4iZ5r21IWdsCDHPMpMoMa4hYzX0raLZWlR_vilw-MYt1zrJO_XnUVsyPwTR6ylZDhUe7j2uE5FflVXNyihUPyUNktNBGTYp2w2gF8wbd-THkkgDrEr9-hb9kpD5MGSWIsaXAT73rbWZ9blGuNLbSk2u5IGT94C-mQeC0CA0QeA0PMVscecxeaMXQWKUGS8Td5RyeM45E7RQ8RQgQzXFLewuIIOID5qX67aKC1Nw81HEFjOt4M6owN1TAs_1ow2TZ38MyG5w1Z9ShwiuTFKGkrp021_E-bp83R4isvUfgzc9pitOijbhVSGns2T4lea5YHx0PxBZNsMtNBWAPjj5R72jlKm5ROea1GLDV1KtA97FFLgUHuvQg2w3PyE5PtjJHeo0sc6NnMnRxnfQkEBXFkPZmLthSXrstVXgwVzMCj-jYmrALTG3SglhE4Tj7y7XwKVhw6pfJk73wUZg01DjJGGrUBv_HCbhKfBMhHU3OjTsaUUPA1ZEDA4JSt1UKHOTw97Fo5BeRo-qr_16SAIgafo7ionrt-oXWtyMmRhuEg-GPEt7bVdmxTK-L150abfSapRH-DthkESIO_yUBYMX_1Z0Qr4J7ejjoPjfSbKnAYdVqxkB8UoLjprJoOjQOyj9oz_wkoA1uKrwYg62i5jWu7AfWjmJ0litUbkpOrDB6XaNHNe99P1cgGaNbhrYirOeG2gN7A-hMrsWrtLauHBMMXOT_DjuLTMxr-iEFfKA1bfUgccTfbPNXx3ZLEbAt-_eV7n_RXqHqQVd7O1s4VJTzsuBLFZNOPRqEc2SsmweoHisBn_HaqyNgpRTFE8BytYlBkTcQiNM6XDEFUOkDNmGzijRoSpSERwsKKkCRizFJSVUZs6VITPQ_jHZ-Ds8VJKpQQZCSVHhrFpo4N-dHgV30ijF7ultFFEHvqjM3y_2Tq4EojViI7xpzfKrPfq1u8JouOZC0p5K5vBaPJba06AKVGHu2P-q8NAXYUTJpsXOVG7kad0-s7yaVCXWk6za1etfTQ2-L76dgC6HW_MSJxm1l0PCB0KWu320QlE2IC0OnXtsu-qvmbA2qq7fGfWyz7WghkCw4V3ygKePUWZHJu1DZTbAjhlsVNXX1Y1JlzVAB1Ai_-1m00)
@@ -1792,7 +1797,7 @@ Finalmente, la vista detalla los componentes de infraestructura de salida (Repos
 #### Device Management Context
 
 <p align="center">
-  <img src="../images/Uml-Diagram/Device Management Context .png" width="100%">
+  <img src="report/images/Uml-Diagram/Device Management Context .png" width="100%">
 </p>
 
 [Ver diagrama UML en PlantUML](https://www.plantuml.com/plantuml/png/tLXHR-Cs37xthn3wijmL3RBjBIYAowMvmK0lnPfqm1vLYtM5isLFadl8jlllOwmufMSnItO5XbrV78dyAFAZI4bzvxoqlYcBf817BtmbhCwVl53QGkPrPHBtIPjQMbcAMcQVP0uhlob0RCNIv0KGXQoGpisyj_gXyP1cbLdftq5CaYUjG41P-uqeeNm0wvB4PHBD_32PJCHdhVmJiQDgBNwSJ99ajw8uK_2iCoYbmL49nezbNHSwariFnuyoamhEn1-9428u8QvRmCSzu4Eh8oulmu-hgw3T_frZCBbs7cn0ZRAgnANKLAHtFS4ypB-PximJ2nZheyuR2mCJSoePskZ4RIZ4e5Hg1SPLTbqDJCxwCceqp1CxEVYWytwJgj5l3TWDMlY9plwydQH14MomvzvlWf2QY0WxIpT8scMGNhNslYHV3cLJLQNKPbnM2eenJcYlmNK91TEKEzzMNlh6aTJDvklqbyL-c2x_Dl5nbYxNY-LiEN-PkqvNyzlbSZ5VBwvtphsi4vm-UPqFi_kRzQ_K6js6kErcUMuXbnx4NLNvtlQx41gJUd-VNfCf8ql0R7ghJKwcrIxTYXUkDtLCwDgGfZqY8nKmmkmzLreHKLChwNU8aO7FguWbYg84xFX40XRRh6uE1Kw3I8zcnBKBC44tHli3ND1aqrgMXNwmqiE83IjIkwyHevDbNQ2lgV5WdsMnWgmo2ZtTJkHWYQgtqhXIEuTB7rOdIGmEax1EgynT1zfNfjwkYzqNc4Q9bEn-1KveOrdA4laboI6opeZYDRgjJZH8beXdJFyzvDg-rRtf4aIbgtYEK9dGJlJNVA88Xd6Uw_IdktyCxwkkbbYDUwCzaPswWRPdXuRX_eaTI1XY-pqom25tt05rWkKJ0eHd7BZO9QGh3L2BhGwkVjr2sb7V1wOpeA3AiiQYYLk3ZLTwMEiIk6wBcmPKjs6-OitGMazpvXYgBDILqxvYjaB7Mb1gqzKD1ZbpyXb6OPtkG1eUO8_QgFRsqxLYSjU9xfn0umaU1AQw0uNpOB-x-ep_-_kI0xiLkAunXp53AkaUgw3txL-1JwInlTh-8ubjxo0K_h-ksjeyMkcyRJBVMA2r66bUj0pJiYvUiVROxiMi-9_LsZx_3ibo7clDU5iL1TWeOVEz-51vMS3SEZyL_Ugw2zFePJTsTMKSn8hYnSQ-5bxWOKpXfuPfmLMDROV1QZ_QkECqvFY5_VpG4-QSUyBGRJ88zxZ3ZF66VpwWa3uVlfB3a0ckneAm5qXNBySo5zuqHC0K5xyKpzQh4OAEGFaGIeVdOTPfzRpqLISVDfq-dWl-IFk35iENqtVYRd4pcwUtoyKg2Kw8Yukh_YCxWDjv-k3izC--FnDlBoxmEnw_FTkf38IJLXWxBvDu9Ox7VrunXtT2AeWgSsTgaWnQ6mR3_OjjAXe7Ze4mUMOmX3CMap1k89IvzKo5WW9owS4T1jFJVWXDujR7OuvsH3_Xfm37G-bTwNGiII27JcXO51ovfn0OZsAk9XJCk4n89bVjaDP3aB0U2w4-7buZYLvni1OYc8IkIdKZ3iKDam901sgmJZlledR9lgUgVEgPboPYcuT2kwU3suPzD59umfKkZOfMCQj9P8Z8BBJLn5KvPGBD7wKPCP-y0wEQilWB)
@@ -1800,7 +1805,7 @@ Finalmente, la vista detalla los componentes de infraestructura de salida (Repos
 #### Energy Monitoring Context
 
 <p align="center">
-  <img src="../images/Uml-Diagram/Energy Monitoring Context .png" width="100%">
+  <img src="report/images/Uml-Diagram/Energy Monitoring Context .png" width="100%">
 </p>
 
 [Ver diagrama UML en PlantUML](https://www.plantuml.com/plantuml/png/xLbHRzis47xNho3oigvP36zxCugWhkCM1fpOjTk-qz95vYgHAacvSBV-zr4KevvDiRGm3CE6zIMMxlYHz_6xEr9zgJILkYwBf817JRGWakLxJJ8c8TLCy4HzPBoYafQaekb7ciDM7miWZPdol03aa1PKgQdMakrg3OjKy2tx0cISx5a61CfA7qa9vGwaIXALKWFpotWy9fzPflS89wiO-NKyJX8t8xa23Z8_be8pBIJZ-OXMLS5Isgnmz4XJci4L-JqXXBIB87CxuBuRyDhwa1SlsX-tjywx-NVT12DaTWzKrH9AuFfPAigIycn25fjpswmr_JXnao0JWgoaI44fP7n5TRf7mEj-Zs_mvnQ4RfRKR43_YcUUiHVJkHa64N0EUaarg1FeJpN8em5-qsDyszWYNEI0HwXNnpiui1GGRg_z2Nh9b7xXuT_Q2RucNxydaqoKbF5HAJ8eHcOGqmpKarA0roMnp6urrRL2abYjvm_TmtgpcistsyN3c-xLR7M_NixVpU-wDw-dYwLxD2lguD_Mj63ww4tmORfSV1kyVRzTpsVlkkV5GsD7Q4xMdYICeATvBY6d6iX627qYx1l2Z1xUlqSptP3CShlm3ROIG3RL4t9duDwn4f0LU1QqbLXKDJTE2wuX1udHBGCJpBUVBMsAc2q_29PXkHT2WM_4rFW2DDpCkJRanpdPDT2B8Lm1LqBw1aT5c4Mxo9dWgYwh9lMC5wIif0LogiHda7s6WoWqpQ7FbDPI0jTzfaS99j5uUWpEPMgY5lwCNM4CauxeTaeth7-WHGrajViDqhWUiNXw-Fo4ysTocawO6VCwiztW7fIo76rrKm5GBCu774OJr4w80YZtukelas513GnAI9OpJWjBLEzkjdD25lDWWc-0Ai5xucrQvF7Rwfzn-7mAznEH9sFTBW-kgwxpT7MLSGtID6K8Dqz3fVk5k7IjuiubdTaWJ9opRbtczLldv_bbt11xoFD3cqj1-wnDA6H7Aa4X1jjuF53hXoBfn_UxUHmQUuUecc6DXNbevMNCJYI3rT4qUGOzuWWV9qnazcz86n7EWWUAuU38kdPgGQqDgP9zmSO19C41k7Ri15jPcqQGpGzjNxkpO-sJ2oDUUFn-DhGlYTHscMp5KM-B7b5SVWGN7s_3moVkj3sSiFZC0pPNGYMKUHT807-VdRzLwTE39rL53_0ChRldyEqVeHuPpruTZRYPYp9mPiV-RNO-POyPw_GJG_0JybmK0mArel0lGvT4w8yQi7SAP1EiwjgRUmxlOmVXolAs7O53-l-cEPn_UqiSmBwjxfZx_-ZTbl57IPMMTQhDCB_M-Et4BpEBiYh-TRKbt6lymFxXMjB9L8qaA6rg2TTI50N8tZr29QHpZ9GFUxbJPf-ywh5fBOX9P5ALu0e2oU63EzDmy87yI52YbisZc_gKfc2GcAJGAUSwT6k_lkJuSns-VL_xjszFgJw1yON_DVxSBaHhWVF32y4tMdzjVpztpXJuc3AS5QeKbBjWqlbaJDs0q-JJmjaZ5VB2hFY1RERBwMonUfXl4-_3titDxSctClzBYtKv-I3YerpzV4MUtzoGg_5ezFogfwHwRqw6c9_-lE4nRff0wq-2oJiQ_N4RFluaE7VySU7EdIJXgch92_mdmOJK2bHyS5Gy3YW9p6DGecV72ScWWBo9Rn2C9Q0F98dDE1fzPoyCrDxyAK1TWXCvUGv6yu-RFb0Ie0BXX1M3SE8muQCTHeepxZOmV4XpEheCvvpgE8oBRE1YaiYfqYNdTxoyQjKB47QABw4tJKq05KZ5bFRhPS_uSnSy_1BLnZxc6BXwLp2rlom98fzNXiDvfReFAOaNkm3PJYt3nljk1YULq1Qmby2pkYp-1000)
@@ -1808,7 +1813,7 @@ Finalmente, la vista detalla los componentes de infraestructura de salida (Repos
 #### Monitoring Space Context
 
 <p align="center">
-  <img src="../images/Uml-Diagram/Monitoring Space Context.png" width="100%">
+  <img src="report/images/Uml-Diagram/Monitoring Space Context.png" width="100%">
 </p>
 
 [Ver diagrama UML en PlantUML](https://www.plantuml.com/plantuml/png/vLXBR-Cs4BxpLn2-DDrk3BUz6K6mZkqs0l90hRZNWf4cDh4IfP9K2hVT_rwAuieZUyAiaLuMcqDipUFZl3do1sE5jarPi0AUBBSLrtApjJoN6Z8hAyNCHwbgeKN9Qv5z51j8xQu0thA5sXI01B9263EpLil7naAILIgLVmEViAtCWKDPsnqleNm4RHWpcN0mFqqc4_wNpEqMuUIrv3zF9eo54_ceh9IqbPPgOnmDngAk2vc9ri3nayX43YF-3-ESTpRmsru-RUL_yIByugBxSdaPXDk_7tYcGLW8Af1xZREiAakXyYbFvWHxtd6_d_8X7Q6Al2FTUeSHtcp0s2CX8e9fwbnOyBmKh6qZWB3Mnrm4YCW8SGFMSwvsINxsPmDwvu1-HSJVMXhjsX31NEtM1ZG14pXxh1jfxCKGyD8ZVcAV8ddEgr98DIwh78enA2kj1FCvrQ2QidFoOLS3Ikdr_JfTNj_VB7hArJfDxfPf-iVy_lPskPedivkUbzmjrkd3Af2SGGVWgHMsCGX-Ddz8VbyY_GF2R3M_TiyB38VBCWIWhSVPPgDX8opmLLNPGLsUS-aol5ud2qHIeWINMDj6297Dvo1Cz_50x1nCfcNTTWkbxFsROcUFcgFh2PV7vqhcHzMv02jaOSwmTU-fKp403WokVHULPPletUlHA0VXJ8u56WEQ86ie_EWmMrdxg0NpSFSQ8pSgz6xSxD1X_wVTMQCrg6n7P0iKwCrkxG0m4wS3pOa3cFU4Tl3jr5uC8wZlHQaiw2Sd5fsNBaRX6mfIc2XtedGLXfn2lBweNn9Ox6iDYuHyOVl8-HktB6J90OSyOMOOW2HlTL1dhvf6Z_CtsJSFDV1Iv9PzHM29qugXdVuIZck1k5QS7_xpTI_e2D4N38rAf-VB78DdK3PuH4_lhippPIlepbzuFVzqO8N1JOxeLURxCxzNKxvmK0-oXEXaT8NxblF8OKYRyULnqb1NnZF8_0z3jWh2Fc7xXqFxnJES-KCELv3Z--T9gjplCJ8uHgyjM3XK18x6c_SJX_KiCp3zM0pFH4JmE4mxiMzp6Jqji7x1V2siVWQWe7wLAwzKJreOgvlCDXg81aFZYEojfAoBhxQX-fGQvxcnhg6KrLLHW8uFurxC2T7BgmQNCMEdVBudhZeQzZ7GJLqfSz11eNbwe67lxB4m4GETvhdxLpMwU_J8mm0GRc3NwJU5S3dGEo-ri1_THxJJRxX_Oilu6q8MuXvlcI24hSVh-kcXZ5pUySDEZzw9eN7ME3E8DY8ZCWlImswoLU2_F4rekBszt_7LycOsJ-xTopWR2lFpyqlqzaemyGlg0NlquuY_Ep_deybu_6w4unwJT5y7rn8ZUcey_lSoUkqogYE27dszClRIyF9kqhzTJTiACAzhnf8PC1XzWaEWrvCfpw7mlrAOY2gwWYb5HaAFn_7WEeYj-oZ0HFI7GJv1CxAn87M6F4FQn0A1b6WTUbl0YcISV80ZotJ8Aphp93qMtIHS8KSmehf4KRepQz166XihYSYRbjDl7Wjfjh74qYzDM9N5UeNk9xe5QKrQXa_3HcBO1r1vKnR_0G00)
@@ -1816,7 +1821,7 @@ Finalmente, la vista detalla los componentes de infraestructura de salida (Repos
 #### Recommendation Management Context
 
 <p align="center">
-  <img src="../images/Uml-Diagram/Recommendation Management Context .png" width="100%">
+  <img src="report/images/Uml-Diagram/Recommendation Management Context .png" width="100%">
 </p>
 
 [Ver diagrama UML en PlantUML](https://www.plantuml.com/plantuml/png/tLXDR-Cs4BthLn2-DDr53BUz6K6mhkrc1UGZjUAsLqQQA4GaKIL7NhZj_lUEP4OX8rdq6jbBSh58pZoIR-ODoNpIo1LMUHPay80C9LCYVKIM20Kn2ba4-aaK9LSyPoMFdtWA4MupOFKmBz8CB8CuurhF49Muhn32M1QH-0VO97WK2J38Izoo7F9xK3e8TCm9vkV9PCA-Y0GVBPoa5EoNoIG8p8niHBF9F8SYuVMQSbvGBpLnpCio4t7JEtxWCKzWnFuD66ExnR2LutZLElxMsBApizt7-Rdngly-iXGAK1p1zJwf6xn8fYoyw3MOxyP_dBwQraAkogJZ5Y77Iblewxr61yoG0hfZ-jTjH4J2oTyLg6sz-7qMlzS6X7qfD9wv9kVM31IukCeuGiGteaXNeAiCTGi_xnr-nhOx6yolmTT30ft8d8jYdCi4iZ5r21IWdsCDHPMpMoMa4hYzX0raLZWlR_vilw-MYt1zrJO_XnUVsyPwTR6ylZDhUe7j2uE5FflVXNyihUPyUNktNBGTYp2w2gF8wbd-THkkgDrEr9-hb9kpD5MGSWIsaXAT73rbWZ9blGuNLbSk2u5IGT94C-mQeC0CA0QeA0PMVscecxeaMXQWKUGS8Td5RyeM45E7RQ8RQgQzXFLewuIIOID5qX67aKC1Nw81HEFjOt4M6owN1TAs_1ow2TZ38MyG5w1Z9ShwiuTFKGkrp021_E-bp83R4isvUfgzc9pitOijbhVSGns2T4lea5YHx0PxBZNsMtNBWAPjj5R72jlKm5ROea1GLDV1KtA97FFLgUHuvQg2w3PyE5PtjJHeo0sc6NnMnRxnfQkEBXFkPZmLthSXrstVXgwVzMCj-jYmrALTG3SglhE4Tj7y7XwKVhw6pfJk73wUZg01DjJGGrUBv_HCbhKfBMhHU3OjTsaUUPA1ZEDA4JSt1UKHOTw97Fo5BeRo-qr_16SAIgafo7ionrt-oXWtyMmRhuEg-GPEt7bVdmxTK-L150abfSapRH-DthkESIO_yUBYMX_1Z0Qr4J7ejjoPjfSbKnAYdVqxkB8UoLjprJoOjQOyj9oz_wkoA1uKrwYg62i5jWu7AfWjmJ0litUbkpOrDB6XaNHNe99P1cgGaNbhrYirOeG2gN7A-hMrsWrtLauHBMMXOT_DjuLTMxr-iEFfKA1bfUgccTfbPNXx3ZLEbAt-_eV7n_RXqHqQVd7O1s4VJTzsuBLFZNOPRqEc2SsmweoHisBn_HaqyNgpRTFE8BytYlBkTcQiNM6XDEFUOkDNmGzijRoSpSERwsKKkCRizFJSVUZs6VITPQ_jHZ-Ds8VJKpQQZCSVHhrFpo4N-dHgV30ijF7ultFFEHvqjM3y_2Tq4EojViI7xpzfKrPfq1u8JouOZC0p5K5vBaPJba06AKVGHu2P-q8NAXYUTJpsXOVG7kad0-s7yaVCXWk6za1etfTQ2-L76dgC6HW_MSJxm1l0PCB0KWu320QlE2IC0OnXtsu-qvmbA2qq7fGfWyz7WghkCw4V3ygKePUWZHJu1DZTbAjhlsVNXX1Y1JlzVAB1Ai_-1m00)
@@ -1824,7 +1829,7 @@ Finalmente, la vista detalla los componentes de infraestructura de salida (Repos
 #### User Management Context
 
 <p align="center">
-  <img src="../images/Uml-Diagram/UserManagmentContext.png" width="100%">
+  <img src="report/images/Uml-Diagram/UserManagmentContext.png" width="100%">
 </p>
 
 [Ver diagrama UML en PlantUML](https://www.plantuml.com/plantuml/png/xLXBSzis4BxpLs1ygPh46hMzQJAUgBQISfeghcHxUkl0v4h217mK09tQRVvx0GgIbreWBEjqcaDr4ObzxEBR1nPyfGrNfYba8c5jcAcO4fkjORbGa1bHbOb-BygQArwmccVl-GPMvbu2SsHURYGWXanohMV6A77R64Ypgbo91s2JP2joO53KvfuLKDo2qacYCsxLV3kPJDW7aPijqfFNWdqtcII9jyXE6WsguALzBg0qOrxNKcJS-JTUyupdSCB-I1XZEnVOjMN_wS3-kkLWBr_k7ixE7A__FMSADa8RK4vcb5M5DPDFMRf4o-UxrQ-dhM8aonkpjGQSAt0aF-kIa0vFyVwlG6lxXvGsTUvbBbMr5XAGrkjZMjIrR6kZqtAk33UDHahEZqXH7HimRkNx-pGV_TQ0khV2RnxNVdPBLEgEI-6yz3ixIDvqr_VIjrKbWUy0-9XyZ0Szhmekod5HvI373a0ZGE_Z3cLJiCSjeGZFpg_Ic_dXDLqSBQokLvVpnSNyuh3YNjF5crzlvilqTNe-kqhVBRnxZxRyBlhCpN-vJ9T8zt9-y-v7_zwgmobhKtIssIZOS0DiMLMcawgdJEGMxElq0YsjXT9cmGkOifLHejmWckHH4bWePM2ztbObXDQjYnygbV_0zJP0rYqAKnG0HCmKS0Fvp4pPXNsu4WKWgirsGgN5ERA9SbU9F59xexr_UzyEUKKBQrzK1BaN1B0NNJo83xx8V86Ly655SC0o9DwN2jQWeCnSSvgxZBxIzxYhYfGkI-j9mpUXu1cBwKCuhcLbnDftedd9RoNa53cVBWl4g-FuFcvAZvnJZs2QXyCpqdZG58Cgt32VZfZUARggtaCPAf7VQw50uyIa6Tzj0mWBeTjsDmecee8xQnJdz83Ev_lueVE9qe1Qymo2PvQ5oJzvd51IV-qhm7g2zeyOtl9Fq-SkY37YfIz9JFUHnLxJapBk-MSsJ0_JVikEExMgVJPzNZmlNRVfSviStq_qUh5IMzZme8nq1xm0cf1qMB0-jlzz7WPtJYQ87fKhLD__O6zmPryqdIltHGRvt75O-nUjGFlMzIBSUPxJqzUlLrdMAAluNObwJl3am3Kpt8_Xzdo1s8hvjmps1qH1NMbXgaYkxMBZMLnQx5z8RcX-1oDdOtTGqsDzBSgy7NhtXmaPSZtBhWzrmebPQGRxd1pWfp-b8jU6cE-xf3VuQ8lTFFus_dRnJcIWzoUGVu_5mZUZrOxh_ojNtvLhK0ZQErLF0DgsIE7_qgvrebmhhergCjCem5LEcYykyBIevNzPrTuflslYrvTNnOViq1PZRMmLbqPLKe8Au7n-80OBTwJ0Xb-RASCrkzmjUgoMeEkgr834PRKHvQFiM_VgXSY-i7Zm_dPGSusNmpuCHqU1hXhbNhsTBaYXVMEawBqSqSYzl7yoEBxVaaJqO19Fdg0o26pqb7_othjtxIT5p4Szr3yygRCD4TX28-Mm4FaROHnDajxK4L_fr2IzYWx7n_e0nIqkTmhBRCzpv9Qdu_vAAwn_l_qM-ZjbM2_2uoksdB-TdTjlTlDLubnafwTd-CjKKB5ZwbxcTx8dtvomPwUdx6Go7jl7xbSRolBi9DAUar3368__F0kEFOclPimMcMuIMgLU93ww90dkyGWXyirywcfSnzXfKEFyuR0HoIJeXbKG6YgjK0wo_Loguu9q6C9YIKZlU1oEYvNSsZy9EY96uZH8bCHhW2oPC8beGe6madJqGQ8H2JhoOQamf3uIU8JpCO-pU_r40ILHpwXWwEh3yAV87E4bT22QIUSOKTNeBJGHaUqqfBmV5Wq5ktWTmWhrznAeRUWFoc7h0uIfLy1Y6mIRWe7L7n0uboOOhap1MsDzlMEE9ZUud050IzUGPatXVmB)
@@ -1841,7 +1846,7 @@ El **User Management Database Diagram** representa la estructura de persistencia
 
 Las entidades pertenecientes a este contexto se encuentran enfocadas exclusivamente en la gestión de usuarios y sus datos de acceso, evitando almacenar información propia de otros bounded contexts.
 
-![DB1](../images/db-diagrams/db1.png)
+![DB1](report/images/db-diagrams/db1.png)
 
 
 ## 2. Monitoring Space Database Diagram
@@ -1851,7 +1856,7 @@ El **Monitoring Space Database Diagram** representa la estructura de persistenci
 Este bounded context permite almacenar la información de los espacios monitoreados, sus características generales y la relación de los usuarios con dichos espacios. La información relacionada directamente con dispositivos o mediciones pertenece a sus respectivos bounded contexts.
 
 
-![DB2](../images/db-diagrams/db2.png)
+![DB2](report/images/db-diagrams/db2.png)
 
 ## 3. Device Management Database Diagram
 
@@ -1860,7 +1865,7 @@ El **Device Management Database Diagram** representa la estructura de persistenc
 Las entidades de este bounded context permiten identificar los dispositivos y sensores disponibles, almacenar sus configuraciones y mantener un historial de sus estados. Las mediciones generadas por estos dispositivos pertenecen al bounded context de Energy Monitoring.
 
 
-![DB3](../images/db-diagrams/db3.png)
+![DB3](report/images/db-diagrams/db3.png)
 
 ## 4. Energy Monitoring Database Diagram
 
@@ -1869,7 +1874,7 @@ El **Energy Monitoring Database Diagram** representa la estructura de persistenc
 También contempla la organización de las mediciones en lotes y el control de su calidad o validación. Las referencias hacia dispositivos y sensores pertenecen conceptualmente al contexto de Device Management, por lo que no se establecen dependencias de base de datos que rompan la autonomía entre bounded contexts.
 
 
-![DB4](../images/db-diagrams/db4.png)
+![DB4](report/images/db-diagrams/db4.png)
 
 ## 5. Consumption Analysis Database Diagram
 
@@ -1878,7 +1883,7 @@ El **Consumption Analysis Database Diagram** representa la estructura de persist
 Su responsabilidad se centra en transformar las mediciones recopiladas en información útil para comprender el comportamiento del consumo. Las referencias hacia los espacios monitoreados se manejan como referencias externas al bounded context correspondiente.
 
 
-![DB5](../images/db-diagrams/db5.png)
+![DB5](report/images/db-diagrams/db5.png)
 
 ## 6. Recommendation Management Database Diagram
 
@@ -1887,7 +1892,7 @@ El **Recommendation Management Database Diagram** representa la estructura de pe
 Asimismo, permite almacenar las acciones asociadas a cada recomendación, facilitando el seguimiento de las medidas propuestas para mejorar el comportamiento del consumo. Las referencias hacia espacios monitoreados o resultados de análisis se mantienen como referencias externas, preservando la independencia del bounded context.
 
 
-![DB6](../images/db-diagrams/db6.png)
+![DB6](report/images/db-diagrams/db6.png)
 >>>>>>> develop
 
 
@@ -2054,7 +2059,7 @@ Para realizar el despliegue mediante GitHub Pages se sigue el siguiente procedim
 
 El flujo general de despliegue puede representarse de la siguiente manera:
 
-`Development → Git Repository → main → GitHub Pages → Production`
+`Development  â€ â€™ Git Repository  â€ â€™ main  â€ â€™ GitHub Pages  â€ â€™ Production`
 
 #### Estructura utilizada para el despliegue
 
@@ -2067,7 +2072,7 @@ Entre los principales recursos se encuentran:
 | `index.html` | Contiene la estructura principal de la Landing Page. |
 | `css/styles.css` | Contiene los estilos visuales y responsive de la interfaz. |
 | Archivos JavaScript | Gestionan el comportamiento dinámico e interacción de la página. |
-| `images/` | Contiene los recursos gráficos utilizados en la Landing Page. |
+| `report/images/` | Contiene los recursos gráficos utilizados en la Landing Page. |
 | `favicon.svg` | Representa el ícono utilizado por el sitio web. |
 
 #### Validación posterior al despliegue
@@ -2173,7 +2178,7 @@ En esta sección se presentan las evidencias de ejecución correspondientes al S
 
 La siguiente captura muestra la sección principal de la Landing Page de JouleTracker, donde se presenta la propuesta de valor de la plataforma y se orienta al usuario sobre el propósito de la solución.
 
-![Figura: Sección principal de la Landing Page de JouleTracker.](../images/ImagesExecution/jouletracker-landing-page.jpeg)
+![Figura: Sección principal de la Landing Page de JouleTracker.](report/images/ImagesExecution/jouletracker-landing-page.jpeg)
 
 **Figura:** Sección principal de la Landing Page de JouleTracker con la propuesta de valor de la plataforma.
 
@@ -2181,7 +2186,7 @@ La siguiente captura muestra la sección principal de la Landing Page de JouleTr
 
 En esta sección se presentan los principales beneficios que ofrece JouleTracker para el monitoreo y gestión del consumo energético de hogares y pequeños negocios.
 
-![Figura: Sección de beneficios de JouleTracker.](../images/ImagesExecution/jouletracker-beneficios.png)
+![Figura: Sección de beneficios de JouleTracker.](report/images/ImagesExecution/jouletracker-beneficios.png)
 
 **Figura:** Visualización de los principales beneficios de JouleTracker.
 
@@ -2189,7 +2194,7 @@ En esta sección se presentan los principales beneficios que ofrece JouleTracker
 
 La siguiente evidencia muestra la sección destinada a explicar de manera sencilla cómo funciona JouleTracker y cómo la plataforma permite realizar el monitoreo del consumo energético.
 
-![Figura: Sección de funcionamiento de JouleTracker.](../images/ImagesExecution/jouletracker-landing-funcionamiento.jpeg)
+![Figura: Sección de funcionamiento de JouleTracker.](report/images/ImagesExecution/jouletracker-landing-funcionamiento.jpeg)
 
 **Figura:** Explicación del funcionamiento de la plataforma JouleTracker.
 
@@ -2197,7 +2202,7 @@ La siguiente evidencia muestra la sección destinada a explicar de manera sencil
 
 En esta sección se muestran las funcionalidades principales de JouleTracker, orientadas al monitoreo del consumo energético, visualización de información y gestión de los datos obtenidos.
 
-![Figura: Funcionalidades principales de JouleTracker.](../images/ImagesExecution/jouletracker-funcionalidades.png)
+![Figura: Funcionalidades principales de JouleTracker.](report/images/ImagesExecution/jouletracker-funcionalidades.png)
 
 **Figura:** Visualización de las funcionalidades principales de JouleTracker.
 
@@ -2205,7 +2210,7 @@ En esta sección se muestran las funcionalidades principales de JouleTracker, or
 
 La siguiente captura muestra la sección de planes de JouleTracker, donde se presentan las diferentes opciones disponibles para los usuarios. Cada plan cuenta con un precio mensual y características diferenciadas según las necesidades de monitoreo y análisis del consumo energético.
 
-![Figura: Sección de planes y costos de JouleTracker.](../images/ImagesExecution/jouletracker-planes.jpeg)
+![Figura: Sección de planes y costos de JouleTracker.](report/images/ImagesExecution/jouletracker-planes.jpeg)
 
 **Figura:** Visualización de los planes de suscripción y costos mensuales de JouleTracker.
 
@@ -2213,7 +2218,7 @@ La siguiente captura muestra la sección de planes de JouleTracker, donde se pre
 
 La siguiente captura evidencia la disponibilidad de la Landing Page de JouleTracker en idioma inglés, permitiendo que la información sobre la plataforma, sus beneficios y funcionalidades pueda ser presentada a usuarios que utilizan este idioma.
 
-![Figura: Versión en inglés de la Landing Page de JouleTracker.](../images/ImagesExecution/jouletracker-english.jpeg)
+![Figura: Versión en inglés de la Landing Page de JouleTracker.](report/images/ImagesExecution/jouletracker-english.jpeg)
 
 **Figura:** Visualización de la Landing Page de JouleTracker en idioma inglés.
 
@@ -2234,21 +2239,21 @@ Por consiguiente, en esta iteración inicial no se han implementado controladore
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 La evidencia del despliegue de la Landing Page durante el Sprint se mostrará a continuación, el despliegue se realizará en GitHub Pages.
 
-![](../images/deploy-steps/deploy-1.jpeg)
+![](report/images/deploy-steps/deploy-1.jpeg)
 
 Revisamos que el repositorio esté en público:
 
-![](../images/deploy-steps/deploy-2.jpeg)
+![](report/images/deploy-steps/deploy-2.jpeg)
 
 
 Nos dirigimos a la seccion de deploy, y selecionamos la rama main:
 
-![](../images/deploy-steps/deploy-3.jpeg)
+![](report/images/deploy-steps/deploy-3.jpeg)
 
 
 Luego de unos minutos, el deploy se realizara correctamente:
 
-![](../images/deploy-steps/deploy-4.jpeg)
+![](report/images/deploy-steps/deploy-4.jpeg)
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 
@@ -2258,12 +2263,12 @@ Para evidenciar la colaboración del equipo se utilizaron las métricas proporci
 
 Las siguientes capturas muestran la actividad registrada por los integrantes durante el desarrollo del proyecto.
 
-![Insights 1](../images/Insights/Insights1.png)
+![Insights 1](report/images/Insights/Insights1.png)
 
 **Figura2:** Métricas generales de contribución del equipo obtenidas mediante GitHub Insights.
 
 
-![Insights 2](../images/Insights/Insights2.png)
+![Insights 2](report/images/Insights/Insights2.png)
 
 **Figura 2:** Detalle de la participación y commits realizados por los colaboradores del proyecto.
 
@@ -2279,7 +2284,7 @@ Estas métricas permiten evidenciar el trabajo colaborativo desarrollado durante
 
 # Conclusiones
 
-El primer avance (AV1) del proyecto JouleTracker demuestra la consolidación exitosa de las bases estratégicas, arquitectónicas y metodológicas necesarias para la construcción de una plataforma SaaS IoT orientada a la eficiencia energética. A través de la aplicación del marco de trabajo Lean UX, se logró acotar el problema de negocio —la gestión reactiva de la facturación eléctrica— y se establecieron seis hipótesis de valor claramente alineadas con las necesidades de los dos segmentos objetivos: hogares urbanos y pequeñas empresas (MYPEs). Esta alineación garantiza que el desarrollo tecnológico esté justificado por un valor comercial y una necesidad real de los usuarios.
+El primer avance (AV1) del proyecto JouleTracker demuestra la consolidación exitosa de las bases estratégicas, arquitectónicas y metodológicas necesarias para la construcción de una plataforma SaaS IoT orientada a la eficiencia energética. A través de la aplicación del marco de trabajo Lean UX, se logró acotar el problema de negocio  â‚¬â€la gestión reactiva de la facturación eléctrica â‚¬â€ y se establecieron seis hipótesis de valor claramente alineadas con las necesidades de los dos segmentos objetivos: hogares urbanos y pequeñas empresas (MYPEs). Esta alineación garantiza que el desarrollo tecnológico esté justificado por un valor comercial y una necesidad real de los usuarios.
 
 Desde la perspectiva arquitectónica y de diseño, el equipo VoltLab estructuró el sistema utilizando Domain-Driven Design (DDD), identificando seis Bounded Contexts que separan de manera cohesiva los subdominios principales (como Dashboard & Energy Analytics y Alerting & Optimization) de los dominios de soporte y genéricos. Esta abstracción fue plasmada eficazmente en los diagramas del modelo C4, trazando una hoja de ruta técnica clara que divide responsabilidades entre la Landing Page estática, la Single-Page Application (Angular) y la Backend API (Spring Boot/Java), lo cual previene el acoplamiento temprano del software.
 
@@ -2322,7 +2327,7 @@ Finalmente, es fundamental mantener la rigurosidad en la documentación de la ge
 - Structurizr. *Embedding diagrams.*  
   https://docs.structurizr.com/cloud/embed
 
-- Mendel, J. *Seriously, what’s your (startup’s) problem?* Medium.  
+- Mendel, J. *Seriously, what â‚¬â„¢s your (startup â‚¬â„¢s) problem?* Medium.  
   https://medium.com/@jakemendel/seriously-whats-your-startup-s-problem-b3a884c54ab4
 
 - Progressa Lean. *5W+2H - Técnica de análisis de problemas.*  
@@ -2334,7 +2339,7 @@ Finalmente, es fundamental mantener la rigurosidad en la documentación de la ge
 - Open Practice Library. *Ubiquitous Language: Unambiguously define the terms and concepts of a business domain.*  
   https://openpracticelibrary.com/practice/ubiquitous-language/
 
-- Lean UX – Chapter 3. *Scribd.*  
+- Lean UX  â‚¬â€œ Chapter 3. *Scribd.*  
   https://www.scribd.com/document/655516553/Leanux-Sampler
 
 - Mountain Goat Software. *User Stories Articles.*  
@@ -2346,13 +2351,13 @@ Finalmente, es fundamental mantener la rigurosidad en la documentación de la ge
 - UXPressia. *How to create an Impact Map in 4 easy steps?*  
   https://uxpressia.com/blog/build-impact-map-4-easy-steps
 
-- IBM Design Thinking. *As-is Scenario Map: Build a better understanding of your users’ current experience.*  
+- IBM Design Thinking. *As-is Scenario Map: Build a better understanding of your users â‚¬â„¢ current experience.*  
   https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map
 
-- IBM Design Thinking. *To-be Scenario Map: Draft a vision of your user’s future experience to show how your ideas address their current needs.*  
+- IBM Design Thinking. *To-be Scenario Map: Draft a vision of your user â‚¬â„¢s future experience to show how your ideas address their current needs.*  
   https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map
 
-- IBM Design Thinking. *Empathy Map: Build empathy for your users through a conversation informed by your team’s observations.*  
+- IBM Design Thinking. *Empathy Map: Build empathy for your users through a conversation informed by your team â‚¬â„¢s observations.*  
   https://www.ibm.com/design/thinking/page/toolkit/activity/empathy-map
 
 - Nielsen Norman Group. *Empathy Mapping: The First Step in Design Thinking.*  
@@ -2361,13 +2366,13 @@ Finalmente, es fundamental mantener la rigurosidad en la documentación de la ge
 - DZone. *Acceptance Criteria in Scrum: Explanation, Examples, and Template.*  
   https://dzone.com/articles/acceptance-criteria-in-software-explanation-exampl
 
-- Dittrich, J. *A Beginner’s Guide to Finding User Needs.*  
+- Dittrich, J. *A Beginner â‚¬â„¢s Guide to Finding User Needs.*  
   https://jdittrich.github.io/userNeedResearchBook/
 
 - Modern Requirements. *Using a Requirements Traceability Matrix to Improve Project Quality.*  
   https://www.modernrequirements.com/blogs/using-a-requirements-traceability-matrix-to-improve-project-quality/
 
-- Otiscole. *Customer Portfolio – What’s Cookin’.*  
+- Otiscole. *Customer Portfolio  â‚¬â€œ What â‚¬â„¢s Cookin â‚¬â„¢.*  
   http://otiscole.com
 
 - UX for the Masses. *A step-by-step guide to scenario mapping.*  
@@ -2456,14 +2461,14 @@ Finalmente, es fundamental mantener la rigurosidad en la documentación de la ge
 
 ## Anexo A. Videos de Exposiciones
 
-- [Exposición – AV1 (Sprint Review 1)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202512856_upc_edu_pe/IQCcVnA86T4QTr-Q8NM1xCGmAQ0SN2movemV7qMLGIxLcds?e=OvZCjY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- [Exposición  â‚¬â€œ AV1 (Sprint Review 1)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202512856_upc_edu_pe/IQCcVnA86T4QTr-Q8NM1xCGmAQ0SN2movemV7qMLGIxLcds?e=OvZCjY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ## Anexo B. Recursos y evidencias del proyecto
 
-- [Jira Software Cloud – JouleTracker](https://alejandrochoquehuanca007.atlassian.net/jira/software/projects/JOUL/boards/1/backlog?atlOrigin=eyJpIjoiYzkxZjFiZTFlZTEzNDEwMzk2ZmEwZDBhODJmNDI4OWYiLCJwIjoiaiJ9)
-- [UXPressia – JouleTracker](https://uxpressia.com/w/NxJgO)
-- [Miro – JouleTracker](https://miro.com/app/board/uXjVHqBr2y8=/)
-- [Figma – JouleTracker](https://www.figma.com/design/I9Hbim3oES3bOynqQrzlHw/JouleTracker_Mockap-II--Desktop-?t=t6nxRhPCoFxgRXay-0)
+- [Jira Software Cloud  â‚¬â€œ JouleTracker](https://alejandrochoquehuanca007.atlassian.net/jira/software/projects/JOUL/boards/1/backlog?atlOrigin=eyJpIjoiYzkxZjFiZTFlZTEzNDEwMzk2ZmEwZDBhODJmNDI4OWYiLCJwIjoiaiJ9)
+- [UXPressia  â‚¬â€œ JouleTracker](https://uxpressia.com/w/NxJgO)
+- [Miro  â‚¬â€œ JouleTracker](https://miro.com/app/board/uXjVHqBr2y8=/)
+- [Figma  â‚¬â€œ JouleTracker](https://www.figma.com/design/I9Hbim3oES3bOynqQrzlHw/JouleTracker_Mockap-II--Desktop-?t=t6nxRhPCoFxgRXay-0)
 - [Repositorio principal de JouleTracker (Reporte)](https://github.com/JouleTracker/JouleTracker)
 - [Repositorio de JouleTracker Landing Page](https://github.com/JouleTracker/JouleTracker-LandingPage)
 - [JouleTracker Landing Page](https://jouletracker.github.io/JouleTracker-LandingPage/)
@@ -2507,5 +2512,6 @@ Finalmente, es fundamental mantener la rigurosidad en la documentación de la ge
 
 
 ---
+
 
 
