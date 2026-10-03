@@ -2619,7 +2619,7 @@ Finalmente, es fundamental mantener la rigurosidad en la documentación de la ge
 
 ## Anexo A. Videos de Exposiciones
 
-- Exposición AV1 (Sprint Review 1): https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBbmXNmik5pRab7kNpIGC77ATgQ3SLIX8NIU4kym0uC3kw?e=lclLQP
+- Exposición AV1 (Sprint Review 1): https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBkzQzRmAaoS5LFmM1r1DC5Af0gnGXJmTsmMaAUnjQgkds?e=1wKVrO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ## Anexo B. Recursos y evidencias del proyecto
 
