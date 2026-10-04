@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 # Capítulo II: Requirements Elicitation & Analysis.
 ## 2.1. Competidores
 ### 2.1.1. Análisis competitivo.
@@ -493,3 +495,4 @@ con el consumo eléctrico, su monitoreo y el control de los costos.
 | Proyección de consumo | Estimación de la cantidad de energía que se podría consumir al finalizar un período. | Proyección |
 | Proyección de costo | Estimación del monto que podría pagarse en el próximo recibo según el consumo registrado. | Proyección |
 | Consumo esperado | Cantidad de energía que se estima utilizar tomando como referencia el comportamiento registrado anteriormente. | Proyección |
+>>>>>>> develop

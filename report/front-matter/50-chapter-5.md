@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
 Para el desarrollo de JouleTracker, el equipo establece un proceso de gestión de configuración de software con el propósito de mantener organizados, controlados y disponibles los diferentes artefactos generados durante el proyecto.
@@ -398,3 +400,4 @@ En el ámbito técnico, la transición hacia el Sprint 2 exigirá una coordinaci
 Finalmente, es fundamental mantener la rigurosidad en la documentación de la gestión de código fuente. A medida que el número de repositorios crezca (separando frontend y backend), el equipo debe velar por el cumplimiento estricto de GitFlow, evitando fusiones directas a la rama main sin la respectiva revisión de código (Pull Requests). Asimismo, se sugiere automatizar progresivamente el proceso de pruebas y despliegue (CI/CD) para los contenedores principales, lo que garantizará que JouleTracker mantenga un entorno de producción estable y demostrable en las futuras evaluaciones del curso.
 
 
+>>>>>>> develop

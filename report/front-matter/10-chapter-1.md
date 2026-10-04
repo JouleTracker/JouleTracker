@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
@@ -185,3 +187,4 @@ Ambos segmentos comparten un perfil común: buscan una solución tecnológica in
 [^3]: International Energy Agency (IEA). (2023). Energy Efficiency 2023: Analysis and key findings. https://www.iea.org/reports/energy-efficiency-2023
 
 [^4]: Instituto Nacional de Estadística e Informática (INEI). (2024). Comportamiento de la economía peruana e índices de actividad comercial y de servicios. https://www.inei.gob.pe/prensa/noticias/
+>>>>>>> develop

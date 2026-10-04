@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines
@@ -875,3 +877,4 @@ Asimismo, permite almacenar las acciones asociadas a cada recomendación, facili
 
 ![DB6](../images/db-diagrams/db6.png)
 >>>>>>> origin/feature/chapter4
+>>>>>>> develop

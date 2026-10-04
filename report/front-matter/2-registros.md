@@ -1,5 +1,10 @@
 # Registro de Versiones del Informe
 
+<<<<<<< HEAD
+| Versión | Fecha      | Autor                      | Descripción de modificación                                              |
+|---------|------------|----------------------------|--------------------------------------------------------------------------|
+| 0.1     | 03/09/2026 | Jara Espinoza Miguel Angel | Initial commit                                                           |
+=======
 | Versión | Fecha      | Autor                                | Descripción de modificación                                         |
 |---------|------------|--------------------------------------|---------------------------------------------------------------------|
 | 0.1     | 03/09/2026 | Jara Espinoza Miguel Angel           | Initial commit                                                      |
@@ -89,3 +94,4 @@
 | 12.6    | 19/09/2026 | Velasquez Velasquez Rodrigo          | Sprint 1 Overview                                                   |
 | 12.7    | 19/09/2026 | Velasquez Velasquez Rodrigo          | Team Collaboration Insights during Sprint                           |
 | 12.8    | 19/09/2026 | Matihues Quevedo Mijail Alexander    | Actualización del Capítulo V                                        |
+>>>>>>> develop
