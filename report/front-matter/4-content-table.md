@@ -1,12 +1,10 @@
-<div style="page-break-before: always;"></div>
-
 # Tabla de Contenidos
 
-- [Caratula](01-caratula.md)
-- [Registro de Versiones del Informe](02-registros.md)
-- [Project Report Collaboration Insights](03-collaboration.md)
-- [Tabla de Contenidos](04-content-table.md)
-- [Student Outcome](05-studentoutcome.md)
+- [Caratula](1-caratula.md)
+- [Registro de Versiones del Informe](2-registros.md)
+- [Project Report Collaboration Insights](3-collaborations.md)
+- [Tabla de Contenidos](4-content-table.md)
+- [Student Outcome](5-studentoutcome.md)
 
 ## Capítulos
 
@@ -15,7 +13,7 @@
         - [1.1.1. Descripción de la Startup](10-chapter-1.md#111-descripción-de-la-startup)
         - [1.1.2. Perfiles de integrantes del equipo](10-chapter-1.md#112-perfiles-de-integrantes-del-equipo)
     - [1.2. Solution Profile](10-chapter-1.md#12-solution-profile)
-        - [1.2.1. Antecedentes y problemática](10-chapter-1.md#121--antecedentes-y-problemática)
+        - [1.2.1. Antecedentes y problemática](10-chapter-1.md#121-antecedentes-y-problemática)
         - [1.2.2. Lean UX Process](10-chapter-1.md#122-lean-ux-process)
             - [1.2.2.1. Lean UX Problem Statements](10-chapter-1.md#1221-lean-ux-problem-statements)
             - [1.2.2.2. Lean UX Assumptions](10-chapter-1.md#1222-lean-ux-assumptions)
@@ -26,7 +24,7 @@
 - [Capítulo II: Requirements Elicitation & Analysis](20-chapter-2.md)
     - [2.1. Competidores](20-chapter-2.md#21-competidores)
         - [2.1.1. Análisis Competitivo](20-chapter-2.md#211-análisis-competitivo)
-        - [2.1.2. Estrategias y tácticas frente a competidores](20-chapter-2.md#212-estrategias-y-tácticas-frente-a-competidores)
+        - [2.1.2. Estrategias y tácticas frente a competidores](20-chapter-2.md#212-estrategias-y-tacticas-frente-a-competidores)
     - [2.2. Entrevistas](20-chapter-2.md#22-entrevistas)
         - [2.2.1. Diseño de entrevistas](20-chapter-2.md#221-diseño-de-entrevistas)
         - [2.2.2. Registro de entrevistas](20-chapter-2.md#222-registro-de-entrevistas)
@@ -36,7 +34,10 @@
         - [2.3.2. User Task Matrix](20-chapter-2.md#232-user-task-matrix)
         - [2.3.3. User Journey Mapping](20-chapter-2.md#233-user-journey-mapping)
         - [2.3.4. Empathy Mapping](20-chapter-2.md#234-empathy-mapping)
-    - [2.4. Big Picture EventStorming](20-chapter-2.md#24-big-picture-eventstorming)
+    - [2.4. Big Picture EventStorming](20-chapter-2.md#24-big-picture-event-storming)
+        - [2.4.1. Open](20-chapter-2.md#241-open)
+        - [2.4.2. Explore](20-chapter-2.md#242-explore)
+        - [2.4.3. Close](20-chapter-2.md#243-close)
     - [2.5. Ubiquitous Language](20-chapter-2.md#25-ubiquitous-language)
 
 - [Capítulo III: Requirements Specification](30-chapter-3.md)
