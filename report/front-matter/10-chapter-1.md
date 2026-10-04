@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+=======
+
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
@@ -110,7 +113,7 @@ Hypothesis Statement 01
 
 **Creemos** que integrar sensores IoT automatizados para la ingesta de datos logrará que los usuarios confíen en la precisión y continuidad de la plataforma.
 
-**Sabremos** que hemos tenido éxisto
+**Sabremos** que hemos tenido éxito
 
 **Cuando** al menos el 90% de los sensores vinculados mantenga una transmisión continua sin caídas reportadas por más de 7 días durante los primeros meses de uso.
 
@@ -184,3 +187,4 @@ Ambos segmentos comparten un perfil común: buscan una solución tecnológica in
 [^3]: International Energy Agency (IEA). (2023). Energy Efficiency 2023: Analysis and key findings. https://www.iea.org/reports/energy-efficiency-2023
 
 [^4]: Instituto Nacional de Estadística e Informática (INEI). (2024). Comportamiento de la economía peruana e índices de actividad comercial y de servicios. https://www.inei.gob.pe/prensa/noticias/
+>>>>>>> develop
