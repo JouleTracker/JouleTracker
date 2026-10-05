@@ -2456,215 +2456,273 @@ Finalmente, es fundamental mantener la rigurosidad en la documentación de la ge
 
 ---
 
-
 # Bibliografía
 
-- Organismo Supervisor de la Inversión en Energía y Minería (Osinergmin). (2023). *Guía de orientación sobre el uso eficiente y seguro de la energía eléctrica.*  
+- Organismo Supervisor de la Inversión en Energía y Minería (Osinergmin). (2023). *Guía de orientación sobre el uso eficiente y seguro de la energía eléctrica.*
   https://www.gob.pe/osinergmin
 
-- Al-Khatib, W., Al-Ghamdi, A. S., & Khan, M. A. (2021). *IoT-based smart energy monitoring and management system for residential and small commercial buildings.* Sustainable Energy Technologies and Assessments, 47, Article 101416.  
+- Al-Khatib, W., Al-Ghamdi, A. S., & Khan, M. A. (2021). *IoT-based smart energy monitoring and management system for residential and small commercial buildings.* Sustainable Energy Technologies and Assessments, 47, Article 101416.
   https://doi.org/10.1016/j.seta.2021.101416
 
-- International Energy Agency (IEA). (2023). *Energy Efficiency 2023: Analysis and key findings.*  
+- International Energy Agency (IEA). (2023). *Energy Efficiency 2023: Analysis and key findings.*
   https://www.iea.org/reports/energy-efficiency-2023
 
-- Instituto Nacional de Estadística e Informática (INEI). (2024). *Comportamiento de la economía peruana e índices de actividad comercial y de servicios.*  
+- Instituto Nacional de Estadística e Informática (INEI). (2024). *Comportamiento de la economía peruana e índices de actividad comercial y de servicios.*
   https://www.inei.gob.pe/prensa/noticias/
 
-- The Markdown Guide. *The Markdown Guide.*  
+- The Markdown Guide. *The Markdown Guide.*
   https://www.markdownguide.org/
 
-- Tamim, N. *How to use PlantUML with Markdown.* GitHub Gist.  
+- Tamim, N. *How to use PlantUML with Markdown.* GitHub Gist.
   https://gist.github.com/noamtamim/f11982b28602bd7e604c233fbe9d910f
 
-- Structurizr. *Embedding diagrams.*  
+- Structurizr. *Embedding diagrams.*
   https://docs.structurizr.com/cloud/embed
 
-- Progressa Lean. *5W+2H - Técnica de análisis de problemas.*  
+- Progressa Lean. *5W+2H - Técnica de análisis de problemas.*
   https://www.progressalean.com/5w2h-tecnica-de-analisis-de-problemas/
 
-- Fowler, M. *Ubiquitous Language.* Martin Fowler.  
+- Fowler, M. *Ubiquitous Language.* Martin Fowler.
   https://martinfowler.com/bliki/UbiquitousLanguage.html
 
-- Open Practice Library. *Ubiquitous Language: Unambiguously define the terms and concepts of a business domain.*  
+- Open Practice Library. *Ubiquitous Language: Unambiguously define the terms and concepts of a business domain.*
   https://openpracticelibrary.com/practice/ubiquitous-language/
 
-- Lean UX Canvas Chapter 3. *Scribd.*  
+- Lean UX Canvas Chapter 3. *Scribd.*
   https://www.scribd.com/document/655516553/Leanux-Sampler
 
-- Mountain Goat Software. *User Stories Articles.*  
+- Mountain Goat Software. *User Stories Articles.*
   https://www.mountaingoatsoftware.com/blog/tag/user-stories
 
-- UXPressia. *User vs. Buyer Persona: Differences and free template.*  
+- UXPressia. *User vs. Buyer Persona: Differences and free template.*
   https://uxpressia.com/blog/user-persona-vs-buyer-persona-difference
 
-- UXPressia. *How to create an Impact Map in 4 easy steps?*  
+- UXPressia. *How to create an Impact Map in 4 easy steps?*
   https://uxpressia.com/blog/build-impact-map-4-easy-steps
 
-- IBM Design Thinking. *As-is Scenario Map: Build a better understanding of your users' current experience.*  
+- IBM Design Thinking. *As-is Scenario Map: Build a better understanding of your users' current experience.*
   https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map
 
-- IBM Design Thinking. *To-be Scenario Map: Draft a vision of your user's future experience to show how your ideas address their current needs.*  
+- IBM Design Thinking. *To-be Scenario Map: Draft a vision of your user's future experience to show how your ideas address their current needs.*
   https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map
 
-- IBM Design Thinking. *Empathy Map: Build empathy for your users through a conversation informed by your team's observations.*  
+- IBM Design Thinking. *Empathy Map: Build empathy for your users through a conversation informed by your team's observations.*
   https://www.ibm.com/design/thinking/page/toolkit/activity/empathy-map
 
-- Nielsen Norman Group. *Empathy Mapping: The First Step in Design Thinking.*  
+- Nielsen Norman Group. *Empathy Mapping: The First Step in Design Thinking.*
   https://www.nngroup.com/articles/empathy-mapping/
 
-- DZone. *Acceptance Criteria in Scrum: Explanation, Examples, and Template.*  
+- DZone. *Acceptance Criteria in Scrum: Explanation, Examples, and Template.*
   https://dzone.com/articles/acceptance-criteria-in-software-explanation-exampl
 
-- Dittrich, J. *A Beginner's Guide to Finding User Needs.*  
+- Dittrich, J. *A Beginner's Guide to Finding User Needs.*
   https://jdittrich.github.io/userNeedResearchBook/
 
-- Modern Requirements. *Using a Requirements Traceability Matrix to Improve Project Quality.*  
+- Modern Requirements. *Using a Requirements Traceability Matrix to Improve Project Quality.*
   https://www.modernrequirements.com/blogs/using-a-requirements-traceability-matrix-to-improve-project-quality/
 
-- Otiscole. *Customer Portfolio – What's Cookin'.*  
+- Otiscole. *Customer Portfolio – What's Cookin'.*
   http://otiscole.com
 
-- UX for the Masses. *A step-by-step guide to scenario mapping.*  
+- UX for the Masses. *A step-by-step guide to scenario mapping.*
   http://www.uxforthemasses.com/scenario-mapping/
 
-- CareerFoundry. *What are User Flows in User Experience (UX) Design?*  
+- CareerFoundry. *What are User Flows in User Experience (UX) Design?*
   https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/
 
-- UX Design. *User flow is the new wireframe.*  
+- UX Design. *User flow is the new wireframe.*
   https://uxdesign.cc/when-to-use-user-flows-guide-8b26ca9aa36a
 
-- Nielsen Norman Group. *Design Systems 101.*  
+- Nielsen Norman Group. *Design Systems 101.*
   https://www.nngroup.com/articles/design-systems-101/
 
-- Nielsen Norman Group. *Front-End Style-Guides: Definition, Requirements, Component Checklist.*  
+- Nielsen Norman Group. *Front-End Style-Guides: Definition, Requirements, Component Checklist.*
   https://www.nngroup.com/articles/front-end-style-guides/
 
-- Nielsen Norman Group. *The Four Dimensions of Tone of Voice.*  
+- Nielsen Norman Group. *The Four Dimensions of Tone of Voice.*
   https://www.nngroup.com/articles/tone-of-voice-dimensions/
 
-- Driessen, V. *A successful Git branching model.*  
+- Driessen, V. *A successful Git branching model.*
   https://nvie.com/posts/a-successful-git-branching-model/
 
-- Semantic Versioning. *Semantic Versioning 2.0.0.*  
+- Semantic Versioning. *Semantic Versioning 2.0.0.*
   https://semver.org/
 
-- Conventional Commits. *Conventional Commits.*  
+- Conventional Commits. *Conventional Commits.*
   https://www.conventionalcommits.org/
 
-- W3Schools. *HTML Style Guide and Coding Conventions.*  
+- W3Schools. *HTML Style Guide and Coding Conventions.*
   https://www.w3schools.com/html/html5_syntax.asp
 
-- Google. *Google HTML/CSS Style Guide.*  
+- Google. *Google HTML/CSS Style Guide.*
   https://google.github.io/styleguide/htmlcssguide.html
 
-- SpecFlow. *Gherkin Conventions for Readable Specifications.*  
+- SpecFlow. *Gherkin Conventions for Readable Specifications.*
   https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/
 
-- Tune, N. *Domain-Driven Architecture Diagrams.* Medium.  
+- Tune, N. *Domain-Driven Architecture Diagrams.* Medium.
   https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture-diagrams-139a75acb578
 
-- Domain Storytelling. *Domain Storytelling and Requirements.*  
+- Domain Storytelling. *Domain Storytelling and Requirements.*
   https://domainstorytelling.org/#dst-requirements
 
-- Open Practice Library. *Domain Driven Design: Tackling Complexity in the Heart of Software.*  
+- Open Practice Library. *Domain Driven Design: Tackling Complexity in the Heart of Software.*
   https://openpracticelibrary.com/perspective/domain-driven-design/
 
-- Angular. *Angular coding style guide.*  
+- Angular. *Angular coding style guide.*
   https://angular.io/guide/styleguide
 
-- Google. *Google Java Style Guide.*  
+- Google. *Google Java Style Guide.*
   https://google.github.io/styleguide/javaguide.html
 
-- Google. *Google TypeScript Style Guide.*  
+- Google. *Google TypeScript Style Guide.*
   https://google.github.io/styleguide/tsguide.html
 
-- Spring. *Spring Boot Features.*  
+- Spring. *Spring Boot Features.*
   https://docs.spring.io/spring-boot/docs/current/reference/html/features.html
 
-- HubSpot. *Full List of Meta Tags, Why They Matter for SEO & How to Write Them.*  
+- HubSpot. *Full List of Meta Tags, Why They Matter for SEO & How to Write Them.*
   https://blog.hubspot.com/marketing/meta-tags
 
-- Sameera17. *How to Write a User Story for an API Product.* Medium.  
+- Sameera17. *How to Write a User Story for an API Product.* Medium.
   https://sameera17w.medium.com/how-to-write-a-user-story-for-an-api-product-7af6abd4ad2e
 
-- Connect2Grp. *Using PlantUML for Creating Clear and Concise Diagrams.* Medium.  
+- Connect2Grp. *Using PlantUML for Creating Clear and Concise Diagrams.* Medium.
   https://connect2grp.medium.com/using-plantuml-for-creating-clear-and-concise-diagrams-2fc621529560
 
-- DDD by Examples. *Big Picture EventStorming.* GitHub.  
+- DDD by Examples. *Big Picture EventStorming.* GitHub.
   https://github.com/ddd-by-examples/library/blob/master/docs/big-picture.md
 
-- DDD by Examples. *Design Level EventStorming.* GitHub.  
+- DDD by Examples. *Design Level EventStorming.* GitHub.
   https://github.com/ddd-by-examples/library/blob/master/docs/design-level.md
 
-- GitLab. *What is GitFlow?*  
+- GitLab. *What is GitFlow?*
   https://about.gitlab.com/blog/what-is-gitflow/
 
-- Atlassian. *Gitflow workflow.*  
+- Atlassian. *Gitflow workflow.*
   https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 
-- Kummer, D. *git-flow cheatsheet.*  
+- Kummer, D. *git-flow cheatsheet.*
   https://danielkummer.github.io/git-flow-cheatsheet/index.html
-
-- Organismo Supervisor de la Inversión en Energía y Minería (Osinergmin). (2023). Guía de orientación sobre el uso eficiente y seguro de la energía eléctrica. https://www.gob.pe/osinergmin
-
-- Al-Khatib, W., Al-Ghamdi, A. S., & Khan, M. A. (2021). IoT-based smart energy monitoring and management system for residential and small commercial buildings. Sustainable Energy Technologies and Assessments, 47, Article 101416. https://doi.org/10.1016/j.seta.2021.101416
-
-- International Energy Agency (IEA). (2023). Energy Efficiency 2023: Analysis and key findings. https://www.iea.org/reports/energy-efficiency-2023
-
-- Instituto Nacional de Estadística e Informática (INEI). (2024). Comportamiento de la economía peruana e índices de actividad comercial y de servicios. https://www.inei.gob.pe/prensa/noticias/
 
 
 # Anexos
 
 ## Anexo A. Videos de Exposiciones
 
-- Exposición AV1 (Sprint Review 1): https://upcedupe-my.sharepoint.com/:v:/g/personal/u202512856_upc_edu_pe/IQCcVnA86T4QTr-Q8NM1xCGmAQ0SN2movemV7qMLGIxLcds?e=OvZCjY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- Exposición AV1 (Sprint Review 1):
+  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202512856_upc_edu_pe/IQCcVnA86T4QTr-Q8NM1xCGmAQ0SN2movemV7qMLGIxLcds?e=OvZCjY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 
 ## Anexo B. Recursos y evidencias del proyecto
 
-- [Jira Software Cloud JouleTracker](https://alejandrochoquehuanca007.atlassian.net/jira/software/projects/JOUL/boards/1/backlog?atlOrigin=eyJpIjoiYzkxZjFiZTFlZTEzNDEwMzk2ZmEwZDBhODJmNDI4OWYiLCJwIjoiaiJ9)
-- [UXPressia  â‚¬â€œ JouleTracker](https://uxpressia.com/w/NxJgO)
-- [Miro  â‚¬â€œ JouleTracker](https://miro.com/app/board/uXjVHqBr2y8=/)
-- [Figma  â‚¬â€œ JouleTracker](https://www.figma.com/design/I9Hbim3oES3bOynqQrzlHw/JouleTracker_Mockap-II--Desktop-?t=t6nxRhPCoFxgRXay-0)
-- [Repositorio principal de JouleTracker (Reporte)](https://github.com/JouleTracker/JouleTracker)
-- [Repositorio de JouleTracker Landing Page](https://github.com/JouleTracker/JouleTracker-LandingPage)
-- [JouleTracker Landing Page](https://jouletracker.github.io/JouleTracker-LandingPage/)
-- [Video de ejecución del producto](https://drive.google.com/file/d/1v6G61TiA350A7FiNq-jFrFq6u096fupr/view?usp=sharing)
+- Jira Software Cloud JouleTracker:
+  https://alejandrochoquehuanca007.atlassian.net/jira/software/projects/JOUL/boards/1/backlog?atlOrigin=eyJpIjoiYzkxZjFiZTFlZTEzNDEwMzk2ZmEwZDBhODJmNDI4OWYiLCJwIjoiaiJ9
 
+- UXPressia – JouleTracker:
+  https://uxpressia.com/w/NxJgO
 
----
+- Miro – JouleTracker:
+  https://miro.com/app/board/uXjVHqBr2y8=/
+
+- Figma – JouleTracker:
+  https://www.figma.com/design/I9Hbim3oES3bOynqQrzlHw/JouleTracker_Mockap-II--Desktop-?t=t6nxRhPCoFxgRXay-0
+
+- Repositorio principal de JouleTracker (Reporte):
+  https://github.com/JouleTracker/JouleTracker
+
+- Repositorio de JouleTracker Landing Page:
+  https://github.com/JouleTracker/JouleTracker-LandingPage
+
+- JouleTracker Landing Page:
+  https://jouletracker.github.io/JouleTracker-LandingPage/
+
+- Video de ejecución del producto:
+  https://drive.google.com/file/d/1v6G61TiA350A7FiNq-jFrFq6u096fupr/view?usp=sharing
 
 
 # Anexos
 
+- Organización JouleTracker:
+  https://github.com/JouleTracker
 
-- [Organización JouleTracker](https://github.com/JouleTracker)
-- [Repositorio JouleTracker](https://github.com/JouleTracker/JouleTracker)
-- [Jira Software Cloud - JouleTracker](https://alejandrochoquehuanca007.atlassian.net/jira/software/projects/JOUL/boards/1/backlog?atlOrigin=eyJpIjoiYzkxZjFiZTFlZTEzNDEwMzk2ZmEwZDBhODJmNDI4OWYiLCJwIjoiaiJ9)
-- [Google Fonts - Inter](https://www.1001fonts.com/inter-font.html)
-- [Google Fonts - Roboto.](https://www.1001fonts.com/roboto-font.html)
-- [https://coolors.co/214029-dcedd5-bed4c2-4f378a-eaddff-ffffff-1a1a1a-404040](https://coolors.co/214029-dcedd5-bed4c2-4f378a-eaddff-ffffff-1a1a1a-404040)
-- [https://coolors.co/214029-dcedd5-bed4c2](https://coolors.co/214029-dcedd5-bed4c2)
-- [https://coolors.co/4f378a-eaddff](https://coolors.co/4f378a-eaddff)
-- [https://coolors.co/ffffff-1a1a1a-404040](https://coolors.co/ffffff-1a1a1a-404040)
-- [miro](https://miro.com/welcomeonboard/TnpJZmYyak5sRFNiYk9yemozbUJtUjBLZDZyYUpTek9McmxaMk9lM0VlTkFEZy81cU5OWWxrZ0U2Rkp0aUxVbWxMOXhrbDEvNkU5QTE3djZjbDNXb0tKa0EydzdPN20yN3dxUXNXSzdXb1J4ZDJITG5ndnJXN1piUnEyeEJpdEl3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=815831854787)
-- [Ver diagrama UML en PlantUML](https://www.plantuml.com/plantuml/png/tLXDR-Cs4BthLn2-DDr53BUz6K6mhkrc1UGZjUAsLqQQA4GaKIL7NhZj_lUEP4OX8rdq6jbBSh58pZoIR-ODoNpIo1LMUHPay80C9LCYVKIM20Kn2ba4-aaK9LSyPoMFdtWA4MupOFKmBz8CB8CuurhF49Muhn32M1QH-0VO97WK2J38Izoo7F9xK3e8TCm9vkV9PCA-Y0GVBPoa5EoNoIG8p8niHBF9F8SYuVMQSbvGBpLnpCio4t7JEtxWCKzWnFuD66ExnR2LutZLElxMsBApizt7-Rdngly-iXGAK1p1zJwf6xn8fYoyw3MOxyP_dBwQraAkogJZ5Y77Iblewxr61yoG0hfZ-jTjH4J2oTyLg6sz-7qMlzS6X7qfD9wv9kVM31IukCeuGiGteaXNeAiCTGi_xnr-nhOx6yolmTT30ft8d8jYdCi4iZ5r21IWdsCDHPMpMoMa4hYzX0raLZWlR_vilw-MYt1zrJO_XnUVsyPwTR6ylZDhUe7j2uE5FflVXNyihUPyUNktNBGTYp2w2gF8wbd-THkkgDrEr9-hb9kpD5MGSWIsaXAT73rbWZ9blGuNLbSk2u5IGT94C-mQeC0CA0QeA0PMVscecxeaMXQWKUGS8Td5RyeM45E7RQ8RQgQzXFLewuIIOID5qX67aKC1Nw81HEFjOt4M6owN1TAs_1ow2TZ38MyG5w1Z9ShwiuTFKGkrp021_E-bp83R4isvUfgzc9pitOijbhVSGns2T4lea5YHx0PxBZNsMtNBWAPjj5R72jlKm5ROea1GLDV1KtA97FFLgUHuvQg2w3PyE5PtjJHeo0sc6NnMnRxnfQkEBXFkPZmLthSXrstVXgwVzMCj-jYmrALTG3SglhE4Tj7y7XwKVhw6pfJk73wUZg01DjJGGrUBv_HCbhKfBMhHU3OjTsaUUPA1ZEDA4JSt1UKHOTw97Fo5BeRo-qr_16SAIgafo7ionrt-oXWtyMmRhuEg-GPEt7bVdmxTK-L150abfSapRH-DthkESIO_yUBYMX_1Z0Qr4J7ejjoPjfSbKnAYdVqxkB8UoLjprJoOjQOyj9oz_wkoA1uKrwYg62i5jWu7AfWjmJ0litUbkpOrDB6XaNHNe99P1cgGaNbhrYirOeG2gN7A-hMrsWrtLauHBMMXOT_DjuLTMxr-iEFfKA1bfUgccTfbPNXx3ZLEbAt-_eV7n_RXqHqQVd7O1s4VJTzsuBLFZNOPRqEc2SsmweoHisBn_HaqyNgpRTFE8BytYlBkTcQiNM6XDEFUOkDNmGzijRoSpSERwsKKkCRizFJSVUZs6VITPQ_jHZ-Ds8VJKpQQZCSVHhrFpo4N-dHgV30ijF7ultFFEHvqjM3y_2Tq4EojViI7xpzfKrPfq1u8JouOZC0p5K5vBaPJba06AKVGHu2P-q8NAXYUTJpsXOVG7kad0-s7yaVCXWk6za1etfTQ2-L76dgC6HW_MSJxm1l0PCB0KWu320QlE2IC0OnXtsu-qvmbA2qq7fGfWyz7WghkCw4V3ygKePUWZHJu1DZTbAjhlsVNXX1Y1JlzVAB1Ai_-1m00)
-- [Ver diagrama UML en PlantUML](https://www.plantuml.com/plantuml/png/tLXHR-Cs37xthn3wijmL3RBjBIYAowMvmK0lnPfqm1vLYtM5isLFadl8jlllOwmufMSnItO5XbrV78dyAFAZI4bzvxoqlYcBf817BtmbhCwVl53QGkPrPHBtIPjQMbcAMcQVP0uhlob0RCNIv0KGXQoGpisyj_gXyP1cbLdftq5CaYUjG41P-uqeeNm0wvB4PHBD_32PJCHdhVmJiQDgBNwSJ99ajw8uK_2iCoYbmL49nezbNHSwariFnuyoamhEn1-9428u8QvRmCSzu4Eh8oulmu-hgw3T_frZCBbs7cn0ZRAgnANKLAHtFS4ypB-PximJ2nZheyuR2mCJSoePskZ4RIZ4e5Hg1SPLTbqDJCxwCceqp1CxEVYWytwJgj5l3TWDMlY9plwydQH14MomvzvlWf2QY0WxIpT8scMGNhNslYHV3cLJLQNKPbnM2eenJcYlmNK91TEKEzzMNlh6aTJDvklqbyL-c2x_Dl5nbYxNY-LiEN-PkqvNyzlbSZ5VBwvtphsi4vm-UPqFi_kRzQ_K6js6kErcUMuXbnx4NLNvtlQx41gJUd-VNfCf8ql0R7ghJKwcrIxTYXUkDtLCwDgGfZqY8nKmmkmzLreHKLChwNU8aO7FguWbYg84xFX40XRRh6uE1Kw3I8zcnBKBC44tHli3ND1aqrgMXNwmqiE83IjIkwyHevDbNQ2lgV5WdsMnWgmo2ZtTJkHWYQgtqhXIEuTB7rOdIGmEax1EgynT1zfNfjwkYzqNc4Q9bEn-1KveOrdA4laboI6opeZYDRgjJZH8beXdJFyzvDg-rRtf4aIbgtYEK9dGJlJNVA88Xd6Uw_IdktyCxwkkbbYDUwCzaPswWRPdXuRX_eaTI1XY-pqom25tt05rWkKJ0eHd7BZO9QGh3L2BhGwkVjr2sb7V1wOpeA3AiiQYYLk3ZLTwMEiIk6wBcmPKjs6-OitGMazpvXYgBDILqxvYjaB7Mb1gqzKD1ZbpyXb6OPtkG1eUO8_QgFRsqxLYSjU9xfn0umaU1AQw0uNpOB-x-ep_-_kI0xiLkAunXp53AkaUgw3txL-1JwInlTh-8ubjxo0K_h-ksjeyMkcyRJBVMA2r66bUj0pJiYvUiVROxiMi-9_LsZx_3ibo7clDU5iL1TWeOVEz-51vMS3SEZyL_Ugw2zFePJTsTMKSn8hYnSQ-5bxWOKpXfuPfmLMDROV1QZ_QkECqvFY5_VpG4-QSUyBGRJ88zxZ3ZF66VpwWa3uVlfB3a0ckneAm5qXNBySo5zuqHC0K5xyKpzQh4OAEGFaGIeVdOTPfzRpqLISVDfq-dWl-IFk35iENqtVYRd4pcwUtoyKg2Kw8Yukh_YCxWDjv-k3izC--FnDlBoxmEnw_FTkf38IJLXWxBvDu9Ox7VrunXtT2AeWgSsTgaWnQ6mR3_OjjAXe7Ze4mUMOmX3CMap1k89IvzKo5WW9owS4T1jFJVWXDujR7OuvsH3_Xfm37G-bTwNGiII27JcXO51ovfn0OZsAk9XJCk4n89bVjaDP3aB0U2w4-7buZYLvni1OYc8IkIdKZ3iKDam901sgmJZlledR9lgUgVEgPboPYcuT2kwU3suPzD59umfKkZOfMCQj9P8Z8BBJLn5KvPGBD7wKPCP-y0wEQilWB)
-- [Ver diagrama UML en PlantUML](https://www.plantuml.com/plantuml/png/xLbHRzis47xNho3oigvP36zxCugWhkCM1fpOjTk-qz95vYgHAacvSBV-zr4KevvDiRGm3CE6zIMMxlYHz_6xEr9zgJILkYwBf817JRGWakLxJJ8c8TLCy4HzPBoYafQaekb7ciDM7miWZPdol03aa1PKgQdMakrg3OjKy2tx0cISx5a61CfA7qa9vGwaIXALKWFpotWy9fzPflS89wiO-NKyJX8t8xa23Z8_be8pBIJZ-OXMLS5Isgnmz4XJci4L-JqXXBIB87CxuBuRyDhwa1SlsX-tjywx-NVT12DaTWzKrH9AuFfPAigIycn25fjpswmr_JXnao0JWgoaI44fP7n5TRf7mEj-Zs_mvnQ4RfRKR43_YcUUiHVJkHa64N0EUaarg1FeJpN8em5-qsDyszWYNEI0HwXNnpiui1GGRg_z2Nh9b7xXuT_Q2RucNxydaqoKbF5HAJ8eHcOGqmpKarA0roMnp6urrRL2abYjvm_TmtgpcistsyN3c-xLR7M_NixVpU-wDw-dYwLxD2lguD_Mj63ww4tmORfSV1kyVRzTpsVlkkV5GsD7Q4xMdYICeATvBY6d6iX627qYx1l2Z1xUlqSptP3CShlm3ROIG3RL4t9duDwn4f0LU1QqbLXKDJTE2wuX1udHBGCJpBUVBMsAc2q_29PXkHT2WM_4rFW2DDpCkJRanpdPDT2B8Lm1LqBw1aT5c4Mxo9dWgYwh9lMC5wIif0LogiHda7s6WoWqpQ7FbDPI0jTzfaS99j5uUWpEPMgY5lwCNM4CauxeTaeth7-WHGrajViDqhWUiNXw-Fo4ysTocawO6VCwiztW7fIo76rrKm5GBCu774OJr4w80YZtukelas513GnAI9OpJWjBLEzkjdD25lDWWc-0Ai5xucrQvF7Rwfzn-7mAznEH9sFTBW-kgwxpT7MLSGtID6K8Dqz3fVk5k7IjuiubdTaWJ9opRbtczLldv_bbt11xoFD3cqj1-wnDA6H7Aa4X1jjuF53hXoBfn_UxUHmQUuUecc6DXNbevMNCJYI3rT4qUGOzuWWV9qnazcz86n7EWWUAuU38kdPgGQqDgP9zmSO19C41k7Ri15jPcqQGpGzjNxkpO-sJ2oDUUFn-DhGlYTHscMp5KM-B7b5SVWGN7s_3moVkj3sSiFZC0pPNGYMKUHT807-VdRzLwTE39rL53_0ChRldyEqVeHuPpruTZRYPYp9mPiV-RNO-POyPw_GJG_0JybmK0mArel0lGvT4w8yQi7SAP1EiwjgRUmxlOmVXolAs7O53-l-cEPn_UqiSmBwjxfZx_-ZTbl57IPMMTQhDCB_M-Et4BpEBiYh-TRKbt6lymFxXMjB9L8qaA6rg2TTI50N8tZr29QHpZ9GFUxbJPf-ywh5fBOX9P5ALu0e2oU63EzDmy87yI52YbisZc_gKfc2GcAJGAUSwT6k_lkJuSns-VL_xjszFgJw1yON_DVxSBaHhWVF32y4tMdzjVpztpXJuc3AS5QeKbBjWqlbaJDs0q-JJmjaZ5VB2hFY1RERBwMonUfXl4-_3titDxSctClzBYtKv-I3YerpzV4MUtzoGg_5ezFogfwHwRqw6c9_-lE4nRff0wq-2oJiQ_N4RFluaE7VySU7EdIJXgch92_mdmOJK2bHyS5Gy3YW9p6DGecV72ScWWBo9Rn2C9Q0F98dDE1fzPoyCrDxyAK1TWXCvUGv6yu-RFb0Ie0BXX1M3SE8muQCTHeepxZOmV4XpEheCvvpgE8oBRE1YaiYfqYNdTxoyQjKB47QABw4tJKq05KZ5bFRhPS_uSnSy_1BLnZxc6BXwLp2rlom98fzNXiDvfReFAOaNkm3PJYt3nljk1YULq1Qmby2pkYp-1000)
-- [Ver diagrama UML en PlantUML](https://www.plantuml.com/plantuml/png/vLXBR-Cs4BxpLn2-DDrk3BUz6K6mZkqs0l90hRZNWf4cDh4IfP9K2hVT_rwAuieZUyAiaLuMcqDipUFZl3do1sE5jarPi0AUBBSLrtApjJoN6Z8hAyNCHwbgeKN9Qv5z51j8xQu0thA5sXI01B9263EpLil7naAILIgLVmEViAtCWKDPsnqleNm4RHWpcN0mFqqc4_wNpEqMuUIrv3zF9eo54_ceh9IqbPPgOnmDngAk2vc9ri3nayX43YF-3-ESTpRmsru-RUL_yIByugBxSdaPXDk_7tYcGLW8Af1xZREiAakXyYbFvWHxtd6_d_8X7Q6Al2FTUeSHtcp0s2CX8e9fwbnOyBmKh6qZWB3Mnrm4YCW8SGFMSwvsINxsPmDwvu1-HSJVMXhjsX31NEtM1ZG14pXxh1jfxCKGyD8ZVcAV8ddEgr98DIwh78enA2kj1FCvrQ2QidFoOLS3Ikdr_JfTNj_VB7hArJfDxfPf-iVy_lPskPedivkUbzmjrkd3Af2SGGVWgHMsCGX-Ddz8VbyY_GF2R3M_TiyB38VBCWIWhSVPPgDX8opmLLNPGLsUS-aol5ud2qHIeWINMDj6297Dvo1Cz_50x1nCfcNTTWkbxFsROcUFcgFh2PV7vqhcHzMv02jaOSwmTU-fKp403WokVHULPPletUlHA0VXJ8u56WEQ86ie_EWmMrdxg0NpSFSQ8pSgz6xSxD1X_wVTMQCrg6n7P0iKwCrkxG0m4wS3pOa3cFU4Tl3jr5uC8wZlHQaiw2Sd5fsNBaRX6mfIc2XtedGLXfn2lBweNn9Ox6iDYuHyOVl8-HktB6J90OSyOMOOW2HlTL1dhvf6Z_CtsJSFDV1Iv9PzHM29qugXdVuIZck1k5QS7_xpTI_e2D4N38rAf-VB78DdK3PuH4_lhippPIlepbzuFVzqO8N1JOxeLURxCxzNKxvmK0-oXEXaT8NxblF8OKYRyULnqb1NnZF8_0z3jWh2Fc7xXqFxnJES-KCELv3Z--T9gjplCJ8uHgyjM3XK18x6c_SJX_KiCp3zM0pFH4JmE4mxiMzp6Jqji7x1V2siVWQWe7wLAwzKJreOgvlCDXg81aFZYEojfAoBhxQX-fGQvxcnhg6KrLLHW8uFurxC2T7BgmQNCMEdVBudhZeQzZ7GJLqfSz11eNbwe67lxB4m4GETvhdxLpMwU_J8mm0GRc3NwJU5S3dGEo-ri1_THxJJRxX_Oilu6q8MuXvlcI24hSVh-kcXZ5pUySDEZzw9eN7ME3E8DY8ZCWlImswoLU2_F4rekBszt_7LycOsJ-xTopWR2lFpyqlqzaemyGlg0NlquuY_Ep_deybu_6w4unwJT5y7rn8ZUcey_lSoUkqogYE27dszClRIyF9kqhzTJTiACAzhnf8PC1XzWaEWrvCfpw7mlrAOY2gwWYb5HaAFn_7WEeYj-oZ0HFI7GJv1CxAn87M6F4FQn0A1b6WTUbl0YcISV80ZotJ8Aphp93qMtIHS8KSmehf4KRepQz166XihYSYRbjDl7Wjfjh74qYzDM9N5UeNk9xe5QKrQXa_3HcBO1r1vKnR_0G00)
-- [Ver diagrama UML en PlantUML](https://www.plantuml.com/plantuml/png/xLXBSzis4BxpLs1ygPh46hMzQJAUgBQISfeghcHxUkl0v4h217mK09tQRVvx0GgIbreWBEjqcaDr4ObzxEBR1nPyfGrNfYba8c5jcAcO4fkjORbGa1bHbOb-BygQArwmccVl-GPMvbu2SsHURYGWXanohMV6A77R64Ypgbo91s2JP2joO53KvfuLKDo2qacYCsxLV3kPJDW7aPijqfFNWdqtcII9jyXE6WsguALzBg0qOrxNKcJS-JTUyupdSCB-I1XZEnVOjMN_wS3-kkLWBr_k7ixE7A__FMSADa8RK4vcb5M5DPDFMRf4o-UxrQ-dhM8aonkpjGQSAt0aF-kIa0vFyVwlG6lxXvGsTUvbBbMr5XAGrkjZMjIrR6kZqtAk33UDHahEZqXH7HimRkNx-pGV_TQ0khV2RnxNVdPBLEgEI-6yz3ixIDvqr_VIjrKbWUy0-9XyZ0Szhmekod5HvI373a0ZGE_Z3cLJiCSjeGZFpg_Ic_dXDLqSBQokLvVpnSNyuh3YNjF5crzlvilqTNe-kqhVBRnxZxRyBlhCpN-vJ9T8zt9-y-v7_zwgmobhKtIssIZOS0DiMLMcawgdJEGMxElq0YsjXT9cmGkOifLHejmWckHH4bWePM2ztbObXDQjYnygbV_0zJP0rYqAKnG0HCmKS0Fvp4pPXNsu4WKWgirsGgN5ERA9SbU9F59xexr_UzyEUKKBQrzK1BaN1B0NNJo83xx8V86Ly655SC0o9DwN2jQWeCnSSvgxZBxIzxYhYfGkI-j9mpUXu1cBwKCuhcLbnDftedd9RoNa53cVBWl4g-FuFcvAZvnJZs2QXyCpqdZG58Cgt32VZfZUARggtaCPAf7VQw50uyIa6Tzj0mWBeTjsDmecee8xQnJdz83Ev_lueVE9qe1Qymo2PvQ5oJzvd51IV-qhm7g2zeyOtl9Fq-SkY37YfIz9JFUHnLxJapBk-MSsJ0_JVikEExMgVJPzNZmlNRVfSviStq_qUh5IMzZme8nq1xm0cf1qMB0-jlzz7WPtJYQ87fKhLD__O6zmPryqdIltHGRvt75O-nUjGFlMzIBSUPxJqzUlLrdMAAluNObwJl3am3Kpt8_Xzdo1s8hvjmps1qH1NMbXgaYkxMBZMLnQx5z8RcX-1oDdOtTGqsDzBSgy7NhtXmaPSZtBhWzrmebPQGRxd1pWfp-b8jU6cE-xf3VuQ8lTFFus_dRnJcIWzoUGVu_5mZUZrOxh_ojNtvLhK0ZQErLF0DgsIE7_qgvrebmhhergCjCem5LEcYykyBIevNzPrTuflslYrvTNnOViq1PZRMmLbqPLKe8Au7n-80OBTwJ0Xb-RASCrkzmjUgoMeEkgr834PRKHvQFiM_VgXSY-i7Zm_dPGSusNmpuCHqU1hXhbNhsTBaYXVMEawBqSqSYzl7yoEBxVaaJqO19Fdg0o26pqb7_othjtxIT5p4Szr3yygRCD4TX28-Mm4FaROHnDajxK4L_fr2IzYWx7n_e0nIqkTmhBRCzpv9Qdu_vAAwn_l_qM-ZjbM2_2uoksdB-TdTjlTlDLubnafwTd-CjKKB5ZwbxcTx8dtvomPwUdx6Go7jl7xbSRolBi9DAUar3368__F0kEFOclPimMcMuIMgLU93ww90dkyGWXyirywcfSnzXfKEFyuR0HoIJeXbKG6YgjK0wo_Loguu9q6C9YIKZlU1oEYvNSsZy9EY96uZH8bCHhW2oPC8beGe6madJqGQ8H2JhoOQamf3uIU8JpCO-pU_r40ILHpwXWwEh3yAV87E4bT22QIUSOKTNeBJGHaUqqfBmV5Wq5ktWTmWhrznAeRUWFoc7h0uIfLy1Y6mIRWe7L7n0uboOOhap1MsDzlMEE9ZUud050IzUGPatXVmB)
-- [GitHub](https://github.com/JouleTracker/JouleTracker)
-- [Jira](https://alejandrochoquehuanca007.atlassian.net/jira/software/projects/JOUL/boards/1/backlog?atlOrigin=eyJpIjoiYzkxZjFiZTFlZTEzNDEwMzk2ZmEwZDBhODJmNDI4OWYiLCJwIjoiaiJ9)
-- [UXPressia](https://uxpressia.com/w/NxJgO)
-- [Miro](https://miro.com/app/board/uXjVHqBr2y8=/)
-- [Visual Studio](https://jouletracker.github.io/JouleTracker-LandingPage/)
-- [Figma](https://www.figma.com/design/I9Hbim3oES3bOynqQrzlHw/JouleTracker_Mockap-II--Desktop-?t=t6nxRhPCoFxgRXay-0)
-- [Diagrama UML](https://www.plantuml.com/plantuml/png/tLXHR-Cs37xthn3wijmL3RBjBIYAowMvmK0lnPfqm1vLYtM5isLFadl8jlllOwmufMSnItO5XbrV78dyAFAZI4bzvxoqlYcBf817BtmbhCwVl53QGkPrPHBtIPjQMbcAMcQVP0uhlob0RCNIv0KGXQoGpisyj_gXyP1cbLdftq5CaYUjG41P-uqeeNm0wvB4PHBD_32PJCHdhVmJiQDgBNwSJ99ajw8uK_2iCoYbmL49nezbNHSwariFnuyoamhEn1-9428u8QvRmCSzu4Eh8oulmu-hgw3T_frZCBbs7cn0ZRAgnANKLAHtFS4ypB-PximJ2nZheyuR2mCJSoePskZ4RIZ4e5Hg1SPLTbqDJCxwCceqp1CxEVYWytwJgj5l3TWDMlY9plwydQH14MomvzvlWf2QY0WxIpT8scMGNhNslYHV3cLJLQNKPbnM2eenJcYlmNK91TEKEzzMNlh6aTJDvklqbyL-c2x_Dl5nbYxNY-LiEN-PkqvNyzlbSZ5VBwvtphsi4vm-UPqFi_kRzQ_K6js6kErcUMuXbnx4NLNvtlQx41gJUd-VNfCf8ql0R7ghJKwcrIxTYXUkDtLCwDgGfZqY8nKmmkmzLreHKLChwNU8aO7FguWbYg84xFX40XRRh6uE1Kw3I8zcnBKBC44tHli3ND1aqrgMXNwmqiE83IjIkwyHevDbNQ2lgV5WdsMnWgmo2ZtTJkHWYQgtqhXIEuTB7rOdIGmEax1EgynT1zfNfjwkYzqNc4Q9bEn-1KveOrdA4laboI6opeZYDRgjJZH8beXdJFyzvDg-rRtf4aIbgtYEK9dGJlJNVA88Xd6Uw_IdktyCxwkkbbYDUwCzaPswWRPdXuRX_eaTI1XY-pqom25tt05rWkKJ0eHd7BZO9QGh3L2BhGwkVjr2sb7V1wOpeA3AiiQYYLk3ZLTwMEiIk6wBcmPKjs6-OitGMazpvXYgBDILqxvYjaB7Mb1gqzKD1ZbpyXb6OPtkG1eUO8_QgFRsqxLYSjU9xfn0umaU1AQw0uNpOB-x-ep_-_kI0xiLkAunXp53AkaUgw3txL-1JwInlTh-8ubjxo0K_h-ksjeyMkcyRJBVMA2r66bUj0pJiYvUiVROxiMi-9_LsZx_3ibo7clDU5iL1TWeOVEz-51vMS3SEZyL_Ugw2zFePJTsTMKSn8hYnSQ-5bxWOKpXfuPfmLMDROV1QZ_QkECqvFY5_VpG4-QSUyBGRJ88zxZ3ZF66VpwWa3uVlfB3a0ckneAm5qXNBySo5zuqHC0K5xyKpzQh4OAEGFaGIeVdOTPfzRpqLISVDfq-dWl-IFk35iENqtVYRd4pcwUtoyKg2Kw8Yukh_YCxWDjv-k3izC--FnDlBoxmEnw_FTkf38IJLXWxBvDu9Ox7VrunXtT2AeWgSsTgaWnQ6mR3_OjjAXe7Ze4mUMOmX3CMap1k89IvzKo5WW9owS4T1jFJVWXDujR7OuvsH3_Xfm37G-bTwNGiII27JcXO51ovfn0OZsAk9XJCk4n89bVjaDP3aB0U2w4-7buZYLvni1OYc8IkIdKZ3iKDam901sgmJZlledR9lgUgVEgPboPYcuT2kwU3suPzD59umfKkZOfMCQj9P8Z8BBJLn5KvPGBD7wKPCP-y0wEQilWB)
-- [Repositorio de JouleTracker](https://github.com/JouleTracker/JouleTracker)
-- [JouleTracker Landing Page Repository](https://github.com/JouleTracker/JouleTracker-LandingPage)
-- [JouleTracker Landing Page](https://jouletracker.github.io/JouleTracker-LandingPage/)
-- [Video de ejecución](https://drive.google.com/file/d/1v6G61TiA350A7FiNq-jFrFq6u096fupr/view?usp=sharing)
-- [JouleTracker Repositorio](https://github.com/JouleTracker/JouleTracker)
-- [URL de documentación](https://jouletracker.github.io/JouleTracker-LandingPage/)
-- 
+- Repositorio JouleTracker:
+  https://github.com/JouleTracker/JouleTracker
+
+- Jira Software Cloud - JouleTracker:
+  https://alejandrochoquehuanca007.atlassian.net/jira/software/projects/JOUL/boards/1/backlog?atlOrigin=eyJpIjoiYzkxZjFiZTFlZTEzNDEwMzk2ZmEwZDBhODJmNDI4OWYiLCJwIjoiaiJ9
+
+- Google Fonts - Inter:
+  https://www.1001fonts.com/inter-font.html
+
+- Google Fonts - Roboto:
+  https://www.1001fonts.com/roboto-font.html
+
+- Coolors - Paleta principal:
+  https://coolors.co/214029-dcedd5-bed4c2-4f378a-eaddff-ffffff-1a1a1a-404040
+
+- Coolors - Paleta verde:
+  https://coolors.co/214029-dcedd5-bed4c2
+
+- Coolors - Paleta morada:
+  https://coolors.co/4f378a-eaddff
+
+- Coolors - Paleta neutra:
+  https://coolors.co/ffffff-1a1a1a-404040
+
+- Miro:
+  https://miro.com/welcomeonboard/TnpJZmYyak5sRFNiYk9yemozbUJtUjBLZDZyYUpTek9McmxaMk9lM0VlTkFEZy81cU5OWWxrZ0U2Rkp0aUxVbWxMOXhrbDEvNkU5QTE3djZjbDNXb0tKa0EydzdPN20yN3dxUXNXSzdXb1J4ZDJITG5ndnJXN1piUnEyeEJpdEl3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=815831854787
+
+- Ver diagrama UML en PlantUML:
+  https://www.plantuml.com/plantuml/png/tLXDR-Cs4BthLn2-DDr53BUz6K6mhkrc1UGZjUAsLqQQA4GaKIL7NhZj_lUEP4OX8rdq6jbBSh58pZoIR-ODoNpIo1LMUHPay80C9LCYVKIM20Kn2ba4-aaK9LSyPoMFdtWA4MupOFKmBz8CB8CuurhF49Muhn32M1QH-0VO97WK2J38Izoo7F9xK3e8TCm9vkV9PCA-Y0GVBPoa5EoNoIG8p8niHBF9F8SYuVMQSbvGBpLnpCio4t7JEtxWCKzWnFuD66ExnR2LutZLElxMsBApizt7-Rdngly-iXGAK1p1zJwf6xn8fYoyw3MOxyP_dBwQraAkogJZ5Y77Iblewxr61yoG0hfZ-jTjH4J2oTyLg6sz-7qMlzS6X7qfD9wv9kVM31IukCeuGiGteaXNeAiCTGi_xnr-nhOx6yolmTT30ft8d8jYdCi4iZ5r21IWdsCDHPMpMoMa4hYzX0raLZWlR_vilw-MYt1zrJO_XnUVsyPwTR6ylZDhUe7j2uE5FflVXNyihUPyUNktNBGTYp2w2gF8wbd-THkkgDrEr9-hb9kpD5MGSWIsaXAT73rbWZ9blGuNLbSk2u5IGT94C-mQeC0CA0QeA0PMVscecxeaMXQWKUGS8Td5RyeM45E7RQ8RQgQzXFLewuIIOID5qX67aKC1Nw81HEFjOt4M6owN1TAs_1ow2TZ38MyG5w1Z9ShwiuTFKGkrp021_E-bp83R4isvUfgzc9pitOijbhVSGns2T4lea5YHx0PxBZNsMtNBWAPjj5R72jlKm5ROea1GLDV1KtA97FFLgUHuvQg2w3PyE5PtjJHeo0sc6NnMnRxnfQkEBXFkPZmLthSXrstVXgwVzMCj-jYmrALTG3SglhE4Tj7y7XwKVhw6pfJk73wUZg01DjJGGrUBv_HCbhKfBMhHU3OjTsaUUPA1ZEDA4JSt1UKHOTw97Fo5BeRo-qr_16SAIgafo7ionrt-oXWtyMmRhuEg-GPEt7bVdmxTK-L150abfSapRH-DthkESIO_yUBYMX_1Z0Qr4J7ejjoPjfSbKnAYdVqxkB8UoLjprJoOjQyj9oz_wkoA1uKrwYg62i5jWu7AfWjmJ0litUbkpOrDB6XaNHNe99P1cgGaNbhrYirOeG2gN7A-hMrsWrtLauHBMMXOT_DjuLTMxr-iEFfKA1bfUgccTfbPNXx3ZLEbAt-_eV7n_RXqHqQVd7O1s4VJTzsuBLFZNOPRqEc2SsmweoHisBn_HaqyNgpRTFE8BytYlBkTcQiNM6XDEFUOkDNmGzijRoSpSERwsKKkCRizFJSVUZs6VITPQ_jHZ-Ds8VJKpQQZCSVHhrFpo4N-dHgV30ijF7ultFFEHvqjM3y_2Tq4EojViI7xpzfKrPfq1u8JouOZC0p5K5vBaPJba06AKVGHu2P-q8NAXYUTJpsXOVG7kad0-s7yaVCXWk6za1etfTQ2-L76dgC6HW_MSJxm1l0PCB0KWu320QlE2IC0OnXtsu-qvmbA2qq7fGfWyz7WghkCw4V3ygKePUWZHJu1DZTbAjhlsVNXX1Y1JlzVAB1Ai_-1m00
+
+- Ver diagrama UML en PlantUML:
+  https://www.plantuml.com/plantuml/png/tLXHR-Cs37xthn3wijmL3RBjBIYAowMvmK0lnPfqm1vLYtM5isLFadl8jlllOwmufMSnItO5XbrV78dyAFAZI4bzvxoqlYcBf817BtmbhCwVl53QGkPrPHBtIPjQMbcAMcQVP0uhlob0RCNIv0KGXQoGpisyj_gXyP1cbLdftq5CaYUjG41P-uqeeNm0wvB4PHBD_32PJCHdhVmJiQDgBNwSJ99ajw8uK_2iCoYbmL49nezbNHSwariFnuyoamhEn1-9428u8QvRmCSzu4Eh8oulmu-hgw3T_frZCBbs7cn0ZRAgnANKLAHtFS4ypB-PximJ2nZheyuR2mCJSoePskZ4RIZ4e5Hg1SPLTbqDJCxwCceqp1CxEVYWytwJgj5l3TWDMlY9plwydQH14MomvzvlWf2QY0WxIpT8scMGNhNslYHV3cLJLQNKPbnM2eenJcYlmNK91TEKEzzMNlh6aTJDvklqbyL-c2x_Dl5nbYxNY-LiEN-PkqvNyzlbSZ5VBwvtphsi4vm-UPqFi_kRzQ_K6js6kErcUMuXbnx4NLNvtlQx41gJUd-VNfCf8ql0R7ghJKwcrIxTYXUkDtLCwDgGfZqY8nKmmkmzLreHKLChwNU8aO7FguWbYg84xFX40XRRh6uE1Kw3I8zcnBKBC44tHli3ND1aqrgMXNwmqiE83IjIkwyHevDbNQ2lgV5WdsMnWgmo2ZtTJkHWYQgtqhXIEuTB7rOdIGmEax1EgynT1zfNfjwkYzqNc4Q9bEn-1KveOrdA4laboI6opeZYDRgjJZH8beXdJFyzvDg-rRtf4aIbgtYEK9dGJlJNVA88Xd6Uw_IdktyCxwkkbbYDUwCzaPswWRPdXuRX_eaTI1XY-pqom25tt05rWkKJ0eHd7BZO9QGh3L2BhGwkVjr2sb7V1wOpeA3AiiQYYLk3ZLTwMEiIk6wBcmPKjs6-OitGMazpvXYgBDILqxvYjaB7Mb1gqzKD1ZbpyXb6OPtkG1eU8_QgFRsqxLYSjU9xfn0umaU1AQw0uNpOB-x-ep_-_kI0xiLkAunXp53AkaUgw3txL-1JwInlTh-8ubjxo0K_h-ksjeyMkcyRJBVMA2r66bUj0pJiYvUiVROxiMi9-9_LsZx_3ibo7clDU5iL1TWeOVEz-51vMS3SEZyL_Ugw2zFePJTsTMKSn8hYnSQ-5bxWOKpXfuPfmLMDROV1QZ_QkECqvFY5_VpG4-QSUyBGRJ88zxZ3ZF66VpwWa3uVlfB3a0ckneAm5qXNBySo5zuqHC0K5xyKpzQh4OAEGFaGIeVdOTPfzRpqLISVDfq-dWl-IFk35iENqtVYRd4pcwUtoyKg2Kw8Yukh_YCxWDjv-k3izC--FnDlBoxmEnw_FTkf38IJLXWxBvDu9Ox7VrunXtT2AeWgSsTgaWnQ6mR3_OjjAXe7Ze4mUMOmX3CMap1k89IvzKo5WW9owS4T1jFJVWXDujR7OuvsH3_Xfm37G-bTwNGiII27JcXO51ovfn0OZsAk9XJCk4n89bVjaDP3aB0U2w4-7buZYLvni1OYc8IkIdKZ3iKDam901sgmJZlledR9lgUgVEgPboPYcuT2kwU3suPzD59umfKkZOfMCQjP9Z8BBJLn5KvPGBD7wKPCP-y0wEQilWB
+
+- Ver diagrama UML en PlantUML:
+  https://www.plantuml.com/plantuml/png/xLbHRzis47xNho3oigvP36zxCugWhkCM1fpOjTk-qz95vYgHAacvSBV-zr4KevvDiRGm3CE6zIMMxlYHz_6xEr9zgJILkYwBf817JRGWakLxJJ8c8TLCy4HzPBoYafQaekb7ciDM7miWZPdol03aa1PKgQdMakrg3OjKy2tx0cISx5a61CfA7qa9vGwaIXALKWFpotWy9fzPflS89wiO-NKyJX8t8xa23Z8_be8pBIJZ-OXMLS5Isgnmz4XJci4L-JqXXBIB87CxuBuRyDhwa1SlsX-tjywx-NVT12DaTWzKrH9AuFfPAigIycn25fjpswmr_JXnao0JWgoaI44fP7n5TRf7mEj-Zs_mvnQ4RfRKR43_YcUUiHVJkHa64N0EUaarg1FeJpN8em5-qsDyszWYNEI0HwXNnpiui1GGRg_z2Nh9b7xXuT_Q2RucNxydaqoKbF5HAJ8eHcOGqmpKarA0roMnp6urrRL2abYjvm_TmtgpcistsyN3c-xLR7M_NixVpU-wDw-dYwLxD2lguD_Mj63ww4tmORfSV1kyVRzTpsVlkkV5GsD7Q4xMdYICeATvBY6d6iX627qYx1l2Z1xUlqSptP3CShlm3ROIG3RL4t9duDwn4f0LU1QqbLXKDJTE2wuX1udHBGCJpBUVBMsAc2q_29PXkHT2WM_4rFW2DDpCkJRanpdPDT2B8Lm1LqBw1aT5c4Mxo9dWgYwh9lMC5wIif0LogiHda7s6WoWqpQ7FbDPI0jTzfaS99j5uUWpEPMgG5lwCNM4CauxeTaeth7-WHGrajViDqhWUiNXw-Fo4ysTocawO6VCwiztW7fIo76rrKm5GBCu774OJr4w80YZtukelas513GnAI9OpJWjBLEzkjdD25lDWWc-0Ai5xucrQvF7Rwfzn-7mAznEH9sFTBW-kgwxpT7MLSGtID6K8Dqz3fVk5k7IjuiubdTaWJ9opRbtczLldv_bbt11xoFD3cqj1-wnDA6H7Aa4X1jjuF53hXoBfn_UxUHmQUuUecc6DXNbevMNCJYI3rT4qUGOzuWWV9qnazcz86n7EWWUAuU38kdPgGQqDgP9zmSO19C41k7Ri15jPcqQGpGzjNxkpO-sJ2oDUUFn-DhGlYTHscMp5KM-B7b5SVWGN7s_3moVkj3sSiFZC0pPNGYMKUHT807-VdRzLwTE39rL53_0ChRldyEqVeHuPpruTZRYPYp9mPiV-RNO-POyPw_GJG_0JybmK0mArel0lGvT4w8yQi7SAP1EiwjgRUmxlOmVXolAs7O53-l-cEPn_UqiSmBwjxfZx_-ZTbl57IPMMTQhDCB_M-Et4BpEBiYh-TRKbt6lymFxXMjB9L8qaA6rg2TTI50N8tZr29QHpZ9GFUxbJPf-ywh5fBOX9P5ALu0e2oU63EzDmy87yI52YbisZc_gKfc2GcAJGAUSwT6k_lkJuSns-VL_xjszFgJw1yON_DVxSBaHhWVF32y4tMdzjVpztpXJuc3AS5QeKbBjWqlbaJDs0q-JJmjaZ5VB2hFY1RERBwMonUfXl4-_3titDxSctClzBYtKv-I3YerpzV4MUtzoGg_5ezFogfwHwRqw6c9_-lE4nRff0wq-2oJiQ_N4RFluaE7VySU7EdIJXgch92_mdmOJK2bHyS5Gy3YW9p6DGecV72ScWWBo9Rn2C9Q0F98dDE1fzPoyCrDxyAK1TWXCvUGv6yu-RFb0Ie0BXX1M3SE8muQCTHeepxZOmV4XpEheCvvpgE8oBRE1YaiYfqYNdTxoyQjKB47QABw4tJKq05KZ5bFRhPS_uSnSy_1BLnZxc6BXwLp2rlom98fzNXiDvfReFAOaNkm3PJYt3nljk1YULq1Qmby2pkYp-1000
+
+- Ver diagrama UML en PlantUML:
+  https://www.plantuml.com/plantuml/png/vLXBR-Cs4BxpLn2-DDrk3BUz6K6mZkqs0l90hRZNWf4cDh4IfP9K2hVT_rwAuieZUyAiaLuMcqDipUFZl3do1sE5jarPi0AUBBSLrtApjJoN6Z8hAyNCHwbgeKN9Qv5z51j8xQu0thA5sXI01B9263EpLil7naAILIgLVmEViAtCWKDPsnqleNm4RHWpcN0mFqqc4_wNpEqMuUIrv3zF9eo54_ceh9IqbPPgOnmDngAk2vc9ri3nayX43YF-3-ESTpRmsru-RUL_yIByugBxSdaPXDk_7tYcGLW8Af1xZREiAakXyYbFvWHxtd6_d_8X7Q6Al2FTUeSHtcp0s2CX8e9fwbnOyBmKh6qZWB3Mnrm4YCW8SGFMSwvsINxsPmDwvu1-HSJVMXhjsX31NEtM1ZG14pXxh1jfxCKGyD8ZVcAV8ddEgr98DIwh78enA2kj1FCvrQ2QidFoOLS3Ikdr_JfTNj_VB7hArJfDxfPf-iVy_lPskPedivkUbzmjrkd3Af2SGGVWgHMsCGX-Ddz8VbyY_GF2R3M_TiyB38VBCWIWhSVPPgDX8opmLLNPGLsUS-aol5ud2qHIeWINMDj6297Dvo1Cz_50x1nCfcNTTWkbxFsROcUFcgFh2PV7vqhcHzMv02jaOSwmTU-fKp403WokVHULPPletUlHA0VXJ8u56WEQ86ie_EWmMrdxg0NpSFSQ8pSgz6xSxD1X_wVTMQCrg6n7P0iKwCrkxG0m4wS3pOa3cFU4Tl3jr5uC8wZlHQaiw2Sd5fsNBaRX6mfIc2XtedGLXfn2lBweNn9Ox6iDYuHyOV8-HktB6J90OSyOMOOW2HlTL1dhvf6Z_CtsJSFDV1Iv9PzHM29qugXdVuIZck1k5QS7_xpTI_e2D4N38rAf-VB78DdK3PuH4_lhippPIlepbzuFVzqO8N1JOxeLURxCxzNKxvmK0-oXEXaT8NxblF8OKYRyULnqb1NnZF8_0z3jWh2Fc7xXqFxnJES-KCELv3Z--T9gjplCJ8uHgyjM3XK18x6c_SJX_KiCp3zM0pFH4JmE4mxiMzp6Jqji7x1V2siVWQWe7wLAwzKJreOgvlCDXg81aFZYEojfAoBhxQX-fGQvxcnhg6KrLLHW8uFurxC2T7BgmQNCMEdVBudhZeQzZ7GJLqfSz11eNbwe67lxB4m4GETvhdxLpMwU_J8mm0GRc3NwJU5S3dGEo-ri1_THxJJRxX_Oilu6q8MuXvlcI24hSVh-kcXZ5pUySDEZzw9eN7ME3E8DY8ZCWlImswoLU2_F4rekBszt_7LycOsJ-xTopWR2lFpyqlqzaemyGlg0NlquuY_Ep_deybu_6w4unwJT5y7rn8ZUcey_lSoUkqogYE27dszClRIyF9kqhzTJTiACAzhnf8PC1XzWaEWrvCfpw7mlrAOY2gwWYb5HaAFn_7WEeYj-oZ0HFI7GJv1CxAn87M6F4FQn0A1b6WTUbl0YcISV80ZotJ8Aphp93qMtIHS8KSmehf4KRepQz166XihYSYRbjDl7Wjfjh74qYzDM9N5UeNk9xe5QKrQXa_3HcBO1r1vKnR_0G00
+
+- Ver diagrama UML en PlantUML:
+  https://www.plantuml.com/plantuml/png/xLXBSzis4BxpLs1ygPh46hMzQJAUgBQISfeghcHxUkl0v4h217mK09tQRVvx0GgIbreWBEjqcaDr4ObzxEBR1nPyfGrNfYba8c5jcAcO4fkjORbGa1bHbOb-BygQArwmccVl-GPMvbu2SsHURYGWXanohMV6A77R64Ypgbo91s2JP2joO53KvfuLKDo2qacYCsxLV3kPJDW7aPijqfFNWdqtcII9jyXE6WsguALzBg0qOrxNKcJS-JTUyupdSCB-I1XZEnVOjMN_wS3-kkLWBr_k7ixE7A__FMSADa8RK4vcb5M5DPDFMRf4o-UxrQ-dhM8aonkpjGQSAt0aF-kIa0vFyVwlG6lxXvGsTUvbBbMr5XAGrkjZMjIrR6kZqtAk33UDHahEZqXH7HimRkNx-pGV_TQ0khV2RnxNVdPBLEgEI-6yz3ixIDvqr_VIjrKbWUy0-9XyZ0Szhmekod5HvI373a0ZGE_Z3cLJiCSjeGZFpg_Ic_dXDLqSBQokLvVpnSNyuh3YNjF5crzlvilqTNe-kqhVBRnxZxRyBlhCpN-vJ9T8zt9-y-v7_zwgmobhKtIssIZOS0DiMLMcawgdJEGMxElq0YsjXT9cmGkOifLHejmWckHH4bWePM2ztbObXDQjYnygbV_0zJP0rYqAKnG0HCmKS0Fvp4pPXNsu4WKWgirsGgN5ERA9SbU9F59xexr_UzyEUKKBQrzK1BaN1B0NNJo83xx8V86Ly655SC0o9DwN2jQWeCnSSvgxZBxIzxYhYfGkI-j9mpUXu1cBwKCuhcLbnDftedd9RoNa53cVBWl4g-FuFcvAZvnJZs2QXyCpqdZG58Cgt32VZfZUARggtaCPAf7VQw50uyIa6Tzj0mWBeTjsDmecee8xQnJdz83Ev_lueVE9qe1Qymo2PvQ5oJzvd51IV-qhm7g2zeyOtl9Fq-SkY37YfIz9JFUHnLxJapBk-MSsJ0_JVikEExMgVJPzNZmlNRVfSviStq_qUh5IMzZme8nq1xm0cf1qMB0-jlzz7WPtJYQ87fKhLD__O6zmPryqdIltHGRvt75O-nUjGFlMzIBSUPxJqzUlLrdMAAluNObwJl3am3Kpt8_Xzdo1s8hvjmps1qH1NMbXgaYkxMBZMLnQx5z8RcX-1oDdOtTGqsDzBSgy7NhtXmaPSZtBhWzrmebPQGRxd1pWfp-b8jU6cE-xf3VuQ8lTFFus_dRnJcIWzoUGVu_5mZUZrOxh_ojNtvLhK0ZQErLF0DgsIE7_qgvrebmhhergCjCem5LEcYykyBIevNzPrTuflslYrvTNnOViq1PZRMmLbqPLKe8Au7n-80OBTwJ0Xb-RASCrkzmjUgoMeEkgr834PRKHvQFiM_VgXSY-i7Zm_dPGSusNmpuCHqU1hXhbNhsTBaYXVMEawBqSqSYzl7yoEBxVaaJqO19Fdg0o26pqb7_othjtxIT5p4Szr3yygRCD4TX28-Mm4FaROHnDajxK4L_fr2IzYWx7n_e0nIqkTmhBRCzpv9Qdu_vAAwn_l_qM-ZjbM2_2uoksdB-TdTjlTlDLubnafwTd-CjKKB5ZwbxcTx8dtvomPwUdx6Go7jl7xbSRolBi9DAUar3368__F0kEFOclPimMcMuIMgLU93ww90dkyGWXyirywcfSnzXfKEFyuR0HoIJeXbKG6YgjK0wo_Loguu9q6C9YIKZlU1oEYvNSsZy9EY96uZH8bCHhW2oPC8beGe6madJqGQ8H2JhoOQamf3uIU8JpCO-pU_r40ILHpwXWwEh3yAV87E4bT22QIUSOKTNeBJGHaUqqfBmV5Wq5ktWTmWhrznAeRUWFoc7h0uIfLy1Y6mIRWe7L7n0uboOOhap1MsDzlMEE9ZUud050IzUGPatXVmB
+
+- GitHub:
+  https://github.com/JouleTracker/JouleTracker
+
+- Jira:
+  https://alejandrochoquehuanca007.atlassian.net/jira/software/projects/JOUL/boards/1/backlog?atlOrigin=eyJpIjoiYzkxZjFiZTFlZTEzNDEwMzk2ZmEwZDBhODJmNDI4OWYiLCJwIjoiaiJ9
+
+- UXPressia:
+  https://uxpressia.com/w/NxJgO
+
+- Miro:
+  https://miro.com/app/board/uXjVHqBr2y8=/
+
+- Visual Studio:
+  https://jouletracker.github.io/JouleTracker-LandingPage/
+
+- Figma:
+  https://www.figma.com/design/I9Hbim3oES3bOynqQrzlHw/JouleTracker_Mockap-II--Desktop-?t=t6nxRhPCoFxgRXay-0
+
+- Diagrama UML:
+  https://www.plantuml.com/plantuml/png/tLXHR-Cs37xthn3wijmL3RBjBIYAowMvmK0lnPfqm1vLYtM5isLFadl8jlllOwmufMSnItO5XbrV78dyAFAZI4bzvxoqlYcBf817BtmbhCwVl53QGkPrPHBtIPjQMbcAMcQVP0uhlob0RCNIv0KGXQoGpisyj_gXyP1cbLdftq5CaYUjG41P-uqeeNm0wvB4PHBD_32PJCHdhVmJiQDgBNwSJ99ajw8uK_2iCoYbmL49nezbNHSwariFnuyoamhEn1-9428u8QvRmCSzu4Eh8oulmu-hgw3T_frZCBbs7cn0ZRAgnANKLAHtFS4ypB-PximJ2nZheyuR2mCJSoePskZ4RIZ4e5Hg1SPLTbqDJCxwCceqp1CxEVYWytwJgj5l3TWDMlY9plwydQH14MomvzvlWf2QY0WxIpT8scMGNhNslYHV3cLJLQNKPbnM2eenJcYlmNK91TEKEzzMNlh6aTJDvklqbyL-c2x_Dl5nbYxNY-LiEN-PkqvNyzlbSZ5VBwvtphsi4vm-UPqFi_kRzQ_K6js6kErcUMuXbnx4NLNvtlQx41gJUd-VNfCf8ql0R7ghJKwcrIxTYXUkDtLCwDgGfZqY8nKmmkmzLreHKLChwNU8aO7FguWbYg84xFX40XRRh6uE1Kw3I8zcnBKBC44tHli3ND1aqrgMXNwmqiE83IjIkwyHevDbNQ2lgV5WdsMnWgmo2ZtTJkHWYQgtqhXIEuTB7rOdIGmEax1EgynT1zfNfjwkYzqNc4Q9bEn-1KveOrdA4laboI6opeZYDRgjJZH8beXdJFyzvDg-rRtf4aIbgtYEK9dGJlJNVA88Xd6Uw_IdktyCxwkkbbYDUwCzaPswWRPdXuRX_eaTI1XY-pqom25tt05rWkKJ0eHd7BZO9QGh3L2BhGwkVjr2sb7V1wOpeA3AiiQYYLk3ZLTwMEiIk6wBcmPKjs6-OitGMazpvXYgBDILqxvYjaB7Mb1gqzKD1ZbpyXb6OPtkG1eUO8_QgFRsqxLYSjU9xfn0umaU1AQw0uNpOB-x-ep_-_kI0xiLkAunXp53AkaUgw3txL-1JwInlTh-8ubjxo0K_h-ksjeyMkcyRJBVMA2r66bUj0pJiYvUiVROxiMi9-9_LsZx_3ibo7clDU5iL1TWeOVEz-51vMS3SEZyL_Ugw2zFePJTsTMKSn8hYnSQ-5bxWOKpXfuPfmLMDROV1QZ_QkECqvFY5_VpG4-QSUyBGRJ88zxZ3ZF66VpwWa3uVlfB3a0ckneAm5qXNBySo5zuqHC0K5xyKpzQh4OAEGFaGIeVdOTPfzRpqLISVDfq-dWl-IFk35iENqtVYRd4pcwUtoyKg2Kw8Yukh_YCxWDjv-k3izC--FnDlBoxmEnw_FTkf38IJLXWxBvDu9Ox7VrunXtT2AeWgSsTgaWnQ6mR3_OjjAXe7Ze4mUMOmX3CMap1k89IvzKo5WW9owS4T1jFJVWXDujR7OuvsH3_Xfm37G-bTwNGiII27JcXO51ovfn0OZsAk9XJCk4n89bVjaDP3aB0U2w4-7buZYLvni1OYc8IkIdKZ3iKDam901sgmJZlledR9lgUgVEgPboPYcuT2kwU3suPzD59umfKkZOfMCQjP9Z8BBJLn5KvPGBD7wKPCP-y0wEQilWB
+
+- Repositorio de JouleTracker:
+  https://github.com/JouleTracker/JouleTracker
+
+- JouleTracker Landing Page Repository:
+  https://github.com/JouleTracker/JouleTracker-LandingPage
+
+- JouleTracker Landing Page:
+  https://jouletracker.github.io/JouleTracker-LandingPage/
+
+- Video de ejecución:
+  https://drive.google.com/file/d/1v6G61TiA350A7FiNq-jFrFq6u096fupr/view?usp=sharing
+
+- JouleTracker Repositorio:
+  https://github.com/JouleTracker/JouleTracker
+
+- URL de documentación:
+  https://jouletracker.github.io/JouleTracker-LandingPage/
