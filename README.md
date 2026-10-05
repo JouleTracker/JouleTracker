@@ -491,7 +491,7 @@ Hypothesis Statement 06
 
 VoltLab está dirigido a dos segmentos principales de usuarios que comparten la necesidad de monitorear y controlar su consumo eléctrico de manera más eficiente:
 
-- **Propiertarios de hogares urbanos:** Propietarios de vivienda interesados en reducir su gasto en electricidad, que buscan herramientas accesibles para entender en qué momentos y con qué dispositivos consumen más energía, y así tomar decisiones informadas sobre su uso.
+- **Propietarios de hogares urbanos:** Propietarios de vivienda interesados en reducir su gasto en electricidad, que buscan herramientas accesibles para entender en qué momentos y con qué dispositivos consumen más energía, y así tomar decisiones informadas sobre su uso.
 
 - **Administradores de pequeños negocios:** Administradores de pequeños comercios (bodegas, restaurantes, talleres, oficinas pequeñas) que necesitan controlar sus costos operativos y evitar sobrecostos por consumo eléctrico ineficiente, así como detectar anomalías (picos de consumo, fugas energéticas) que puedan indicar fallas en equipos.
 
@@ -659,7 +659,7 @@ Jesús tiene 34 años y vive en Los Olivos junto con su esposa y su hijo de 5 a�
 | Personas en el hogar | 3 |
 | Equipos de mayor consumo | Aire acondicionado y lavadora |
 | Duración / Empieza en | 4:29 / 5:30 |
-| Enlace | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBbmXNmik5pRab7kNpIGC77ATgQ3SLIX8NIU4kym0uC3kw?e=BSXOOi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzMwLjUxfX0%3D |
+| Enlace | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBkzQzRmAaoS5LFmM1r1DC5Af0gnGXJmTsmMaAUnjQgkds?e=SMcatB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzMwLjYzfX0%3D |
 
 ---
 
@@ -680,7 +680,7 @@ Fabrizio tiene 26 años, vive solo en un departamento pequeño de un dormitorio 
 | Personas en el hogar | 1 |
 | Equipos de mayor consumo | Refrigerador y laptop gaming |
 | Duración | 5:36 / 9:52 |
-| Enlace | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBbmXNmik5pRab7kNpIGC77ATgQ3SLIX8NIU4kym0uC3kw?e=D9M7le&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTkyLjV9fQ%3D%3D |
+| Enlace | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBkzQzRmAaoS5LFmM1r1DC5Af0gnGXJmTsmMaAUnjQgkds?e=rsUutC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTkyLjU5fX0%3D |
 
 ---
 
@@ -695,13 +695,13 @@ Fabrizio tiene 45 años, trabaja en administración y vive con su esposa y sus d
 | Detalle | Información |
 |---|---|
 | Entrevistado | Fabrizio |
-| Edad | 45 años |
+| Edad | 26 años |
 | Distrito | Comas |
 | Ocupación | Empleado administrativo |
 | Tipo de vivienda | Casa propia |
 | Personas en el hogar | 4 |
 | Equipos de mayor consumo | Refrigeradora, therma eléctrica y PC de escritorio |
-| Duración / Empeiza en | 5:58 / 31:49 |
+| Duración / Empeiza en | 5:58 / 33:26 |
 | Enlace | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQDB16irH02WS5laTL__j-iKAfsOETJD9oBPkazEy9YJjR4?e=qIzO0l&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTU1MC44Mn19) |
 
 #### Segmento #2: Administradores de pequeños negocios
@@ -723,7 +723,7 @@ Diana tiene 40 años y es propietaria de una bodega en San Juan de Lurigancho, n
 | Antigí¼edad del negocio | 11 años |
 | Equipos de mayor consumo | Congelador de bebidas/helados y 2 refrigeradoras |
 | Duración / Empieza | 5:32 / 00:00 |
-| Enlace | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBbmXNmik5pRab7kNpIGC77ATgQ3SLIX8NIU4kym0uC3kw?e=lclLQP |
+| Enlace | https://upcedupe-my.sharepoint.com/personal/u202314186_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202314186%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202620%2D1asi0729%2D7769%2DVoltLab%2Dneedfinding%2Dsprint%2D1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E0a17a863%2D4865%2D46cc%2Db486%2D01110bde3258|
 
 ---
 
@@ -744,7 +744,7 @@ Eduardo tiene 38 años, es dueño de un taller mecánico en Comas y trabaja como
 | Antigí¼edad del negocio | 7 años |
 | Equipos de mayor consumo | Compresor de aire y máquinas de soldar |
 | Duración / Empieza en | 4:48 / 15:29  |
-| Enlace | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBbmXNmik5pRab7kNpIGC77ATgQ3SLIX8NIU4kym0uC3kw?e=WFEEdb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6OTI5LjYyfX0%3D |
+| Enlace | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBkzQzRmAaoS5LFmM1r1DC5AS1pN0v1aFzup1fSirN9dcw?e=vdaIdv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6OTI5LjU2fX0%3D |
 
 ---
 
@@ -754,7 +754,7 @@ Eduardo tiene 38 años, es dueño de un taller mecánico en Comas y trabaja como
 
 **Resumen de entrevista:**
 
-Ricardo, de 22 años, administra un minimarket en San Luis junto con dos amigos con quienes vive. Lleva 3 años en el negocio y tiene equipos de alto consumo, como cámaras de frío y congeladores, algunos encendidos las 24 horas. No cuenta con un sistema para controlar su consumo y, ocasionalmente, las fallas en las cámaras provocan pérdidas de mercadería. Por ello, considera que la detección temprana de fallas es la función más importante.
+Ricardo, de 23 años, administra un minimarket en San Luis junto con dos amigos con quienes vive. Lleva 3 años en el negocio y tiene equipos de alto consumo, como cámaras de frío y congeladores, algunos encendidos las 24 horas. No cuenta con un sistema para controlar su consumo y, ocasionalmente, las fallas en las cámaras provocan pérdidas de mercadería. Por ello, considera que la detección temprana de fallas es la función más importante.
 
 | Detalle | Información |
 |---|---|
@@ -764,14 +764,14 @@ Ricardo, de 22 años, administra un minimarket en San Luis junto con dos amigos 
 | Tipo de negocio | Minimarket |
 | Antiguedad del negocio | 3 años |
 | Equipos de mayor consumo | Cámaras de frío y congeladores de helados |
-| Duración / Empieza | 6:20 : 20:18 |
+| Duración / Empieza | 7:13 : 20:17 |
 | Enlace | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBbmXNmik5pRab7kNpIGC77ATgQ3SLIX8NIU4kym0uC3kw?e=kdrRPi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTIxOC41Nn19 |
 
 ### 2.2.3 Análisis de entrevistas.
 
-El análisis de las entrevistas realizadas permite identificar patrones comunes en los dos segmentos objetivo de VoltLab: Hogares y PYMEs. A partir de las seis entrevistas realizadas, tres corresponden al segmento de Hogares y tres al segmento de PYMEs. Se identificaron características objetivas y subjetivas relacionadas con la forma en que los usuarios gestionan actualmente su consumo eléctrico, los problemas que enfrentan y las funcionalidades que consideran más importantes para una solución de monitoreo energético.
+El análisis de las entrevistas realizadas permite identificar patrones comunes en los dos segmentos objetivo de VoltLab: Propietarios de hogares urbanos y Administradores de pequeños negocios. A partir de las seis entrevistas realizadas, tres corresponden al segmento de Propietarios de hogares urbanos y tres al segmento de Administradores de pequeños negocios. Se identificaron características objetivas y subjetivas relacionadas con la forma en que los usuarios gestionan actualmente su consumo eléctrico, los problemas que enfrentan y las funcionalidades que consideran más importantes para una solución de monitoreo energético.
 
-**Segmento 1: Propiertarios de hogares urbanos**
+**Segmento 1: Propietarios de hogares urbanos**
 
 Este segmento está compuesto por tres entrevistados: Jesús, Miguel y Carlos. Los tres se encargan directamente de revisar o gestionar los gastos relacionados con la electricidad de sus hogares.
 
@@ -842,7 +842,7 @@ El 100% presenta una disposición positiva para utilizar una plataforma de monit
 
 ### 2.3.1. User Personas.
 
-- **Segmento objetivo 1: Propiertarios de hogares urbanos**
+- **Segmento objetivo 1: Propietarios de hogares urbanos**
 
 ![](report/images/userpersona-1.png)
 
@@ -1073,7 +1073,7 @@ con el consumo eléctrico, su monitoreo y el control de los costos.
 
 El Impact Mapping de JouleTracker refleja la relación entre los objetivos de negocio de VoltLab, los actores clave identificados, los impactos esperados en su comportamiento y los entregables de software que sustentan dichos cambios mediante historias de usuario.
 
-**Objetivo de negocio #1 Segmento de Propiertarios de hogares urbanos:** <br>Alcanzar una tasa de retención mensual superior al 65% en usuarios residenciales y promover una reducción del consumo eléctrico doméstico de entre 10% y 15% mediante telemetría en tiempo real y proyecciones monetarias del recibo de luz.<br>
+**Objetivo de negocio #1 Segmento de Propietarios de hogares urbanos:** <br>Alcanzar una tasa de retención mensual superior al 65% en usuarios residenciales y promover una reducción del consumo eléctrico doméstico de entre 10% y 15% mediante telemetría en tiempo real y proyecciones monetarias del recibo de luz.<br>
 
 **Objetivo de negocio #2 Segmento de Administradores de pequeños negocios:** <br>Lograr una tasa de conversión a suscripciones de pago del 8% y mantener una tasa de cancelación trimestral (Churn Rate) inferior al 5% en pequeños negocios, optimizando sus costos operativos mediante monitoreo por áreas y alertas tempranas de sobre consumo.<br>
 
@@ -1082,7 +1082,7 @@ El Impact Mapping de JouleTracker refleja la relación entre los objetivos de ne
 | **Jefe de hogar (Javier Arévalo)**                                   | Transicionar de una gestión reactiva a un monitoreo preventivo continuo, anticipando el monto de facturación y ajustando el consumo de artefactos de alto impacto | Módulo de telemetría IoT, proyección monetaria mensual, configuración de metas de consumo y recomendaciones de ahorro   |
 | **Dueña / Administradora de pequeño negocio (Teresa Villavicencio)** | Supervisar y proteger los márgenes comerciales controlando la maquinaria crítica continua y previniendo sobrecostos por descuidos fuera de horario                | Registro y análisis de consumo por áreas de negocio, detección de anomalías operativas y alertas preventivas multicanal |
 
-**Primer Segmento Objetivo (Javier Arévalo - Propiertarios de hogares urbanos):**
+**Primer Segmento Objetivo (Javier Arévalo - Propietarios de hogares urbanos):**
 
 ![](../JouleTracker/report/images/impact-mapping/Impactmap1JT.png)
 
@@ -2619,7 +2619,7 @@ Finalmente, es fundamental mantener la rigurosidad en la documentación de la ge
 
 ## Anexo A. Videos de Exposiciones
 
-- Exposición AV1 (Sprint Review 1): https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBkzQzRmAaoS5LFmM1r1DC5Af0gnGXJmTsmMaAUnjQgkds?e=1wKVrO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- Exposición AV1 (Sprint Review 1): https://upcedupe-my.sharepoint.com/:v:/g/personal/u202512856_upc_edu_pe/IQCcVnA86T4QTr-Q8NM1xCGmAQ0SN2movemV7qMLGIxLcds?e=OvZCjY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ## Anexo B. Recursos y evidencias del proyecto
 
