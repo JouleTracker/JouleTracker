@@ -1084,14 +1084,14 @@ El Impact Mapping de JouleTracker refleja la relación entre los objetivos de ne
 
 **Primer Segmento Objetivo (Javier Arévalo - Propiertarios de hogares urbanos):**
 
-![](../JouleTracker/report/images/impact-mapping/Impactmap1JT.png)
+![](/report/images/impact-mapping/Impactmap1JT.png)
 
 <sub>Ilustración. Impact Mapping para jefes de hogar y usuarios residenciales</sub>
 
 ----
 **Segundo Segmento Objetivo (Teresa Villavicencio - Administradores de pequeños negocios):**
 
-![](../JouleTracker/report/images/impact-mapping/Impactmap2JT.png)
+![](/report/images/impact-mapping/Impactmap2JT.png)
 
 <sub> Ilustración. Impact Mapping para dueños y administradores de pequeños negocios</sub>
 
