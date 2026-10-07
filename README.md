@@ -2460,6 +2460,48 @@ El principal objetivo será implementar el módulo de autenticación de usuarios
 | Matihues Quevedo, Mijail Alexander | Anyone260 | C | C | C | C | L |
 | Velasquez Velasquez, Rodrigo | Rodrigov233 | C | C | C | C | L |
 
+#### 5.2.2.3. Sprint Backlog 2.
+
+**Objetivo:** Implementar la primera versión funcional de la aplicación web de JouleTracker, desarrollando el módulo de autenticación mediante Angular y Spring Boot, y estableciendo la comunicación inicial entre Frontend y Backend.
+
+**Alcance:**
+
+* Implementar la estructura inicial de la Single-Page Application utilizando Angular.
+* Implementar las interfaces de registro e inicio de sesión.
+* Implementar el endpoint de registro de usuarios.
+* Implementar el endpoint de inicio de sesión.
+* Implementar el proceso inicial de recuperación de contraseña.
+* Implementar la verificación de cuenta.
+* Aplicar validaciones a los formularios de autenticación.
+* Establecer comunicación entre el Frontend Angular y la Backend API mediante servicios REST.
+* Documentar los endpoints principales utilizando OpenAPI/Swagger.
+* Realizar pruebas funcionales de los principales flujos de autenticación.
+* Mantener la organización del código mediante GitFlow y Pull Requests.
+
+**Duración:** 26 de Septiembre - 09 de Octubre de 2026
+
+**Capacidad de equipo:** 150 horas totales - 5 integrantes
+
+**Requisitos técnicos:** GitHub, Git, Angular, Node.js, TypeScript, Java, Spring Boot, REST API, OpenAPI/Swagger e IDE de desarrollo.
+
+| US Id | US Title | Task Id | Task Title | Description | Estimation (Hours) | Assigned To | Status |
+| :---: | :--- | :---: | :--- | :--- | :---: | :--- | :---: |
+| US-01 | Registro de usuario | T01 | Implementar interfaz de registro | Desarrollar la vista de registro en Angular, incluyendo campos obligatorios, validaciones y mensajes de error para el usuario. | 5 | Choquehuanca Vasquez, Alejandro Samir | To Do |
+| US-01 | Registro de usuario | T02 | Implementar endpoint de registro | Desarrollar el endpoint `POST /api/auth/register` en Spring Boot para permitir la creación de nuevas cuentas de usuario. | 5 | Jara Espinoza, Miguel Angel | To Do |
+| US-01 | Registro de usuario | T03 | Validar datos de registro | Implementar validaciones para campos obligatorios, formato de correo electrónico y prevención de registros duplicados. | 4 | Vidal Castro, Miguel Angel | To Do |
+| US-02 | Inicio de sesión | T04 | Implementar interfaz de inicio de sesión | Desarrollar la vista de Login en Angular con los campos necesarios para la autenticación del usuario. | 4 | Choquehuanca Vasquez, Alejandro Samir | To Do |
+| US-02 | Inicio de sesión | T05 | Implementar endpoint de inicio de sesión | Desarrollar el endpoint `POST /api/auth/login` para autenticar usuarios registrados y permitir el acceso a las funcionalidades privadas. | 5 | Jara Espinoza, Miguel Angel | To Do |
+| US-02 | Inicio de sesión | T06 | Integrar autenticación Frontend-Backend | Conectar los formularios de Angular con los servicios REST de Spring Boot y gestionar las respuestas de autenticación. | 5 | Velasquez Velasquez, Rodrigo | To Do |
+| US-03 | Recuperación de contraseña | T07 | Implementar recuperación de contraseña | Desarrollar el flujo inicial para solicitar la recuperación de contraseña de una cuenta registrada. | 5 | Vidal Castro, Miguel Angel | To Do |
+| US-03 | Recuperación de contraseña | T08 | Implementar endpoint de recuperación | Crear el endpoint correspondiente en Spring Boot para gestionar las solicitudes de recuperación de credenciales. | 5 | Jara Espinoza, Miguel Angel | To Do |
+| US-04 | Verificación de cuenta | T09 | Implementar verificación de cuenta | Desarrollar el mecanismo necesario para verificar la cuenta de un usuario recién registrado antes de habilitar completamente su acceso. | 4 | Vidal Castro, Miguel Angel | To Do |
+| US-04 | Verificación de cuenta | T10 | Integrar verificación con Frontend | Implementar en Angular las vistas y mensajes correspondientes al proceso de verificación de cuenta. | 4 | Choquehuanca Vasquez, Alejandro Samir | To Do |
+| TS-01 | Register User | T11 | Documentar API de registro | Documentar el endpoint `POST /api/auth/register`, incluyendo parámetros, respuestas esperadas y códigos HTTP mediante OpenAPI/Swagger. | 3 | Velasquez Velasquez, Rodrigo | To Do |
+| TS-02 | Login User | T12 | Documentar API de Login | Documentar el endpoint `POST /api/auth/login` y sus respuestas mediante OpenAPI/Swagger. | 3 | Velasquez Velasquez, Rodrigo | To Do |
+| TS-03 | Recover Password | T13 | Documentar API de recuperación | Documentar el endpoint correspondiente al proceso de recuperación de contraseña. | 2 | Matihues Quevedo, Mijail Alexander | To Do |
+| TS-04 | Verify Account | T14 | Documentar API de verificación | Documentar el endpoint y flujo de verificación de cuenta utilizando OpenAPI/Swagger. | 2 | Matihues Quevedo, Mijail Alexander | To Do |
+| - | - | T15 | Pruebas funcionales de autenticación | Ejecutar pruebas de los flujos de registro, inicio de sesión, recuperación de contraseña y verificación de cuenta. | 4 | Matihues Quevedo, Mijail Alexander | To Do |
+| - | - | T16 | Integración y revisión de código | Revisar la integración entre Frontend y Backend, resolver conflictos y validar los Pull Requests antes de integrar los cambios. | 4 | Velasquez Velasquez, Rodrigo | To Do |
 
 ## Conclusiones y Recomendaciones.
 
