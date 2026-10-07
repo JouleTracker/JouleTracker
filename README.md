@@ -2450,6 +2450,16 @@ El principal objetivo será implementar el módulo de autenticación de usuarios
 | Sprint 2 Velocity | Límite de 30 SP |
 | Sum of Story Points | 30 SP |
 
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+
+| Team Member | GitHub Username | Angular Frontend | Spring Boot Backend | Authentication & Security | API Integration | Quality Control & Documentation |
+|---|---|---|---|---|---|---|
+| Choquehuanca Vasquez, Alejandro Samir | ascv.dev | L | C | C | L | C |
+| Jara Espinoza, Miguel Angel | MiguelJara2 | C | L | C | C | C |
+| Vidal Castro, Miguel Angel | Gossk | C | C | L | C | C |
+| Matihues Quevedo, Mijail Alexander | Anyone260 | C | C | C | C | L |
+| Velasquez Velasquez, Rodrigo | Rodrigov233 | C | C | C | C | L |
+
 
 ## Conclusiones y Recomendaciones.
 
