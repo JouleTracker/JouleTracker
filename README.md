@@ -491,7 +491,7 @@ Hypothesis Statement 06
 
 VoltLab está dirigido a dos segmentos principales de usuarios que comparten la necesidad de monitorear y controlar su consumo eléctrico de manera más eficiente:
 
-- **Propietarios de hogares urbanos:** Propietarios de vivienda interesados en reducir su gasto en electricidad, que buscan herramientas accesibles para entender en qué momentos y con qué dispositivos consumen más energía, y así tomar decisiones informadas sobre su uso.
+- **Propiertarios de hogares urbanos:** Propietarios de vivienda interesados en reducir su gasto en electricidad, que buscan herramientas accesibles para entender en qué momentos y con qué dispositivos consumen más energía, y así tomar decisiones informadas sobre su uso.
 
 - **Administradores de pequeños negocios:** Administradores de pequeños comercios (bodegas, restaurantes, talleres, oficinas pequeñas) que necesitan controlar sus costos operativos y evitar sobrecostos por consumo eléctrico ineficiente, así como detectar anomalías (picos de consumo, fugas energéticas) que puedan indicar fallas en equipos.
 
@@ -659,7 +659,7 @@ Jesús tiene 34 años y vive en Los Olivos junto con su esposa y su hijo de 5 a�
 | Personas en el hogar | 3 |
 | Equipos de mayor consumo | Aire acondicionado y lavadora |
 | Duración / Empieza en | 4:29 / 5:30 |
-| Enlace | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBkzQzRmAaoS5LFmM1r1DC5Af0gnGXJmTsmMaAUnjQgkds?e=SMcatB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzMwLjYzfX0%3D |
+| Enlace | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBbmXNmik5pRab7kNpIGC77ATgQ3SLIX8NIU4kym0uC3kw?e=BSXOOi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzMwLjUxfX0%3D |
 
 ---
 
@@ -680,7 +680,7 @@ Fabrizio tiene 26 años, vive solo en un departamento pequeño de un dormitorio 
 | Personas en el hogar | 1 |
 | Equipos de mayor consumo | Refrigerador y laptop gaming |
 | Duración | 5:36 / 9:52 |
-| Enlace | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBkzQzRmAaoS5LFmM1r1DC5Af0gnGXJmTsmMaAUnjQgkds?e=rsUutC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTkyLjU5fX0%3D |
+| Enlace | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBbmXNmik5pRab7kNpIGC77ATgQ3SLIX8NIU4kym0uC3kw?e=D9M7le&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTkyLjV9fQ%3D%3D |
 
 ---
 
@@ -695,13 +695,13 @@ Fabrizio tiene 45 años, trabaja en administración y vive con su esposa y sus d
 | Detalle | Información |
 |---|---|
 | Entrevistado | Fabrizio |
-| Edad | 26 años |
+| Edad | 45 años |
 | Distrito | Comas |
 | Ocupación | Empleado administrativo |
 | Tipo de vivienda | Casa propia |
 | Personas en el hogar | 4 |
 | Equipos de mayor consumo | Refrigeradora, therma eléctrica y PC de escritorio |
-| Duración / Empeiza en | 5:58 / 33:26 |
+| Duración / Empeiza en | 5:58 / 31:49 |
 | Enlace | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQDB16irH02WS5laTL__j-iKAfsOETJD9oBPkazEy9YJjR4?e=qIzO0l&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTU1MC44Mn19) |
 
 #### Segmento #2: Administradores de pequeños negocios
@@ -723,7 +723,7 @@ Diana tiene 40 años y es propietaria de una bodega en San Juan de Lurigancho, n
 | Antigí¼edad del negocio | 11 años |
 | Equipos de mayor consumo | Congelador de bebidas/helados y 2 refrigeradoras |
 | Duración / Empieza | 5:32 / 00:00 |
-| Enlace | https://upcedupe-my.sharepoint.com/personal/u202314186_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202314186%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202620%2D1asi0729%2D7769%2DVoltLab%2Dneedfinding%2Dsprint%2D1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E0a17a863%2D4865%2D46cc%2Db486%2D01110bde3258|
+| Enlace | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBbmXNmik5pRab7kNpIGC77ATgQ3SLIX8NIU4kym0uC3kw?e=lclLQP |
 
 ---
 
@@ -744,7 +744,7 @@ Eduardo tiene 38 años, es dueño de un taller mecánico en Comas y trabaja como
 | Antigí¼edad del negocio | 7 años |
 | Equipos de mayor consumo | Compresor de aire y máquinas de soldar |
 | Duración / Empieza en | 4:48 / 15:29  |
-| Enlace | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBkzQzRmAaoS5LFmM1r1DC5AS1pN0v1aFzup1fSirN9dcw?e=vdaIdv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6OTI5LjU2fX0%3D |
+| Enlace | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBbmXNmik5pRab7kNpIGC77ATgQ3SLIX8NIU4kym0uC3kw?e=WFEEdb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6OTI5LjYyfX0%3D |
 
 ---
 
@@ -754,7 +754,7 @@ Eduardo tiene 38 años, es dueño de un taller mecánico en Comas y trabaja como
 
 **Resumen de entrevista:**
 
-Ricardo, de 23 años, administra un minimarket en San Luis junto con dos amigos con quienes vive. Lleva 3 años en el negocio y tiene equipos de alto consumo, como cámaras de frío y congeladores, algunos encendidos las 24 horas. No cuenta con un sistema para controlar su consumo y, ocasionalmente, las fallas en las cámaras provocan pérdidas de mercadería. Por ello, considera que la detección temprana de fallas es la función más importante.
+Ricardo, de 22 años, administra un minimarket en San Luis junto con dos amigos con quienes vive. Lleva 3 años en el negocio y tiene equipos de alto consumo, como cámaras de frío y congeladores, algunos encendidos las 24 horas. No cuenta con un sistema para controlar su consumo y, ocasionalmente, las fallas en las cámaras provocan pérdidas de mercadería. Por ello, considera que la detección temprana de fallas es la función más importante.
 
 | Detalle | Información |
 |---|---|
@@ -764,14 +764,14 @@ Ricardo, de 23 años, administra un minimarket en San Luis junto con dos amigos 
 | Tipo de negocio | Minimarket |
 | Antiguedad del negocio | 3 años |
 | Equipos de mayor consumo | Cámaras de frío y congeladores de helados |
-| Duración / Empieza | 7:13 : 20:17 |
+| Duración / Empieza | 6:20 : 20:18 |
 | Enlace | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBbmXNmik5pRab7kNpIGC77ATgQ3SLIX8NIU4kym0uC3kw?e=kdrRPi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTIxOC41Nn19 |
 
 ### 2.2.3 Análisis de entrevistas.
 
-El análisis de las entrevistas realizadas permite identificar patrones comunes en los dos segmentos objetivo de VoltLab: Propietarios de hogares urbanos y Administradores de pequeños negocios. A partir de las seis entrevistas realizadas, tres corresponden al segmento de Propietarios de hogares urbanos y tres al segmento de Administradores de pequeños negocios. Se identificaron características objetivas y subjetivas relacionadas con la forma en que los usuarios gestionan actualmente su consumo eléctrico, los problemas que enfrentan y las funcionalidades que consideran más importantes para una solución de monitoreo energético.
+El análisis de las entrevistas realizadas permite identificar patrones comunes en los dos segmentos objetivo de VoltLab: Hogares y PYMEs. A partir de las seis entrevistas realizadas, tres corresponden al segmento de Hogares y tres al segmento de PYMEs. Se identificaron características objetivas y subjetivas relacionadas con la forma en que los usuarios gestionan actualmente su consumo eléctrico, los problemas que enfrentan y las funcionalidades que consideran más importantes para una solución de monitoreo energético.
 
-**Segmento 1: Propietarios de hogares urbanos**
+**Segmento 1: Propiertarios de hogares urbanos**
 
 Este segmento está compuesto por tres entrevistados: Jesús, Miguel y Carlos. Los tres se encargan directamente de revisar o gestionar los gastos relacionados con la electricidad de sus hogares.
 
@@ -842,7 +842,7 @@ El 100% presenta una disposición positiva para utilizar una plataforma de monit
 
 ### 2.3.1. User Personas.
 
-- **Segmento objetivo 1: Propietarios de hogares urbanos**
+- **Segmento objetivo 1: Propiertarios de hogares urbanos**
 
 ![](report/images/userpersona-1.png)
 
@@ -1073,7 +1073,7 @@ con el consumo eléctrico, su monitoreo y el control de los costos.
 
 El Impact Mapping de JouleTracker refleja la relación entre los objetivos de negocio de VoltLab, los actores clave identificados, los impactos esperados en su comportamiento y los entregables de software que sustentan dichos cambios mediante historias de usuario.
 
-**Objetivo de negocio #1 Segmento de Propietarios de hogares urbanos:** <br>Alcanzar una tasa de retención mensual superior al 65% en usuarios residenciales y promover una reducción del consumo eléctrico doméstico de entre 10% y 15% mediante telemetría en tiempo real y proyecciones monetarias del recibo de luz.<br>
+**Objetivo de negocio #1 Segmento de Propiertarios de hogares urbanos:** <br>Alcanzar una tasa de retención mensual superior al 65% en usuarios residenciales y promover una reducción del consumo eléctrico doméstico de entre 10% y 15% mediante telemetría en tiempo real y proyecciones monetarias del recibo de luz.<br>
 
 **Objetivo de negocio #2 Segmento de Administradores de pequeños negocios:** <br>Lograr una tasa de conversión a suscripciones de pago del 8% y mantener una tasa de cancelación trimestral (Churn Rate) inferior al 5% en pequeños negocios, optimizando sus costos operativos mediante monitoreo por áreas y alertas tempranas de sobre consumo.<br>
 
@@ -1082,16 +1082,16 @@ El Impact Mapping de JouleTracker refleja la relación entre los objetivos de ne
 | **Jefe de hogar (Javier Arévalo)**                                   | Transicionar de una gestión reactiva a un monitoreo preventivo continuo, anticipando el monto de facturación y ajustando el consumo de artefactos de alto impacto | Módulo de telemetría IoT, proyección monetaria mensual, configuración de metas de consumo y recomendaciones de ahorro   |
 | **Dueña / Administradora de pequeño negocio (Teresa Villavicencio)** | Supervisar y proteger los márgenes comerciales controlando la maquinaria crítica continua y previniendo sobrecostos por descuidos fuera de horario                | Registro y análisis de consumo por áreas de negocio, detección de anomalías operativas y alertas preventivas multicanal |
 
-**Primer Segmento Objetivo (Javier Arévalo - Propietarios de hogares urbanos):**
+**Primer Segmento Objetivo (Javier Arévalo - Propiertarios de hogares urbanos):**
 
-![](/report/images/impact-mapping/Impactmap1JT.png)
+![](../JouleTracker/report/images/impact-mapping/Impactmap1JT.png)
 
 <sub>Ilustración. Impact Mapping para jefes de hogar y usuarios residenciales</sub>
 
 ----
 **Segundo Segmento Objetivo (Teresa Villavicencio - Administradores de pequeños negocios):**
 
-![](/report/images/impact-mapping/Impactmap2JT.png)
+![](../JouleTracker/report/images/impact-mapping/Impactmap2JT.png)
 
 <sub> Ilustración. Impact Mapping para dueños y administradores de pequeños negocios</sub>
 
@@ -2426,12 +2426,82 @@ Las siguientes capturas muestran la actividad registrada por los integrantes dur
 **Figura 2:** Detalle de la participación y commits realizados por los colaboradores del proyecto.
 
 Estas métricas permiten evidenciar el trabajo colaborativo desarrollado durante el sprint y observar la participación de los diferentes integrantes en la evolución del proyecto JouleTracker.
-## 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas.
-### 5.3.2. Registro de Entrevistas.
-### 5.3.3. Evaluaciones según heurísticas.
-## 5.4. Video About-the-Product.
 
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2.
+
+Durante el Sprint 2, Team VoltLab se enfocará en iniciar el desarrollo de la aplicación web funcional de JouleTracker, pasando de la Landing Page desarrollada durante el Sprint 1 hacia la implementación de la Single-Page Application (SPA) y los primeros servicios de la Backend API.
+
+El principal objetivo será implementar el módulo de autenticación de usuarios, permitiendo el registro y acceso seguro a la plataforma. Para ello, se trabajará de manera integrada en el Frontend utilizando Angular y en el Backend utilizando Spring Boot, estableciendo una estructura inicial que permita continuar con el desarrollo de las funcionalidades principales de JouleTracker en los siguientes sprints.
+
+| Sprint # | Sprint 2 |
+| :---: | :--- |
+| Sprint Planning Background | Inicio de la implementación de la aplicación web y de los servicios principales de autenticación de JouleTracker. |
+| Date | 26-09-2026 |
+| Time | 15:00 |
+| Location | Virtual, Discord |
+| Prepared by | Alejandro Samir Choquehuanca Vasquez |
+| Attendees | Alejandro Samir Choquehuanca Vasquez / Miguel Angel Jara Espinoza / Miguel Angel Vidal Castro / Mijail Alexander Matihues Quevedo / Rodrigo Velasquez Velasquez |
+| Sprint 1 Review Summary | Durante el Sprint 1 se desarrolló y desplegó la Landing Page de JouleTracker utilizando HTML5, CSS y JavaScript. Se implementaron las principales secciones informativas, navegación, cambio de idioma, presentación de beneficios y funcionalidades, además de los accesos hacia el registro e inicio de sesión. |
+| Sprint 1 Retrospective Summary | El Sprint 1 permitió establecer una base visual y funcional para JouleTracker y distribuir las responsabilidades del equipo. Como oportunidad de mejora, para el Sprint 2 se considera necesario fortalecer la coordinación entre Frontend y Backend, definir previamente los contratos de las API y mantener una organización clara mediante ramas y Pull Requests para evitar conflictos durante la integración. |
+| Sprint Goal & User Stories | Implementar la primera versión funcional de autenticación de JouleTracker mediante una SPA desarrollada con Angular y una Backend API desarrollada con Spring Boot. |
+| Sprint 2 Goal | Nuestro enfoque en este sprint es desarrollar el módulo inicial de autenticación de JouleTracker, implementando el registro de usuarios, inicio de sesión, recuperación de contraseña y verificación de cuenta. Asimismo, se establecerá la comunicación entre el Frontend y Backend mediante servicios REST, permitiendo contar con una base funcional para continuar con los módulos de sensores y monitoreo energético en los siguientes sprints. |
+| Sprint 2 Velocity | Límite de 30 SP |
+| Sum of Story Points | 30 SP |
+
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+
+| Team Member | GitHub Username | Angular Frontend | Spring Boot Backend | Authentication & Security | API Integration | Quality Control & Documentation |
+|---|---|---|---|---|---|---|
+| Choquehuanca Vasquez, Alejandro Samir | ascv.dev | L | C | C | L | C |
+| Jara Espinoza, Miguel Angel | MiguelJara2 | C | L | C | C | C |
+| Vidal Castro, Miguel Angel | Gossk | C | C | L | C | C |
+| Matihues Quevedo, Mijail Alexander | Anyone260 | C | C | C | C | L |
+| Velasquez Velasquez, Rodrigo | Rodrigov233 | C | C | C | C | L |
+
+#### 5.2.2.3. Sprint Backlog 2.
+
+**Objetivo:** Implementar la primera versión funcional de la aplicación web de JouleTracker, desarrollando el módulo de autenticación mediante Angular y Spring Boot, y estableciendo la comunicación inicial entre Frontend y Backend.
+
+**Alcance:**
+
+* Implementar la estructura inicial de la Single-Page Application utilizando Angular.
+* Implementar las interfaces de registro e inicio de sesión.
+* Implementar el endpoint de registro de usuarios.
+* Implementar el endpoint de inicio de sesión.
+* Implementar el proceso inicial de recuperación de contraseña.
+* Implementar la verificación de cuenta.
+* Aplicar validaciones a los formularios de autenticación.
+* Establecer comunicación entre el Frontend Angular y la Backend API mediante servicios REST.
+* Documentar los endpoints principales utilizando OpenAPI/Swagger.
+* Realizar pruebas funcionales de los principales flujos de autenticación.
+* Mantener la organización del código mediante GitFlow y Pull Requests.
+
+**Duración:** 26 de Septiembre - 09 de Octubre de 2026
+
+**Capacidad de equipo:** 150 horas totales - 5 integrantes
+
+**Requisitos técnicos:** GitHub, Git, Angular, Node.js, TypeScript, Java, Spring Boot, REST API, OpenAPI/Swagger e IDE de desarrollo.
+
+| US Id | US Title | Task Id | Task Title | Description | Estimation (Hours) | Assigned To | Status |
+| :---: | :--- | :---: | :--- | :--- | :---: | :--- | :---: |
+| US-01 | Registro de usuario | T01 | Implementar interfaz de registro | Desarrollar la vista de registro en Angular, incluyendo campos obligatorios, validaciones y mensajes de error para el usuario. | 5 | Choquehuanca Vasquez, Alejandro Samir | To Do |
+| US-01 | Registro de usuario | T02 | Implementar endpoint de registro | Desarrollar el endpoint `POST /api/auth/register` en Spring Boot para permitir la creación de nuevas cuentas de usuario. | 5 | Jara Espinoza, Miguel Angel | To Do |
+| US-01 | Registro de usuario | T03 | Validar datos de registro | Implementar validaciones para campos obligatorios, formato de correo electrónico y prevención de registros duplicados. | 4 | Vidal Castro, Miguel Angel | To Do |
+| US-02 | Inicio de sesión | T04 | Implementar interfaz de inicio de sesión | Desarrollar la vista de Login en Angular con los campos necesarios para la autenticación del usuario. | 4 | Choquehuanca Vasquez, Alejandro Samir | To Do |
+| US-02 | Inicio de sesión | T05 | Implementar endpoint de inicio de sesión | Desarrollar el endpoint `POST /api/auth/login` para autenticar usuarios registrados y permitir el acceso a las funcionalidades privadas. | 5 | Jara Espinoza, Miguel Angel | To Do |
+| US-02 | Inicio de sesión | T06 | Integrar autenticación Frontend-Backend | Conectar los formularios de Angular con los servicios REST de Spring Boot y gestionar las respuestas de autenticación. | 5 | Velasquez Velasquez, Rodrigo | To Do |
+| US-03 | Recuperación de contraseña | T07 | Implementar recuperación de contraseña | Desarrollar el flujo inicial para solicitar la recuperación de contraseña de una cuenta registrada. | 5 | Vidal Castro, Miguel Angel | To Do |
+| US-03 | Recuperación de contraseña | T08 | Implementar endpoint de recuperación | Crear el endpoint correspondiente en Spring Boot para gestionar las solicitudes de recuperación de credenciales. | 5 | Jara Espinoza, Miguel Angel | To Do |
+| US-04 | Verificación de cuenta | T09 | Implementar verificación de cuenta | Desarrollar el mecanismo necesario para verificar la cuenta de un usuario recién registrado antes de habilitar completamente su acceso. | 4 | Vidal Castro, Miguel Angel | To Do |
+| US-04 | Verificación de cuenta | T10 | Integrar verificación con Frontend | Implementar en Angular las vistas y mensajes correspondientes al proceso de verificación de cuenta. | 4 | Choquehuanca Vasquez, Alejandro Samir | To Do |
+| TS-01 | Register User | T11 | Documentar API de registro | Documentar el endpoint `POST /api/auth/register`, incluyendo parámetros, respuestas esperadas y códigos HTTP mediante OpenAPI/Swagger. | 3 | Velasquez Velasquez, Rodrigo | To Do |
+| TS-02 | Login User | T12 | Documentar API de Login | Documentar el endpoint `POST /api/auth/login` y sus respuestas mediante OpenAPI/Swagger. | 3 | Velasquez Velasquez, Rodrigo | To Do |
+| TS-03 | Recover Password | T13 | Documentar API de recuperación | Documentar el endpoint correspondiente al proceso de recuperación de contraseña. | 2 | Matihues Quevedo, Mijail Alexander | To Do |
+| TS-04 | Verify Account | T14 | Documentar API de verificación | Documentar el endpoint y flujo de verificación de cuenta utilizando OpenAPI/Swagger. | 2 | Matihues Quevedo, Mijail Alexander | To Do |
+| - | - | T15 | Pruebas funcionales de autenticación | Ejecutar pruebas de los flujos de registro, inicio de sesión, recuperación de contraseña y verificación de cuenta. | 4 | Matihues Quevedo, Mijail Alexander | To Do |
+| - | - | T16 | Integración y revisión de código | Revisar la integración entre Frontend y Backend, resolver conflictos y validar los Pull Requests antes de integrar los cambios. | 4 | Velasquez Velasquez, Rodrigo | To Do |
 
 ## Conclusiones y Recomendaciones.
 
@@ -2456,273 +2526,215 @@ Finalmente, es fundamental mantener la rigurosidad en la documentación de la ge
 
 ---
 
+
 # Bibliografía
 
-- Organismo Supervisor de la Inversión en Energía y Minería (Osinergmin). (2023). *Guía de orientación sobre el uso eficiente y seguro de la energía eléctrica.*
+- Organismo Supervisor de la Inversión en Energía y Minería (Osinergmin). (2023). *Guía de orientación sobre el uso eficiente y seguro de la energía eléctrica.*  
   https://www.gob.pe/osinergmin
 
-- Al-Khatib, W., Al-Ghamdi, A. S., & Khan, M. A. (2021). *IoT-based smart energy monitoring and management system for residential and small commercial buildings.* Sustainable Energy Technologies and Assessments, 47, Article 101416.
+- Al-Khatib, W., Al-Ghamdi, A. S., & Khan, M. A. (2021). *IoT-based smart energy monitoring and management system for residential and small commercial buildings.* Sustainable Energy Technologies and Assessments, 47, Article 101416.  
   https://doi.org/10.1016/j.seta.2021.101416
 
-- International Energy Agency (IEA). (2023). *Energy Efficiency 2023: Analysis and key findings.*
+- International Energy Agency (IEA). (2023). *Energy Efficiency 2023: Analysis and key findings.*  
   https://www.iea.org/reports/energy-efficiency-2023
 
-- Instituto Nacional de Estadística e Informática (INEI). (2024). *Comportamiento de la economía peruana e índices de actividad comercial y de servicios.*
+- Instituto Nacional de Estadística e Informática (INEI). (2024). *Comportamiento de la economía peruana e índices de actividad comercial y de servicios.*  
   https://www.inei.gob.pe/prensa/noticias/
 
-- The Markdown Guide. *The Markdown Guide.*
+- The Markdown Guide. *The Markdown Guide.*  
   https://www.markdownguide.org/
 
-- Tamim, N. *How to use PlantUML with Markdown.* GitHub Gist.
+- Tamim, N. *How to use PlantUML with Markdown.* GitHub Gist.  
   https://gist.github.com/noamtamim/f11982b28602bd7e604c233fbe9d910f
 
-- Structurizr. *Embedding diagrams.*
+- Structurizr. *Embedding diagrams.*  
   https://docs.structurizr.com/cloud/embed
 
-- Progressa Lean. *5W+2H - Técnica de análisis de problemas.*
+- Progressa Lean. *5W+2H - Técnica de análisis de problemas.*  
   https://www.progressalean.com/5w2h-tecnica-de-analisis-de-problemas/
 
-- Fowler, M. *Ubiquitous Language.* Martin Fowler.
+- Fowler, M. *Ubiquitous Language.* Martin Fowler.  
   https://martinfowler.com/bliki/UbiquitousLanguage.html
 
-- Open Practice Library. *Ubiquitous Language: Unambiguously define the terms and concepts of a business domain.*
+- Open Practice Library. *Ubiquitous Language: Unambiguously define the terms and concepts of a business domain.*  
   https://openpracticelibrary.com/practice/ubiquitous-language/
 
-- Lean UX Canvas Chapter 3. *Scribd.*
+- Lean UX Canvas Chapter 3. *Scribd.*  
   https://www.scribd.com/document/655516553/Leanux-Sampler
 
-- Mountain Goat Software. *User Stories Articles.*
+- Mountain Goat Software. *User Stories Articles.*  
   https://www.mountaingoatsoftware.com/blog/tag/user-stories
 
-- UXPressia. *User vs. Buyer Persona: Differences and free template.*
+- UXPressia. *User vs. Buyer Persona: Differences and free template.*  
   https://uxpressia.com/blog/user-persona-vs-buyer-persona-difference
 
-- UXPressia. *How to create an Impact Map in 4 easy steps?*
+- UXPressia. *How to create an Impact Map in 4 easy steps?*  
   https://uxpressia.com/blog/build-impact-map-4-easy-steps
 
-- IBM Design Thinking. *As-is Scenario Map: Build a better understanding of your users' current experience.*
+- IBM Design Thinking. *As-is Scenario Map: Build a better understanding of your users' current experience.*  
   https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map
 
-- IBM Design Thinking. *To-be Scenario Map: Draft a vision of your user's future experience to show how your ideas address their current needs.*
+- IBM Design Thinking. *To-be Scenario Map: Draft a vision of your user's future experience to show how your ideas address their current needs.*  
   https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map
 
-- IBM Design Thinking. *Empathy Map: Build empathy for your users through a conversation informed by your team's observations.*
+- IBM Design Thinking. *Empathy Map: Build empathy for your users through a conversation informed by your team's observations.*  
   https://www.ibm.com/design/thinking/page/toolkit/activity/empathy-map
 
-- Nielsen Norman Group. *Empathy Mapping: The First Step in Design Thinking.*
+- Nielsen Norman Group. *Empathy Mapping: The First Step in Design Thinking.*  
   https://www.nngroup.com/articles/empathy-mapping/
 
-- DZone. *Acceptance Criteria in Scrum: Explanation, Examples, and Template.*
+- DZone. *Acceptance Criteria in Scrum: Explanation, Examples, and Template.*  
   https://dzone.com/articles/acceptance-criteria-in-software-explanation-exampl
 
-- Dittrich, J. *A Beginner's Guide to Finding User Needs.*
+- Dittrich, J. *A Beginner's Guide to Finding User Needs.*  
   https://jdittrich.github.io/userNeedResearchBook/
 
-- Modern Requirements. *Using a Requirements Traceability Matrix to Improve Project Quality.*
+- Modern Requirements. *Using a Requirements Traceability Matrix to Improve Project Quality.*  
   https://www.modernrequirements.com/blogs/using-a-requirements-traceability-matrix-to-improve-project-quality/
 
-- Otiscole. *Customer Portfolio – What's Cookin'.*
+- Otiscole. *Customer Portfolio – What's Cookin'.*  
   http://otiscole.com
 
-- UX for the Masses. *A step-by-step guide to scenario mapping.*
+- UX for the Masses. *A step-by-step guide to scenario mapping.*  
   http://www.uxforthemasses.com/scenario-mapping/
 
-- CareerFoundry. *What are User Flows in User Experience (UX) Design?*
+- CareerFoundry. *What are User Flows in User Experience (UX) Design?*  
   https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/
 
-- UX Design. *User flow is the new wireframe.*
+- UX Design. *User flow is the new wireframe.*  
   https://uxdesign.cc/when-to-use-user-flows-guide-8b26ca9aa36a
 
-- Nielsen Norman Group. *Design Systems 101.*
+- Nielsen Norman Group. *Design Systems 101.*  
   https://www.nngroup.com/articles/design-systems-101/
 
-- Nielsen Norman Group. *Front-End Style-Guides: Definition, Requirements, Component Checklist.*
+- Nielsen Norman Group. *Front-End Style-Guides: Definition, Requirements, Component Checklist.*  
   https://www.nngroup.com/articles/front-end-style-guides/
 
-- Nielsen Norman Group. *The Four Dimensions of Tone of Voice.*
+- Nielsen Norman Group. *The Four Dimensions of Tone of Voice.*  
   https://www.nngroup.com/articles/tone-of-voice-dimensions/
 
-- Driessen, V. *A successful Git branching model.*
+- Driessen, V. *A successful Git branching model.*  
   https://nvie.com/posts/a-successful-git-branching-model/
 
-- Semantic Versioning. *Semantic Versioning 2.0.0.*
+- Semantic Versioning. *Semantic Versioning 2.0.0.*  
   https://semver.org/
 
-- Conventional Commits. *Conventional Commits.*
+- Conventional Commits. *Conventional Commits.*  
   https://www.conventionalcommits.org/
 
-- W3Schools. *HTML Style Guide and Coding Conventions.*
+- W3Schools. *HTML Style Guide and Coding Conventions.*  
   https://www.w3schools.com/html/html5_syntax.asp
 
-- Google. *Google HTML/CSS Style Guide.*
+- Google. *Google HTML/CSS Style Guide.*  
   https://google.github.io/styleguide/htmlcssguide.html
 
-- SpecFlow. *Gherkin Conventions for Readable Specifications.*
+- SpecFlow. *Gherkin Conventions for Readable Specifications.*  
   https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/
 
-- Tune, N. *Domain-Driven Architecture Diagrams.* Medium.
+- Tune, N. *Domain-Driven Architecture Diagrams.* Medium.  
   https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture-diagrams-139a75acb578
 
-- Domain Storytelling. *Domain Storytelling and Requirements.*
+- Domain Storytelling. *Domain Storytelling and Requirements.*  
   https://domainstorytelling.org/#dst-requirements
 
-- Open Practice Library. *Domain Driven Design: Tackling Complexity in the Heart of Software.*
+- Open Practice Library. *Domain Driven Design: Tackling Complexity in the Heart of Software.*  
   https://openpracticelibrary.com/perspective/domain-driven-design/
 
-- Angular. *Angular coding style guide.*
+- Angular. *Angular coding style guide.*  
   https://angular.io/guide/styleguide
 
-- Google. *Google Java Style Guide.*
+- Google. *Google Java Style Guide.*  
   https://google.github.io/styleguide/javaguide.html
 
-- Google. *Google TypeScript Style Guide.*
+- Google. *Google TypeScript Style Guide.*  
   https://google.github.io/styleguide/tsguide.html
 
-- Spring. *Spring Boot Features.*
+- Spring. *Spring Boot Features.*  
   https://docs.spring.io/spring-boot/docs/current/reference/html/features.html
 
-- HubSpot. *Full List of Meta Tags, Why They Matter for SEO & How to Write Them.*
+- HubSpot. *Full List of Meta Tags, Why They Matter for SEO & How to Write Them.*  
   https://blog.hubspot.com/marketing/meta-tags
 
-- Sameera17. *How to Write a User Story for an API Product.* Medium.
+- Sameera17. *How to Write a User Story for an API Product.* Medium.  
   https://sameera17w.medium.com/how-to-write-a-user-story-for-an-api-product-7af6abd4ad2e
 
-- Connect2Grp. *Using PlantUML for Creating Clear and Concise Diagrams.* Medium.
+- Connect2Grp. *Using PlantUML for Creating Clear and Concise Diagrams.* Medium.  
   https://connect2grp.medium.com/using-plantuml-for-creating-clear-and-concise-diagrams-2fc621529560
 
-- DDD by Examples. *Big Picture EventStorming.* GitHub.
+- DDD by Examples. *Big Picture EventStorming.* GitHub.  
   https://github.com/ddd-by-examples/library/blob/master/docs/big-picture.md
 
-- DDD by Examples. *Design Level EventStorming.* GitHub.
+- DDD by Examples. *Design Level EventStorming.* GitHub.  
   https://github.com/ddd-by-examples/library/blob/master/docs/design-level.md
 
-- GitLab. *What is GitFlow?*
+- GitLab. *What is GitFlow?*  
   https://about.gitlab.com/blog/what-is-gitflow/
 
-- Atlassian. *Gitflow workflow.*
+- Atlassian. *Gitflow workflow.*  
   https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 
-- Kummer, D. *git-flow cheatsheet.*
+- Kummer, D. *git-flow cheatsheet.*  
   https://danielkummer.github.io/git-flow-cheatsheet/index.html
+
+- Organismo Supervisor de la Inversión en Energía y Minería (Osinergmin). (2023). Guía de orientación sobre el uso eficiente y seguro de la energía eléctrica. https://www.gob.pe/osinergmin
+
+- Al-Khatib, W., Al-Ghamdi, A. S., & Khan, M. A. (2021). IoT-based smart energy monitoring and management system for residential and small commercial buildings. Sustainable Energy Technologies and Assessments, 47, Article 101416. https://doi.org/10.1016/j.seta.2021.101416
+
+- International Energy Agency (IEA). (2023). Energy Efficiency 2023: Analysis and key findings. https://www.iea.org/reports/energy-efficiency-2023
+
+- Instituto Nacional de Estadística e Informática (INEI). (2024). Comportamiento de la economía peruana e índices de actividad comercial y de servicios. https://www.inei.gob.pe/prensa/noticias/
 
 
 # Anexos
 
 ## Anexo A. Videos de Exposiciones
 
-- Exposición AV1 (Sprint Review 1):
-  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202512856_upc_edu_pe/IQCcVnA86T4QTr-Q8NM1xCGmAQ0SN2movemV7qMLGIxLcds?e=OvZCjY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
+- Exposición AV1 (Sprint Review 1): https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBkzQzRmAaoS5LFmM1r1DC5Af0gnGXJmTsmMaAUnjQgkds?e=1wKVrO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ## Anexo B. Recursos y evidencias del proyecto
 
-- Jira Software Cloud JouleTracker:
-  https://alejandrochoquehuanca007.atlassian.net/jira/software/projects/JOUL/boards/1/backlog?atlOrigin=eyJpIjoiYzkxZjFiZTFlZTEzNDEwMzk2ZmEwZDBhODJmNDI4OWYiLCJwIjoiaiJ9
+- [Jira Software Cloud JouleTracker](https://alejandrochoquehuanca007.atlassian.net/jira/software/projects/JOUL/boards/1/backlog?atlOrigin=eyJpIjoiYzkxZjFiZTFlZTEzNDEwMzk2ZmEwZDBhODJmNDI4OWYiLCJwIjoiaiJ9)
+- [UXPressia  â‚¬â€œ JouleTracker](https://uxpressia.com/w/NxJgO)
+- [Miro  â‚¬â€œ JouleTracker](https://miro.com/app/board/uXjVHqBr2y8=/)
+- [Figma  â‚¬â€œ JouleTracker](https://www.figma.com/design/I9Hbim3oES3bOynqQrzlHw/JouleTracker_Mockap-II--Desktop-?t=t6nxRhPCoFxgRXay-0)
+- [Repositorio principal de JouleTracker (Reporte)](https://github.com/JouleTracker/JouleTracker)
+- [Repositorio de JouleTracker Landing Page](https://github.com/JouleTracker/JouleTracker-LandingPage)
+- [JouleTracker Landing Page](https://jouletracker.github.io/JouleTracker-LandingPage/)
+- [Video de ejecución del producto](https://drive.google.com/file/d/1v6G61TiA350A7FiNq-jFrFq6u096fupr/view?usp=sharing)
 
-- UXPressia – JouleTracker:
-  https://uxpressia.com/w/NxJgO
 
-- Miro – JouleTracker:
-  https://miro.com/app/board/uXjVHqBr2y8=/
-
-- Figma – JouleTracker:
-  https://www.figma.com/design/I9Hbim3oES3bOynqQrzlHw/JouleTracker_Mockap-II--Desktop-?t=t6nxRhPCoFxgRXay-0
-
-- Repositorio principal de JouleTracker (Reporte):
-  https://github.com/JouleTracker/JouleTracker
-
-- Repositorio de JouleTracker Landing Page:
-  https://github.com/JouleTracker/JouleTracker-LandingPage
-
-- JouleTracker Landing Page:
-  https://jouletracker.github.io/JouleTracker-LandingPage/
-
-- Video de ejecución del producto:
-  https://drive.google.com/file/d/1v6G61TiA350A7FiNq-jFrFq6u096fupr/view?usp=sharing
+---
 
 
 # Anexos
 
-- Organización JouleTracker:
-  https://github.com/JouleTracker
 
-- Repositorio JouleTracker:
-  https://github.com/JouleTracker/JouleTracker
-
-- Jira Software Cloud - JouleTracker:
-  https://alejandrochoquehuanca007.atlassian.net/jira/software/projects/JOUL/boards/1/backlog?atlOrigin=eyJpIjoiYzkxZjFiZTFlZTEzNDEwMzk2ZmEwZDBhODJmNDI4OWYiLCJwIjoiaiJ9
-
-- Google Fonts - Inter:
-  https://www.1001fonts.com/inter-font.html
-
-- Google Fonts - Roboto:
-  https://www.1001fonts.com/roboto-font.html
-
-- Coolors - Paleta principal:
-  https://coolors.co/214029-dcedd5-bed4c2-4f378a-eaddff-ffffff-1a1a1a-404040
-
-- Coolors - Paleta verde:
-  https://coolors.co/214029-dcedd5-bed4c2
-
-- Coolors - Paleta morada:
-  https://coolors.co/4f378a-eaddff
-
-- Coolors - Paleta neutra:
-  https://coolors.co/ffffff-1a1a1a-404040
-
-- Miro:
-  https://miro.com/welcomeonboard/TnpJZmYyak5sRFNiYk9yemozbUJtUjBLZDZyYUpTek9McmxaMk9lM0VlTkFEZy81cU5OWWxrZ0U2Rkp0aUxVbWxMOXhrbDEvNkU5QTE3djZjbDNXb0tKa0EydzdPN20yN3dxUXNXSzdXb1J4ZDJITG5ndnJXN1piUnEyeEJpdEl3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=815831854787
-
-- Ver diagrama UML en PlantUML:
-  https://www.plantuml.com/plantuml/png/tLXDR-Cs4BthLn2-DDr53BUz6K6mhkrc1UGZjUAsLqQQA4GaKIL7NhZj_lUEP4OX8rdq6jbBSh58pZoIR-ODoNpIo1LMUHPay80C9LCYVKIM20Kn2ba4-aaK9LSyPoMFdtWA4MupOFKmBz8CB8CuurhF49Muhn32M1QH-0VO97WK2J38Izoo7F9xK3e8TCm9vkV9PCA-Y0GVBPoa5EoNoIG8p8niHBF9F8SYuVMQSbvGBpLnpCio4t7JEtxWCKzWnFuD66ExnR2LutZLElxMsBApizt7-Rdngly-iXGAK1p1zJwf6xn8fYoyw3MOxyP_dBwQraAkogJZ5Y77Iblewxr61yoG0hfZ-jTjH4J2oTyLg6sz-7qMlzS6X7qfD9wv9kVM31IukCeuGiGteaXNeAiCTGi_xnr-nhOx6yolmTT30ft8d8jYdCi4iZ5r21IWdsCDHPMpMoMa4hYzX0raLZWlR_vilw-MYt1zrJO_XnUVsyPwTR6ylZDhUe7j2uE5FflVXNyihUPyUNktNBGTYp2w2gF8wbd-THkkgDrEr9-hb9kpD5MGSWIsaXAT73rbWZ9blGuNLbSk2u5IGT94C-mQeC0CA0QeA0PMVscecxeaMXQWKUGS8Td5RyeM45E7RQ8RQgQzXFLewuIIOID5qX67aKC1Nw81HEFjOt4M6owN1TAs_1ow2TZ38MyG5w1Z9ShwiuTFKGkrp021_E-bp83R4isvUfgzc9pitOijbhVSGns2T4lea5YHx0PxBZNsMtNBWAPjj5R72jlKm5ROea1GLDV1KtA97FFLgUHuvQg2w3PyE5PtjJHeo0sc6NnMnRxnfQkEBXFkPZmLthSXrstVXgwVzMCj-jYmrALTG3SglhE4Tj7y7XwKVhw6pfJk73wUZg01DjJGGrUBv_HCbhKfBMhHU3OjTsaUUPA1ZEDA4JSt1UKHOTw97Fo5BeRo-qr_16SAIgafo7ionrt-oXWtyMmRhuEg-GPEt7bVdmxTK-L150abfSapRH-DthkESIO_yUBYMX_1Z0Qr4J7ejjoPjfSbKnAYdVqxkB8UoLjprJoOjQyj9oz_wkoA1uKrwYg62i5jWu7AfWjmJ0litUbkpOrDB6XaNHNe99P1cgGaNbhrYirOeG2gN7A-hMrsWrtLauHBMMXOT_DjuLTMxr-iEFfKA1bfUgccTfbPNXx3ZLEbAt-_eV7n_RXqHqQVd7O1s4VJTzsuBLFZNOPRqEc2SsmweoHisBn_HaqyNgpRTFE8BytYlBkTcQiNM6XDEFUOkDNmGzijRoSpSERwsKKkCRizFJSVUZs6VITPQ_jHZ-Ds8VJKpQQZCSVHhrFpo4N-dHgV30ijF7ultFFEHvqjM3y_2Tq4EojViI7xpzfKrPfq1u8JouOZC0p5K5vBaPJba06AKVGHu2P-q8NAXYUTJpsXOVG7kad0-s7yaVCXWk6za1etfTQ2-L76dgC6HW_MSJxm1l0PCB0KWu320QlE2IC0OnXtsu-qvmbA2qq7fGfWyz7WghkCw4V3ygKePUWZHJu1DZTbAjhlsVNXX1Y1JlzVAB1Ai_-1m00
-
-- Ver diagrama UML en PlantUML:
-  https://www.plantuml.com/plantuml/png/tLXHR-Cs37xthn3wijmL3RBjBIYAowMvmK0lnPfqm1vLYtM5isLFadl8jlllOwmufMSnItO5XbrV78dyAFAZI4bzvxoqlYcBf817BtmbhCwVl53QGkPrPHBtIPjQMbcAMcQVP0uhlob0RCNIv0KGXQoGpisyj_gXyP1cbLdftq5CaYUjG41P-uqeeNm0wvB4PHBD_32PJCHdhVmJiQDgBNwSJ99ajw8uK_2iCoYbmL49nezbNHSwariFnuyoamhEn1-9428u8QvRmCSzu4Eh8oulmu-hgw3T_frZCBbs7cn0ZRAgnANKLAHtFS4ypB-PximJ2nZheyuR2mCJSoePskZ4RIZ4e5Hg1SPLTbqDJCxwCceqp1CxEVYWytwJgj5l3TWDMlY9plwydQH14MomvzvlWf2QY0WxIpT8scMGNhNslYHV3cLJLQNKPbnM2eenJcYlmNK91TEKEzzMNlh6aTJDvklqbyL-c2x_Dl5nbYxNY-LiEN-PkqvNyzlbSZ5VBwvtphsi4vm-UPqFi_kRzQ_K6js6kErcUMuXbnx4NLNvtlQx41gJUd-VNfCf8ql0R7ghJKwcrIxTYXUkDtLCwDgGfZqY8nKmmkmzLreHKLChwNU8aO7FguWbYg84xFX40XRRh6uE1Kw3I8zcnBKBC44tHli3ND1aqrgMXNwmqiE83IjIkwyHevDbNQ2lgV5WdsMnWgmo2ZtTJkHWYQgtqhXIEuTB7rOdIGmEax1EgynT1zfNfjwkYzqNc4Q9bEn-1KveOrdA4laboI6opeZYDRgjJZH8beXdJFyzvDg-rRtf4aIbgtYEK9dGJlJNVA88Xd6Uw_IdktyCxwkkbbYDUwCzaPswWRPdXuRX_eaTI1XY-pqom25tt05rWkKJ0eHd7BZO9QGh3L2BhGwkVjr2sb7V1wOpeA3AiiQYYLk3ZLTwMEiIk6wBcmPKjs6-OitGMazpvXYgBDILqxvYjaB7Mb1gqzKD1ZbpyXb6OPtkG1eU8_QgFRsqxLYSjU9xfn0umaU1AQw0uNpOB-x-ep_-_kI0xiLkAunXp53AkaUgw3txL-1JwInlTh-8ubjxo0K_h-ksjeyMkcyRJBVMA2r66bUj0pJiYvUiVROxiMi9-9_LsZx_3ibo7clDU5iL1TWeOVEz-51vMS3SEZyL_Ugw2zFePJTsTMKSn8hYnSQ-5bxWOKpXfuPfmLMDROV1QZ_QkECqvFY5_VpG4-QSUyBGRJ88zxZ3ZF66VpwWa3uVlfB3a0ckneAm5qXNBySo5zuqHC0K5xyKpzQh4OAEGFaGIeVdOTPfzRpqLISVDfq-dWl-IFk35iENqtVYRd4pcwUtoyKg2Kw8Yukh_YCxWDjv-k3izC--FnDlBoxmEnw_FTkf38IJLXWxBvDu9Ox7VrunXtT2AeWgSsTgaWnQ6mR3_OjjAXe7Ze4mUMOmX3CMap1k89IvzKo5WW9owS4T1jFJVWXDujR7OuvsH3_Xfm37G-bTwNGiII27JcXO51ovfn0OZsAk9XJCk4n89bVjaDP3aB0U2w4-7buZYLvni1OYc8IkIdKZ3iKDam901sgmJZlledR9lgUgVEgPboPYcuT2kwU3suPzD59umfKkZOfMCQjP9Z8BBJLn5KvPGBD7wKPCP-y0wEQilWB
-
-- Ver diagrama UML en PlantUML:
-  https://www.plantuml.com/plantuml/png/xLbHRzis47xNho3oigvP36zxCugWhkCM1fpOjTk-qz95vYgHAacvSBV-zr4KevvDiRGm3CE6zIMMxlYHz_6xEr9zgJILkYwBf817JRGWakLxJJ8c8TLCy4HzPBoYafQaekb7ciDM7miWZPdol03aa1PKgQdMakrg3OjKy2tx0cISx5a61CfA7qa9vGwaIXALKWFpotWy9fzPflS89wiO-NKyJX8t8xa23Z8_be8pBIJZ-OXMLS5Isgnmz4XJci4L-JqXXBIB87CxuBuRyDhwa1SlsX-tjywx-NVT12DaTWzKrH9AuFfPAigIycn25fjpswmr_JXnao0JWgoaI44fP7n5TRf7mEj-Zs_mvnQ4RfRKR43_YcUUiHVJkHa64N0EUaarg1FeJpN8em5-qsDyszWYNEI0HwXNnpiui1GGRg_z2Nh9b7xXuT_Q2RucNxydaqoKbF5HAJ8eHcOGqmpKarA0roMnp6urrRL2abYjvm_TmtgpcistsyN3c-xLR7M_NixVpU-wDw-dYwLxD2lguD_Mj63ww4tmORfSV1kyVRzTpsVlkkV5GsD7Q4xMdYICeATvBY6d6iX627qYx1l2Z1xUlqSptP3CShlm3ROIG3RL4t9duDwn4f0LU1QqbLXKDJTE2wuX1udHBGCJpBUVBMsAc2q_29PXkHT2WM_4rFW2DDpCkJRanpdPDT2B8Lm1LqBw1aT5c4Mxo9dWgYwh9lMC5wIif0LogiHda7s6WoWqpQ7FbDPI0jTzfaS99j5uUWpEPMgG5lwCNM4CauxeTaeth7-WHGrajViDqhWUiNXw-Fo4ysTocawO6VCwiztW7fIo76rrKm5GBCu774OJr4w80YZtukelas513GnAI9OpJWjBLEzkjdD25lDWWc-0Ai5xucrQvF7Rwfzn-7mAznEH9sFTBW-kgwxpT7MLSGtID6K8Dqz3fVk5k7IjuiubdTaWJ9opRbtczLldv_bbt11xoFD3cqj1-wnDA6H7Aa4X1jjuF53hXoBfn_UxUHmQUuUecc6DXNbevMNCJYI3rT4qUGOzuWWV9qnazcz86n7EWWUAuU38kdPgGQqDgP9zmSO19C41k7Ri15jPcqQGpGzjNxkpO-sJ2oDUUFn-DhGlYTHscMp5KM-B7b5SVWGN7s_3moVkj3sSiFZC0pPNGYMKUHT807-VdRzLwTE39rL53_0ChRldyEqVeHuPpruTZRYPYp9mPiV-RNO-POyPw_GJG_0JybmK0mArel0lGvT4w8yQi7SAP1EiwjgRUmxlOmVXolAs7O53-l-cEPn_UqiSmBwjxfZx_-ZTbl57IPMMTQhDCB_M-Et4BpEBiYh-TRKbt6lymFxXMjB9L8qaA6rg2TTI50N8tZr29QHpZ9GFUxbJPf-ywh5fBOX9P5ALu0e2oU63EzDmy87yI52YbisZc_gKfc2GcAJGAUSwT6k_lkJuSns-VL_xjszFgJw1yON_DVxSBaHhWVF32y4tMdzjVpztpXJuc3AS5QeKbBjWqlbaJDs0q-JJmjaZ5VB2hFY1RERBwMonUfXl4-_3titDxSctClzBYtKv-I3YerpzV4MUtzoGg_5ezFogfwHwRqw6c9_-lE4nRff0wq-2oJiQ_N4RFluaE7VySU7EdIJXgch92_mdmOJK2bHyS5Gy3YW9p6DGecV72ScWWBo9Rn2C9Q0F98dDE1fzPoyCrDxyAK1TWXCvUGv6yu-RFb0Ie0BXX1M3SE8muQCTHeepxZOmV4XpEheCvvpgE8oBRE1YaiYfqYNdTxoyQjKB47QABw4tJKq05KZ5bFRhPS_uSnSy_1BLnZxc6BXwLp2rlom98fzNXiDvfReFAOaNkm3PJYt3nljk1YULq1Qmby2pkYp-1000
-
-- Ver diagrama UML en PlantUML:
-  https://www.plantuml.com/plantuml/png/vLXBR-Cs4BxpLn2-DDrk3BUz6K6mZkqs0l90hRZNWf4cDh4IfP9K2hVT_rwAuieZUyAiaLuMcqDipUFZl3do1sE5jarPi0AUBBSLrtApjJoN6Z8hAyNCHwbgeKN9Qv5z51j8xQu0thA5sXI01B9263EpLil7naAILIgLVmEViAtCWKDPsnqleNm4RHWpcN0mFqqc4_wNpEqMuUIrv3zF9eo54_ceh9IqbPPgOnmDngAk2vc9ri3nayX43YF-3-ESTpRmsru-RUL_yIByugBxSdaPXDk_7tYcGLW8Af1xZREiAakXyYbFvWHxtd6_d_8X7Q6Al2FTUeSHtcp0s2CX8e9fwbnOyBmKh6qZWB3Mnrm4YCW8SGFMSwvsINxsPmDwvu1-HSJVMXhjsX31NEtM1ZG14pXxh1jfxCKGyD8ZVcAV8ddEgr98DIwh78enA2kj1FCvrQ2QidFoOLS3Ikdr_JfTNj_VB7hArJfDxfPf-iVy_lPskPedivkUbzmjrkd3Af2SGGVWgHMsCGX-Ddz8VbyY_GF2R3M_TiyB38VBCWIWhSVPPgDX8opmLLNPGLsUS-aol5ud2qHIeWINMDj6297Dvo1Cz_50x1nCfcNTTWkbxFsROcUFcgFh2PV7vqhcHzMv02jaOSwmTU-fKp403WokVHULPPletUlHA0VXJ8u56WEQ86ie_EWmMrdxg0NpSFSQ8pSgz6xSxD1X_wVTMQCrg6n7P0iKwCrkxG0m4wS3pOa3cFU4Tl3jr5uC8wZlHQaiw2Sd5fsNBaRX6mfIc2XtedGLXfn2lBweNn9Ox6iDYuHyOV8-HktB6J90OSyOMOOW2HlTL1dhvf6Z_CtsJSFDV1Iv9PzHM29qugXdVuIZck1k5QS7_xpTI_e2D4N38rAf-VB78DdK3PuH4_lhippPIlepbzuFVzqO8N1JOxeLURxCxzNKxvmK0-oXEXaT8NxblF8OKYRyULnqb1NnZF8_0z3jWh2Fc7xXqFxnJES-KCELv3Z--T9gjplCJ8uHgyjM3XK18x6c_SJX_KiCp3zM0pFH4JmE4mxiMzp6Jqji7x1V2siVWQWe7wLAwzKJreOgvlCDXg81aFZYEojfAoBhxQX-fGQvxcnhg6KrLLHW8uFurxC2T7BgmQNCMEdVBudhZeQzZ7GJLqfSz11eNbwe67lxB4m4GETvhdxLpMwU_J8mm0GRc3NwJU5S3dGEo-ri1_THxJJRxX_Oilu6q8MuXvlcI24hSVh-kcXZ5pUySDEZzw9eN7ME3E8DY8ZCWlImswoLU2_F4rekBszt_7LycOsJ-xTopWR2lFpyqlqzaemyGlg0NlquuY_Ep_deybu_6w4unwJT5y7rn8ZUcey_lSoUkqogYE27dszClRIyF9kqhzTJTiACAzhnf8PC1XzWaEWrvCfpw7mlrAOY2gwWYb5HaAFn_7WEeYj-oZ0HFI7GJv1CxAn87M6F4FQn0A1b6WTUbl0YcISV80ZotJ8Aphp93qMtIHS8KSmehf4KRepQz166XihYSYRbjDl7Wjfjh74qYzDM9N5UeNk9xe5QKrQXa_3HcBO1r1vKnR_0G00
-
-- Ver diagrama UML en PlantUML:
-  https://www.plantuml.com/plantuml/png/xLXBSzis4BxpLs1ygPh46hMzQJAUgBQISfeghcHxUkl0v4h217mK09tQRVvx0GgIbreWBEjqcaDr4ObzxEBR1nPyfGrNfYba8c5jcAcO4fkjORbGa1bHbOb-BygQArwmccVl-GPMvbu2SsHURYGWXanohMV6A77R64Ypgbo91s2JP2joO53KvfuLKDo2qacYCsxLV3kPJDW7aPijqfFNWdqtcII9jyXE6WsguALzBg0qOrxNKcJS-JTUyupdSCB-I1XZEnVOjMN_wS3-kkLWBr_k7ixE7A__FMSADa8RK4vcb5M5DPDFMRf4o-UxrQ-dhM8aonkpjGQSAt0aF-kIa0vFyVwlG6lxXvGsTUvbBbMr5XAGrkjZMjIrR6kZqtAk33UDHahEZqXH7HimRkNx-pGV_TQ0khV2RnxNVdPBLEgEI-6yz3ixIDvqr_VIjrKbWUy0-9XyZ0Szhmekod5HvI373a0ZGE_Z3cLJiCSjeGZFpg_Ic_dXDLqSBQokLvVpnSNyuh3YNjF5crzlvilqTNe-kqhVBRnxZxRyBlhCpN-vJ9T8zt9-y-v7_zwgmobhKtIssIZOS0DiMLMcawgdJEGMxElq0YsjXT9cmGkOifLHejmWckHH4bWePM2ztbObXDQjYnygbV_0zJP0rYqAKnG0HCmKS0Fvp4pPXNsu4WKWgirsGgN5ERA9SbU9F59xexr_UzyEUKKBQrzK1BaN1B0NNJo83xx8V86Ly655SC0o9DwN2jQWeCnSSvgxZBxIzxYhYfGkI-j9mpUXu1cBwKCuhcLbnDftedd9RoNa53cVBWl4g-FuFcvAZvnJZs2QXyCpqdZG58Cgt32VZfZUARggtaCPAf7VQw50uyIa6Tzj0mWBeTjsDmecee8xQnJdz83Ev_lueVE9qe1Qymo2PvQ5oJzvd51IV-qhm7g2zeyOtl9Fq-SkY37YfIz9JFUHnLxJapBk-MSsJ0_JVikEExMgVJPzNZmlNRVfSviStq_qUh5IMzZme8nq1xm0cf1qMB0-jlzz7WPtJYQ87fKhLD__O6zmPryqdIltHGRvt75O-nUjGFlMzIBSUPxJqzUlLrdMAAluNObwJl3am3Kpt8_Xzdo1s8hvjmps1qH1NMbXgaYkxMBZMLnQx5z8RcX-1oDdOtTGqsDzBSgy7NhtXmaPSZtBhWzrmebPQGRxd1pWfp-b8jU6cE-xf3VuQ8lTFFus_dRnJcIWzoUGVu_5mZUZrOxh_ojNtvLhK0ZQErLF0DgsIE7_qgvrebmhhergCjCem5LEcYykyBIevNzPrTuflslYrvTNnOViq1PZRMmLbqPLKe8Au7n-80OBTwJ0Xb-RASCrkzmjUgoMeEkgr834PRKHvQFiM_VgXSY-i7Zm_dPGSusNmpuCHqU1hXhbNhsTBaYXVMEawBqSqSYzl7yoEBxVaaJqO19Fdg0o26pqb7_othjtxIT5p4Szr3yygRCD4TX28-Mm4FaROHnDajxK4L_fr2IzYWx7n_e0nIqkTmhBRCzpv9Qdu_vAAwn_l_qM-ZjbM2_2uoksdB-TdTjlTlDLubnafwTd-CjKKB5ZwbxcTx8dtvomPwUdx6Go7jl7xbSRolBi9DAUar3368__F0kEFOclPimMcMuIMgLU93ww90dkyGWXyirywcfSnzXfKEFyuR0HoIJeXbKG6YgjK0wo_Loguu9q6C9YIKZlU1oEYvNSsZy9EY96uZH8bCHhW2oPC8beGe6madJqGQ8H2JhoOQamf3uIU8JpCO-pU_r40ILHpwXWwEh3yAV87E4bT22QIUSOKTNeBJGHaUqqfBmV5Wq5ktWTmWhrznAeRUWFoc7h0uIfLy1Y6mIRWe7L7n0uboOOhap1MsDzlMEE9ZUud050IzUGPatXVmB
-
-- GitHub:
-  https://github.com/JouleTracker/JouleTracker
-
-- Jira:
-  https://alejandrochoquehuanca007.atlassian.net/jira/software/projects/JOUL/boards/1/backlog?atlOrigin=eyJpIjoiYzkxZjFiZTFlZTEzNDEwMzk2ZmEwZDBhODJmNDI4OWYiLCJwIjoiaiJ9
-
-- UXPressia:
-  https://uxpressia.com/w/NxJgO
-
-- Miro:
-  https://miro.com/app/board/uXjVHqBr2y8=/
-
-- Visual Studio:
-  https://jouletracker.github.io/JouleTracker-LandingPage/
-
-- Figma:
-  https://www.figma.com/design/I9Hbim3oES3bOynqQrzlHw/JouleTracker_Mockap-II--Desktop-?t=t6nxRhPCoFxgRXay-0
-
-- Diagrama UML:
-  https://www.plantuml.com/plantuml/png/tLXHR-Cs37xthn3wijmL3RBjBIYAowMvmK0lnPfqm1vLYtM5isLFadl8jlllOwmufMSnItO5XbrV78dyAFAZI4bzvxoqlYcBf817BtmbhCwVl53QGkPrPHBtIPjQMbcAMcQVP0uhlob0RCNIv0KGXQoGpisyj_gXyP1cbLdftq5CaYUjG41P-uqeeNm0wvB4PHBD_32PJCHdhVmJiQDgBNwSJ99ajw8uK_2iCoYbmL49nezbNHSwariFnuyoamhEn1-9428u8QvRmCSzu4Eh8oulmu-hgw3T_frZCBbs7cn0ZRAgnANKLAHtFS4ypB-PximJ2nZheyuR2mCJSoePskZ4RIZ4e5Hg1SPLTbqDJCxwCceqp1CxEVYWytwJgj5l3TWDMlY9plwydQH14MomvzvlWf2QY0WxIpT8scMGNhNslYHV3cLJLQNKPbnM2eenJcYlmNK91TEKEzzMNlh6aTJDvklqbyL-c2x_Dl5nbYxNY-LiEN-PkqvNyzlbSZ5VBwvtphsi4vm-UPqFi_kRzQ_K6js6kErcUMuXbnx4NLNvtlQx41gJUd-VNfCf8ql0R7ghJKwcrIxTYXUkDtLCwDgGfZqY8nKmmkmzLreHKLChwNU8aO7FguWbYg84xFX40XRRh6uE1Kw3I8zcnBKBC44tHli3ND1aqrgMXNwmqiE83IjIkwyHevDbNQ2lgV5WdsMnWgmo2ZtTJkHWYQgtqhXIEuTB7rOdIGmEax1EgynT1zfNfjwkYzqNc4Q9bEn-1KveOrdA4laboI6opeZYDRgjJZH8beXdJFyzvDg-rRtf4aIbgtYEK9dGJlJNVA88Xd6Uw_IdktyCxwkkbbYDUwCzaPswWRPdXuRX_eaTI1XY-pqom25tt05rWkKJ0eHd7BZO9QGh3L2BhGwkVjr2sb7V1wOpeA3AiiQYYLk3ZLTwMEiIk6wBcmPKjs6-OitGMazpvXYgBDILqxvYjaB7Mb1gqzKD1ZbpyXb6OPtkG1eUO8_QgFRsqxLYSjU9xfn0umaU1AQw0uNpOB-x-ep_-_kI0xiLkAunXp53AkaUgw3txL-1JwInlTh-8ubjxo0K_h-ksjeyMkcyRJBVMA2r66bUj0pJiYvUiVROxiMi9-9_LsZx_3ibo7clDU5iL1TWeOVEz-51vMS3SEZyL_Ugw2zFePJTsTMKSn8hYnSQ-5bxWOKpXfuPfmLMDROV1QZ_QkECqvFY5_VpG4-QSUyBGRJ88zxZ3ZF66VpwWa3uVlfB3a0ckneAm5qXNBySo5zuqHC0K5xyKpzQh4OAEGFaGIeVdOTPfzRpqLISVDfq-dWl-IFk35iENqtVYRd4pcwUtoyKg2Kw8Yukh_YCxWDjv-k3izC--FnDlBoxmEnw_FTkf38IJLXWxBvDu9Ox7VrunXtT2AeWgSsTgaWnQ6mR3_OjjAXe7Ze4mUMOmX3CMap1k89IvzKo5WW9owS4T1jFJVWXDujR7OuvsH3_Xfm37G-bTwNGiII27JcXO51ovfn0OZsAk9XJCk4n89bVjaDP3aB0U2w4-7buZYLvni1OYc8IkIdKZ3iKDam901sgmJZlledR9lgUgVEgPboPYcuT2kwU3suPzD59umfKkZOfMCQjP9Z8BBJLn5KvPGBD7wKPCP-y0wEQilWB
-
-- Repositorio de JouleTracker:
-  https://github.com/JouleTracker/JouleTracker
-
-- JouleTracker Landing Page Repository:
-  https://github.com/JouleTracker/JouleTracker-LandingPage
-
-- JouleTracker Landing Page:
-  https://jouletracker.github.io/JouleTracker-LandingPage/
-
-- Video de ejecución:
-  https://drive.google.com/file/d/1v6G61TiA350A7FiNq-jFrFq6u096fupr/view?usp=sharing
-
-- JouleTracker Repositorio:
-  https://github.com/JouleTracker/JouleTracker
-
-- URL de documentación:
-  https://jouletracker.github.io/JouleTracker-LandingPage/
+- [Organización JouleTracker](https://github.com/JouleTracker)
+- [Repositorio JouleTracker](https://github.com/JouleTracker/JouleTracker)
+- [Jira Software Cloud - JouleTracker](https://alejandrochoquehuanca007.atlassian.net/jira/software/projects/JOUL/boards/1/backlog?atlOrigin=eyJpIjoiYzkxZjFiZTFlZTEzNDEwMzk2ZmEwZDBhODJmNDI4OWYiLCJwIjoiaiJ9)
+- [Google Fonts - Inter](https://www.1001fonts.com/inter-font.html)
+- [Google Fonts - Roboto.](https://www.1001fonts.com/roboto-font.html)
+- [https://coolors.co/214029-dcedd5-bed4c2-4f378a-eaddff-ffffff-1a1a1a-404040](https://coolors.co/214029-dcedd5-bed4c2-4f378a-eaddff-ffffff-1a1a1a-404040)
+- [https://coolors.co/214029-dcedd5-bed4c2](https://coolors.co/214029-dcedd5-bed4c2)
+- [https://coolors.co/4f378a-eaddff](https://coolors.co/4f378a-eaddff)
+- [https://coolors.co/ffffff-1a1a1a-404040](https://coolors.co/ffffff-1a1a1a-404040)
+- [miro](https://miro.com/welcomeonboard/TnpJZmYyak5sRFNiYk9yemozbUJtUjBLZDZyYUpTek9McmxaMk9lM0VlTkFEZy81cU5OWWxrZ0U2Rkp0aUxVbWxMOXhrbDEvNkU5QTE3djZjbDNXb0tKa0EydzdPN20yN3dxUXNXSzdXb1J4ZDJITG5ndnJXN1piUnEyeEJpdEl3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=815831854787)
+- [Ver diagrama UML en PlantUML](https://www.plantuml.com/plantuml/png/tLXDR-Cs4BthLn2-DDr53BUz6K6mhkrc1UGZjUAsLqQQA4GaKIL7NhZj_lUEP4OX8rdq6jbBSh58pZoIR-ODoNpIo1LMUHPay80C9LCYVKIM20Kn2ba4-aaK9LSyPoMFdtWA4MupOFKmBz8CB8CuurhF49Muhn32M1QH-0VO97WK2J38Izoo7F9xK3e8TCm9vkV9PCA-Y0GVBPoa5EoNoIG8p8niHBF9F8SYuVMQSbvGBpLnpCio4t7JEtxWCKzWnFuD66ExnR2LutZLElxMsBApizt7-Rdngly-iXGAK1p1zJwf6xn8fYoyw3MOxyP_dBwQraAkogJZ5Y77Iblewxr61yoG0hfZ-jTjH4J2oTyLg6sz-7qMlzS6X7qfD9wv9kVM31IukCeuGiGteaXNeAiCTGi_xnr-nhOx6yolmTT30ft8d8jYdCi4iZ5r21IWdsCDHPMpMoMa4hYzX0raLZWlR_vilw-MYt1zrJO_XnUVsyPwTR6ylZDhUe7j2uE5FflVXNyihUPyUNktNBGTYp2w2gF8wbd-THkkgDrEr9-hb9kpD5MGSWIsaXAT73rbWZ9blGuNLbSk2u5IGT94C-mQeC0CA0QeA0PMVscecxeaMXQWKUGS8Td5RyeM45E7RQ8RQgQzXFLewuIIOID5qX67aKC1Nw81HEFjOt4M6owN1TAs_1ow2TZ38MyG5w1Z9ShwiuTFKGkrp021_E-bp83R4isvUfgzc9pitOijbhVSGns2T4lea5YHx0PxBZNsMtNBWAPjj5R72jlKm5ROea1GLDV1KtA97FFLgUHuvQg2w3PyE5PtjJHeo0sc6NnMnRxnfQkEBXFkPZmLthSXrstVXgwVzMCj-jYmrALTG3SglhE4Tj7y7XwKVhw6pfJk73wUZg01DjJGGrUBv_HCbhKfBMhHU3OjTsaUUPA1ZEDA4JSt1UKHOTw97Fo5BeRo-qr_16SAIgafo7ionrt-oXWtyMmRhuEg-GPEt7bVdmxTK-L150abfSapRH-DthkESIO_yUBYMX_1Z0Qr4J7ejjoPjfSbKnAYdVqxkB8UoLjprJoOjQOyj9oz_wkoA1uKrwYg62i5jWu7AfWjmJ0litUbkpOrDB6XaNHNe99P1cgGaNbhrYirOeG2gN7A-hMrsWrtLauHBMMXOT_DjuLTMxr-iEFfKA1bfUgccTfbPNXx3ZLEbAt-_eV7n_RXqHqQVd7O1s4VJTzsuBLFZNOPRqEc2SsmweoHisBn_HaqyNgpRTFE8BytYlBkTcQiNM6XDEFUOkDNmGzijRoSpSERwsKKkCRizFJSVUZs6VITPQ_jHZ-Ds8VJKpQQZCSVHhrFpo4N-dHgV30ijF7ultFFEHvqjM3y_2Tq4EojViI7xpzfKrPfq1u8JouOZC0p5K5vBaPJba06AKVGHu2P-q8NAXYUTJpsXOVG7kad0-s7yaVCXWk6za1etfTQ2-L76dgC6HW_MSJxm1l0PCB0KWu320QlE2IC0OnXtsu-qvmbA2qq7fGfWyz7WghkCw4V3ygKePUWZHJu1DZTbAjhlsVNXX1Y1JlzVAB1Ai_-1m00)
+- [Ver diagrama UML en PlantUML](https://www.plantuml.com/plantuml/png/tLXHR-Cs37xthn3wijmL3RBjBIYAowMvmK0lnPfqm1vLYtM5isLFadl8jlllOwmufMSnItO5XbrV78dyAFAZI4bzvxoqlYcBf817BtmbhCwVl53QGkPrPHBtIPjQMbcAMcQVP0uhlob0RCNIv0KGXQoGpisyj_gXyP1cbLdftq5CaYUjG41P-uqeeNm0wvB4PHBD_32PJCHdhVmJiQDgBNwSJ99ajw8uK_2iCoYbmL49nezbNHSwariFnuyoamhEn1-9428u8QvRmCSzu4Eh8oulmu-hgw3T_frZCBbs7cn0ZRAgnANKLAHtFS4ypB-PximJ2nZheyuR2mCJSoePskZ4RIZ4e5Hg1SPLTbqDJCxwCceqp1CxEVYWytwJgj5l3TWDMlY9plwydQH14MomvzvlWf2QY0WxIpT8scMGNhNslYHV3cLJLQNKPbnM2eenJcYlmNK91TEKEzzMNlh6aTJDvklqbyL-c2x_Dl5nbYxNY-LiEN-PkqvNyzlbSZ5VBwvtphsi4vm-UPqFi_kRzQ_K6js6kErcUMuXbnx4NLNvtlQx41gJUd-VNfCf8ql0R7ghJKwcrIxTYXUkDtLCwDgGfZqY8nKmmkmzLreHKLChwNU8aO7FguWbYg84xFX40XRRh6uE1Kw3I8zcnBKBC44tHli3ND1aqrgMXNwmqiE83IjIkwyHevDbNQ2lgV5WdsMnWgmo2ZtTJkHWYQgtqhXIEuTB7rOdIGmEax1EgynT1zfNfjwkYzqNc4Q9bEn-1KveOrdA4laboI6opeZYDRgjJZH8beXdJFyzvDg-rRtf4aIbgtYEK9dGJlJNVA88Xd6Uw_IdktyCxwkkbbYDUwCzaPswWRPdXuRX_eaTI1XY-pqom25tt05rWkKJ0eHd7BZO9QGh3L2BhGwkVjr2sb7V1wOpeA3AiiQYYLk3ZLTwMEiIk6wBcmPKjs6-OitGMazpvXYgBDILqxvYjaB7Mb1gqzKD1ZbpyXb6OPtkG1eUO8_QgFRsqxLYSjU9xfn0umaU1AQw0uNpOB-x-ep_-_kI0xiLkAunXp53AkaUgw3txL-1JwInlTh-8ubjxo0K_h-ksjeyMkcyRJBVMA2r66bUj0pJiYvUiVROxiMi-9_LsZx_3ibo7clDU5iL1TWeOVEz-51vMS3SEZyL_Ugw2zFePJTsTMKSn8hYnSQ-5bxWOKpXfuPfmLMDROV1QZ_QkECqvFY5_VpG4-QSUyBGRJ88zxZ3ZF66VpwWa3uVlfB3a0ckneAm5qXNBySo5zuqHC0K5xyKpzQh4OAEGFaGIeVdOTPfzRpqLISVDfq-dWl-IFk35iENqtVYRd4pcwUtoyKg2Kw8Yukh_YCxWDjv-k3izC--FnDlBoxmEnw_FTkf38IJLXWxBvDu9Ox7VrunXtT2AeWgSsTgaWnQ6mR3_OjjAXe7Ze4mUMOmX3CMap1k89IvzKo5WW9owS4T1jFJVWXDujR7OuvsH3_Xfm37G-bTwNGiII27JcXO51ovfn0OZsAk9XJCk4n89bVjaDP3aB0U2w4-7buZYLvni1OYc8IkIdKZ3iKDam901sgmJZlledR9lgUgVEgPboPYcuT2kwU3suPzD59umfKkZOfMCQj9P8Z8BBJLn5KvPGBD7wKPCP-y0wEQilWB)
+- [Ver diagrama UML en PlantUML](https://www.plantuml.com/plantuml/png/xLbHRzis47xNho3oigvP36zxCugWhkCM1fpOjTk-qz95vYgHAacvSBV-zr4KevvDiRGm3CE6zIMMxlYHz_6xEr9zgJILkYwBf817JRGWakLxJJ8c8TLCy4HzPBoYafQaekb7ciDM7miWZPdol03aa1PKgQdMakrg3OjKy2tx0cISx5a61CfA7qa9vGwaIXALKWFpotWy9fzPflS89wiO-NKyJX8t8xa23Z8_be8pBIJZ-OXMLS5Isgnmz4XJci4L-JqXXBIB87CxuBuRyDhwa1SlsX-tjywx-NVT12DaTWzKrH9AuFfPAigIycn25fjpswmr_JXnao0JWgoaI44fP7n5TRf7mEj-Zs_mvnQ4RfRKR43_YcUUiHVJkHa64N0EUaarg1FeJpN8em5-qsDyszWYNEI0HwXNnpiui1GGRg_z2Nh9b7xXuT_Q2RucNxydaqoKbF5HAJ8eHcOGqmpKarA0roMnp6urrRL2abYjvm_TmtgpcistsyN3c-xLR7M_NixVpU-wDw-dYwLxD2lguD_Mj63ww4tmORfSV1kyVRzTpsVlkkV5GsD7Q4xMdYICeATvBY6d6iX627qYx1l2Z1xUlqSptP3CShlm3ROIG3RL4t9duDwn4f0LU1QqbLXKDJTE2wuX1udHBGCJpBUVBMsAc2q_29PXkHT2WM_4rFW2DDpCkJRanpdPDT2B8Lm1LqBw1aT5c4Mxo9dWgYwh9lMC5wIif0LogiHda7s6WoWqpQ7FbDPI0jTzfaS99j5uUWpEPMgY5lwCNM4CauxeTaeth7-WHGrajViDqhWUiNXw-Fo4ysTocawO6VCwiztW7fIo76rrKm5GBCu774OJr4w80YZtukelas513GnAI9OpJWjBLEzkjdD25lDWWc-0Ai5xucrQvF7Rwfzn-7mAznEH9sFTBW-kgwxpT7MLSGtID6K8Dqz3fVk5k7IjuiubdTaWJ9opRbtczLldv_bbt11xoFD3cqj1-wnDA6H7Aa4X1jjuF53hXoBfn_UxUHmQUuUecc6DXNbevMNCJYI3rT4qUGOzuWWV9qnazcz86n7EWWUAuU38kdPgGQqDgP9zmSO19C41k7Ri15jPcqQGpGzjNxkpO-sJ2oDUUFn-DhGlYTHscMp5KM-B7b5SVWGN7s_3moVkj3sSiFZC0pPNGYMKUHT807-VdRzLwTE39rL53_0ChRldyEqVeHuPpruTZRYPYp9mPiV-RNO-POyPw_GJG_0JybmK0mArel0lGvT4w8yQi7SAP1EiwjgRUmxlOmVXolAs7O53-l-cEPn_UqiSmBwjxfZx_-ZTbl57IPMMTQhDCB_M-Et4BpEBiYh-TRKbt6lymFxXMjB9L8qaA6rg2TTI50N8tZr29QHpZ9GFUxbJPf-ywh5fBOX9P5ALu0e2oU63EzDmy87yI52YbisZc_gKfc2GcAJGAUSwT6k_lkJuSns-VL_xjszFgJw1yON_DVxSBaHhWVF32y4tMdzjVpztpXJuc3AS5QeKbBjWqlbaJDs0q-JJmjaZ5VB2hFY1RERBwMonUfXl4-_3titDxSctClzBYtKv-I3YerpzV4MUtzoGg_5ezFogfwHwRqw6c9_-lE4nRff0wq-2oJiQ_N4RFluaE7VySU7EdIJXgch92_mdmOJK2bHyS5Gy3YW9p6DGecV72ScWWBo9Rn2C9Q0F98dDE1fzPoyCrDxyAK1TWXCvUGv6yu-RFb0Ie0BXX1M3SE8muQCTHeepxZOmV4XpEheCvvpgE8oBRE1YaiYfqYNdTxoyQjKB47QABw4tJKq05KZ5bFRhPS_uSnSy_1BLnZxc6BXwLp2rlom98fzNXiDvfReFAOaNkm3PJYt3nljk1YULq1Qmby2pkYp-1000)
+- [Ver diagrama UML en PlantUML](https://www.plantuml.com/plantuml/png/vLXBR-Cs4BxpLn2-DDrk3BUz6K6mZkqs0l90hRZNWf4cDh4IfP9K2hVT_rwAuieZUyAiaLuMcqDipUFZl3do1sE5jarPi0AUBBSLrtApjJoN6Z8hAyNCHwbgeKN9Qv5z51j8xQu0thA5sXI01B9263EpLil7naAILIgLVmEViAtCWKDPsnqleNm4RHWpcN0mFqqc4_wNpEqMuUIrv3zF9eo54_ceh9IqbPPgOnmDngAk2vc9ri3nayX43YF-3-ESTpRmsru-RUL_yIByugBxSdaPXDk_7tYcGLW8Af1xZREiAakXyYbFvWHxtd6_d_8X7Q6Al2FTUeSHtcp0s2CX8e9fwbnOyBmKh6qZWB3Mnrm4YCW8SGFMSwvsINxsPmDwvu1-HSJVMXhjsX31NEtM1ZG14pXxh1jfxCKGyD8ZVcAV8ddEgr98DIwh78enA2kj1FCvrQ2QidFoOLS3Ikdr_JfTNj_VB7hArJfDxfPf-iVy_lPskPedivkUbzmjrkd3Af2SGGVWgHMsCGX-Ddz8VbyY_GF2R3M_TiyB38VBCWIWhSVPPgDX8opmLLNPGLsUS-aol5ud2qHIeWINMDj6297Dvo1Cz_50x1nCfcNTTWkbxFsROcUFcgFh2PV7vqhcHzMv02jaOSwmTU-fKp403WokVHULPPletUlHA0VXJ8u56WEQ86ie_EWmMrdxg0NpSFSQ8pSgz6xSxD1X_wVTMQCrg6n7P0iKwCrkxG0m4wS3pOa3cFU4Tl3jr5uC8wZlHQaiw2Sd5fsNBaRX6mfIc2XtedGLXfn2lBweNn9Ox6iDYuHyOVl8-HktB6J90OSyOMOOW2HlTL1dhvf6Z_CtsJSFDV1Iv9PzHM29qugXdVuIZck1k5QS7_xpTI_e2D4N38rAf-VB78DdK3PuH4_lhippPIlepbzuFVzqO8N1JOxeLURxCxzNKxvmK0-oXEXaT8NxblF8OKYRyULnqb1NnZF8_0z3jWh2Fc7xXqFxnJES-KCELv3Z--T9gjplCJ8uHgyjM3XK18x6c_SJX_KiCp3zM0pFH4JmE4mxiMzp6Jqji7x1V2siVWQWe7wLAwzKJreOgvlCDXg81aFZYEojfAoBhxQX-fGQvxcnhg6KrLLHW8uFurxC2T7BgmQNCMEdVBudhZeQzZ7GJLqfSz11eNbwe67lxB4m4GETvhdxLpMwU_J8mm0GRc3NwJU5S3dGEo-ri1_THxJJRxX_Oilu6q8MuXvlcI24hSVh-kcXZ5pUySDEZzw9eN7ME3E8DY8ZCWlImswoLU2_F4rekBszt_7LycOsJ-xTopWR2lFpyqlqzaemyGlg0NlquuY_Ep_deybu_6w4unwJT5y7rn8ZUcey_lSoUkqogYE27dszClRIyF9kqhzTJTiACAzhnf8PC1XzWaEWrvCfpw7mlrAOY2gwWYb5HaAFn_7WEeYj-oZ0HFI7GJv1CxAn87M6F4FQn0A1b6WTUbl0YcISV80ZotJ8Aphp93qMtIHS8KSmehf4KRepQz166XihYSYRbjDl7Wjfjh74qYzDM9N5UeNk9xe5QKrQXa_3HcBO1r1vKnR_0G00)
+- [Ver diagrama UML en PlantUML](https://www.plantuml.com/plantuml/png/xLXBSzis4BxpLs1ygPh46hMzQJAUgBQISfeghcHxUkl0v4h217mK09tQRVvx0GgIbreWBEjqcaDr4ObzxEBR1nPyfGrNfYba8c5jcAcO4fkjORbGa1bHbOb-BygQArwmccVl-GPMvbu2SsHURYGWXanohMV6A77R64Ypgbo91s2JP2joO53KvfuLKDo2qacYCsxLV3kPJDW7aPijqfFNWdqtcII9jyXE6WsguALzBg0qOrxNKcJS-JTUyupdSCB-I1XZEnVOjMN_wS3-kkLWBr_k7ixE7A__FMSADa8RK4vcb5M5DPDFMRf4o-UxrQ-dhM8aonkpjGQSAt0aF-kIa0vFyVwlG6lxXvGsTUvbBbMr5XAGrkjZMjIrR6kZqtAk33UDHahEZqXH7HimRkNx-pGV_TQ0khV2RnxNVdPBLEgEI-6yz3ixIDvqr_VIjrKbWUy0-9XyZ0Szhmekod5HvI373a0ZGE_Z3cLJiCSjeGZFpg_Ic_dXDLqSBQokLvVpnSNyuh3YNjF5crzlvilqTNe-kqhVBRnxZxRyBlhCpN-vJ9T8zt9-y-v7_zwgmobhKtIssIZOS0DiMLMcawgdJEGMxElq0YsjXT9cmGkOifLHejmWckHH4bWePM2ztbObXDQjYnygbV_0zJP0rYqAKnG0HCmKS0Fvp4pPXNsu4WKWgirsGgN5ERA9SbU9F59xexr_UzyEUKKBQrzK1BaN1B0NNJo83xx8V86Ly655SC0o9DwN2jQWeCnSSvgxZBxIzxYhYfGkI-j9mpUXu1cBwKCuhcLbnDftedd9RoNa53cVBWl4g-FuFcvAZvnJZs2QXyCpqdZG58Cgt32VZfZUARggtaCPAf7VQw50uyIa6Tzj0mWBeTjsDmecee8xQnJdz83Ev_lueVE9qe1Qymo2PvQ5oJzvd51IV-qhm7g2zeyOtl9Fq-SkY37YfIz9JFUHnLxJapBk-MSsJ0_JVikEExMgVJPzNZmlNRVfSviStq_qUh5IMzZme8nq1xm0cf1qMB0-jlzz7WPtJYQ87fKhLD__O6zmPryqdIltHGRvt75O-nUjGFlMzIBSUPxJqzUlLrdMAAluNObwJl3am3Kpt8_Xzdo1s8hvjmps1qH1NMbXgaYkxMBZMLnQx5z8RcX-1oDdOtTGqsDzBSgy7NhtXmaPSZtBhWzrmebPQGRxd1pWfp-b8jU6cE-xf3VuQ8lTFFus_dRnJcIWzoUGVu_5mZUZrOxh_ojNtvLhK0ZQErLF0DgsIE7_qgvrebmhhergCjCem5LEcYykyBIevNzPrTuflslYrvTNnOViq1PZRMmLbqPLKe8Au7n-80OBTwJ0Xb-RASCrkzmjUgoMeEkgr834PRKHvQFiM_VgXSY-i7Zm_dPGSusNmpuCHqU1hXhbNhsTBaYXVMEawBqSqSYzl7yoEBxVaaJqO19Fdg0o26pqb7_othjtxIT5p4Szr3yygRCD4TX28-Mm4FaROHnDajxK4L_fr2IzYWx7n_e0nIqkTmhBRCzpv9Qdu_vAAwn_l_qM-ZjbM2_2uoksdB-TdTjlTlDLubnafwTd-CjKKB5ZwbxcTx8dtvomPwUdx6Go7jl7xbSRolBi9DAUar3368__F0kEFOclPimMcMuIMgLU93ww90dkyGWXyirywcfSnzXfKEFyuR0HoIJeXbKG6YgjK0wo_Loguu9q6C9YIKZlU1oEYvNSsZy9EY96uZH8bCHhW2oPC8beGe6madJqGQ8H2JhoOQamf3uIU8JpCO-pU_r40ILHpwXWwEh3yAV87E4bT22QIUSOKTNeBJGHaUqqfBmV5Wq5ktWTmWhrznAeRUWFoc7h0uIfLy1Y6mIRWe7L7n0uboOOhap1MsDzlMEE9ZUud050IzUGPatXVmB)
+- [GitHub](https://github.com/JouleTracker/JouleTracker)
+- [Jira](https://alejandrochoquehuanca007.atlassian.net/jira/software/projects/JOUL/boards/1/backlog?atlOrigin=eyJpIjoiYzkxZjFiZTFlZTEzNDEwMzk2ZmEwZDBhODJmNDI4OWYiLCJwIjoiaiJ9)
+- [UXPressia](https://uxpressia.com/w/NxJgO)
+- [Miro](https://miro.com/app/board/uXjVHqBr2y8=/)
+- [Visual Studio](https://jouletracker.github.io/JouleTracker-LandingPage/)
+- [Figma](https://www.figma.com/design/I9Hbim3oES3bOynqQrzlHw/JouleTracker_Mockap-II--Desktop-?t=t6nxRhPCoFxgRXay-0)
+- [Diagrama UML](https://www.plantuml.com/plantuml/png/tLXHR-Cs37xthn3wijmL3RBjBIYAowMvmK0lnPfqm1vLYtM5isLFadl8jlllOwmufMSnItO5XbrV78dyAFAZI4bzvxoqlYcBf817BtmbhCwVl53QGkPrPHBtIPjQMbcAMcQVP0uhlob0RCNIv0KGXQoGpisyj_gXyP1cbLdftq5CaYUjG41P-uqeeNm0wvB4PHBD_32PJCHdhVmJiQDgBNwSJ99ajw8uK_2iCoYbmL49nezbNHSwariFnuyoamhEn1-9428u8QvRmCSzu4Eh8oulmu-hgw3T_frZCBbs7cn0ZRAgnANKLAHtFS4ypB-PximJ2nZheyuR2mCJSoePskZ4RIZ4e5Hg1SPLTbqDJCxwCceqp1CxEVYWytwJgj5l3TWDMlY9plwydQH14MomvzvlWf2QY0WxIpT8scMGNhNslYHV3cLJLQNKPbnM2eenJcYlmNK91TEKEzzMNlh6aTJDvklqbyL-c2x_Dl5nbYxNY-LiEN-PkqvNyzlbSZ5VBwvtphsi4vm-UPqFi_kRzQ_K6js6kErcUMuXbnx4NLNvtlQx41gJUd-VNfCf8ql0R7ghJKwcrIxTYXUkDtLCwDgGfZqY8nKmmkmzLreHKLChwNU8aO7FguWbYg84xFX40XRRh6uE1Kw3I8zcnBKBC44tHli3ND1aqrgMXNwmqiE83IjIkwyHevDbNQ2lgV5WdsMnWgmo2ZtTJkHWYQgtqhXIEuTB7rOdIGmEax1EgynT1zfNfjwkYzqNc4Q9bEn-1KveOrdA4laboI6opeZYDRgjJZH8beXdJFyzvDg-rRtf4aIbgtYEK9dGJlJNVA88Xd6Uw_IdktyCxwkkbbYDUwCzaPswWRPdXuRX_eaTI1XY-pqom25tt05rWkKJ0eHd7BZO9QGh3L2BhGwkVjr2sb7V1wOpeA3AiiQYYLk3ZLTwMEiIk6wBcmPKjs6-OitGMazpvXYgBDILqxvYjaB7Mb1gqzKD1ZbpyXb6OPtkG1eUO8_QgFRsqxLYSjU9xfn0umaU1AQw0uNpOB-x-ep_-_kI0xiLkAunXp53AkaUgw3txL-1JwInlTh-8ubjxo0K_h-ksjeyMkcyRJBVMA2r66bUj0pJiYvUiVROxiMi-9_LsZx_3ibo7clDU5iL1TWeOVEz-51vMS3SEZyL_Ugw2zFePJTsTMKSn8hYnSQ-5bxWOKpXfuPfmLMDROV1QZ_QkECqvFY5_VpG4-QSUyBGRJ88zxZ3ZF66VpwWa3uVlfB3a0ckneAm5qXNBySo5zuqHC0K5xyKpzQh4OAEGFaGIeVdOTPfzRpqLISVDfq-dWl-IFk35iENqtVYRd4pcwUtoyKg2Kw8Yukh_YCxWDjv-k3izC--FnDlBoxmEnw_FTkf38IJLXWxBvDu9Ox7VrunXtT2AeWgSsTgaWnQ6mR3_OjjAXe7Ze4mUMOmX3CMap1k89IvzKo5WW9owS4T1jFJVWXDujR7OuvsH3_Xfm37G-bTwNGiII27JcXO51ovfn0OZsAk9XJCk4n89bVjaDP3aB0U2w4-7buZYLvni1OYc8IkIdKZ3iKDam901sgmJZlledR9lgUgVEgPboPYcuT2kwU3suPzD59umfKkZOfMCQj9P8Z8BBJLn5KvPGBD7wKPCP-y0wEQilWB)
+- [Repositorio de JouleTracker](https://github.com/JouleTracker/JouleTracker)
+- [JouleTracker Landing Page Repository](https://github.com/JouleTracker/JouleTracker-LandingPage)
+- [JouleTracker Landing Page](https://jouletracker.github.io/JouleTracker-LandingPage/)
+- [Video de ejecución](https://drive.google.com/file/d/1v6G61TiA350A7FiNq-jFrFq6u096fupr/view?usp=sharing)
+- [JouleTracker Repositorio](https://github.com/JouleTracker/JouleTracker)
+- [URL de documentación](https://jouletracker.github.io/JouleTracker-LandingPage/)
+- 
