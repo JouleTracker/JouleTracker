@@ -2426,11 +2426,29 @@ Las siguientes capturas muestran la actividad registrada por los integrantes dur
 **Figura 2:** Detalle de la participación y commits realizados por los colaboradores del proyecto.
 
 Estas métricas permiten evidenciar el trabajo colaborativo desarrollado durante el sprint y observar la participación de los diferentes integrantes en la evolución del proyecto JouleTracker.
-## 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas.
-### 5.3.2. Registro de Entrevistas.
-### 5.3.3. Evaluaciones según heurísticas.
-## 5.4. Video About-the-Product.
+
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2.
+
+Durante el Sprint 2, Team VoltLab se enfocará en iniciar el desarrollo de la aplicación web funcional de JouleTracker, pasando de la Landing Page desarrollada durante el Sprint 1 hacia la implementación de la Single-Page Application (SPA) y los primeros servicios de la Backend API.
+
+El principal objetivo será implementar el módulo de autenticación de usuarios, permitiendo el registro y acceso seguro a la plataforma. Para ello, se trabajará de manera integrada en el Frontend utilizando Angular y en el Backend utilizando Spring Boot, estableciendo una estructura inicial que permita continuar con el desarrollo de las funcionalidades principales de JouleTracker en los siguientes sprints.
+
+| Sprint # | Sprint 2 |
+| :---: | :--- |
+| Sprint Planning Background | Inicio de la implementación de la aplicación web y de los servicios principales de autenticación de JouleTracker. |
+| Date | 26-09-2026 |
+| Time | 15:00 |
+| Location | Virtual, Discord |
+| Prepared by | Alejandro Samir Choquehuanca Vasquez |
+| Attendees | Alejandro Samir Choquehuanca Vasquez / Miguel Angel Jara Espinoza / Miguel Angel Vidal Castro / Mijail Alexander Matihues Quevedo / Rodrigo Velasquez Velasquez |
+| Sprint 1 Review Summary | Durante el Sprint 1 se desarrolló y desplegó la Landing Page de JouleTracker utilizando HTML5, CSS y JavaScript. Se implementaron las principales secciones informativas, navegación, cambio de idioma, presentación de beneficios y funcionalidades, además de los accesos hacia el registro e inicio de sesión. |
+| Sprint 1 Retrospective Summary | El Sprint 1 permitió establecer una base visual y funcional para JouleTracker y distribuir las responsabilidades del equipo. Como oportunidad de mejora, para el Sprint 2 se considera necesario fortalecer la coordinación entre Frontend y Backend, definir previamente los contratos de las API y mantener una organización clara mediante ramas y Pull Requests para evitar conflictos durante la integración. |
+| Sprint Goal & User Stories | Implementar la primera versión funcional de autenticación de JouleTracker mediante una SPA desarrollada con Angular y una Backend API desarrollada con Spring Boot. |
+| Sprint 2 Goal | Nuestro enfoque en este sprint es desarrollar el módulo inicial de autenticación de JouleTracker, implementando el registro de usuarios, inicio de sesión, recuperación de contraseña y verificación de cuenta. Asimismo, se establecerá la comunicación entre el Frontend y Backend mediante servicios REST, permitiendo contar con una base funcional para continuar con los módulos de sensores y monitoreo energético en los siguientes sprints. |
+| Sprint 2 Velocity | Límite de 30 SP |
+| Sum of Story Points | 30 SP |
 
 
 ## Conclusiones y Recomendaciones.
