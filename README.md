@@ -2426,12 +2426,14 @@ Las siguientes capturas muestran la actividad registrada por los integrantes dur
 **Figura 2:** Detalle de la participación y commits realizados por los colaboradores del proyecto.
 
 Estas métricas permiten evidenciar el trabajo colaborativo desarrollado durante el sprint y observar la participación de los diferentes integrantes en la evolución del proyecto JouleTracker.
-## 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas.
-### 5.3.2. Registro de Entrevistas.
-### 5.3.3. Evaluaciones según heurísticas.
-## 5.4. Video About-the-Product.
 
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2.
+
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+
+#### 5.2.2.3. Sprint Backlog 2.
 
 ## Conclusiones y Recomendaciones.
 
