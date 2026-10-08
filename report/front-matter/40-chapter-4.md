@@ -652,13 +652,26 @@ En escritorio, los mock-ups reflejan una interfaz de trabajo con navegación lat
 
 
 ### 4.4.4. Web Applications User Flow Diagrams
+Los User Flow Diagrams de JouleTracker representan los recorridos funcionales principales de los usuarios dentro de la plataforma, enfocándose en la navegación hacia las principales secciones del sistema. Los flujos consideran tanto la ruta esperada como posibles situaciones que pueden interrumpir o modificar el recorrido.
 
+**User Goal 1:** Visualizar el consumo eléctrico actual.
+Happy path: el usuario ingresa a JouleTracker, inicia sesión, accede al aplicacion, entra a la sección de consumo y visualiza su consumo eléctrico actual.
+Unhappy path: el sensor está desconectado o no existe una lectura disponible; el sistema informa que el consumo no está disponible.
 <img src="../images/userflow/isuserflow.png" alt="userflows - Inicio de sesion" width="1200" />
 
+**User Goal 2:** Consultar el estado de los dispositivos registrados.
+Happy path: el usuario ingresa a JouleTracker, inicia sesión, accede al Dashboard, entra a la sección Dispositivos y consulta el estado e información de sus sensores.
+Unhappy path: un sensor está desconectado o no posee lecturas; el sistema muestra su última comunicación o informa que no existen datos disponibles.
 <img src="../images/userflow/cruserflow.png" alt="userflows - Recomendaciones" width="1200" />
 
+**User Goal 3:** Consultar el historial de consumo eléctrico.
+Happy path: el usuario ingresa a JouleTracker, inicia sesión, accede al Dashboard, entra a la sección Reportes/Historial y visualiza sus registros históricos de consumo.
+Unhappy path: no existen registros históricos; el sistema informa que no hay información disponible para consultar.
 <img src="../images/userflow/chuserflow.png" alt="userflows - Consultar Historial" width="1200" />
 
+**User Goal 4:** Consultar recomendaciones de ahorro energético.
+Happy path: el usuario ingresa a JouleTracker, inicia sesión, accede al Dashboard, entra a la sección Recomendaciones y visualiza recomendaciones relacionadas con sus patrones de consumo.
+Unhappy path: no existe suficiente información sobre el consumo; el sistema informa que no puede generar recomendaciones todavía.
 <img src="../images/userflow/cduserflow.png" alt="userflows - Consultar Dispositivos" width="1200" />
 
 
