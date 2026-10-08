@@ -544,7 +544,6 @@ En la versión mobile del Dashboard, la navegación lateral se reemplaza por una
 
 <img src="../images/wireflows/wireflow3.png" alt="WireFlows - Dispostivos" width="1200" />
 
-<img src="../images/wireflows/wireflow4.png" alt="WireFlows - Alertas" width="1200" />
 
 ### 4.4.3. Web Applications Mock-ups
 
@@ -654,11 +653,13 @@ En escritorio, los mock-ups reflejan una interfaz de trabajo con navegación lat
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
-<img src="../images/userflow/userflow1.png" alt="userflows - Inicio de sesion" width="1200" />
+<img src="../images/userflow/isuserflow.png" alt="userflows - Inicio de sesion" width="1200" />
 
-<img src="../images/userflow/userflow2.png" alt="userflows - Registro" width="1200" />
+<img src="../images/userflow/cruserflow.png" alt="userflows - Recomendaciones" width="1200" />
 
-<img src="../images/userflow/userflow3.png" alt="userflows - Registro de dispositivos" width="1200" />
+<img src="../images/userflow/chuserflow.png" alt="userflows - Consultar Historial" width="1200" />
+
+<img src="../images/userflow/cduserflow.png" alt="userflows - Consultar Dispositivos" width="1200" />
 
 
 ## 4.5. Aplicación Web Prototyping.
