@@ -161,6 +161,9 @@
 | 12.6    | 19/09/2026 | Velasquez Velasquez Rodrigo          | Sprint 1 Overview                                                   |
 | 12.7    | 19/09/2026 | Velasquez Velasquez Rodrigo          | Team Collaboration Insights during Sprint                           |
 | 12.8    | 19/09/2026 | Matihues Quevedo Mijail Alexander    | Actualización del Capítulo V                                        |
+| 12.9    | 8/10/2026  | Matihues Quevedo Mijail Alexander    | Reestructuracion de los User Flow                                   |
+| 13.0    | 8/10/2026  | Matihues Quevedo Mijail Alexander    | Reorganizacion de los User Flow y WireFlow                          |
+| 13.1    | 8/10/2026  | Matihues Quevedo Mijail Alexander    | Team Collaboration Insights during Sprint                           |
 
 
 ---
