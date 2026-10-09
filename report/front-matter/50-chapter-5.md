@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
 Para el desarrollo de JouleTracker, el equipo establece un proceso de gestión de configuración de software con el propósito de mantener organizados, controlados y disponibles los diferentes artefactos generados durante el proyecto.
@@ -39,7 +37,7 @@ JouleTracker utiliza Git como sistema de control de versiones y GitHub como plat
 
 El repositorio oficial del proyecto se encuentra disponible en el siguiente enlace:
 
-[Repositorio de JouleTracker](https://github.com/JouleTracker/JouleTracker)
+https://github.com/JouleTracker/JouleTracker
 
 Para organizar el trabajo colaborativo, el equipo utiliza una estrategia basada en ramas. Cada integrante desarrolla las actividades correspondientes en ramas específicas, evitando realizar modificaciones directamente sobre las ramas principales del proyecto.
 
@@ -140,11 +138,11 @@ La Landing Page está desarrollada utilizando HTML, CSS y JavaScript, por lo que
 
 El repositorio utilizado para la Landing Page es:
 
-[JouleTracker Landing Page Repository](https://github.com/JouleTracker/JouleTracker-LandingPage)
+https://github.com/JouleTracker/JouleTracker-LandingPage
 
 La versión desplegada se encuentra disponible en:
 
-[JouleTracker Landing Page](https://jouletracker.github.io/JouleTracker-LandingPage/)
+https://jouletracker.github.io/JouleTracker-LandingPage/
 
 #### Configuración del despliegue
 
@@ -400,4 +398,3 @@ En el ámbito técnico, la transición hacia el Sprint 2 exigirá una coordinaci
 Finalmente, es fundamental mantener la rigurosidad en la documentación de la gestión de código fuente. A medida que el número de repositorios crezca (separando frontend y backend), el equipo debe velar por el cumplimiento estricto de GitFlow, evitando fusiones directas a la rama main sin la respectiva revisión de código (Pull Requests). Asimismo, se sugiere automatizar progresivamente el proceso de pruebas y despliegue (CI/CD) para los contenedores principales, lo que garantizará que JouleTracker mantenga un entorno de producción estable y demostrable en las futuras evaluaciones del curso.
 
 
->>>>>>> develop
