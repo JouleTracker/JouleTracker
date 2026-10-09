@@ -2119,17 +2119,8 @@ Asimismo, permite almacenar las acciones asociadas a cada recomendación, facili
 
 
 ![DB6](report/images/db-diagrams/db6.png)
-<<<<<<< HEAD
->>>>>>> develop
-
 
 ---
-=======
-
-
-
->>>>>>> origin/develop
-
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
