@@ -39,6 +39,13 @@ El repositorio oficial del proyecto se encuentra disponible en el siguiente enla
 
 https://github.com/JouleTracker/JouleTracker
 
+
+| Producto Digital | URL del Repositorio |
+|---|---|
+| `Landing Page` | https://github.com/JouleTracker/JouleTracker-LandingPage |
+| `Frontend Web Application` | https://github.com/JouleTracker/Frontend
+
+
 Para organizar el trabajo colaborativo, el equipo utiliza una estrategia basada en ramas. Cada integrante desarrolla las actividades correspondientes en ramas específicas, evitando realizar modificaciones directamente sobre las ramas principales del proyecto.
 
 Entre las ramas utilizadas se encuentran:
@@ -372,6 +379,165 @@ Las siguientes capturas muestran la actividad registrada por los integrantes dur
 **Figura 2:** Detalle de la participación y commits realizados por los colaboradores del proyecto.
 
 Estas métricas permiten evidenciar el trabajo colaborativo desarrollado durante el sprint y observar la participación de los diferentes integrantes en la evolución del proyecto JouleTracker.
+
+### 5.2.2. Sprint 2
+
+En el Sprint 2, como equipo nos centramos en el desarrollo del frontend web de JouleTracker (Single-Page Application), el cual será la interfaz principal de nuestra plataforma mediante la cual los usuarios (jefes de hogar y administradores de pequeños negocios) podrán monitorear y gestionar su consumo eléctrico en tiempo real. Se desarrollaron los dashboards y módulos necesarios para la gestión de sensores IoT, visualización de métricas energéticas, configuración de límites, alertas de sobrecosto y administración de perfiles.
+
+#### 5.2.2.1. Sprint Planning 2
+
+| Campo | Valor |
+|---|---|
+| Sprint # | 2 |
+| Date | 02-10-2026 |
+| Time | 14:00 |
+| Location | Virtual, Discord |
+| Prepared by | Alejandro Samir Choquehuanca Vasquez |
+| Attendees | Alejandro Samir Choquehuanca Vasquez, Miguel Angel Jara Espinoza, Miguel Angel Vidal Castro, Mijail Alexander Matihues Quevedo, Rodrigo Velasquez Velasquez |
+| Sprint 1 Review Summary | En el Sprint 1, el equipo se enfocó en el desarrollo y despliegue de la Landing Page de JouleTracker. Con ello, se logró configurar el entorno de trabajo, establecer los requerimientos principales del sistema, la guía de estilo web/mobile, así como el diseño y despliegue del sitio promocional en GitHub Pages. Por otro lado, el profesor a cargo brindó feedback positivo respecto a la propuesta de valor visual y sugirió afinar la trazabilidad de los IDs en la documentación. |
+| Sprint 1 Retrospective Summary | Durante el Sprint 1, surgieron ligeras dificultades relacionadas con la sincronización de ramas de trabajo y el ajuste de tiempos en la maquetación responsive. Sin embargo, se logró entregar el sprint de manera completa, desplegando la Landing Page funcional y manteniendo una calidad aceptable en los entregables. |
+| Sprint 2 Goal | Nuestro enfoque en este sprint es desarrollar e implementar la interfaz del frontend web de JouleTracker mediante dashboards funcionales para usuarios residenciales y comerciales, permitiendo la visualización de consumo en tiempo real, histórico, gestión de sensores IoT y configuración de alertas. Además, se espera implementar la interfaz base correspondiente a cada Bounded Context del dominio. |
+| Sprint 2 Velocity | Límite de 35 SP |
+| Sum of Story Points | 35 SP |
+
+#### 5.2.2.2. Aspect Leaders and Collaborators
+
+Durante el Sprint 2, el equipo se enfocó principalmente en el desarrollo del frontend web de JouleTracker, priorizando la interfaz y las funcionalidades principales de la plataforma. Los principales aspectos considerados en este sprint incluyen el desarrollo de todos los Bounded Contexts identificados en el diseño arquitectónico:
+
+* **Identity & Access Management Bounded Context:** Encargado de gestionar la autenticación, inicio de sesión, registro de usuarios, verificación de cuentas y seguridad de acceso a la plataforma.
+* **IoT Sensor & Telemetry Bounded Context:** Encargado de registrar, configurar, desvincular sensores IoT y recibir las lecturas telemétricas del consumo eléctrico.
+* **Dashboard & Energy Analytics Bounded Context:** Encargado de procesar y presentar el consumo actual, consumo diario, métricas por sensor y resúmenes gráficos en el panel principal.
+* **Alerting & Optimization Bounded Context:** Encargado de gestionar los límites de consumo, metas mensuales, generación de alertas preventivas/críticas y recomendaciones de ahorro.
+* **Business Energy Management Bounded Context:** Encargado de organizar el establecimiento en áreas, asociar sensores por zonas y comparar el consumo eléctrico entre áreas para pequeños negocios.
+* **User Profile & History Bounded Context:** Encargado de la gestión de datos personales, historial de consumo con filtros por fecha y cambio de planes de suscripción.
+* **Shared Bounded Context:** Contiene componentes visuales comunes, layouts responsive, reutilizables y estilos globales que son utilizados por múltiples módulos del sistema.
+
+| Team Member | GitHub username | Identity & Access BC / User Profile BC | IoT Sensor & Telemetry BC | Dashboard & Energy Analytics BC | Alerting & Optimization BC | Business Energy Management BC / Shared BC |
+|---|---|:---:|:---:|:---:|:---:|:---:|
+| Choquehuanca Vasquez, Alejandro Samir | ascv.dev | L | C | C | - | C |
+| Jara Espinoza, Miguel Angel | MiguelJara2 | C | L | C | C | - |
+| Vidal Castro, Miguel Angel | Gossk | - | C | L | C | C |
+| Matihues Quevedo, Mijail Alexander | Anyone260 | C | - | C | L | C |
+| Rodrigo Velasquez Velasquez | Rodrigov233 | C | C | - | C | L |
+
+#### 5.2.2.3. Sprint Backlog 2
+
+| US Id | US Title | Task Id | Task Title | Description | Estimation (Hours) | Assigned To | Status |
+|---|---|---|---|---|:---:|---|:---:|
+| US-01 | Registro de usuario | T10 | Formulario de registro frontend | Construir la vista y validación de campos para el registro de nuevos usuarios. | 4 | Choquehuanca Vasquez, Alejandro Samir | Done |
+| US-02 | Inicio de sesión | T11 | Pantalla de Login y autenticación | Diseñar e implementar el formulario de acceso seguro a la plataforma. | 3 | Choquehuanca Vasquez, Alejandro Samir | Done |
+| US-11 | Registro de sensor IoT | T12 | Formulario de vinculación de sensores | Diseñar la interfaz para ingresar identificadores de nuevos dispositivos IoT. | 3 | Jara Espinoza, Miguel Angel | Done |
+| US-12 | Configuración de sensor | T13 | Panel de configuración de zona | Crear la vista para asignar nombre y ubicación a cada sensor registrado. | 2 | Jara Espinoza, Miguel Angel | Done |
+| US-16 | Visualización del Dashboard | T14 | Maquetación del layout del Dashboard | Estructurar el panel principal con tarjetas de métricas e indicadores. | 5 | Vidal Castro, Miguel Angel | Done |
+| US-17 | Visualización del consumo actual | T15 | Componente de lectura en tiempo real | Implementar el medidor visual de potencia (kW/kWh) actual. | 4 | Vidal Castro, Miguel Angel | Done |
+| US-18 | Visualización del consumo diario | T16 | Gráfico de consumo diario acumulado | Integrar gráfico de barras para consultar la energía consumida en el día. | 4 | Vidal Castro, Miguel Angel | Done |
+| US-26 | Configuración de límite de consumo | T17 | Interfaz de ajuste de umbrales | Crear controles para establecer límites de consumo máximo permitido. | 3 | Matihues Quevedo, Mijail Alexander | Done |
+| US-27 | Alerta por exceso de consumo | T18 | Componente de notificaciones y alertas | Implementar banners y tarjetas de aviso visual ante excesos de potencia. | 3 | Matihues Quevedo, Mijail Alexander | Done |
+| US-31 | Registro de áreas del negocio | T19 | Vista de administración de áreas MYPE | Construir el módulo para registrar y listar las zonas físicas del negocio. | 3 | Rodrigo Velasquez Velasquez | Done |
+| US-33 | Consumo eléctrico por área | T20 | Módulo de análisis por zonas | Desarrollar la vista comparativa de consumo energético entre áreas. | 4 | Rodrigo Velasquez Velasquez | Done |
+
+#### 5.2.2.4. Development Evidence for Sprint Review
+
+Durante el Sprint 2, el avance del desarrollo del frontend fue gestionado de manera transparente a través del tablero de trabajo en Jira, permitiendo realizar el seguimiento continuo de cada tarea desde su estado inicial hasta su culminación exitosa:
+![Tablero de trabajo del Sprint 2 en Jira](../images/sprint2/sprint2-kanban.png)
+
+**Figura:** Vista del tablero Kanban en Jira correspondiente a la ejecución de tareas del Sprint 2.
+A nivel de código fuente, los integrantes de VoltLab registraron sus avances mediante commits organizados bajo la convención de *Conventional Commits* en el repositorio oficial del Frontend:
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|---|---|---|---|---|:---:|
+| Frontend | feature/auth | b9a2c1d | feat: implement user login and registration forms | Creación de componentes UI para inicio de sesión y registro con validaciones. | 03/10/2026 |
+| Frontend | feature/sensors | 4c8e1f2 | feat: add IoT sensor registration and config views | Implementación de vistas para vinculación y renombrado de sensores. | 05/10/2026 |
+| Frontend | feature/dashboard | 7d3a9e0 | feat: build main energy dashboard layout and metrics | Estructuración del dashboard responsive con indicadores principales. | 07/10/2026 |
+| Frontend | feature/dashboard | e1f4b8a | feat: integrate real-time power consumption charts | Incorporación de componentes de gráficos para telemetría en tiempo real. | 08/10/2026 |
+| Frontend | feature/alerts | 2a6c9d3 | feat: implement consumption limit settings and alerts | Desarrollo del módulo de configuración de umbrales y tarjetas de alerta. | 10/10/2026 |
+| Frontend | develop | 8f1e5b4 | Merge pull request #3 from feature/dashboard | Integración del módulo de dashboard a la rama develop. | 11/10/2026 |
+| Frontend | feature/mype | 3c9d2e1 | feat: add business areas management and zone comparison | Maquetación del módulo de gestión y comparación de áreas para PYMEs. | 12/10/2026 |
+| Frontend | develop | a7f8c2b | refactor: update shared layout and navigation components | Ajustes visuales en la barra de navegación lateral y estilos globales. | 13/10/2026 |
+| Frontend | develop | d4e9a1f | fix(api): connect dashboard components to mock telemetry service | Conexión del dashboard con servicios de datos simulados para prueba. | 14/10/2026 |
+| Frontend | main | 5b2c8e9 | Merge branch 'develop' into main for release | Preparación de la versión estable del Frontend para revisión del Sprint 2. | 15/10/2026 |
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+En esta sección se presentan las capturas de pantalla de la aplicación web funcional correspondiente al desarrollo del Sprint 2 de JouleTracker:
+
+##### Dashboard Principal de Consumo
+Visualización del panel de control donde el usuario puede consultar su consumo eléctrico en tiempo real, consumo acumulado del día e indicadores económicos principales.
+
+![Dashboard Principal de JouleTracker](../images/SprintReview/sprint2-dashboard.png)
+
+**Figura:** Vista principal del Dashboard de monitoreo energético en JouleTracker.
+##### Gestión de Sensores IoT
+Módulo para el registro, nombrado y verificación del estado de conexión de los sensores instalados en el hogar o establecimiento.
+
+![Gestión de Sensores IoT](../images/SprintReview/sprint3-sensors.png)
+
+**Figura:** Interfaz para el registro y administración de sensores IoT.
+
+##### Configuración de Alertas y Métricas para PYMEs
+Sección dedicada al ajuste de límites de consumo y comparación energética entre las distintas áreas del negocio.
+
+![Alertas y Módulo MYPE](../images/SprintReview/sprint2-alerts-mype.png)
+
+**Figura:** Panel de alertas de sobrecosto y comparación por áreas del negocio.
+
+##### Evidencia del Despliegue y Video de Ejecución
+* **Enlace del Frontend desplegado:**  https://jouletracker-app.onrender.com/
+* **Enlace del video de demostración:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQA44UOoizuXTKtjNNVSucmHAaF7QsB-ggFVLe-lBus9X34?e=YKwjz8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 2, el equipo se enfocó en el desarrollo del Frontend de la aplicación web (Single-Page Application). La lógica de consumo de datos se conectó mediante adaptadores a servicios simulados (mock APIs) e interfaces de integración preparadas para conectarse con el Backend en la siguiente iteración.
+
+La especificación OpenAPI/Swagger oficial de la API de microservicios (Spring Boot) para los endpoints de telemetría, alertas y perfiles será integrada y documentada en el Sprint 3 con la entrega completa de la arquitectura de backend.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+El despliegue del Sprint 2 de JouleTracker se realizó en la plataforma **Render**, bajo el workspace del equipo, y se dividió en dos servicios: la aplicación web del Frontend (Single-Page Application) y un servidor de datos simulados (**json-server**) que cumple el rol de API mock mientras se desarrolla el Backend en el Sprint 3. Ambos servicios se alimentan del repositorio oficial `JouleTracker/Frontend` en GitHub (rama `master`).
+
+1. **Despliegue del servidor de datos (json-server):**
+    * Se creó el servicio web `jouletracker-api` en Render, con región *Oregon (US West)* y plan gratuito (*Free*), conectado al repositorio `JouleTracker/Frontend`.
+    * Se configuró el script de inicio de json-server para el entorno de Render (commit `ae2d041`: *chore: configure json-server start script for render*).
+    * Render ejecutó el primer despliegue (*First Deploy*) el 09/10/2026 a las 5:40 a. m. (GMT-5), con una duración de 1 min 04 s. Los logs muestran el servidor escuchando en el puerto 10000 y el mensaje *Your service is live*.
+    * Estado final: **Deploy succeeded | Live**.
+
+2. **Configuración de la URL de producción en el Frontend:**
+    * Se actualizó la URL base de la API en la aplicación para que apunte al servicio desplegado en Render (commit `27a5e4d`: *chore: set production api url to render*).
+
+3. **Despliegue de la aplicación web (Frontend):**
+    * Se creó el servicio `jouletracker-app` en Render, el cual clona el repositorio, instala las dependencias con `npm` (Node.js 24.21.0, 407 paquetes) y publica la aplicación.
+    * El primer despliegue se realizó el 09/10/2026 a las 5:53 a. m. (GMT-5), con una duración de 28.7 s.
+    * Estado final: **Deploy succeeded | Live**.
+
+4. **Verificación y enlaces públicos de producción:**
+    * Aplicación web: https://jouletracker-app.onrender.com/
+    * Servidor de datos (json-server): https://jouletracker-api.onrender.com/
+
+![Configuración del servicio jouletracker-api en Render](../images/SprintReview/sprint2-render-api-settings.png)
+
+**Figura:** Configuración general del servicio `jouletracker-api` en Render (región, plan y repositorio fuente).
+
+![Despliegue exitoso del json-server en Render](../images/SprintReview/sprint2-render-api-deploy.png)
+
+**Figura:** Despliegue exitoso (*Live*) del servidor json-server en Render, con su URL pública.
+
+![Despliegue exitoso del Frontend en Render](../images/SprintReview/sprint2-render.png)
+
+**Figura:** Despliegue exitoso (*Live*) de la aplicación web `jouletracker-app` en Render.
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
+A través de las métricas proporcionadas por GitHub Insights, se registra la actividad continua, distribución de tareas y commits realizados por los integrantes de VoltLab durante el desarrollo del Sprint 2:
+
+![GitHub Insights Sprint 2](../images/Insights/sprint2-insights.png)
+
+**Figura:** Descripción (Imagen 1 - Resumen general):
+El panel general evidencia que, en el período del 8 de septiembre al 8 de octubre de 2026, los 5 integrantes del equipo registraron 117 commits en la rama principal (139 en todas las ramas). Durante este intervalo no se abrieron pull requests ni issues, impactando un total de 142 archivos modificados con 4752 líneas agregadas y 624 eliminadas.
+
+![GitHub Insights Sprint 2](../images/Insights/sprint2-insights2.png)
+
+**Figura:**
+Descripción (Imagen 2 - Detalle de contribuciones por integrante):
+El desglose individual muestra que la mayor concentración de actividad se dio entre las semanas del 7 y 14 de septiembre, con aportes de Anyone260 (80 commits; +711/-158), MiguelJara2 (43 commits; +2389/-4403), Gossk (27 commits; +3856/-563), Rodrigov233 (13 commits; +1297/-87) y Alejandro-Choquehuanca (9 commits; +695/-265), evidenciando la participación de todo el equipo en el desarrollo del código.
 
 ## Conclusiones y Recomendaciones.
 
