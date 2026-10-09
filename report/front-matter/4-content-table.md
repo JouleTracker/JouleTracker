@@ -72,6 +72,8 @@
         - [4.6.4. Software Architecture Components Diagrams](40-chapter-4.md#464-software-architecture-components-diagrams)
     - [4.7. Software Object-Oriented Design](40-chapter-4.md#47-software-object-oriented-design)
         - [4.7.1. Class Diagrams](40-chapter-4.md#471-class-diagrams)
+            - [4.7.1.1. Backend API Class Diagrams (RESTful Web Services)](40-chapter-4.md#4711-backend-api-class-diagrams-restful-web-services)
+            - [4.7.1.2. Frontend Web Application Class Diagram (JouleTracker Web App)](40-chapter-4.md#4712-frontend-web-application-class-diagram-jouletracker-web-app)
     - [4.8. Database Design](40-chapter-4.md#48-database-design)
         - [4.8.1. Database Diagrams](40-chapter-4.md#481-database-diagrams)
 

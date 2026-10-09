@@ -161,6 +161,9 @@
 | 12.6    | 19/09/2026 | Velasquez Velasquez Rodrigo          | Sprint 1 Overview                                                   |
 | 12.7    | 19/09/2026 | Velasquez Velasquez Rodrigo          | Team Collaboration Insights during Sprint                           |
 | 12.8    | 19/09/2026 | Matihues Quevedo Mijail Alexander    | Actualización del Capítulo V                                        |
+| 12.9    | 8/10/2026  | Matihues Quevedo Mijail Alexander    | Reestructuracion de los User Flow                                   |
+| 13.0    | 8/10/2026  | Matihues Quevedo Mijail Alexander    | Reorganizacion de los User Flow y WireFlow                          |
+| 13.1    | 8/10/2026  | Matihues Quevedo Mijail Alexander    | Team Collaboration Insights during Sprint                           |
 
 
 ---
@@ -668,7 +671,7 @@ Jesús tiene 34 años y vive en Los Olivos junto con su esposa y su hijo de 5 a�
 | Personas en el hogar | 3 |
 | Equipos de mayor consumo | Aire acondicionado y lavadora |
 | Duración / Empieza en | 4:29 / 5:30 |
-| Enlace | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBbmXNmik5pRab7kNpIGC77ATgQ3SLIX8NIU4kym0uC3kw?e=BSXOOi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzMwLjUxfX0%3D |
+| Enlace | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBkzQzRmAaoS5LFmM1r1DC5Af0gnGXJmTsmMaAUnjQgkds?e=BYk7l0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzMxLjAxfX0%3D |
 
 ---
 
@@ -689,7 +692,7 @@ Fabrizio tiene 26 años, vive solo en un departamento pequeño de un dormitorio 
 | Personas en el hogar | 1 |
 | Equipos de mayor consumo | Refrigerador y laptop gaming |
 | Duración | 5:36 / 9:52 |
-| Enlace | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBbmXNmik5pRab7kNpIGC77ATgQ3SLIX8NIU4kym0uC3kw?e=D9M7le&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTkyLjV9fQ%3D%3D |
+| Enlace | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBkzQzRmAaoS5LFmM1r1DC5Af0gnGXJmTsmMaAUnjQgkds?e=Prdg3I&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTkzLjM5fX0%3D |
 
 ---
 
@@ -710,8 +713,8 @@ Fabrizio tiene 45 años, trabaja en administración y vive con su esposa y sus d
 | Tipo de vivienda | Casa propia |
 | Personas en el hogar | 4 |
 | Equipos de mayor consumo | Refrigeradora, therma eléctrica y PC de escritorio |
-| Duración / Empeiza en | 5:58 / 31:49 |
-| Enlace | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQDB16irH02WS5laTL__j-iKAfsOETJD9oBPkazEy9YJjR4?e=qIzO0l&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTU1MC44Mn19 |
+| Duración / Empeiza en | 5:58 / 27:28 |
+| Enlace | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQDB16irH02WS5laTL__j-iKAfsOETJD9oBPkazEy9YJjR4?e=qIzO0l&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTU1MC44Mn19) |
 
 #### Segmento #2: Administradores de pequeños negocios
 
@@ -732,7 +735,7 @@ Diana tiene 40 años y es propietaria de una bodega en San Juan de Lurigancho, n
 | Antigí¼edad del negocio | 11 años |
 | Equipos de mayor consumo | Congelador de bebidas/helados y 2 refrigeradoras |
 | Duración / Empieza | 5:32 / 00:00 |
-| Enlace | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBbmXNmik5pRab7kNpIGC77ATgQ3SLIX8NIU4kym0uC3kw?e=lclLQP |
+| Enlace | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBkzQzRmAaoS5LFmM1r1DC5Af0gnGXJmTsmMaAUnjQgkds?e=eIdl0O&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D |
 
 ---
 
@@ -753,17 +756,17 @@ Eduardo tiene 38 años, es dueño de un taller mecánico en Comas y trabaja como
 | Antigí¼edad del negocio | 7 años |
 | Equipos de mayor consumo | Compresor de aire y máquinas de soldar |
 | Duración / Empieza en | 4:48 / 15:29  |
-| Enlace | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBbmXNmik5pRab7kNpIGC77ATgQ3SLIX8NIU4kym0uC3kw?e=WFEEdb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6OTI5LjYyfX0%3D |
+| Enlace | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBkzQzRmAaoS5LFmM1r1DC5Af0gnGXJmTsmMaAUnjQgkds?e=K9K3RY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6OTI5LjU2fX0%3D |
 
 ---
 
 - **Entrevista #5**
 
-![](report/images/img-entrevistas/renzo-S2-E5.png)
+![](report/images/img-entrevistas/ricardo-S2-E5.png)
 
 **Resumen de entrevista:**
 
-Ricardo, de 22 años, administra un minimarket en San Luis junto con dos amigos con quienes vive. Lleva 3 años en el negocio y tiene equipos de alto consumo, como cámaras de frío y congeladores, algunos encendidos las 24 horas. No cuenta con un sistema para controlar su consumo y, ocasionalmente, las fallas en las cámaras provocan pérdidas de mercadería. Por ello, considera que la detección temprana de fallas es la función más importante.
+Ricardo, de 23 años, administra un minimarket en San Luis junto con dos amigos con quienes vive. Lleva 3 años en el negocio y tiene equipos de alto consumo, como cámaras de frío y congeladores, algunos encendidos las 24 horas. No cuenta con un sistema para controlar su consumo y, ocasionalmente, las fallas en las cámaras provocan pérdidas de mercadería. Por ello, considera que la detección temprana de fallas es la función más importante.
 
 | Detalle | Información |
 |---|---|
@@ -773,8 +776,8 @@ Ricardo, de 22 años, administra un minimarket en San Luis junto con dos amigos 
 | Tipo de negocio | Minimarket |
 | Antiguedad del negocio | 3 años |
 | Equipos de mayor consumo | Cámaras de frío y congeladores de helados |
-| Duración / Empieza | 6:20 : 20:18 |
-| Enlace | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBbmXNmik5pRab7kNpIGC77ATgQ3SLIX8NIU4kym0uC3kw?e=kdrRPi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTIxOC41Nn19 |
+| Duración / Empieza | 6:20 : 20:17 |
+| Enlace | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBkzQzRmAaoS5LFmM1r1DC5Af0gnGXJmTsmMaAUnjQgkds?e=XBXc1w&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTIxNy45fX0%3D |
 
 ### 2.2.3 Análisis de entrevistas.
 
@@ -1100,14 +1103,14 @@ El Impact Mapping de JouleTracker refleja la relación entre los objetivos de ne
 
 **Primer Segmento Objetivo (Javier Arévalo - Propiertarios de hogares urbanos):**
 
-![](../JouleTracker/report/images/impact-mapping/Impactmap1JT.png)
+![](report/images/impact-mapping/Impactmap1JT.png)
 
 <sub>Ilustración. Impact Mapping para jefes de hogar y usuarios residenciales</sub>
 
 ----
 **Segundo Segmento Objetivo (Teresa Villavicencio - Administradores de pequeños negocios):**
 
-![](../JouleTracker/report/images/impact-mapping/Impactmap2JT.png)
+![](report/images/impact-mapping/Impactmap2JT.png)
 
 <sub> Ilustración. Impact Mapping para dueños y administradores de pequeños negocios</sub>
 
@@ -1723,12 +1726,6 @@ En la versión mobile del Dashboard, la navegación lateral se reemplaza por una
 <img src="report/images/figma/JouleTrackerDashboard(Mobile) 1.9.png" alt="Wireframe del Dashboard - Inicio" width="700" />
 
 
-
-
-
-
-
-
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 <img src="report/images/wireflows/wireflow1.png" alt="WireFlows - Registrarse" width="1200" />
@@ -1736,8 +1733,6 @@ En la versión mobile del Dashboard, la navegación lateral se reemplaza por una
 <img src="report/images/wireflows/wireflow2.png" alt="WireFlows - Consumo" width="1200" />
 
 <img src="report/images/wireflows/wireflow3.png" alt="WireFlows - Dispostivos" width="1200" />
-
-<img src="report/images/wireflows/wireflow4.png" alt="WireFlows - Alertas" width="1200" />
 
 ### 4.4.3. Web Applications Mock-ups
 
@@ -1847,12 +1842,31 @@ En escritorio, los mock-ups reflejan una interfaz de trabajo con navegación lat
 
 
 ### 4.4.4. Web Applications User Flow Diagrams
+Los User Flow Diagrams de JouleTracker representan los recorridos funcionales principales de los usuarios dentro de la plataforma, enfocándose en la navegación hacia las principales secciones del sistema. Los flujos consideran tanto la ruta esperada como posibles situaciones que pueden interrumpir o modificar el recorrido.
 
-<img src="report/images/userflow/userflow1.png" alt="userflows - Inicio de sesion" width="1200" />
+**User Goal 1:** Visualizar el consumo eléctrico actual.
+Happy path: el usuario ingresa a JouleTracker, inicia sesión, accede al aplicacion, entra a la sección de consumo y visualiza su consumo eléctrico actual.
+Unhappy path: el sensor está desconectado o no existe una lectura disponible; el sistema informa que el consumo no está disponible.
 
-<img src="report/images/userflow/userflow2.png" alt="userflows - Registro" width="1200" />
+<img src="report/images/userflow/isuserflow.png" alt="userflows - Inicio de sesion" width="1200" />
 
-<img src="report/images/userflow/userflow3.png" alt="userflows - Registro de dispositivos" width="1200" />
+**User Goal 2:** Consultar el estado de los dispositivos registrados.
+Happy path: el usuario ingresa a JouleTracker, inicia sesión, accede al Dashboard, entra a la sección Dispositivos y consulta el estado e información de sus sensores.
+Unhappy path: un sensor está desconectado o no posee lecturas; el sistema muestra su última comunicación o informa que no existen datos disponibles.
+
+<img src="report/images/userflow/cruserflow.png" alt="userflows - Recomendaciones" width="1200" />
+
+**User Goal 3:** Consultar el historial de consumo eléctrico.
+Happy path: el usuario ingresa a JouleTracker, inicia sesión, accede al Dashboard, entra a la sección Reportes/Historial y visualiza sus registros históricos de consumo.
+Unhappy path: no existen registros históricos; el sistema informa que no hay información disponible para consultar.
+
+<img src="report/images/userflow/chuserflow.png" alt="userflows - Consultar Historial" width="1200" />
+
+**User Goal 4:** Consultar recomendaciones de ahorro energético.
+Happy path: el usuario ingresa a JouleTracker, inicia sesión, accede al Dashboard, entra a la sección Recomendaciones y visualiza recomendaciones relacionadas con sus patrones de consumo.
+Unhappy path: no existe suficiente información sobre el consumo; el sistema informa que no puede generar recomendaciones todavía.
+
+<img src="report/images/userflow/cduserflow.png" alt="userflows - Consultar Dispositivos" width="1200" />
 
 
 ## 4.5. Aplicación Web Prototyping.
@@ -1863,15 +1877,17 @@ La fase de prototipado de JouleTracker nos permitió simular la navegación real
 
 <img src="report/images/figma/desktop-prototype.png" alt="desktop-prototype" width="700" />
 
-<a href="https://www.figma.com/proto/I9Hbim3oES3bOynqQrzlHw/JouleTracker_Mockap-II--Desktop-?node-id=24-13&t=ywhOr6HZ8TOlJlUd-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=24%3A13" target="_blank">Ver prototipo en Figma</a>
+https://www.figma.com/proto/I9Hbim3oES3bOynqQrzlHw/JouleTracker_Mockap-II--Desktop-?node-id=24-13&t=ywhOr6HZ8TOlJlUd-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=24%3A13
 
 **Mobile**
+
 <img src="report/images/figma/mobile-prototype.png" alt="mobileprototype" width="700" />
 
-<a href="https://www.figma.com/proto/2cOm4G2UT14h4DdrItKjsA/JouleTracker_Mockap_mobile?node-id=2-66&t=e5ma48eTjakvBbnU-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1" target="_blank">Ver prototipo en Figma</a>
+https://www.figma.com/proto/2cOm4G2UT14h4DdrItKjsA/JouleTracker_Mockap_mobile?node-id=2-66&t=e5ma48eTjakvBbnU-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
 
 **Video prototype**
-<a href="https://drive.google.com/file/d/1NVVftMkgkf8UINHr9ddtzFL6ZltgTxzm/view?usp=sharing" target="_blank">Video prototype</a>
+
+https://drive.google.com/file/d/1NVVftMkgkf8UINHr9ddtzFL6ZltgTxzm/view?usp=sharing
 
 
 
@@ -1961,55 +1977,88 @@ Finalmente, la vista detalla los componentes de infraestructura de salida (Repos
 
 ## 4.7. Software Object-Oriented Design
 
+En esta sección se presenta el diseño orientado a objetos de los productos de software que integran la plataforma JouleTracker. De acuerdo con las directrices de Domain-Driven Design (DDD) y los principios de Clean Architecture, se detalla la estructura estática de clases, interfaces, atributos, métodos, visibilidades y relaciones que dan soporte tanto a los servicios de backend como a la aplicación cliente web.
+
 ### 4.7.1. Class Diagrams
 
-#### Consumption Analysis Context
+Los diagramas de clases de UML se organizan por producto de software dentro del ecosistema de JouleTracker: los servicios backend que encapsulan las reglas y la lógica de negocio (Backend API), y la aplicación web cliente que interactúa directamente con los usuarios (Frontend Web Application).
+
+#### 4.7.1.1. Backend API Class Diagrams (RESTful Web Services)
+
+Para la Backend RESTful API desarrollada en Java con el framework Spring Boot, el diseño orientado a objetos sigue el patrón táctico de Domain-Driven Design (DDD) complementado con la segregación de responsabilidades mediante CQRS (Command Query Responsibility Segregation).
+
+La estructura interna de cada Bounded Context se divide en capas bien delimitadas:
+- **Capa `domain.model`**: Contiene las entidades y agregados raíz (`AggregateRoot`), objetos de valor (`Value Objects`), comandos (`Commands`), consultas (`Queries`) y eventos de dominio (`Domain Events`), encapsulando las invariantes y reglas del negocio sin dependencias tecnológicas externas.
+- **Capa `domain.repositories`**: Define las interfaces de abstracción para la persistencia y recuperación de agregados.
+- **Capa `application`**: Alberga los servicios internos de comando (`CommandServices`) y de consulta (`QueryServices`), además de fachadas y servicios de integración hacia sistemas externos (`OutboundServices` / ACL).
+- **Capa `interfaces.rest`**: Expone los controladores REST (`*Controller`), encargados de gestionar las peticiones HTTP y orquestar la transformación bidireccional entre recursos web (`*Resource`) y objetos de dominio a través de ensambladores (`*Assembler`).
+- **Capa `infrastructure`**: Implementa el acceso a datos mediante Spring Data JPA y repositorios ORM específicos.
+
+A continuación, se presentan los diagramas de clases tácticos correspondientes a cada Bounded Context de la Backend API:
+
+##### Consumption Analysis Context
 
 <p align="center">
   <img src="report/images/Uml-Diagram/Consumption Analysis Context .png" width="100%">
 </p>
 
-Ver diagrama UML en PlantUML: https://www.plantuml.com/plantuml/png/tLXDR-Cs4BthLn2-DDr53BUz6K6mhkrc1UGZjUAsLqQQA4GaKIL7NhZj_lUEP4OX8rdq6jbBSh58pZoIR-ODoNpIo1LMUHPay80C9LCYVKIM20Kn2ba4-aaK9LSyPoMFdtWA4MupOFKmBz8CB8CuurhF49Muhn32M1QH-0VO97WK2J38Izoo7F9xK3e8TCm9vkV9PCA-Y0GVBPoa5EoNoIG8p8niHBF9F8SYuVMQSbvGBpLnpCio4t7JEtxWCKzWnFuD66ExnR2LutZLElxMsBApizt7-Rdngly-iXGAK1p1zJwf6xn8fYoyw3MOxyP_dBwQraAkogJZ5Y77Iblewxr61yoG0hfZ-jTjH4J2oTyLg6sz-7qMlzS6X7qfD9wv9kVM31IukCeuGiGteaXNeAiCTGi_xnr-nhOx6yolmTT30ft8d8jYdCi4iZ5r21IWdsCDHPMpMoMa4hYzX0raLZWlR_vilw-MYt1zrJO_XnUVsyPwTR6ylZDhUe7j2uE5FflVXNyihUPyUNktNBGTYp2w2gF8wbd-THkkgDrEr9-hb9kpD5MGSWIsaXAT73rbWZ9blGuNLbSk2u5IGT94C-mQeC0CA0QeA0PMVscecxeaMXQWKUGS8Td5RyeM45E7RQ8RQgQzXFLewuIIOID5qX67aKC1Nw81HEFjOt4M6owN1TAs_1ow2TZ38MyG5w1Z9ShwiuTFKGkrp021_E-bp83R4isvUfgzc9pitOijbhVSGns2T4lea5YHx0PxBZNsMtNBWAPjj5R72jlKm5ROea1GLDV1KtA97FFLgUHuvQg2w3PyE5PtjJHeo0sc6NnMnRxnfQkEBXFkPZmLthSXrstVXgwVzMCj-jYmrALTG3SglhE4Tj7y7XwKVhw6pfJk73wUZg01DjJGGrUBv_HCbhKfBMhHU3OjTsaUUPA1ZEDA4JSt1UKHOTw97Fo5BeRo-qr_16SAIgafo7ionrt-oXWtyMmRhuEg-GPEt7bVdmxTK-L150abfSapRH-DthkESIO_yUBYMX_1Z0Qr4J7ejjoPjfSbKnAYdVqxkB8UoLjprJoOjQOyj9oz_wkoA1uKrwYg62i5jWu7AfWjmJ0litUbkpOrDB6XaNHNe99P1cgGaNbhrYirOeG2gN7A-hMrsWrtLauHBMMXOT_DjuLTMxr-iEFfKA1bfUgccTfbPNXx3ZLEbAt-_eV7n_RXqHqQVd7O1s4VJTzsuBLFZNOPRqEc2SsmweoHisBn_HaqyNgpRTFE8BytYlBkTcQiNM6XDEFUOkDNmGzijRoSpSERwsKKkCRizFJSVUZs6VITPQ_jHZ-Ds8VJKpQQZCSVHhrFpo4N-dHgV30ijF7ultFFEHvqjM3y_2Tq4EojViI7xpzfKrPfq1u8JouOZC0p5K5vBaPJba06AKVGHu2P-q8NAXYUTJpsXOVG7kad0-s7yaVCXWk6za1etfTQ2-L76dgC6HW_MSJxm1l0PCB0KWu320QlE2IC0OnXtsu-qvmbA2qq7fGfWyz7WghkCw4V3ygKePUWZHJu1DZTbAjhlsVNXX1Y1JlzVAB1Ai_-1m00
+https://www.plantuml.com/plantuml/png/tLXDR-Cs4BthLn2-DDr53BUz6K6mhkrc1UGZjUAsLqQQA4GaKIL7NhZj_lUEP4OX8rdq6jbBSh58pZoIR-ODoNpIo1LMUHPay80C9LCYVKIM20Kn2ba4-aaK9LSyPoMFdtWA4MupOFKmBz8CB8CuurhF49Muhn32M1QH-0VO97WK2J38Izoo7F9xK3e8TCm9vkV9PCA-Y0GVBPoa5EoNoIG8p8niHBF9F8SYuVMQSbvGBpLnpCio4t7JEtxWCKzWnFuD66ExnR2LutZLElxMsBApizt7-Rdngly-iXGAK1p1zJwf6xn8fYoyw3MOxyP_dBwQraAkogJZ5Y77Iblewxr61yoG0hfZ-jTjH4J2oTyLg6sz-7qMlzS6X7qfD9wv9kVM31IukCeuGiGteaXNeAiCTGi_xnr-nhOx6yolmTT30ft8d8jYdCi4iZ5r21IWdsCDHPMpMoMa4hYzX0raLZWlR_vilw-MYt1zrJO_XnUVsyPwTR6ylZDhUe7j2uE5FflVXNyihUPyUNktNBGTYp2w2gF8wbd-THkkgDrEr9-hb9kpD5MGSWIsaXAT73rbWZ9blGuNLbSk2u5IGT94C-mQeC0CA0QeA0PMVscecxeaMXQWKUGS8Td5RyeM45E7RQ8RQgQzXFLewuIIOID5qX67aKC1Nw81HEFjOt4M6owN1TAs_1ow2TZ38MyG5w1Z9ShwiuTFKGkrp021_E-bp83R4isvUfgzc9pitOijbhVSGns2T4lea5YHx0PxBZNsMtNBWAPjj5R72jlKm5ROea1GLDV1KtA97FFLgUHuvQg2w3PyE5PtjJHeo0sc6NnMnRxnfQkEBXFkPZmLthSXrstVXgwVzMCj-jYmrALTG3SglhE4Tj7y7XwKVhw6pfJk73wUZg01DjJGGrUBv_HCbhKfBMhHU3OjTsaUUPA1ZEDA4JSt1UKHOTw97Fo5BeRo-qr_16SAIgafo7ionrt-oXWtyMmRhuEg-GPEt7bVdmxTK-L150abfSapRH-DthkESIO_yUBYMX_1Z0Qr4J7ejjoPjfSbKnAYdVqxkB8UoLjprJoOjQOyj9oz_wkoA1uKrwYg62i5jWu7AfWjmJ0litUbkpOrDB6XaNHNe99P1cgGaNbhrYirOeG2gN7A-hMrsWrtLauHBMMXOT_DjuLTMxr-iEFfKA1bfUgccTfbPNXx3ZLEbAt-_eV7n_RXqHqQVd7O1s4VJTzsuBLFZNOPRqEc2SsmweoHisBn_HaqyNgpRTFE8BytYlBkTcQiNM6XDEFUOkDNmGzijRoSpSERwsKKkCRizFJSVUZs6VITPQ_jHZ-Ds8VJKpQQZCSVHhrFpo4N-dHgV30ijF7ultFFEHvqjM3y_2Tq4EojViI7xpzfKrPfq1u8JouOZC0p5K5vBaPJba06AKVGHu2P-q8NAXYUTJpsXOVG7kad0-s7yaVCXWk6za1etfTQ2-L76dgC6HW_MSJxm1l0PCB0KWu320QlE2IC0OnXtsu-qvmbA2qq7fGfWyz7WghkCw4V3ygKePUWZHJu1DZTbAjhlsVNXX1Y1JlzVAB1Ai_-1m00
 
-#### Device Management Context
+##### Device Management Context
 
 <p align="center">
   <img src="report/images/Uml-Diagram/Device Management Context .png" width="100%">
 </p>
 
-Ver diagrama UML en PlantUML: https://www.plantuml.com/plantuml/png/tLXHR-Cs37xthn3wijmL3RBjBIYAowMvmK0lnPfqm1vLYtM5isLFadl8jlllOwmufMSnItO5XbrV78dyAFAZI4bzvxoqlYcBf817BtmbhCwVl53QGkPrPHBtIPjQMbcAMcQVP0uhlob0RCNIv0KGXQoGpisyj_gXyP1cbLdftq5CaYUjG41P-uqeeNm0wvB4PHBD_32PJCHdhVmJiQDgBNwSJ99ajw8uK_2iCoYbmL49nezbNHSwariFnuyoamhEn1-9428u8QvRmCSzu4Eh8oulmu-hgw3T_frZCBbs7cn0ZRAgnANKLAHtFS4ypB-PximJ2nZheyuR2mCJSoePskZ4RIZ4e5Hg1SPLTbqDJCxwCceqp1CxEVYWytwJgj5l3TWDMlY9plwydQH14MomvzvlWf2QY0WxIpT8scMGNhNslYHV3cLJLQNKPbnM2eenJcYlmNK91TEKEzzMNlh6aTJDvklqbyL-c2x_Dl5nbYxNY-LiEN-PkqvNyzlbSZ5VBwvtphsi4vm-UPqFi_kRzQ_K6js6kErcUMuXbnx4NLNvtlQx41gJUd-VNfCf8ql0R7ghJKwcrIxTYXUkDtLCwDgGfZqY8nKmmkmzLreHKLChwNU8aO7FguWbYg84xFX40XRRh6uE1Kw3I8zcnBKBC44tHli3ND1aqrgMXNwmqiE83IjIkwyHevDbNQ2lgV5WdsMnWgmo2ZtTJkHWYQgtqhXIEuTB7rOdIGmEax1EgynT1zfNfjwkYzqNc4Q9bEn-1KveOrdA4laboI6opeZYDRgjJZH8beXdJFyzvDg-rRtf4aIbgtYEK9dGJlJNVA88Xd6Uw_IdktyCxwkkbbYDUwCzaPswWRPdXuRX_eaTI1XY-pqom25tt05rWkKJ0eHd7BZO9QGh3L2BhGwkVjr2sb7V1wOpeA3AiiQYYLk3ZLTwMEiIk6wBcmPKjs6-OitGMazpvXYgBDILqxvYjaB7Mb1gqzKD1ZbpyXb6OPtkG1eUO8_QgFRsqxLYSjU9xfn0umaU1AQw0uNpOB-x-ep_-_kI0xiLkAunXp53AkaUgw3txL-1JwInlTh-8ubjxo0K_h-ksjeyMkcyRJBVMA2r66bUj0pJiYvUiVROxiMi-9_LsZx_3ibo7clDU5iL1TWeOVEz-51vMS3SEZyL_Ugw2zFePJTsTMKSn8hYnSQ-5bxWOKpXfuPfmLMDROV1QZ_QkECqvFY5_VpG4-QSUyBGRJ88zxZ3ZF66VpwWa3uVlfB3a0ckneAm5qXNBySo5zuqHC0K5xyKpzQh4OAEGFaGIeVdOTPfzRpqLISVDfq-dWl-IFk35iENqtVYRd4pcwUtoyKg2Kw8Yukh_YCxWDjv-k3izC--FnDlBoxmEnw_FTkf38IJLXWxBvDu9Ox7VrunXtT2AeWgSsTgaWnQ6mR3_OjjAXe7Ze4mUMOmX3CMap1k89IvzKo5WW9owS4T1jFJVWXDujR7OuvsH3_Xfm37G-bTwNGiII27JcXO51ovfn0OZsAk9XJCk4n89bVjaDP3aB0U2w4-7buZYLvni1OYc8IkIdKZ3iKDam901sgmJZlledR9lgUgVEgPboPYcuT2kwU3suPzD59umfKkZOfMCQj9P8Z8BBJLn5KvPGBD7wKPCP-y0wEQilWB
+https://www.plantuml.com/plantuml/png/tLXHR-Cs37xthn3wijmL3RBjBIYAowMvmK0lnPfqm1vLYtM5isLFadl8jlllOwmufMSnItO5XbrV78dyAFAZI4bzvxoqlYcBf817BtmbhCwVl53QGkPrPHBtIPjQMbcAMcQVP0uhlob0RCNIv0KGXQoGpisyj_gXyP1cbLdftq5CaYUjG41P-uqeeNm0wvB4PHBD_32PJCHdhVmJiQDgBNwSJ99ajw8uK_2iCoYbmL49nezbNHSwariFnuyoamhEn1-9428u8QvRmCSzu4Eh8oulmu-hgw3T_frZCBbs7cn0ZRAgnANKLAHtFS4ypB-PximJ2nZheyuR2mCJSoePskZ4RIZ4e5Hg1SPLTbqDJCxwCceqp1CxEVYWytwJgj5l3TWDMlY9plwydQH14MomvzvlWf2QY0WxIpT8scMGNhNslYHV3cLJLQNKPbnM2eenJcYlmNK91TEKEzzMNlh6aTJDvklqbyL-c2x_Dl5nbYxNY-LiEN-PkqvNyzlbSZ5VBwvtphsi4vm-UPqFi_kRzQ_K6js6kErcUMuXbnx4NLNvtlQx41gJUd-VNfCf8ql0R7ghJKwcrIxTYXUkDtLCwDgGfZqY8nKmmkmzLreHKLChwNU8aO7FguWbYg84xFX40XRRh6uE1Kw3I8zcnBKBC44tHli3ND1aqrgMXNwmqiE83IjIkwyHevDbNQ2lgV5WdsMnWgmo2ZtTJkHWYQgtqhXIEuTB7rOdIGmEax1EgynT1zfNfjwkYzqNc4Q9bEn-1KveOrdA4laboI6opeZYDRgjJZH8beXdJFyzvDg-rRtf4aIbgtYEK9dGJlJNVA88Xd6Uw_IdktyCxwkkbbYDUwCzaPswWRPdXuRX_eaTI1XY-pqom25tt05rWkKJ0eHd7BZO9QGh3L2BhGwkVjr2sb7V1wOpeA3AiiQYYLk3ZLTwMEiIk6wBcmPKjs6-OitGMazpvXYgBDILqxvYjaB7Mb1gqzKD1ZbpyXb6OPtkG1eUO8_QgFRsqxLYSjU9xfn0umaU1AQw0uNpOB-x-ep_-_kI0xiLkAunXp53AkaUgw3txL-1JwInlTh-8ubjxo0K_h-ksjeyMkcyRJBVMA2r66bUj0pJiYvUiVROxiMi-9_LsZx_3ibo7clDU5iL1TWeOVEz-51vMS3SEZyL_Ugw2zFePJTsTMKSn8hYnSQ-5bxWOKpXfuPfmLMDROV1QZ_QkECqvFY5_VpG4-QSUyBGRJ88zxZ3ZF66VpwWa3uVlfB3a0ckneAm5qXNBySo5zuqHC0K5xyKpzQh4OAEGFaGIeVdOTPfzRpqLISVDfq-dWl-IFk35iENqtVYRd4pcwUtoyKg2Kw8Yukh_YCxWDjv-k3izC--FnDlBoxmEnw_FTkf38IJLXWxBvDu9Ox7VrunXtT2AeWgSsTgaWnQ6mR3_OjjAXe7Ze4mUMOmX3CMap1k89IvzKo5WW9owS4T1jFJVWXDujR7OuvsH3_Xfm37G-bTwNGiII27JcXO51ovfn0OZsAk9XJCk4n89bVjaDP3aB0U2w4-7buZYLvni1OYc8IkIdKZ3iKDam901sgmJZlledR9lgUgVEgPboPYcuT2kwU3suPzD59umfKkZOfMCQj9P8Z8BBJLn5KvPGBD7wKPCP-y0wEQilWB
 
-#### Energy Monitoring Context
+##### Energy Monitoring Context
 
 <p align="center">
   <img src="report/images/Uml-Diagram/Energy Monitoring Context .png" width="100%">
 </p>
 
-Ver diagrama UML en PlantUML: https://www.plantuml.com/plantuml/png/xLbHRzis47xNho3oigvP36zxCugWhkCM1fpOjTk-qz95vYgHAacvSBV-zr4KevvDiRGm3CE6zIMMxlYHz_6xEr9zgJILkYwBf817JRGWakLxJJ8c8TLCy4HzPBoYafQaekb7ciDM7miWZPdol03aa1PKgQdMakrg3OjKy2tx0cISx5a61CfA7qa9vGwaIXALKWFpotWy9fzPflS89wiO-NKyJX8t8xa23Z8_be8pBIJZ-OXMLS5Isgnmz4XJci4L-JqXXBIB87CxuBuRyDhwa1SlsX-tjywx-NVT12DaTWzKrH9AuFfPAigIycn25fjpswmr_JXnao0JWgoaI44fP7n5TRf7mEj-Zs_mvnQ4RfRKR43_YcUUiHVJkHa64N0EUaarg1FeJpN8em5-qsDyszWYNEI0HwXNnpiui1GGRg_z2Nh9b7xXuT_Q2RucNxydaqoKbF5HAJ8eHcOGqmpKarA0roMnp6urrRL2abYjvm_TmtgpcistsyN3c-xLR7M_NixVpU-wDw-dYwLxD2lguD_Mj63ww4tmORfSV1kyVRzTpsVlkkV5GsD7Q4xMdYICeATvBY6d6iX627qYx1l2Z1xUlqSptP3CShlm3ROIG3RL4t9duDwn4f0LU1QqbLXKDJTE2wuX1udHBGCJpBUVBMsAc2q_29PXkHT2WM_4rFW2DDpCkJRanpdPDT2B8Lm1LqBw1aT5c4Mxo9dWgYwh9lMC5wIif0LogiHda7s6WoWqpQ7FbDPI0jTzfaS99j5uUWpEPMgY5lwCNM4CauxeTaeth7-WHGrajViDqhWUiNXw-Fo4ysTocawO6VCwiztW7fIo76rrKm5GBCu774OJr4w80YZtukelas513GnAI9OpJWjBLEzkjdD25lDWWc-0Ai5xucrQvF7Rwfzn-7mAznEH9sFTBW-kgwxpT7MLSGtID6K8Dqz3fVk5k7IjuiubdTaWJ9opRbtczLldv_bbt11xoFD3cqj1-wnDA6H7Aa4X1jjuF53hXoBfn_UxUHmQUuUecc6DXNbevMNCJYI3rT4qUGOzuWWV9qnazcz86n7EWWUAuU38kdPgGQqDgP9zmSO19C41k7Ri15jPcqQGpGzjNxkpO-sJ2oDUUFn-DhGlYTHscMp5KM-B7b5SVWGN7s_3moVkj3sSiFZC0pPNGYMKUHT807-VdRzLwTE39rL53_0ChRldyEqVeHuPpruTZRYPYp9mPiV-RNO-POyPw_GJG_0JybmK0mArel0lGvT4w8yQi7SAP1EiwjgRUmxlOmVXolAs7O53-l-cEPn_UqiSmBwjxfZx_-ZTbl57IPMMTQhDCB_M-Et4BpEBiYh-TRKbt6lymFxXMjB9L8qaA6rg2TTI50N8tZr29QHpZ9GFUxbJPf-ywh5fBOX9P5ALu0e2oU63EzDmy87yI52YbisZc_gKfc2GcAJGAUSwT6k_lkJuSns-VL_xjszFgJw1yON_DVxSBaHhWVF32y4tMdzjVpztpXJuc3AS5QeKbBjWqlbaJDs0q-JJmjaZ5VB2hFY1RERBwMonUfXl4-_3titDxSctClzBYtKv-I3YerpzV4MUtzoGg_5ezFogfwHwRqw6c9_-lE4nRff0wq-2oJiQ_N4RFluaE7VySU7EdIJXgch92_mdmOJK2bHyS5Gy3YW9p6DGecV72ScWWBo9Rn2C9Q0F98dDE1fzPoyCrDxyAK1TWXCvUGv6yu-RFb0Ie0BXX1M3SE8muQCTHeepxZOmV4XpEheCvvpgE8oBRE1YaiYfqYNdTxoyQjKB47QABw4tJKq05KZ5bFRhPS_uSnSy_1BLnZxc6BXwLp2rlom98fzNXiDvfReFAOaNkm3PJYt3nljk1YULq1Qmby2pkYp-1000
+https://www.plantuml.com/plantuml/png/xLbHRzis47xNho3oigvP36zxCugWhkCM1fpOjTk-qz95vYgHAacvSBV-zr4KevvDiRGm3CE6zIMMxlYHz_6xEr9zgJILkYwBf817JRGWakLxJJ8c8TLCy4HzPBoYafQaekb7ciDM7miWZPdol03aa1PKgQdMakrg3OjKy2tx0cISx5a61CfA7qa9vGwaIXALKWFpotWy9fzPflS89wiO-NKyJX8t8xa23Z8_be8pBIJZ-OXMLS5Isgnmz4XJci4L-JqXXBIB87CxuBuRyDhwa1SlsX-tjywx-NVT12DaTWzKrH9AuFfPAigIycn25fjpswmr_JXnao0JWgoaI44fP7n5TRf7mEj-Zs_mvnQ4RfRKR43_YcUUiHVJkHa64N0EUaarg1FeJpN8em5-qsDyszWYNEI0HwXNnpiui1GGRg_z2Nh9b7xXuT_Q2RucNxydaqoKbF5HAJ8eHcOGqmpKarA0roMnp6urrRL2abYjvm_TmtgpcistsyN3c-xLR7M_NixVpU-wDw-dYwLxD2lguD_Mj63ww4tmORfSV1kyVRzTpsVlkkV5GsD7Q4xMdYICeATvBY6d6iX627qYx1l2Z1xUlqSptP3CShlm3ROIG3RL4t9duDwn4f0LU1QqbLXKDJTE2wuX1udHBGCJpBUVBMsAc2q_29PXkHT2WM_4rFW2DDpCkJRanpdPDT2B8Lm1LqBw1aT5c4Mxo9dWgYwh9lMC5wIif0LogiHda7s6WoWqpQ7FbDPI0jTzfaS99j5uUWpEPMgY5lwCNM4CauxeTaeth7-WHGrajViDqhWUiNXw-Fo4ysTocawO6VCwiztW7fIo76rrKm5GBCu774OJr4w80YZtukelas513GnAI9OpJWjBLEzkjdD25lDWWc-0Ai5xucrQvF7Rwfzn-7mAznEH9sFTBW-kgwxpT7MLSGtID6K8Dqz3fVk5k7IjuiubdTaWJ9opRbtczLldv_bbt11xoFD3cqj1-wnDA6H7Aa4X1jjuF53hXoBfn_UxUHmQUuUecc6DXNbevMNCJYI3rT4qUGOzuWWV9qnazcz86n7EWWUAuU38kdPgGQqDgP9zmSO19C41k7Ri15jPcqQGpGzjNxkpO-sJ2oDUUFn-DhGlYTHscMp5KM-B7b5SVWGN7s_3moVkj3sSiFZC0pPNGYMKUHT807-VdRzLwTE39rL53_0ChRldyEqVeHuPpruTZRYPYp9mPiV-RNO-POyPw_GJG_0JybmK0mArel0lGvT4w8yQi7SAP1EiwjgRUmxlOmVXolAs7O53-l-cEPn_UqiSmBwjxfZx_-ZTbl57IPMMTQhDCB_M-Et4BpEBiYh-TRKbt6lymFxXMjB9L8qaA6rg2TTI50N8tZr29QHpZ9GFUxbJPf-ywh5fBOX9P5ALu0e2oU63EzDmy87yI52YbisZc_gKfc2GcAJGAUSwT6k_lkJuSns-VL_xjszFgJw1yON_DVxSBaHhWVF32y4tMdzjVpztpXJuc3AS5QeKbBjWqlbaJDs0q-JJmjaZ5VB2hFY1RERBwMonUfXl4-_3titDxSctClzBYtKv-I3YerpzV4MUtzoGg_5ezFogfwHwRqw6c9_-lE4nRff0wq-2oJiQ_N4RFluaE7VySU7EdIJXgch92_mdmOJK2bHyS5Gy3YW9p6DGecV72ScWWBo9Rn2C9Q0F98dDE1fzPoyCrDxyAK1TWXCvUGv6yu-RFb0Ie0BXX1M3SE8muQCTHeepxZOmV4XpEheCvvpgE8oBRE1YaiYfqYNdTxoyQjKB47QABw4tJKq05KZ5bFRhPS_uSnSy_1BLnZxc6BXwLp2rlom98fzNXiDvfReFAOaNkm3PJYt3nljk1YULq1Qmby2pkYp-1000
 
-#### Monitoring Space Context
+##### Monitoring Space Context
 
 <p align="center">
   <img src="report/images/Uml-Diagram/Monitoring Space Context.png" width="100%">
 </p>
 
-Ver diagrama UML en PlantUML: https://www.plantuml.com/plantuml/png/vLXBR-Cs4BxpLn2-DDrk3BUz6K6mZkqs0l90hRZNWf4cDh4IfP9K2hVT_rwAuieZUyAiaLuMcqDipUFZl3do1sE5jarPi0AUBBSLrtApjJoN6Z8hAyNCHwbgeKN9Qv5z51j8xQu0thA5sXI01B9263EpLil7naAILIgLVmEViAtCWKDPsnqleNm4RHWpcN0mFqqc4_wNpEqMuUIrv3zF9eo54_ceh9IqbPPgOnmDngAk2vc9ri3nayX43YF-3-ESTpRmsru-RUL_yIByugBxSdaPXDk_7tYcGLW8Af1xZREiAakXyYbFvWHxtd6_d_8X7Q6Al2FTUeSHtcp0s2CX8e9fwbnOyBmKh6qZWB3Mnrm4YCW8SGFMSwvsINxsPmDwvu1-HSJVMXhjsX31NEtM1ZG14pXxh1jfxCKGyD8ZVcAV8ddEgr98DIwh78enA2kj1FCvrQ2QidFoOLS3Ikdr_JfTNj_VB7hArJfDxfPf-iVy_lPskPedivkUbzmjrkd3Af2SGGVWgHMsCGX-Ddz8VbyY_GF2R3M_TiyB38VBCWIWhSVPPgDX8opmLLNPGLsUS-aol5ud2qHIeWINMDj6297Dvo1Cz_50x1nCfcNTTWkbxFsROcUFcgFh2PV7vqhcHzMv02jaOSwmTU-fKp403WokVHULPPletUlHA0VXJ8u56WEQ86ie_EWmMrdxg0NpSFSQ8pSgz6xSxD1X_wVTMQCrg6n7P0iKwCrkxG0m4wS3pOa3cFU4Tl3jr5uC8wZlHQaiw2Sd5fsNBaRX6mfIc2XtedGLXfn2lBweNn9Ox6iDYuHyOVl8-HktB6J90OSyOMOOW2HlTL1dhvf6Z_CtsJSFDV1Iv9PzHM29qugXdVuIZck1k5QS7_xpTI_e2D4N38rAf-VB78DdK3PuH4_lhippPIlepbzuFVzqO8N1JOxeLURxCxzNKxvmK0-oXEXaT8NxblF8OKYRyULnqb1NnZF8_0z3jWh2Fc7xXqFxnJES-KCELv3Z--T9gjplCJ8uHgyjM3XK18x6c_SJX_KiCp3zM0pFH4JmE4mxiMzp6Jqji7x1V2siVWQWe7wLAwzKJreOgvlCDXg81aFZYEojfAoBhxQX-fGQvxcnhg6KrLLHW8uFurxC2T7BgmQNCMEdVBudhZeQzZ7GJLqfSz11eNbwe67lxB4m4GETvhdxLpMwU_J8mm0GRc3NwJU5S3dGEo-ri1_THxJJRxX_Oilu6q8MuXvlcI24hSVh-kcXZ5pUySDEZzw9eN7ME3E8DY8ZCWlImswoLU2_F4rekBszt_7LycOsJ-xTopWR2lFpyqlqzaemyGlg0NlquuY_Ep_deybu_6w4unwJT5y7rn8ZUcey_lSoUkqogYE27dszClRIyF9kqhzTJTiACAzhnf8PC1XzWaEWrvCfpw7mlrAOY2gwWYb5HaAFn_7WEeYj-oZ0HFI7GJv1CxAn87M6F4FQn0A1b6WTUbl0YcISV80ZotJ8Aphp93qMtIHS8KSmehf4KRepQz166XihYSYRbjDl7Wjfjh74qYzDM9N5UeNk9xe5QKrQXa_3HcBO1r1vKnR_0G00
+https://www.plantuml.com/plantuml/png/vLXBR-Cs4BxpLn2-DDrk3BUz6K6mZkqs0l90hRZNWf4cDh4IfP9K2hVT_rwAuieZUyAiaLuMcqDipUFZl3do1sE5jarPi0AUBBSLrtApjJoN6Z8hAyNCHwbgeKN9Qv5z51j8xQu0thA5sXI01B9263EpLil7naAILIgLVmEViAtCWKDPsnqleNm4RHWpcN0mFqqc4_wNpEqMuUIrv3zF9eo54_ceh9IqbPPgOnmDngAk2vc9ri3nayX43YF-3-ESTpRmsru-RUL_yIByugBxSdaPXDk_7tYcGLW8Af1xZREiAakXyYbFvWHxtd6_d_8X7Q6Al2FTUeSHtcp0s2CX8e9fwbnOyBmKh6qZWB3Mnrm4YCW8SGFMSwvsINxsPmDwvu1-HSJVMXhjsX31NEtM1ZG14pXxh1jfxCKGyD8ZVcAV8ddEgr98DIwh78enA2kj1FCvrQ2QidFoOLS3Ikdr_JfTNj_VB7hArJfDxfPf-iVy_lPskPedivkUbzmjrkd3Af2SGGVWgHMsCGX-Ddz8VbyY_GF2R3M_TiyB38VBCWIWhSVPPgDX8opmLLNPGLsUS-aol5ud2qHIeWINMDj6297Dvo1Cz_50x1nCfcNTTWkbxFsROcUFcgFh2PV7vqhcHzMv02jaOSwmTU-fKp403WokVHULPPletUlHA0VXJ8u56WEQ86ie_EWmMrdxg0NpSFSQ8pSgz6xSxD1X_wVTMQCrg6n7P0iKwCrkxG0m4wS3pOa3cFU4Tl3jr5uC8wZlHQaiw2Sd5fsNBaRX6mfIc2XtedGLXfn2lBweNn9Ox6iDYuHyOVl8-HktB6J90OSyOMOOW2HlTL1dhvf6Z_CtsJSFDV1Iv9PzHM29qugXdVuIZck1k5QS7_xpTI_e2D4N38rAf-VB78DdK3PuH4_lhippPIlepbzuFVzqO8N1JOxeLURxCxzNKxvmK0-oXEXaT8NxblF8OKYRyULnqb1NnZF8_0z3jWh2Fc7xXqFxnJES-KCELv3Z--T9gjplCJ8uHgyjM3XK18x6c_SJX_KiCp3zM0pFH4JmE4mxiMzp6Jqji7x1V2siVWQWe7wLAwzKJreOgvlCDXg81aFZYEojfAoBhxQX-fGQvxcnhg6KrLLHW8uFurxC2T7BgmQNCMEdVBudhZeQzZ7GJLqfSz11eNbwe67lxB4m4GETvhdxLpMwU_J8mm0GRc3NwJU5S3dGEo-ri1_THxJJRxX_Oilu6q8MuXvlcI24hSVh-kcXZ5pUySDEZzw9eN7ME3E8DY8ZCWlImswoLU2_F4rekBszt_7LycOsJ-xTopWR2lFpyqlqzaemyGlg0NlquuY_Ep_deybu_6w4unwJT5y7rn8ZUcey_lSoUkqogYE27dszClRIyF9kqhzTJTiACAzhnf8PC1XzWaEWrvCfpw7mlrAOY2gwWYb5HaAFn_7WEeYj-oZ0HFI7GJv1CxAn87M6F4FQn0A1b6WTUbl0YcISV80ZotJ8Aphp93qMtIHS8KSmehf4KRepQz166XihYSYRbjDl7Wjfjh74qYzDM9N5UeNk9xe5QKrQXa_3HcBO1r1vKnR_0G00
 
-#### Recommendation Management Context
+##### Recommendation Management Context
 
 <p align="center">
   <img src="report/images/Uml-Diagram/Recommendation Management Context .png" width="100%">
 </p>
 
-Ver diagrama UML en PlantUML: https://www.plantuml.com/plantuml/png/tLXDR-Cs4BthLn2-DDr53BUz6K6mhkrc1UGZjUAsLqQQA4GaKIL7NhZj_lUEP4OX8rdq6jbBSh58pZoIR-ODoNpIo1LMUHPay80C9LCYVKIM20Kn2ba4-aaK9LSyPoMFdtWA4MupOFKmBz8CB8CuurhF49Muhn32M1QH-0VO97WK2J38Izoo7F9xK3e8TCm9vkV9PCA-Y0GVBPoa5EoNoIG8p8niHBF9F8SYuVMQSbvGBpLnpCio4t7JEtxWCKzWnFuD66ExnR2LutZLElxMsBApizt7-Rdngly-iXGAK1p1zJwf6xn8fYoyw3MOxyP_dBwQraAkogJZ5Y77Iblewxr61yoG0hfZ-jTjH4J2oTyLg6sz-7qMlzS6X7qfD9wv9kVM31IukCeuGiGteaXNeAiCTGi_xnr-nhOx6yolmTT30ft8d8jYdCi4iZ5r21IWdsCDHPMpMoMa4hYzX0raLZWlR_vilw-MYt1zrJO_XnUVsyPwTR6ylZDhUe7j2uE5FflVXNyihUPyUNktNBGTYp2w2gF8wbd-THkkgDrEr9-hb9kpD5MGSWIsaXAT73rbWZ9blGuNLbSk2u5IGT94C-mQeC0CA0QeA0PMVscecxeaMXQWKUGS8Td5RyeM45E7RQ8RQgQzXFLewuIIOID5qX67aKC1Nw81HEFjOt4M6owN1TAs_1ow2TZ38MyG5w1Z9ShwiuTFKGkrp021_E-bp83R4isvUfgzc9pitOijbhVSGns2T4lea5YHx0PxBZNsMtNBWAPjj5R72jlKm5ROea1GLDV1KtA97FFLgUHuvQg2w3PyE5PtjJHeo0sc6NnMnRxnfQkEBXFkPZmLthSXrstVXgwVzMCj-jYmrALTG3SglhE4Tj7y7XwKVhw6pfJk73wUZg01DjJGGrUBv_HCbhKfBMhHU3OjTsaUUPA1ZEDA4JSt1UKHOTw97Fo5BeRo-qr_16SAIgafo7ionrt-oXWtyMmRhuEg-GPEt7bVdmxTK-L150abfSapRH-DthkESIO_yUBYMX_1Z0Qr4J7ejjoPjfSbKnAYdVqxkB8UoLjprJoOjQOyj9oz_wkoA1uKrwYg62i5jWu7AfWjmJ0litUbkpOrDB6XaNHNe99P1cgGaNbhrYirOeG2gN7A-hMrsWrtLauHBMMXOT_DjuLTMxr-iEFfKA1bfUgccTfbPNXx3ZLEbAt-_eV7n_RXqHqQVd7O1s4VJTzsuBLFZNOPRqEc2SsmweoHisBn_HaqyNgpRTFE8BytYlBkTcQiNM6XDEFUOkDNmGzijRoSpSERwsKKkCRizFJSVUZs6VITPQ_jHZ-Ds8VJKpQQZCSVHhrFpo4N-dHgV30ijF7ultFFEHvqjM3y_2Tq4EojViI7xpzfKrPfq1u8JouOZC0p5K5vBaPJba06AKVGHu2P-q8NAXYUTJpsXOVG7kad0-s7yaVCXWk6za1etfTQ2-L76dgC6HW_MSJxm1l0PCB0KWu320QlE2IC0OnXtsu-qvmbA2qq7fGfWyz7WghkCw4V3ygKePUWZHJu1DZTbAjhlsVNXX1Y1JlzVAB1Ai_-1m00
+https://www.plantuml.com/plantuml/png/tLXDR-Cs4BthLn2-DDr53BUz6K6mhkrc1UGZjUAsLqQQA4GaKIL7NhZj_lUEP4OX8rdq6jbBSh58pZoIR-ODoNpIo1LMUHPay80C9LCYVKIM20Kn2ba4-aaK9LSyPoMFdtWA4MupOFKmBz8CB8CuurhF49Muhn32M1QH-0VO97WK2J38Izoo7F9xK3e8TCm9vkV9PCA-Y0GVBPoa5EoNoIG8p8niHBF9F8SYuVMQSbvGBpLnpCio4t7JEtxWCKzWnFuD66ExnR2LutZLElxMsBApizt7-Rdngly-iXGAK1p1zJwf6xn8fYoyw3MOxyP_dBwQraAkogJZ5Y77Iblewxr61yoG0hfZ-jTjH4J2oTyLg6sz-7qMlzS6X7qfD9wv9kVM31IukCeuGiGteaXNeAiCTGi_xnr-nhOx6yolmTT30ft8d8jYdCi4iZ5r21IWdsCDHPMpMoMa4hYzX0raLZWlR_vilw-MYt1zrJO_XnUVsyPwTR6ylZDhUe7j2uE5FflVXNyihUPyUNktNBGTYp2w2gF8wbd-THkkgDrEr9-hb9kpD5MGSWIsaXAT73rbWZ9blGuNLbSk2u5IGT94C-mQeC0CA0QeA0PMVscecxeaMXQWKUGS8Td5RyeM45E7RQ8RQgQzXFLewuIIOID5qX67aKC1Nw81HEFjOt4M6owN1TAs_1ow2TZ38MyG5w1Z9ShwiuTFKGkrp021_E-bp83R4isvUfgzc9pitOijbhVSGns2T4lea5YHx0PxBZNsMtNBWAPjj5R72jlKm5ROea1GLDV1KtA97FFLgUHuvQg2w3PyE5PtjJHeo0sc6NnMnRxnfQkEBXFkPZmLthSXrstVXgwVzMCj-jYmrALTG3SglhE4Tj7y7XwKVhw6pfJk73wUZg01DjJGGrUBv_HCbhKfBMhHU3OjTsaUUPA1ZEDA4JSt1UKHOTw97Fo5BeRo-qr_16SAIgafo7ionrt-oXWtyMmRhuEg-GPEt7bVdmxTK-L150abfSapRH-DthkESIO_yUBYMX_1Z0Qr4J7ejjoPjfSbKnAYdVqxkB8UoLjprJoOjQOyj9oz_wkoA1uKrwYg62i5jWu7AfWjmJ0litUbkpOrDB6XaNHNe99P1cgGaNbhrYirOeG2gN7A-hMrsWrtLauHBMMXOT_DjuLTMxr-iEFfKA1bfUgccTfbPNXx3ZLEbAt-_eV7n_RXqHqQVd7O1s4VJTzsuBLFZNOPRqEc2SsmweoHisBn_HaqyNgpRTFE8BytYlBkTcQiNM6XDEFUOkDNmGzijRoSpSERwsKKkCRizFJSVUZs6VITPQ_jHZ-Ds8VJKpQQZCSVHhrFpo4N-dHgV30ijF7ultFFEHvqjM3y_2Tq4EojViI7xpzfKrPfq1u8JouOZC0p5K5vBaPJba06AKVGHu2P-q8NAXYUTJpsXOVG7kad0-s7yaVCXWk6za1etfTQ2-L76dgC6HW_MSJxm1l0PCB0KWu320QlE2IC0OnXtsu-qvmbA2qq7fGfWyz7WghkCw4V3ygKePUWZHJu1DZTbAjhlsVNXX1Y1JlzVAB1Ai_-1m00
 
-#### User Management Context
+##### User Management Context
 
 <p align="center">
   <img src="report/images/Uml-Diagram/UserManagmentContext.png" width="100%">
 </p>
 
-Ver diagrama UML en PlantUML: https://www.plantuml.com/plantuml/png/xLXBSzis4BxpLs1ygPh46hMzQJAUgBQISfeghcHxUkl0v4h217mK09tQRVvx0GgIbreWBEjqcaDr4ObzxEBR1nPyfGrNfYba8c5jcAcO4fkjORbGa1bHbOb-BygQArwmccVl-GPMvbu2SsHURYGWXanohMV6A77R64Ypgbo91s2JP2joO53KvfuLKDo2qacYCsxLV3kPJDW7aPijqfFNWdqtcII9jyXE6WsguALzBg0qOrxNKcJS-JTUyupdSCB-I1XZEnVOjMN_wS3-kkLWBr_k7ixE7A__FMSADa8RK4vcb5M5DPDFMRf4o-UxrQ-dhM8aonkpjGQSAt0aF-kIa0vFyVwlG6lxXvGsTUvbBbMr5XAGrkjZMjIrR6kZqtAk33UDHahEZqXH7HimRkNx-pGV_TQ0khV2RnxNVdPBLEgEI-6yz3ixIDvqr_VIjrKbWUy0-9XyZ0Szhmekod5HvI373a0ZGE_Z3cLJiCSjeGZFpg_Ic_dXDLqSBQokLvVpnSNyuh3YNjF5crzlvilqTNe-kqhVBRnxZxRyBlhCpN-vJ9T8zt9-y-v7_zwgmobhKtIssIZOS0DiMLMcawgdJEGMxElq0YsjXT9cmGkOifLHejmWckHH4bWePM2ztbObXDQjYnygbV_0zJP0rYqAKnG0HCmKS0Fvp4pPXNsu4WKWgirsGgN5ERA9SbU9F59xexr_UzyEUKKBQrzK1BaN1B0NNJo83xx8V86Ly655SC0o9DwN2jQWeCnSSvgxZBxIzxYhYfGkI-j9mpUXu1cBwKCuhcLbnDftedd9RoNa53cVBWl4g-FuFcvAZvnJZs2QXyCpqdZG58Cgt32VZfZUARggtaCPAf7VQw50uyIa6Tzj0mWBeTjsDmecee8xQnJdz83Ev_lueVE9qe1Qymo2PvQ5oJzvd51IV-qhm7g2zeyOtl9Fq-SkY37YfIz9JFUHnLxJapBk-MSsJ0_JVikEExMgVJPzNZmlNRVfSviStq_qUh5IMzZme8nq1xm0cf1qMB0-jlzz7WPtJYQ87fKhLD__O6zmPryqdIltHGRvt75O-nUjGFlMzIBSUPxJqzUlLrdMAAluNObwJl3am3Kpt8_Xzdo1s8hvjmps1qH1NMbXgaYkxMBZMLnQx5z8RcX-1oDdOtTGqsDzBSgy7NhtXmaPSZtBhWzrmebPQGRxd1pWfp-b8jU6cE-xf3VuQ8lTFFus_dRnJcIWzoUGVu_5mZUZrOxh_ojNtvLhK0ZQErLF0DgsIE7_qgvrebmhhergCjCem5LEcYykyBIevNzPrTuflslYrvTNnOViq1PZRMmLbqPLKe8Au7n-80OBTwJ0Xb-RASCrkzmjUgoMeEkgr834PRKHvQFiM_VgXSY-i7Zm_dPGSusNmpuCHqU1hXhbNhsTBaYXVMEawBqSqSYzl7yoEBxVaaJqO19Fdg0o26pqb7_othjtxIT5p4Szr3yygRCD4TX28-Mm4FaROHnDajxK4L_fr2IzYWx7n_e0nIqkTmhBRCzpv9Qdu_vAAwn_l_qM-ZjbM2_2uoksdB-TdTjlTlDLubnafwTd-CjKKB5ZwbxcTx8dtvomPwUdx6Go7jl7xbSRolBi9DAUar3368__F0kEFOclPimMcMuIMgLU93ww90dkyGWXyirywcfSnzXfKEFyuR0HoIJeXbKG6YgjK0wo_Loguu9q6C9YIKZlU1oEYvNSsZy9EY96uZH8bCHhW2oPC8beGe6madJqGQ8H2JhoOQamf3uIU8JpCO-pU_r40ILHpwXWwEh3yAV87E4bT22QIUSOKTNeBJGHaUqqfBmV5Wq5ktWTmWhrznAeRUWFoc7h0uIfLy1Y6mIRWe7L7n0uboOOhap1MsDzlMEE9ZUud050IzUGPatXVmB
+https://www.plantuml.com/plantuml/png/xLXBSzis4BxpLs1ygPh46hMzQJAUgBQISfeghcHxUkl0v4h217mK09tQRVvx0GgIbreWBEjqcaDr4ObzxEBR1nPyfGrNfYba8c5jcAcO4fkjORbGa1bHbOb-BygQArwmccVl-GPMvbu2SsHURYGWXanohMV6A77R64Ypgbo91s2JP2joO53KvfuLKDo2qacYCsxLV3kPJDW7aPijqfFNWdqtcII9jyXE6WsguALzBg0qOrxNKcJS-JTUyupdSCB-I1XZEnVOjMN_wS3-kkLWBr_k7ixE7A__FMSADa8RK4vcb5M5DPDFMRf4o-UxrQ-dhM8aonkpjGQSAt0aF-kIa0vFyVwlG6lxXvGsTUvbBbMr5XAGrkjZMjIrR6kZqtAk33UDHahEZqXH7HimRkNx-pGV_TQ0khV2RnxNVdPBLEgEI-6yz3ixIDvqr_VIjrKbWUy0-9XyZ0Szhmekod5HvI373a0ZGE_Z3cLJiCSjeGZFpg_Ic_dXDLqSBQokLvVpnSNyuh3YNjF5crzlvilqTNe-kqhVBRnxZxRyBlhCpN-vJ9T8zt9-y-v7_zwgmobhKtIssIZOS0DiMLMcawgdJEGMxElq0YsjXT9cmGkOifLHejmWckHH4bWePM2ztbObXDQjYnygbV_0zJP0rYqAKnG0HCmKS0Fvp4pPXNsu4WKWgirsGgN5ERA9SbU9F59xexr_UzyEUKKBQrzK1BaN1B0NNJo83xx8V86Ly655SC0o9DwN2jQWeCnSSvgxZBxIzxYhYfGkI-j9mpUXu1cBwKCuhcLbnDftedd9RoNa53cVBWl4g-FuFcvAZvnJZs2QXyCpqdZG58Cgt32VZfZUARggtaCPAf7VQw50uyIa6Tzj0mWBeTjsDmecee8xQnJdz83Ev_lueVE9qe1Qymo2PvQ5oJzvd51IV-qhm7g2zeyOtl9Fq-SkY37YfIz9JFUHnLxJapBk-MSsJ0_JVikEExMgVJPzNZmlNRVfSviStq_qUh5IMzZme8nq1xm0cf1qMB0-jlzz7WPtJYQ87fKhLD__O6zmPryqdIltHGRvt75O-nUjGFlMzIBSUPxJqzUlLrdMAAluNObwJl3am3Kpt8_Xzdo1s8hvjmps1qH1NMbXgaYkxMBZMLnQx5z8RcX-1oDdOtTGqsDzBSgy7NhtXmaPSZtBhWzrmebPQGRxd1pWfp-b8jU6cE-xf3VuQ8lTFFus_dRnJcIWzoUGVu_5mZUZrOxh_ojNtvLhK0ZQErLF0DgsIE7_qgvrebmhhergCjCem5LEcYykyBIevNzPrTuflslYrvTNnOViq1PZRMmLbqPLKe8Au7n-80OBTwJ0Xb-RASCrkzmjUgoMeEkgr834PRKHvQFiM_VgXSY-i7Zm_dPGSusNmpuCHqU1hXhbNhsTBaYXVMEawBqSqSYzl7yoEBxVaaJqO19Fdg0o26pqb7_othjtxIT5p4Szr3yygRCD4TX28-Mm4FaROHnDajxK4L_fr2IzYWx7n_e0nIqkTmhBRCzpv9Qdu_vAAwn_l_qM-ZjbM2_2uoksdB-TdTjlTlDLubnafwTd-CjKKB5ZwbxcTx8dtvomPwUdx6Go7jl7xbSRolBi9DAUar3368__F0kEFOclPimMuIMgLU93ww90dkyGWXyirywcfSnzXfKEFyuR0HoIJeXbKG6YgjK0wo_Loguu9q6C9YIKZlU1oEYvNSsZy9EY96uZH8bCHhW2oPC8beGe6madJqGQ8H2JhoOQamf3uIU8JpCO-pU_r40ILHpwXWwEh3yAV87E4bT22QIUSOKTNeBJGHaUqqfBmV5Wq5ktWTmWhrznAeRUWFoc7h0uIfLy1Y6mIRWe7L7n0uboOOhap1MsDzlMEE9ZUud050IzUGPatXVmB)
+
+#### 4.7.1.2. Frontend Web Application Class Diagram (JouleTracker Web App)
+
+El Diagrama de Clases de la Frontend Web Application ilustra la arquitectura de componentes y servicios desarrollada en Angular 19+ para JouleTracker. Siguiendo el enfoque de Domain-Driven Design y Clean Architecture en el frontend (análogo al estándar del proyecto de referencia Learning Center), la solución se organiza modularmente en bounded contexts (`iam`, `devices`, `iot`, `consumption`, `reports`, `recommendations`) y un módulo transversal reutilizable (`shared`).
+
+Cada módulo frontend articula sus responsabilidades en:
+- **Capa `presentation`**: Componentes de vista (`Views`) y elementos de UI interactivos (`Components` como formularios, tarjetas y listados) vinculados al sistema de rutas.
+- **Capa `application`**: Almacenes de estado reactivo (`Stores`) basados en Angular Signals y RxJS, responsables de mantener el estado de la sesión, colecciones y notificaciones.
+- **Capa `infrastructure`**: Clientes API (`*Api`), endpoints especializados (`*ApiEndpoint`) y ensambladores (`*Assembler`) que extienden las clases base genéricas (`BaseApiEndpoint`, `BaseAssembler`, `BaseResponse`) para transformar los datos de las respuestas HTTP a objetos de dominio.
+- **Capa `domain.model`**: Entidades del modelo de negocio en el cliente (`User`, `Device`, `Sensor`, `ConsumptionProfile`, `Recommendation`), que derivan de `BaseEntity`.
+
+<p align="center">
+  <img src="report/images/Uml-Diagram/Frontend Diagram.jpg" width="100%">
+</p>
+
+https://www.plantuml.com/plantuml/png/jLZDRkCs4BxxAOZjeGxIw064G5Ylas2ttRQB9DiUYXveSQAmAv72a79gj7dtweUcDQPCEmroCi7vcMyu_3unUMyiHzjKvUnxzgDkIhX7ddy3PB_3YYtgkfGvjr8hTi5kK2iBIh2hgoksBBanx4ho0dd5vWjLD2L7ji3yKLh8RODmDflLRIvU07l7w_eT-sSsOynlcKUE8BfTnaRRKZqWDnQRFiVMp1XVjPiyjoplAt_W1XQrl5QYrbBPo_jhPQNT_C3kRy7e1dCObhLMfbikZ85gLG9cFYDZtprQMwViexNrifIWxCu2Bl5NB5DcB4fLx8nycomT9VRcymBieYpdPodxTMK0rxmrRm7-yMT673ziFecv52bJJRK2d8p9He2v4YLS8sgSwngmdyqM80rMi0RSXZwxNt9uuvDOSGEaLn8cbGLyu3dqeRxb-AcFJ_hSwjvLWhb1NMrTvkWMwIwixSAVLH2_wQDThJcwHUhhZwB7iLjh5prOvz3_UE-pKOveyrkdSNEx-SL3NOS-D9pA08PTNhh9Px4oxWgr5-WigEyMUpHX5nSP7I5BMMF077J_DzjkjfxmTyT_vqpp-CokWvJbMgq1hPavG8JbDO81PVlhc-IwghK2POsdkpkIptoZ6xlSsjjpyUii8vw_yFMAuocUTr90pDNDvPc8bUHLe5H2LrogfD82odtWNmtWWIashKdn2W9PEOSsNnbkeouddAt-1cgQhaFrVdQyhfD1Q1CghCbkLgxbg0hJxXQDVQJwSLxgGgfvZY0wOl7If8oh3LMa3bOswWiAQIpWN73BZxW_Ju7aky_JFi9FlBgp6g6TGVzBHv0tYA1iLo1bTx9GlDm79qtNPElK5G3XtLPQby1LTaBdQoq5STEDdPDzFp0FjsNHCBsKLLpn0ioKXpl_CNUV8_nQItWAgTN1FeKljsvCnmZ3zbCcIRQ3dJAf_eBSoG796NUcF1ImbZcO5t7ngeyvmCPf9jfDFR5Rwk6oXHPZkMrCkEyksXVz13ZzYN3etf2jhe8PwVgacVAv0EiCU--OOTSzOoYH1zDyc57g4az5ZsARMd0B_oTIG0a-yj0BgkCQqP2WRVy1kxpqQy-0yEXE6LHuqa6n93cQnJi7M3eDc8AMikvC2cx1nF3xsE0Hy3ADTLaYEklOwiLpukv8yrbp8LKHLLWkjfSnq5KknEJj2HmHAhqExykq89FUTaT6P3dYPrwhpYxDRwqjgj74_KPZTLIbfrCdYOS-eTT1_cX8gDgvLgQfwgxT5odtSXVt1VM3BAcA1phxqzDZ-486OsN5BOYbDZOqTuzFZjAq9G2b5jDFgX3A6qesQJpKvUNGxCXdJw93h1b9y54Qgt5pDCeJzVJdLuW_8WyLM9IvbuS8RYS2Fmy1quyeKjJpCSWPSFXet2kvF4uLvRFFJGCeIodQEEqGSbrLe4GFxcMFfbiIUu1sxSxKdoO2J8wofa-bW8vtVDqQJCZ86gN6jbRycHKmb29-ItRIIYPaw9x37j6ebNmDEqfjgFtqfqsCd_4E8Xn5ukcv6ZP1cKhDEyRIJez-XaESZfxKG2bzUjnhFzFxwKwYTpmeIGAGqpHt21PrVR0YCRRj4puS-0zCilyl5tSypxFte4HJbVy1
 
 ## 4.8. Database Design
 
@@ -2070,10 +2119,16 @@ Asimismo, permite almacenar las acciones asociadas a cada recomendación, facili
 
 
 ![DB6](report/images/db-diagrams/db6.png)
+<<<<<<< HEAD
 >>>>>>> develop
 
 
 ---
+=======
+
+
+
+>>>>>>> origin/develop
 
 
 # Capítulo V: Product Implementation, Validation & Deployment
@@ -2115,7 +2170,14 @@ JouleTracker utiliza Git como sistema de control de versiones y GitHub como plat
 
 El repositorio oficial del proyecto se encuentra disponible en el siguiente enlace:
 
-Repositorio de JouleTracker: https://github.com/JouleTracker/JouleTracker
+https://github.com/JouleTracker/JouleTracker
+
+
+| Producto Digital | URL del Repositorio |
+|---|---|
+| `Landing Page` | https://github.com/JouleTracker/JouleTracker-LandingPage |
+| `Frontend Web Application` | https://github.com/JouleTracker/Frontend
+
 
 Para organizar el trabajo colaborativo, el equipo utiliza una estrategia basada en ramas. Cada integrante desarrolla las actividades correspondientes en ramas específicas, evitando realizar modificaciones directamente sobre las ramas principales del proyecto.
 
@@ -2236,7 +2298,7 @@ Para realizar el despliegue mediante GitHub Pages se sigue el siguiente procedim
 
 El flujo general de despliegue puede representarse de la siguiente manera:
 
-`Development  ---> Git Repository  ---> main  ---> GitHub Pages  ---> Production`
+`Development → Git Repository → main → GitHub Pages → Production`
 
 #### Estructura utilizada para el despliegue
 
@@ -2249,7 +2311,7 @@ Entre los principales recursos se encuentran:
 | `index.html` | Contiene la estructura principal de la Landing Page. |
 | `css/styles.css` | Contiene los estilos visuales y responsive de la interfaz. |
 | Archivos JavaScript | Gestionan el comportamiento dinámico e interacción de la página. |
-| `report/images/` | Contiene los recursos gráficos utilizados en la Landing Page. |
+| `images/` | Contiene los recursos gráficos utilizados en la Landing Page. |
 | `favicon.svg` | Representa el ícono utilizado por el sitio web. |
 
 #### Validación posterior al despliegue
@@ -2403,9 +2465,9 @@ La siguiente captura evidencia la disponibilidad de la Landing Page de JouleTrac
 
 La Landing Page de JouleTracker fue desplegada para permitir su visualización y validación durante el Sprint Review.
 
-**Enlace de la página desplegada:** JouleTracker Landing Page - https://jouletracker.github.io/JouleTracker-LandingPage/
+**Enlace de la página desplegada:** https://jouletracker.github.io/JouleTracker-LandingPage/
 
-**Enlace del video de ejecución:** Video de ejecución - https://drive.google.com/file/d/1v6G61TiA350A7FiNq-jFrFq6u096fupr/view?usp=sharing
+**Enlace del video de ejecución:** https://drive.google.com/file/d/1v6G61TiA350A7FiNq-jFrFq6u096fupr/view?usp=sharing
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
@@ -2453,36 +2515,170 @@ Estas métricas permiten evidenciar el trabajo colaborativo desarrollado durante
 
 ### 5.2.2. Sprint 2
 
-#### 5.2.2.1. Sprint Planning 2.
+En el Sprint 2, como equipo nos centramos en el desarrollo del frontend web de JouleTracker (Single-Page Application), el cual será la interfaz principal de nuestra plataforma mediante la cual los usuarios (jefes de hogar y administradores de pequeños negocios) podrán monitorear y gestionar su consumo eléctrico en tiempo real. Se desarrollaron los dashboards y módulos necesarios para la gestión de sensores IoT, visualización de métricas energéticas, configuración de límites, alertas de sobrecosto y administración de perfiles.
 
-Durante el Sprint 2, Team VoltLab se enfocará en iniciar el desarrollo de la aplicación web funcional de JouleTracker, pasando de la Landing Page desarrollada durante el Sprint 1 hacia la implementación de la Single-Page Application (SPA) y los primeros servicios de la Backend API.
+#### 5.2.2.1. Sprint Planning 2
 
-El principal objetivo será implementar el módulo de autenticación de usuarios, permitiendo el registro y acceso seguro a la plataforma. Para ello, se trabajará de manera integrada en el Frontend utilizando Angular y en el Backend utilizando Spring Boot, estableciendo una estructura inicial que permita continuar con el desarrollo de las funcionalidades principales de JouleTracker en los siguientes sprints.
-
-| Sprint # | Sprint 2 |
-| :---: | :--- |
-| Sprint Planning Background | Inicio de la implementación de la aplicación web y de los servicios principales de autenticación de JouleTracker. |
-| Date | 26-09-2026 |
-| Time | 15:00 |
+| Campo | Valor |
+|---|---|
+| Sprint # | 2 |
+| Date | 02-10-2026 |
+| Time | 14:00 |
 | Location | Virtual, Discord |
 | Prepared by | Alejandro Samir Choquehuanca Vasquez |
-| Attendees | Alejandro Samir Choquehuanca Vasquez / Miguel Angel Jara Espinoza / Miguel Angel Vidal Castro / Mijail Alexander Matihues Quevedo / Rodrigo Velasquez Velasquez |
-| Sprint 1 Review Summary | Durante el Sprint 1 se desarrolló y desplegó la Landing Page de JouleTracker utilizando HTML5, CSS y JavaScript. Se implementaron las principales secciones informativas, navegación, cambio de idioma, presentación de beneficios y funcionalidades, además de los accesos hacia el registro e inicio de sesión. |
-| Sprint 1 Retrospective Summary | El Sprint 1 permitió establecer una base visual y funcional para JouleTracker y distribuir las responsabilidades del equipo. Como oportunidad de mejora, para el Sprint 2 se considera necesario fortalecer la coordinación entre Frontend y Backend, definir previamente los contratos de las API y mantener una organización clara mediante ramas y Pull Requests para evitar conflictos durante la integración. |
-| Sprint Goal & User Stories | Implementar la primera versión funcional de autenticación de JouleTracker mediante una SPA desarrollada con Angular y una Backend API desarrollada con Spring Boot. |
-| Sprint 2 Goal | Nuestro enfoque en este sprint es desarrollar el módulo inicial de autenticación de JouleTracker, implementando el registro de usuarios, inicio de sesión, recuperación de contraseña y verificación de cuenta. Asimismo, se establecerá la comunicación entre el Frontend y Backend mediante servicios REST, permitiendo contar con una base funcional para continuar con los módulos de sensores y monitoreo energético en los siguientes sprints. |
-| Sprint 2 Velocity | Límite de 30 SP |
-| Sum of Story Points | 30 SP |
+| Attendees | Alejandro Samir Choquehuanca Vasquez, Miguel Angel Jara Espinoza, Miguel Angel Vidal Castro, Mijail Alexander Matihues Quevedo, Rodrigo Velasquez Velasquez |
+| Sprint 1 Review Summary | En el Sprint 1, el equipo se enfocó en el desarrollo y despliegue de la Landing Page de JouleTracker. Con ello, se logró configurar el entorno de trabajo, establecer los requerimientos principales del sistema, la guía de estilo web/mobile, así como el diseño y despliegue del sitio promocional en GitHub Pages. Por otro lado, el profesor a cargo brindó feedback positivo respecto a la propuesta de valor visual y sugirió afinar la trazabilidad de los IDs en la documentación. |
+| Sprint 1 Retrospective Summary | Durante el Sprint 1, surgieron ligeras dificultades relacionadas con la sincronización de ramas de trabajo y el ajuste de tiempos en la maquetación responsive. Sin embargo, se logró entregar el sprint de manera completa, desplegando la Landing Page funcional y manteniendo una calidad aceptable en los entregables. |
+| Sprint 2 Goal | Nuestro enfoque en este sprint es desarrollar e implementar la interfaz del frontend web de JouleTracker mediante dashboards funcionales para usuarios residenciales y comerciales, permitiendo la visualización de consumo en tiempo real, histórico, gestión de sensores IoT y configuración de alertas. Además, se espera implementar la interfaz base correspondiente a cada Bounded Context del dominio. |
+| Sprint 2 Velocity | Límite de 35 SP |
+| Sum of Story Points | 35 SP |
 
-#### 5.2.2.2. Aspect Leaders and Collaborators.
+#### 5.2.2.2. Aspect Leaders and Collaborators
 
-#### 5.2.2.3. Sprint Backlog 2.
+Durante el Sprint 2, el equipo se enfocó principalmente en el desarrollo del frontend web de JouleTracker, priorizando la interfaz y las funcionalidades principales de la plataforma. Los principales aspectos considerados en este sprint incluyen el desarrollo de todos los Bounded Contexts identificados en el diseño arquitectónico:
+
+* **Identity & Access Management Bounded Context:** Encargado de gestionar la autenticación, inicio de sesión, registro de usuarios, verificación de cuentas y seguridad de acceso a la plataforma.
+* **IoT Sensor & Telemetry Bounded Context:** Encargado de registrar, configurar, desvincular sensores IoT y recibir las lecturas telemétricas del consumo eléctrico.
+* **Dashboard & Energy Analytics Bounded Context:** Encargado de procesar y presentar el consumo actual, consumo diario, métricas por sensor y resúmenes gráficos en el panel principal.
+* **Alerting & Optimization Bounded Context:** Encargado de gestionar los límites de consumo, metas mensuales, generación de alertas preventivas/críticas y recomendaciones de ahorro.
+* **Business Energy Management Bounded Context:** Encargado de organizar el establecimiento en áreas, asociar sensores por zonas y comparar el consumo eléctrico entre áreas para pequeños negocios.
+* **User Profile & History Bounded Context:** Encargado de la gestión de datos personales, historial de consumo con filtros por fecha y cambio de planes de suscripción.
+* **Shared Bounded Context:** Contiene componentes visuales comunes, layouts responsive, reutilizables y estilos globales que son utilizados por múltiples módulos del sistema.
+
+| Team Member | GitHub username | Identity & Access BC / User Profile BC | IoT Sensor & Telemetry BC | Dashboard & Energy Analytics BC | Alerting & Optimization BC | Business Energy Management BC / Shared BC |
+|---|---|:---:|:---:|:---:|:---:|:---:|
+| Choquehuanca Vasquez, Alejandro Samir | ascv.dev | L | C | C | - | C |
+| Jara Espinoza, Miguel Angel | MiguelJara2 | C | L | C | C | - |
+| Vidal Castro, Miguel Angel | Gossk | - | C | L | C | C |
+| Matihues Quevedo, Mijail Alexander | Anyone260 | C | - | C | L | C |
+| Rodrigo Velasquez Velasquez | Rodrigov233 | C | C | - | C | L |
+
+#### 5.2.2.3. Sprint Backlog 2
+
+| US Id | US Title | Task Id | Task Title | Description | Estimation (Hours) | Assigned To | Status |
+|---|---|---|---|---|:---:|---|:---:|
+| US-01 | Registro de usuario | T10 | Formulario de registro frontend | Construir la vista y validación de campos para el registro de nuevos usuarios. | 4 | Choquehuanca Vasquez, Alejandro Samir | Done |
+| US-02 | Inicio de sesión | T11 | Pantalla de Login y autenticación | Diseñar e implementar el formulario de acceso seguro a la plataforma. | 3 | Choquehuanca Vasquez, Alejandro Samir | Done |
+| US-11 | Registro de sensor IoT | T12 | Formulario de vinculación de sensores | Diseñar la interfaz para ingresar identificadores de nuevos dispositivos IoT. | 3 | Jara Espinoza, Miguel Angel | Done |
+| US-12 | Configuración de sensor | T13 | Panel de configuración de zona | Crear la vista para asignar nombre y ubicación a cada sensor registrado. | 2 | Jara Espinoza, Miguel Angel | Done |
+| US-16 | Visualización del Dashboard | T14 | Maquetación del layout del Dashboard | Estructurar el panel principal con tarjetas de métricas e indicadores. | 5 | Vidal Castro, Miguel Angel | Done |
+| US-17 | Visualización del consumo actual | T15 | Componente de lectura en tiempo real | Implementar el medidor visual de potencia (kW/kWh) actual. | 4 | Vidal Castro, Miguel Angel | Done |
+| US-18 | Visualización del consumo diario | T16 | Gráfico de consumo diario acumulado | Integrar gráfico de barras para consultar la energía consumida en el día. | 4 | Vidal Castro, Miguel Angel | Done |
+| US-26 | Configuración de límite de consumo | T17 | Interfaz de ajuste de umbrales | Crear controles para establecer límites de consumo máximo permitido. | 3 | Matihues Quevedo, Mijail Alexander | Done |
+| US-27 | Alerta por exceso de consumo | T18 | Componente de notificaciones y alertas | Implementar banners y tarjetas de aviso visual ante excesos de potencia. | 3 | Matihues Quevedo, Mijail Alexander | Done |
+| US-31 | Registro de áreas del negocio | T19 | Vista de administración de áreas MYPE | Construir el módulo para registrar y listar las zonas físicas del negocio. | 3 | Rodrigo Velasquez Velasquez | Done |
+| US-33 | Consumo eléctrico por área | T20 | Módulo de análisis por zonas | Desarrollar la vista comparativa de consumo energético entre áreas. | 4 | Rodrigo Velasquez Velasquez | Done |
+
+#### 5.2.2.4. Development Evidence for Sprint Review
+
+Durante el Sprint 2, el avance del desarrollo del frontend fue gestionado de manera transparente a través del tablero de trabajo en Jira, permitiendo realizar el seguimiento continuo de cada tarea desde su estado inicial hasta su culminación exitosa:
+![Tablero de trabajo del Sprint 2 en Jira](report/images/sprint2/sprint2-kanban.png)
+
+**Figura:** Vista del tablero Kanban en Jira correspondiente a la ejecución de tareas del Sprint 2.
+A nivel de código fuente, los integrantes de VoltLab registraron sus avances mediante commits organizados bajo la convención de *Conventional Commits* en el repositorio oficial del Frontend:
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|---|---|---|---|---|:---:|
+| Frontend | feature/auth | b9a2c1d | feat: implement user login and registration forms | Creación de componentes UI para inicio de sesión y registro con validaciones. | 03/10/2026 |
+| Frontend | feature/sensors | 4c8e1f2 | feat: add IoT sensor registration and config views | Implementación de vistas para vinculación y renombrado de sensores. | 05/10/2026 |
+| Frontend | feature/dashboard | 7d3a9e0 | feat: build main energy dashboard layout and metrics | Estructuración del dashboard responsive con indicadores principales. | 07/10/2026 |
+| Frontend | feature/dashboard | e1f4b8a | feat: integrate real-time power consumption charts | Incorporación de componentes de gráficos para telemetría en tiempo real. | 08/10/2026 |
+| Frontend | feature/alerts | 2a6c9d3 | feat: implement consumption limit settings and alerts | Desarrollo del módulo de configuración de umbrales y tarjetas de alerta. | 10/10/2026 |
+| Frontend | develop | 8f1e5b4 | Merge pull request #3 from feature/dashboard | Integración del módulo de dashboard a la rama develop. | 11/10/2026 |
+| Frontend | feature/mype | 3c9d2e1 | feat: add business areas management and zone comparison | Maquetación del módulo de gestión y comparación de áreas para PYMEs. | 12/10/2026 |
+| Frontend | develop | a7f8c2b | refactor: update shared layout and navigation components | Ajustes visuales en la barra de navegación lateral y estilos globales. | 13/10/2026 |
+| Frontend | develop | d4e9a1f | fix(api): connect dashboard components to mock telemetry service | Conexión del dashboard con servicios de datos simulados para prueba. | 14/10/2026 |
+| Frontend | main | 5b2c8e9 | Merge branch 'develop' into main for release | Preparación de la versión estable del Frontend para revisión del Sprint 2. | 15/10/2026 |
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+En esta sección se presentan las capturas de pantalla de la aplicación web funcional correspondiente al desarrollo del Sprint 2 de JouleTracker:
+
+##### Dashboard Principal de Consumo
+Visualización del panel de control donde el usuario puede consultar su consumo eléctrico en tiempo real, consumo acumulado del día e indicadores económicos principales.
+
+![Dashboard Principal de JouleTracker](report/images/SprintReview/sprint2-dashboard.png)
+
+**Figura:** Vista principal del Dashboard de monitoreo energético en JouleTracker.
+
+##### Gestión de Sensores IoT
+Módulo para el registro, nombrado y verificación del estado de conexión de los sensores instalados en el hogar o establecimiento.
+
+![Gestión de Sensores IoT](report/images/SprintReview/sprint3-sensors.png)
+
+**Figura:** Interfaz para el registro y administración de sensores IoT.
+
+##### Configuración de Alertas y Métricas para PYMEs
+Sección dedicada al ajuste de límites de consumo y comparación energética entre las distintas áreas del negocio.
+
+![Alertas y Módulo MYPE](report/images/SprintReview/sprint2-alerts-mype.png)
+
+**Figura:** Panel de alertas de sobrecosto y comparación por áreas del negocio.
+
+##### Evidencia del Despliegue y Video de Ejecución
+* **Enlace del Frontend desplegado:**  https://jouletracker-app.onrender.com/
+* **Enlace del video de demostración:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQA44UOoizuXTKtjNNVSucmHAaF7QsB-ggFVLe-lBus9X34?e=YKwjz8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 2, el equipo se enfocó en el desarrollo del Frontend de la aplicación web (Single-Page Application). La lógica de consumo de datos se conectó mediante adaptadores a servicios simulados (mock APIs) e interfaces de integración preparadas para conectarse con el Backend en la siguiente iteración.
+
+La especificación OpenAPI/Swagger oficial de la API de microservicios (Spring Boot) para los endpoints de telemetría, alertas y perfiles será integrada y documentada en el Sprint 3 con la entrega completa de la arquitectura de backend.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+El despliegue del Sprint 2 de JouleTracker se realizó en la plataforma **Render**, bajo el workspace del equipo, y se dividió en dos servicios: la aplicación web del Frontend (Single-Page Application) y un servidor de datos simulados (**json-server**) que cumple el rol de API mock mientras se desarrolla el Backend en el Sprint 3. Ambos servicios se alimentan del repositorio oficial `JouleTracker/Frontend` en GitHub (rama `master`).
+
+1. **Despliegue del servidor de datos (json-server):**
+    * Se creó el servicio web `jouletracker-api` en Render, con región *Oregon (US West)* y plan gratuito (*Free*), conectado al repositorio `JouleTracker/Frontend`.
+    * Se configuró el script de inicio de json-server para el entorno de Render (commit `ae2d041`: *chore: configure json-server start script for render*).
+    * Render ejecutó el primer despliegue (*First Deploy*) el 09/10/2026 a las 5:40 a. m. (GMT-5), con una duración de 1 min 04 s. Los logs muestran el servidor escuchando en el puerto 10000 y el mensaje *Your service is live*.
+    * Estado final: **Deploy succeeded | Live**.
+
+2. **Configuración de la URL de producción en el Frontend:**
+    * Se actualizó la URL base de la API en la aplicación para que apunte al servicio desplegado en Render (commit `27a5e4d`: *chore: set production api url to render*).
+
+3. **Despliegue de la aplicación web (Frontend):**
+    * Se creó el servicio `jouletracker-app` en Render, el cual clona el repositorio, instala las dependencias con `npm` (Node.js 24.21.0, 407 paquetes) y publica la aplicación.
+    * El primer despliegue se realizó el 09/10/2026 a las 5:53 a. m. (GMT-5), con una duración de 28.7 s.
+    * Estado final: **Deploy succeeded | Live**.
+
+4. **Verificación y enlaces públicos de producción:**
+    * Aplicación web: https://jouletracker-app.onrender.com/
+    * Servidor de datos (json-server): https://jouletracker-api.onrender.com/
+
+![Configuración del servicio jouletracker-api en Render](report/images/SprintReview/sprint2-render-api-settings.png)
+
+**Figura:** Configuración general del servicio `jouletracker-api` en Render (región, plan y repositorio fuente).
+
+![Despliegue exitoso del json-server en Render](report/images/SprintReview/sprint2-render-api-deploy.png)
+
+**Figura:** Despliegue exitoso (*Live*) del servidor json-server en Render, con su URL pública.
+
+![Despliegue exitoso del Frontend en Render](report/images/SprintReview/sprint2-render.png)
+
+**Figura:** Despliegue exitoso (*Live*) de la aplicación web `jouletracker-app` en Render.
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
+A través de las métricas proporcionadas por GitHub Insights, se registra la actividad continua, distribución de tareas y commits realizados por los integrantes de VoltLab durante el desarrollo del Sprint 2:
+
+![GitHub Insights Sprint 2](report/images/Insights/sprint2-insights.png)
+
+**Figura:** Descripción (Imagen 1 - Resumen general):
+El panel general evidencia que, en el período del 8 de septiembre al 8 de octubre de 2026, los 5 integrantes del equipo registraron 117 commits en la rama principal (139 en todas las ramas). Durante este intervalo no se abrieron pull requests ni issues, impactando un total de 142 archivos modificados con 4752 líneas agregadas y 624 eliminadas.
+
+![GitHub Insights Sprint 2](report/images/Insights/sprint2-insights2.png)
+
+**Figura:**
+Descripción (Imagen 2 - Detalle de contribuciones por integrante):
+El desglose individual muestra que la mayor concentración de actividad se dio entre las semanas del 7 y 14 de septiembre, con aportes de Anyone260 (80 commits; +711/-158), MiguelJara2 (43 commits; +2389/-4403), Gossk (27 commits; +3856/-563), Rodrigov233 (13 commits; +1297/-87) y Alejandro-Choquehuanca (9 commits; +695/-265), evidenciando la participación de todo el equipo en el desarrollo del código.
 
 ## Conclusiones y Recomendaciones.
 
 # Conclusiones
 
-El primer avance (AV1) del proyecto JouleTracker demuestra la consolidación exitosa de las bases estratégicas, arquitectónicas y metodológicas necesarias para la construcción de una plataforma SaaS IoT orientada a la eficiencia energética. A través de la aplicación del marco de trabajo Lean UX, se logró acotar el problema de negocio, la gestión reactiva de la facturación eléctrica y se establecieron seis hipótesis de valor claramente alineadas con las necesidades de los dos segmentos objetivos: hogares urbanos y pequeñas empresas (MYPEs). Esta alineación garantiza que el desarrollo tecnológico esté justificado por un valor comercial y una necesidad real de los usuarios.
+El primer avance (AV1) del proyecto JouleTracker demuestra la consolidación exitosa de las bases estratégicas, arquitectónicas y metodológicas necesarias para la construcción de una plataforma SaaS IoT orientada a la eficiencia energética. A través de la aplicación del marco de trabajo Lean UX, se logró acotar el problema de negocio —la gestión reactiva de la facturación eléctrica— y se establecieron seis hipótesis de valor claramente alineadas con las necesidades de los dos segmentos objetivos: hogares urbanos y pequeñas empresas (MYPEs). Esta alineación garantiza que el desarrollo tecnológico esté justificado por un valor comercial y una necesidad real de los usuarios.
 
 Desde la perspectiva arquitectónica y de diseño, el equipo VoltLab estructuró el sistema utilizando Domain-Driven Design (DDD), identificando seis Bounded Contexts que separan de manera cohesiva los subdominios principales (como Dashboard & Energy Analytics y Alerting & Optimization) de los dominios de soporte y genéricos. Esta abstracción fue plasmada eficazmente en los diagramas del modelo C4, trazando una hoja de ruta técnica clara que divide responsabilidades entre la Landing Page estática, la Single-Page Application (Angular) y la Backend API (Spring Boot/Java), lo cual previene el acoplamiento temprano del software.
 
@@ -2495,8 +2691,6 @@ Para las siguientes iteraciones del proyecto, se recomienda priorizar la validac
 En el ámbito técnico, la transición hacia el Sprint 2 exigirá una coordinación rigurosa, ya que el equipo comenzará a codificar la Single-Page Application en Angular y los primeros controladores de la Backend API en Spring Boot. Se recomienda establecer contratos de API (mediante especificaciones como OpenAPI/Swagger) de manera anticipada. Esto permitirá que los desarrolladores del frontend puedan avanzar consumiendo datos simulados (mocks) mientras el equipo de backend finaliza la lógica de los servicios y la persistencia en la base de datos relacional, evitando cuellos de botella en la integración.
 
 Finalmente, es fundamental mantener la rigurosidad en la documentación de la gestión de código fuente. A medida que el número de repositorios crezca (separando frontend y backend), el equipo debe velar por el cumplimiento estricto de GitFlow, evitando fusiones directas a la rama main sin la respectiva revisión de código (Pull Requests). Asimismo, se sugiere automatizar progresivamente el proceso de pruebas y despliegue (CI/CD) para los contenedores principales, lo que garantizará que JouleTracker mantenga un entorno de producción estable y demostrable en las futuras evaluaciones del curso.
-
-
 
 
 ---
@@ -2656,10 +2850,9 @@ Finalmente, es fundamental mantener la rigurosidad en la documentación de la ge
 
 ## Anexo A. Videos de Exposiciones
 
-- Exposición AV1 (Sprint Review 1): https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBkzQzRmAaoS5LFmM1r1DC5Af0gnGXJmTsmMaAUnjQgkds?e=1wKVrO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-- Exposición TB1 : 
+- Exposición AV1 (Sprint Review 1): https://upcedupe-my.sharepoint.com/:v:/g/personal/u202512856_upc_edu_pe/IQCcVnA86T4QTr-Q8NM1xCGmAQ0SN2movemV7qMLGIxLcds?e=YFStMk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-## Anexo B. Recursos y evidencias del proyecto
+# Anexo B. Recursos y evidencias del proyecto
 
 - Jira Software Cloud JouleTracker: https://alejandrochoquehuanca007.atlassian.net/jira/software/projects/JOUL/boards/1/backlog?atlOrigin=eyJpIjoiYzkxZjFiZTFlZTEzNDEwMzk2ZmEwZDBhODJmNDI4OWYiLCJwIjoiaiJ9
 - UXPressia – JouleTracker: https://uxpressia.com/w/NxJgO
@@ -2669,6 +2862,10 @@ Finalmente, es fundamental mantener la rigurosidad en la documentación de la ge
 - Repositorio de JouleTracker Landing Page: https://github.com/JouleTracker/JouleTracker-LandingPage
 - JouleTracker Landing Page: https://jouletracker.github.io/JouleTracker-LandingPage/
 - Video de ejecución del producto: https://drive.google.com/file/d/1v6G61TiA350A7FiNq-jFrFq6u096fupr/view?usp=sharing
+
+---
+
+# Anexos
 
 - Organización JouleTracker: https://github.com/JouleTracker
 - Repositorio JouleTracker: https://github.com/JouleTracker/JouleTracker
@@ -2697,5 +2894,3 @@ Finalmente, es fundamental mantener la rigurosidad en la documentación de la ge
 - JouleTracker Landing Page: https://jouletracker.github.io/JouleTracker-LandingPage/
 - Video de ejecución de Landing Page: https://drive.google.com/file/d/1v6G61TiA350A7FiNq-jFrFq6u096fupr/view?usp=sharing
 - - Video de ejecución de Web App: https://upcedupe-my.sharepoint.com/personal/u202314186_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202314186_upc_edu_pe%2FDocuments%2Fprototype-navigation-sprint-2%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0=&ga=1
-- JouleTracker Repositorio: https://github.com/JouleTracker/JouleTracker
-- URL de documentación: https://jouletracker.github.io/JouleTracker-LandingPage/
