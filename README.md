@@ -2558,7 +2558,7 @@ Durante el Sprint 2, el equipo se enfocó principalmente en el desarrollo del fr
 | US Id | US Title | Task Id | Task Title | Description | Estimation (Hours) | Assigned To | Status |
 |---|---|---|---|---|:---:|---|:---:|
 | US-01 | Registro de usuario | T10 | Formulario de registro frontend | Construir la vista y validación de campos para el registro de nuevos usuarios. | 4 | Choquehuanca Vasquez, Alejandro Samir | Done |
-| US-02 | Inicio de sesión | T11 | Pantalla de Login y autenticación | Diseñar e implementar el formulario de acceso seguro a la plataforma. | 3 | Choquehuanca Vasquez, Alejandro Samir | Done |
+| US-02 | Inicio de sesión | T11 | Pantalla de Login | Diseñar e implementar el formulario de acceso seguro a la plataforma. | 3 | Choquehuanca Vasquez, Alejandro Samir | Done |
 | US-11 | Registro de sensor IoT | T12 | Formulario de vinculación de sensores | Diseñar la interfaz para ingresar identificadores de nuevos dispositivos IoT. | 3 | Jara Espinoza, Miguel Angel | Done |
 | US-12 | Configuración de sensor | T13 | Panel de configuración de zona | Crear la vista para asignar nombre y ubicación a cada sensor registrado. | 2 | Jara Espinoza, Miguel Angel | Done |
 | US-16 | Visualización del Dashboard | T14 | Maquetación del layout del Dashboard | Estructurar el panel principal con tarjetas de métricas e indicadores. | 5 | Vidal Castro, Miguel Angel | Done |
