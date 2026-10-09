@@ -325,9 +325,9 @@ La siguiente captura evidencia la disponibilidad de la Landing Page de JouleTrac
 
 La Landing Page de JouleTracker fue desplegada para permitir su visualización y validación durante el Sprint Review.
 
-**Enlace de la página desplegada:** [JouleTracker Landing Page](https://jouletracker.github.io/JouleTracker-LandingPage/)
+**Enlace de la página desplegada:** https://jouletracker.github.io/JouleTracker-LandingPage/
 
-**Enlace del video de ejecución:** [Video de ejecución](https://drive.google.com/file/d/1v6G61TiA350A7FiNq-jFrFq6u096fupr/view?usp=sharing)
+**Enlace del video de ejecución:** https://drive.google.com/file/d/1v6G61TiA350A7FiNq-jFrFq6u096fupr/view?usp=sharing
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
@@ -372,12 +372,6 @@ Las siguientes capturas muestran la actividad registrada por los integrantes dur
 **Figura 2:** Detalle de la participación y commits realizados por los colaboradores del proyecto.
 
 Estas métricas permiten evidenciar el trabajo colaborativo desarrollado durante el sprint y observar la participación de los diferentes integrantes en la evolución del proyecto JouleTracker.
-## 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas.
-### 5.3.2. Registro de Entrevistas.
-### 5.3.3. Evaluaciones según heurísticas.
-## 5.4. Video About-the-Product.
-
 
 ## Conclusiones y Recomendaciones.
 

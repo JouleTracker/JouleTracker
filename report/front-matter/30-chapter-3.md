@@ -214,7 +214,8 @@ Se adjunta la captura del Product Backlog de JouleTracker, donde se observa la p
 
 El Product Backlog completo y actualizado puede consultarse en Jira Software Cloud:
 
-[Jira Software Cloud - JouleTracker](https://alejandrochoquehuanca007.atlassian.net/jira/software/projects/JOUL/boards/1/backlog?atlOrigin=eyJpIjoiYzkxZjFiZTFlZTEzNDEwMzk2ZmEwZDBhODJmNDI4OWYiLCJwIjoiaiJ9)
+Jira Software Cloud - JouleTracker
+https://alejandrochoquehuanca007.atlassian.net/jira/software/projects/JOUL/boards/1/backlog?atlOrigin=eyJpIjoiYzkxZjFiZTFlZTEzNDEwMzk2ZmEwZDBhODJmNDI4OWYiLCJwIjoiaiJ9
 
 ---
 
