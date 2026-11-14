@@ -595,7 +595,7 @@ Para el Segmento 2:
 
 **Entrevista de validación #1 – Jesús**
 
-*Figura: Evidencia de Entrevista de Validación #1 – Jesús.*
+![Entrevista de validación #1 - Jesús](../images/img-entrevistas/entrevistaJesusSP2.jpeg)
 
 **Resumen de la sesión:**  
 Jesús, jefe de hogar de 34 años en Los Olivos, comprendió rápidamente la propuesta de valor presentada en la Landing Page y navegó con facilidad hacia la interfaz web desde su dispositivo móvil. Logró completar la visualización del panel en tiempo real y la simulación de proyección de recibos sin asistencia. Tras responder el cuestionario, indicó que la plataforma le resulta muy útil para evitar sorpresas en los gastos fijos de casa, destacando especialmente la proyección del recibo mensual porque le permite anticiparse al pago y ajustar el uso de sus aparatos. Como oportunidad de mejora, sugirió incorporar notificaciones directas vía WhatsApp para alertas de consumo elevado.
@@ -607,26 +607,26 @@ Jesús, jefe de hogar de 34 años en Los Olivos, comprendió rápidamente la pro
 | Segmento objetivo | Segmento 1: Hogares |
 | Edad | 34 años |
 | Ubicación | Los Olivos, Lima |
-| Duración / Empieza en | 4:29 minutos / 05:30 |
-| Enlace | Ver Video en Stream |
+| Duración / Empieza en | 0:00 / 3:50 |
+| Enlace | https://drive.google.com/file/d/1UIbZvTG5G1OCI_xwm2kHLPMxJkqk3cSq/view?usp=sharing |
 
 
 **Entrevista de validación #2 – Fabrizio**
 
-*Figura: Evidencia de Entrevista de Validación #2 – Fabrizio.*
+![Entrevista de validación #2 - fabrizzio](../images/img-entrevistas/entrevistafabrizzioSPT2.jpeg)
 
 **Resumen de la sesión:**  
 Fabrizio, joven profesional de 26 años que vive solo en Surco y trabaja en modalidad híbrida, revisó la plataforma mostrando gran interés en la integración con los sensores IoT. Navegó por el registro de sensores y el historial sin problemas, destacando que los gráficos por horarios le permiten identificar picos de consumo para optimizar el uso de su laptop gaming y electrodomésticos. Afirmó que usaría la aplicación en la vida real para reducir su consumo mediante métricas claras, y sugirió añadir gráficos comparativos semanales más detallados para contrastar su gasto entre semanas.
 
 | Detalle | Información |
 |---|---|
-| Entrevistador | Miguel Angel Vidal Castro |
+| Entrevistador | Alejandro Samir Choquehuanca Vasquez |
 | Entrevistado | Fabrizio |
 | Segmento objetivo | Segmento 1: Hogares |
 | Edad | 26 años |
 | Ubicación | Surco, Lima |
-| Duración / Empieza en | 5:36 minutos / 09:52 |
-| Enlace | Ver Video en Stream |
+| Duración / Empieza en | 0:00 / 2:44 |
+| Enlace |https://drive.google.com/file/d/15w2a33-enzOGESqNkPjR5XdLkVoFEl-e/view?usp=sharing |
 
 
 **Entrevista de validación #3 – Carlos**
@@ -651,38 +651,39 @@ Carlos, empleado administrativo de 45 años en Comas, evaluó el sistema enfocad
 
 **Entrevista de validación #4 – Diana**
 
-*Figura: Evidencia de Entrevista de Validación #4 – Diana.*
+![Entrevista de validación #4 - Diana ](../images/img-entrevistas/entrevistadianasp2.jpeg)
+
 
 **Resumen de la sesión:**  
 Diana, propietaria de una bodega en San Juan de Lurigancho con más de 10 años de trayectoria, probó el módulo de gestión de negocios enfocado en el monitoreo de sus refrigeradores y congeladores operativos todo el día. Navegó sin dificultades por la vista comercial y valoró muy positivamente las alertas de consumo anómalo, señalando que le permitirían actuar a tiempo ante fallos nocturnos para evitar pérdidas económicas de mercadería congelada. Como mejora, propuso permitir la personalización de cada equipo con nombres, íconos o fotos para identificarlos rápidamente.
 
 | Detalle | Información |
 |---|---|
-| Entrevistador | Mijail Alexander Matihues Quevedo |
+| Entrevistador | Alejandro Samir Choquehuanca Vasquez |
 | Entrevistado | Diana |
 | Segmento objetivo | Segmento 2: Pequeños negocios |
 | Edad | 40 años |
 | Ubicación | San Juan de Lurigancho, Lima |
-| Duración / Empieza en | 5:32 minutos / 00:00 |
-| Enlace | Ver Video en Stream |
+| Duración / Empieza en | 0:00 minutos / 04:09 minutos |
+| Enlace |https://drive.google.com/file/d/1dcBQja8ckHnel0h7aB1eJVXhNXJcxIeZ/view?usp=sharing |
 
 
 **Entrevista de validación #5 – Eduardo**
 
-*Figura: Evidencia de Entrevista de Validación #5 – Eduardo.*
+![Entrevista de validación #5 - Eduardo ](../images/img-entrevistas/entrevistaeduardospt2.jpeg)
 
 **Resumen de la sesión:**  
 Eduardo, propietario de un taller mecánico de 38 años en Comas, evaluó la plataforma centrándose en el control de maquinaria pesada como compresores y máquinas de soldar. Comprendió el funcionamiento de los sensores IoT, navegó por el panel del negocio sin inconvenientes y destacó que la detección temprana de fallas eléctricas mediante alertas preventivas es clave para evitar reparaciones costosas y paralizaciones del taller. Como oportunidad de mejora, recomendó añadir un indicador visual de advertencia más llamativo ante riesgos de sobrecarga en el interruptor térmico.
 
 | Detalle | Información |
 |---|---|
-| Entrevistador | Miguel Angel Jara Espinoza |
+| Entrevistador | Alejandro Samir Choquehuanca  |
 | Entrevistado | Eduardo |
 | Segmento objetivo | Segmento 2: Pequeños negocios |
 | Edad | 38 años |
 | Ubicación | Comas, Lima |
-| Duración / Empieza en | 4:48 minutos / 15:33 |
-| Enlace | Ver Video en Stream |
+| Duración / Empieza en | 0:00 minutos / 02:22 |
+| Enlace | https://drive.google.com/file/d/1Rw8pF8xe-pzzYa1N6XQ6kHlC9AqkMP5g/view?usp=sharing |
 
 
 **Entrevista de validación #6 – Ricardo**

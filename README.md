@@ -2676,6 +2676,186 @@ El panel general evidencia que, en el período del 8 de septiembre al 8 de octub
 Descripción (Imagen 2 - Detalle de contribuciones por integrante):
 El desglose individual muestra que la mayor concentración de actividad se dio entre las semanas del 7 y 14 de septiembre, con aportes de Anyone260 (80 commits; +711/-158), MiguelJara2 (43 commits; +2389/-4403), Gossk (27 commits; +3856/-563), Rodrigov233 (13 commits; +1297/-87) y Alejandro-Choquehuanca (9 commits; +695/-265), evidenciando la participación de todo el equipo en el desarrollo del código.
 
+
+
+## 5.3. Validation Interviews (Etapa de Validación del Producto)
+
+Para comprobar que la solución responde adecuadamente a las necesidades reales de los usuarios, realizamos sesiones de validación con representantes de nuestros segmentos objetivo. El propósito fue observar cómo interactúan con la Landing Page y la Web Application desplegadas, recoger sus impresiones sobre la propuesta de valor y detectar oportunidades de mejora.
+
+### 5.3.1. Diseño de Entrevistas
+
+A diferencia de las entrevistas iniciales de descubrimiento (*needfinding*), estas sesiones se centraron en evaluar el comportamiento de los usuarios frente al producto funcional. Queríamos verificar si comprendían de inmediato qué hace JouleTracker, si lograban navegar por las vistas principales sin asistencia y si completaban los flujos clave sin fricciones.
+
+**Objetivos de la validación**
+* Comprobar si los usuarios captan rápidamente la propuesta de valor al revisar la Landing Page.
+* Evaluar si logran navegar por la aplicación y completar las tareas principales sin confusiones.
+* Detectar problemas de usabilidad, organización de la información o diseño inclusivo.
+* Recoger sugerencias concretas de mejora para futuras iteraciones del producto.
+
+**Segmentos validados**
+* **Segmento 1:** Usuarios residenciales (hogares).
+* **Segmento 2:** Dueños y administradores de pequeños negocios.
+
+**Escenarios y tareas de validación**
+
+Para el Segmento 1:
+* Identificar en la Landing Page cuál es la propuesta de valor principal de JouleTracker.
+* Navegar desde la Landing Page hacia la aplicación web.
+* Iniciar sesión y reconocer los indicadores principales del Dashboard.
+* Completar el registro o vinculación de un sensor IoT residencial.
+* Consultar el histórico de consumo energético y la proyección del recibo.
+
+Para el Segmento 2:
+* Identificar en la Landing Page cómo la plataforma aporta valor a la gestión de su negocio.
+* Navegar desde la Landing Page hacia la aplicación.
+* Iniciar sesión en la vista correspondiente a su rol comercial.
+* Ubicar y utilizar el módulo de monitoreo de equipos de alto consumo (neveras, cámaras de frío, compresores).
+* Interpretar las alertas de consumo anómalo y la analítica de áreas del negocio.
+
+**Preguntas posteriores a la demostración**
+* Después de ver y probar la aplicación, ¿te parece útil para tu hogar o negocio?
+* ¿Qué parte o funcionalidad de la plataforma te gustó más?
+* ¿Hubo algún botón, etiqueta o flujo que no entendiste o que te confundió?
+* ¿Usarías una aplicación como esta en la vida real? ¿Por qué?
+* ¿Qué cambiarías o mejorarías para facilitar su uso diario?
+
+### 5.3.2. Registro de Entrevistas
+
+**Video consolidado de validación**
+* **Enlace en Microsoft Stream / Drive:** [Consolidado de Sesiones de Validación JouleTracker]()
+* **Captura de evidencia:**  
+  *Figura: Captura del video consolidado con las sesiones de validación.*
+
+#### Segmento Objetivo: Usuarios residenciales (hogares)
+
+**Entrevista de validación #1 – Jesús**
+
+![Entrevista de validación #1 - Jesús](report/images/img-entrevistas/entrevistaJesusSP2.jpeg)
+
+**Resumen de la sesión:**  
+Jesús, jefe de hogar de 34 años en Los Olivos, comprendió rápidamente la propuesta de valor presentada en la Landing Page y navegó con facilidad hacia la interfaz web desde su dispositivo móvil. Logró completar la visualización del panel en tiempo real y la simulación de proyección de recibos sin asistencia. Tras responder el cuestionario, indicó que la plataforma le resulta muy útil para evitar sorpresas en los gastos fijos de casa, destacando especialmente la proyección del recibo mensual porque le permite anticiparse al pago y ajustar el uso de sus aparatos. Como oportunidad de mejora, sugirió incorporar notificaciones directas vía WhatsApp para alertas de consumo elevado.
+
+| Detalle | Información |
+|---|---|
+| Entrevistador | Alejandro Samir Choquehuanca Vasquez |
+| Entrevistado | Jesús |
+| Segmento objetivo | Segmento 1: Hogares |
+| Edad | 34 años |
+| Ubicación | Los Olivos, Lima |
+| Duración / Empieza en | 0:00 / 3:50 |
+| Enlace | https://drive.google.com/file/d/1UIbZvTG5G1OCI_xwm2kHLPMxJkqk3cSq/view?usp=sharing |
+
+
+**Entrevista de validación #2 – Fabrizio**
+
+![Entrevista de validación #2 - fabrizzio](report/images/img-entrevistas/entrevistafabrizzioSPT2.jpeg)
+
+**Resumen de la sesión:**  
+Fabrizio, joven profesional de 26 años que vive solo en Surco y trabaja en modalidad híbrida, revisó la plataforma mostrando gran interés en la integración con los sensores IoT. Navegó por el registro de sensores y el historial sin problemas, destacando que los gráficos por horarios le permiten identificar picos de consumo para optimizar el uso de su laptop gaming y electrodomésticos. Afirmó que usaría la aplicación en la vida real para reducir su consumo mediante métricas claras, y sugirió añadir gráficos comparativos semanales más detallados para contrastar su gasto entre semanas.
+
+| Detalle | Información |
+|---|---|
+| Entrevistador | Alejandro Samir Choquehuanca Vasquez |
+| Entrevistado | Fabrizio |
+| Segmento objetivo | Segmento 1: Hogares |
+| Edad | 26 años |
+| Ubicación | Surco, Lima |
+| Duración / Empieza en | 0:00 / 2:44 |
+| Enlace |https://drive.google.com/file/d/15w2a33-enzOGESqNkPjR5XdLkVoFEl-e/view?usp=sharing |
+
+
+**Entrevista de validación #3 – Carlos**
+
+*Figura: Evidencia de Entrevista de Validación #3 – Carlos.*
+
+**Resumen de la sesión:**  
+Carlos, empleado administrativo de 45 años en Comas, evaluó el sistema enfocado en la seguridad eléctrica y el control de cargas elevadas como su therma eléctrica. Validó el panel general —señalando que solo le tomó unos segundos ubicar el detalle por carga— y resaltó que las alertas tempranas ante anomalías son fundamentales para prevenir recalentamientos y cortocircuitos en el hogar. Confirmó que usaría la herramienta por prevención y ahorro, y recomendó incorporar una interfaz simplificada con tipografía y botones más grandes para facilitar su uso a adultos mayores.
+
+| Detalle | Información |
+|---|---|
+| Entrevistador | Rodrigo Velasquez Velasquez |
+| Entrevistado | Carlos |
+| Segmento objetivo | Segmento 1: Hogares |
+| Edad | 45 años |
+| Ubicación | Comas, Lima |
+| Duración / Empieza en | 5:58 minutos / 31:49 |
+| Enlace | Ver Video en Stream |
+
+
+#### Segmento Objetivo: Dueños y administradores de pequeños negocios
+
+**Entrevista de validación #4 – Diana**
+
+![Entrevista de validación #4 - Diana ](report/images/img-entrevistas/entrevistadianasp2.jpeg)
+
+
+**Resumen de la sesión:**  
+Diana, propietaria de una bodega en San Juan de Lurigancho con más de 10 años de trayectoria, probó el módulo de gestión de negocios enfocado en el monitoreo de sus refrigeradores y congeladores operativos todo el día. Navegó sin dificultades por la vista comercial y valoró muy positivamente las alertas de consumo anómalo, señalando que le permitirían actuar a tiempo ante fallos nocturnos para evitar pérdidas económicas de mercadería congelada. Como mejora, propuso permitir la personalización de cada equipo con nombres, íconos o fotos para identificarlos rápidamente.
+
+| Detalle | Información |
+|---|---|
+| Entrevistador | Alejandro Samir Choquehuanca Vasquez |
+| Entrevistado | Diana |
+| Segmento objetivo | Segmento 2: Pequeños negocios |
+| Edad | 40 años |
+| Ubicación | San Juan de Lurigancho, Lima |
+| Duración / Empieza en | 0:00 minutos / 04:09 minutos |
+| Enlace |https://drive.google.com/file/d/1dcBQja8ckHnel0h7aB1eJVXhNXJcxIeZ/view?usp=sharing |
+
+
+**Entrevista de validación #5 – Eduardo**
+
+![Entrevista de validación #5 - Eduardo ](report/images/img-entrevistas/entrevistaeduardospt2.jpeg)
+
+**Resumen de la sesión:**  
+Eduardo, propietario de un taller mecánico de 38 años en Comas, evaluó la plataforma centrándose en el control de maquinaria pesada como compresores y máquinas de soldar. Comprendió el funcionamiento de los sensores IoT, navegó por el panel del negocio sin inconvenientes y destacó que la detección temprana de fallas eléctricas mediante alertas preventivas es clave para evitar reparaciones costosas y paralizaciones del taller. Como oportunidad de mejora, recomendó añadir un indicador visual de advertencia más llamativo ante riesgos de sobrecarga en el interruptor térmico.
+
+| Detalle | Información |
+|---|---|
+| Entrevistador | Alejandro Samir Choquehuanca  |
+| Entrevistado | Eduardo |
+| Segmento objetivo | Segmento 2: Pequeños negocios |
+| Edad | 38 años |
+| Ubicación | Comas, Lima |
+| Duración / Empieza en | 0:00 minutos / 02:22 |
+| Enlace | https://drive.google.com/file/d/1Rw8pF8xe-pzzYa1N6XQ6kHlC9AqkMP5g/view?usp=sharing |
+
+
+**Entrevista de validación #6 – Ricardo**
+
+![](report/images/img-entrevistaIMAGENCOLOCAR)
+
+*Figura: Evidencia de Entrevista de Validación #6 – Ricardo.*
+
+**Resumen de la sesión:**  
+Ricardo, de 23 años, administra un minimarket en San Luis con 3 años de antigüedad junto con dos amigos con quienes vive. Navegó de forma directa desde la Landing Page hasta el módulo de monitoreo comercial, donde evaluó el control de sus equipos de alto consumo, como cámaras de frío y congeladores de helados encendidos las 24 horas. Comentó que actualmente no cuentan con un sistema de control energético y que las fallas imprevistas en las cámaras les han provocado pérdidas de mercadería; por ello, destacó que la detección temprana de fallas es la funcionalidad más valiosa de la plataforma. Como mejora, sugirió habilitar el acceso multiusuario para que sus dos socios también reciban las alertas en tiempo real.
+
+| Detalle | Información |
+|---|---|
+| Entrevistador | Alejandro Samir Choquehuanca Vasquez |
+| Entrevistado | Ricardo |
+| Segmento objetivo | Segmento 2: Pequeños negocios |
+| Edad | 23 años |
+| Ubicación | San Luis, Lima |
+| Tipo de negocio | Minimarket |
+| Antigüedad del negocio | 3 años |
+| Equipos de mayor consumo | Cámaras de frío y congeladores de helados |
+| Duración / Empieza en | 6:20 minutos / 20:17 |
+| Enlace |  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Conclusiones y Recomendaciones.
 
 # Conclusiones
