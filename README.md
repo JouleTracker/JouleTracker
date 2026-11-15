@@ -2778,7 +2778,7 @@ Listado, registro y consulta de estado de sensores IoT asociados al usuario, as�
 
 **Figura:** Listado y resumen de maquinaria y equipos registrados en la cuenta MYPE conectados al Backend.
 
-![Ejecución de gestión de sensores y áreas](report/images/SprintReview/sprint3-sensors-areas.png)
+![Ejecución de gestión de sensores y áreas](report/images/SprintReview/sprint3-sensors.png)
 
 **Figura:** Administración de sensores IoT y áreas físicas del establecimiento conectadas al Backend. `[COMPLETAR: Insertar captura]`
 
