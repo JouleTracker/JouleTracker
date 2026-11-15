@@ -2778,9 +2778,13 @@ Listado, registro y consulta de estado de sensores IoT asociados al usuario, as�
 
 **Figura:** Listado y resumen de maquinaria y equipos registrados en la cuenta MYPE conectados al Backend.
 
-![Ejecución de gestión de sensores y áreas](report/images/SprintReview/sprint3-sensors.png)
+![Ejecución de gestión de sensores IoT](report/images/SprintReview/sprint3-sensors-areas.png)
 
-**Figura:** Administración de sensores IoT y áreas físicas del establecimiento conectadas al Backend. `[COMPLETAR: Insertar captura]`
+**Figura:** Administración y estado en línea de sensores IoT (`5` sensores activos, límites recomendados y consumo diario) conectados al Backend.
+
+![Ejecución de áreas de negocio MYPE](report/images/SprintReview/sprint3-areas.png)
+
+**Figura:** Comparativa de consumo y zonas físicas registradas (`Cocina Industrial`, `Salón Principal`, `Caja y Oficina`) para el segmento MYPE.
 
 ##### Dashboard y Última Lectura de Telemetría en Tiempo Real
 Visualización en la aplicación web de las lecturas energéticas (kW, kWh, voltaje y corriente) recuperadas directamente desde el Backend API.
@@ -2791,7 +2795,7 @@ Visualización en la aplicación web de las lecturas energéticas (kW, kWh, volt
 
 ![Ejecución del Dashboard conectado al Backend](report/images/SprintReview/sprint3-dashboard-live.png)
 
-**Figura:** Dashboard de consumo eléctrico conectado al Backend API en producción.
+**Figura:** Dashboard de consumo eléctrico (`0.71 kW` en tiempo real, `173.59 kWh` acumulados y distribución por dispositivos) conectado al Backend API en producción.
 
 ##### Evidencia del Despliegue y Video de Ejecución
 * **Enlace del Frontend desplegado:** https://jouletracker-front.onrender.com/
