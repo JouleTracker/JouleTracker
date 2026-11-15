@@ -2983,16 +2983,16 @@ Eduardo, propietario de un taller mecánico de 38 años en Comas, evaluó la pla
 
 **Entrevista de validación #6 – Ricardo**
 
-![](report/images/img-entrevistaIMAGENCOLOCAR)
+![](report/images/img-entrevistas/ricardo-S2.png)
 
 *Figura: Evidencia de Entrevista de Validación #6 – Ricardo.*
 
 **Resumen de la sesión:**  
-Ricardo, de 23 años, administra un minimarket en San Luis con 3 años de antigüedad junto con dos amigos con quienes vive. Navegó de forma directa desde la Landing Page hasta el módulo de monitoreo comercial, donde evaluó el control de sus equipos de alto consumo, como cámaras de frío y congeladores de helados encendidos las 24 horas. Comentó que actualmente no cuentan con un sistema de control energético y que las fallas imprevistas en las cámaras les han provocado pérdidas de mercadería; por ello, destacó que la detección temprana de fallas es la funcionalidad más valiosa de la plataforma. Como mejora, sugirió habilitar el acceso multiusuario para que sus dos socios también reciban las alertas en tiempo real.
+Ricardo, administrador de un minimarket de 23 años ubicado en San Luis, con 3 años de funcionamiento, evaluó la webapp enfocándose en las funcionalidades del módulo de monitoreo comercial. Durante la sesión, exploró el panel de gestión del negocio y comprendió sin dificultades la información presentada sobre el consumo energético de los equipos. Destacó positivamente la posibilidad de supervisar el funcionamiento de cámaras de frío y congeladores, así como recibir alertas ante posibles anomalías eléctricas, considerando que estas funcionalidades permitirían detectar fallas a tiempo y evitar pérdidas económicas por el deterioro de mercadería. Asimismo, valoró que la plataforma facilite el control de equipos que permanecen encendidos durante las 24 horas. Como oportunidad de mejora, sugirió incorporar una función de acceso multiusuario que permita compartir el monitoreo y las notificaciones con sus socios, facilitando una gestión conjunta del negocio.
 
 | Detalle | Información |
 |---|---|
-| Entrevistador | Alejandro Samir Choquehuanca Vasquez |
+| Entrevistador | Miguel Angel Vidal Castro |
 | Entrevistado | Ricardo |
 | Segmento objetivo | Segmento 2: Pequeños negocios |
 | Edad | 23 años |
@@ -3001,7 +3001,7 @@ Ricardo, de 23 años, administra un minimarket en San Luis con 3 años de antig�
 | Antigüedad del negocio | 3 años |
 | Equipos de mayor consumo | Cámaras de frío y congeladores de helados |
 | Duración / Empieza en | 6:20 minutos / 20:17 |
-| Enlace |  |
+| Enlace | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQA-cUzBQUt4SKMBxUgt3o2dAarf3bp-IHQFUZXLoC9acp4?e=GQjWDL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
 
 
 
