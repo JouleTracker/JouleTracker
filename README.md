@@ -2676,7 +2676,162 @@ El panel general evidencia que, en el período del 8 de septiembre al 8 de octub
 Descripción (Imagen 2 - Detalle de contribuciones por integrante):
 El desglose individual muestra que la mayor concentración de actividad se dio entre las semanas del 7 y 14 de septiembre, con aportes de Anyone260 (80 commits; +711/-158), MiguelJara2 (43 commits; +2389/-4403), Gossk (27 commits; +3856/-563), Rodrigov233 (13 commits; +1297/-87) y Alejandro-Choquehuanca (9 commits; +695/-265), evidenciando la participación de todo el equipo en el desarrollo del código.
 
+### 5.2.3. Sprint 3
 
+Durante el Sprint 3, VoltLab centró sus esfuerzos en la implementación del **Backend API** de JouleTracker (desarrollado en Java con Spring Boot bajo una arquitectura Domain-Driven Design) y en su integración progresiva con la **aplicación web Frontend** (Angular), reemplazando las respuestas simuladas utilizadas durante el Sprint 2 por servicios RESTful reales con persistencia en base de datos y seguridad basada en tokens JWT.
+
+De manera paralela, el equipo ejecutó sesiones de entrevistas de validación con usuarios de ambos segmentos objetivo (hogares urbanos y pequeños negocios), documentó los endpoints implementados mediante Swagger/OpenAPI y actualizó el informe técnico del proyecto junto con las evidencias de cumplimiento del Student Outcome 3.
+
+#### 5.2.3.1. Sprint Planning 3
+
+| Campo | Valor |
+|---|---|
+| Sprint # | 3 |
+| Date | 16-10-2026 |
+| Time | 15:00 |
+| Location | Virtual, Discord |
+| Prepared by | Mijail Alexander Matihues Quevedo |
+| Attendees | Alejandro Samir Choquehuanca Vasquez, Miguel Angel Jara Espinoza, Miguel Angel Vidal Castro, Mijail Alexander Matihues Quevedo, Rodrigo Velasquez Velasquez |
+| Sprint 2 Review Summary | En el Sprint 2 se implementó y desplegó la Single-Page Application (Frontend) en Render junto con un servidor mock (`json-server`), cubriendo los módulos de autenticación, dashboard de consumo, sensores, alertas, reportes y áreas de negocio. En la revisión se validó el flujo visual completo y se estableció como prioridad para el siguiente sprint la implementación del Backend real en Spring Boot y su integración con el cliente web. |
+| Sprint 2 Retrospective Summary | Durante el Sprint 2 se identificó la necesidad de estandarizar los contratos de API antes de conectar el Frontend para evitar retrabajos, así como distribuir mejor la carga de documentación y pruebas funcionales en paralelo al desarrollo técnico. Para el Sprint 3 se acordó definir previamente los endpoints por Bounded Context y mantener actualizado el tablero en Jira y el informe conforme avanzan las entregas. |
+| Sprint 3 Goal | Implementar los servicios RESTful centrales del Backend API de JouleTracker (autenticación JWT en IAM, gestión de sensores IoT, ingesta y consulta de lecturas de telemetría y gestión de áreas de negocio MYPE), documentarlos mediante OpenAPI/Swagger, integrarlos con la aplicación web Frontend y validar el producto funcional con usuarios reales de ambos segmentos objetivo. |
+| Sprint 3 Velocity | Límite de 36 SP |
+| Sum of Story Points | 36 SP |
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+En el Sprint 3 se mantuvo la organización por Bounded Contexts y frentes de trabajo, distribuyendo el liderazgo de los servicios Backend, la integración con el Frontend, las entrevistas de validación y la consolidación documental del informe:
+
+* **Identity & Access Management (IAM) & Validation / Frontend Support:** Implementación del registro (`sign-up`), inicio de sesión (`sign-in`), cifrado con BCrypt y emisión/validación de tokens Bearer JWT, además de apoyo en vistas Frontend y ejecución de entrevistas de validación.
+* **Device Management (Backend):** Implementación de endpoints para el registro, asociación al usuario autenticado, listado y verificación de estado de conexión de sensores IoT.
+* **Energy Monitoring & Telemetry (Backend):** Implementación del módulo de ingesta y persistencia de lecturas eléctricas (kW, kWh, voltaje y corriente) enviadas por los dispositivos.
+* **Consumption Analytics & Dashboard Integration (Backend / Frontend / Documentación):** Consulta de la última medición en tiempo real para alimentar el Dashboard, consolidación de las secciones del Sprint 3 y elaboración del Student Outcome 3.
+* **Business Energy Management & Report Consolidation (Backend / Informe):** Gestión de zonas físicas para pequeños negocios (MYPE), integración de flujos y actualización integral del Project Report.
+
+| Team Member | GitHub username | Identity & Access BC (IAM) / Frontend & Entrevistas | Device Management BC (Backend) | Energy Monitoring BC (Backend) | Analytics & Dashboard Integration / Docs | Business Energy Management BC / Report Update |
+|---|---|:---:|:---:|:---:|:---:|:---:|
+| Choquehuanca Vasquez, Alejandro Samir | ascv.dev | L | C | - | C | - |
+| Jara Espinoza, Miguel Angel | MiguelJara2 | C | L | C | - | C |
+| Vidal Castro, Miguel Angel | Gossk | C | C | L | C | - |
+| Matihues Quevedo, Mijail Alexander | Anyone260 | - | - | C | L | C |
+| Rodrigo Velasquez Velasquez | Rodrigov233 | - | - | - | C | L |
+
+#### 5.2.3.3. Sprint Backlog 3
+
+| TS / US Id | Title | Bounded Context | Task Id | Task Title | Description | Story Points (SP) | Estimation (Hours) | Assigned To | Status |
+|---|---|---|---:|---|---|---:|---:|---|:---:|
+| TS-01 | Register User | Identity & Access Management (IAM) | T21 | Endpoint de registro con BCrypt | Implementar `POST /api/v1/authentication/sign-up` con hashing BCrypt, validación de unicidad de correo y conexión con el formulario de registro en Frontend. | 5 | 5 | Choquehuanca Vasquez, Alejandro Samir | Done |
+| TS-02 | Login User & JWT Auth | Identity & Access Management (IAM) | T22 | Endpoint de login y filtro JWT | Implementar `POST /api/v1/authentication/sign-in` con generación/validación de tokens Bearer JWT y actualización del interceptor de autenticación en Frontend. | 5 | 5 | Choquehuanca Vasquez, Alejandro Samir | Done |
+| TS-05 | Register Sensor IoT | Device Management | T23 | Endpoint de registro de sensores | Implementar `POST /api/v1/sensors` para registrar y asociar sensores IoT al usuario autenticado con validaciones de dominio. | 5 | 5 | Jara Espinoza, Miguel Angel | Done |
+| TS-08 | Get Sensor Status & List | Device Management | T24 | Endpoints de listado y estado de sensores | Implementar `GET /api/v1/sensors` y `GET /api/v1/sensors/{id}` para listar sensores del usuario y verificar su estado de conexión. | 3 | 4 | Jara Espinoza, Miguel Angel | Done |
+| TS-07 | Receive Energy Reading | Energy Monitoring | T25 | Endpoint de ingesta de telemetría | Implementar `POST /api/v1/telemetry/readings` para recibir y persistir lecturas de potencia (kW, kWh, voltaje, corriente) asociadas a cada sensor. | 8 | 7 | Vidal Castro, Miguel Angel | Done |
+| TS-10 | Get Latest Reading | Energy Monitoring / Analytics | T26 | Endpoint de última lectura e integración en Dashboard | Implementar `GET /api/v1/sensors/{id}/readings/latest` para entregar la última medición en tiempo real al Dashboard y documentar el avance del Sprint 3 y Student Outcome. | 5 | 5 | Matihues Quevedo, Mijail Alexander | Done |
+| TS-16 | Manage Business Areas | Business Energy Management | T27 | Endpoints de áreas de negocio y actualización de informe | Implementar `POST /api/v1/business-areas` y `GET /api/v1/business-areas` para registrar y listar zonas físicas MYPE, además de apoyar en la actualización del informe y Sprint 3. | 5 | 5 | Velasquez Velasquez, Rodrigo | Done |
+
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+El seguimiento de las tareas planificadas para el Sprint 3 se gestionó mediante el tablero Kanban en Jira Software Cloud, permitiendo verificar el avance de las historias técnicas de Backend y las tareas de integración con el Frontend hasta su estado final (*Done*).
+
+![Tablero de trabajo del Sprint 3 en Jira](report/images/sprint3/sprint3-kanban.png)
+
+**Figura:** Vista del tablero Kanban en Jira correspondiente a la ejecución del Sprint 3. `[COMPLETAR: Insertar captura de Jira Sprint 3]`
+
+A nivel de repositorios, los avances fueron registrados siguiendo el flujo de ramas de GitFlow y el estándar *Conventional Commits*:
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|---|---|---|---|---|:---:|
+| Backend | feature/iam-jwt | `[HASH]` | `feat(iam): implement sign-up and sign-in endpoints with JWT` | Implementación de registro con BCrypt, autenticación y emisión de tokens Bearer JWT (`TS-01`, `TS-02`). | `[FECHA]` |
+| Backend | feature/device-management | `[HASH]` | `feat(devices): add sensor registration and status endpoints` | Creación de `POST /api/v1/sensors`, `GET /api/v1/sensors` y `GET /api/v1/sensors/{id}` (`TS-05`, `TS-08`). | `[FECHA]` |
+| Backend | feature/energy-monitoring | `[HASH]` | `feat(telemetry): implement energy reading ingestion endpoint` | Implementación de `POST /api/v1/telemetry/readings` para persistencia de kW, kWh, voltaje y corriente (`TS-07`). | `[FECHA]` |
+| Backend | feature/energy-monitoring | `[HASH]` | `feat(analytics): add latest sensor reading query endpoint` | Implementación de `GET /api/v1/sensors/{id}/readings/latest` para consulta en tiempo real (`TS-10`). | `[FECHA]` |
+| Backend | feature/business-areas | `[HASH]` | `feat(business): add business areas CRUD endpoints` | Implementación de `POST /api/v1/business-areas` y `GET /api/v1/business-areas` para el segmento MYPE (`TS-16`). | `[FECHA]` |
+| Frontend | feature/api-integration | `[HASH]` | `feat(auth): connect login and register forms to backend JWT API` | Integración del módulo IAM del Frontend con los endpoints reales y manejo de Bearer Token. | `[FECHA]` |
+| Frontend | feature/dashboard-live | `[HASH]` | `feat(dashboard): connect real-time telemetry and sensor views to backend` | Consumo de endpoints de sensores, últimas lecturas y áreas de negocio desde la SPA en Angular. | `[FECHA]` |
+| JouleTracker | feature/chapter5-sprint3 | `[HASH]` | `docs(chapter5): add Sprint 3 documentation and Student Outcome updates` | Redacción de Sprint Planning 3, Sprint Backlog 3, evidencias y actualización de versiones del informe. | `[FECHA]` |
+
+> **Nota:** Reemplazar `[HASH]` y `[FECHA]` con los identificadores reales de los commits del repositorio de Backend, Frontend y Reporte una vez consolidados.
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+En esta sección se presentan las evidencias de ejecución del sistema JouleTracker integrando la interfaz web Frontend con los servicios RESTful del Backend desarrollados durante el Sprint 3.
+
+##### Autenticación y Control de Acceso (IAM)
+Registro e inicio de sesión de usuarios validados contra el Backend mediante hashing BCrypt y tokens Bearer JWT.
+
+![Ejecución de autenticación integrada con Backend](report/images/SprintReview/sprint3-auth.png)
+
+**Figura:** Flujo de inicio de sesión y registro conectado a los endpoints de IAM. `[COMPLETAR: Insertar captura]`
+
+##### Gestión de Sensores IoT y Áreas de Negocio (MYPE)
+Listado, registro y consulta de estado de sensores IoT asociados al usuario, así como la organización por zonas físicas en pequeños negocios.
+
+![Ejecución de gestión de sensores y áreas](report/images/SprintReview/sprint3-sensors-areas.png)
+
+**Figura:** Administración de sensores IoT y áreas físicas del establecimiento conectadas al Backend. `[COMPLETAR: Insertar captura]`
+
+##### Dashboard y Última Lectura de Telemetría en Tiempo Real
+Visualización en la aplicación web de las lecturas energéticas (kW, kWh, voltaje y corriente) recuperadas directamente desde el Backend API.
+
+![Ejecución del Dashboard conectado al Backend](report/images/SprintReview/sprint3-dashboard-live.png)
+
+**Figura:** Dashboard de monitoreo mostrando la última medición en tiempo real recibida del Backend. `[COMPLETAR: Insertar captura]`
+
+##### Evidencia del Despliegue y Video de Ejecución
+* **Enlace del Frontend desplegado:** https://jouletracker-app.onrender.com/
+* **Enlace del Backend API desplegado:** `[COMPLETAR: URL pública del Backend desplegado]`
+* **Enlace de documentación Swagger UI:** `[COMPLETAR: URL pública de Swagger UI, ej. https://.../swagger-ui/index.html]`
+* **Enlace del video de demostración (Sprint 3):** `[COMPLETAR: Link del video de ejecución]`
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 3 se implementó la documentación técnica interactiva de los servicios RESTful del Backend utilizando **OpenAPI 3 / Swagger (springdoc-openapi)**, permitiendo inspeccionar y probar los contratos de entrada, respuestas HTTP, esquemas JSON y autenticación mediante Bearer JWT.
+
+Los principales endpoints implementados y documentados corresponden a los Bounded Contexts priorizados en el Sprint:
+
+| Bounded Context | Método HTTP | Endpoint | Descripción | Story / TS |
+|---|---|---|---|---|
+| Identity & Access Management | `POST` | `/api/v1/authentication/sign-up` | Registra un nuevo usuario validando unicidad de correo y cifrando la contraseña con BCrypt. | `TS-01` |
+| Identity & Access Management | `POST` | `/api/v1/authentication/sign-in` | Autentica las credenciales del usuario y retorna el token Bearer JWT de acceso. | `TS-02` |
+| Device Management | `POST` | `/api/v1/sensors` | Registra un nuevo sensor IoT y lo asocia al usuario autenticado. | `TS-05` |
+| Device Management | `GET` | `/api/v1/sensors` | Lista los sensores IoT registrados pertenecientes al usuario autenticado. | `TS-08` |
+| Device Management | `GET` | `/api/v1/sensors/{id}` | Obtiene el detalle y estado de conexión de un sensor específico. | `TS-08` |
+| Energy Monitoring | `POST` | `/api/v1/telemetry/readings` | Recibe y almacena lecturas de potencia (kW, kWh, voltaje, corriente) enviadas por un sensor. | `TS-07` |
+| Energy Monitoring / Analytics | `GET` | `/api/v1/sensors/{id}/readings/latest` | Retorna la lectura de telemetría más reciente registrada para un sensor determinado. | `TS-10` |
+| Business Energy Management | `POST` | `/api/v1/business-areas` | Registra una nueva área o zona física de monitoreo para un pequeño negocio. | `TS-16` |
+| Business Energy Management | `GET` | `/api/v1/business-areas` | Lista las áreas físicas registradas por el propietario del establecimiento. | `TS-16` |
+
+![Documentación Swagger UI del Backend de JouleTracker](report/images/SprintReview/sprint3-swagger.png)
+
+**Figura:** Vista de la interfaz Swagger UI con los endpoints RESTful documentados del Backend de JouleTracker. `[COMPLETAR: Insertar captura de Swagger UI]`
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+El despliegue correspondiente al Sprint 3 contempló la publicación del servicio **Backend API** en Spring Boot conectado a su base de datos relacional en la nube y la actualización del **Frontend** en Angular para consumir los endpoints reales de producción en reemplazo del servidor mock anterior.
+
+El flujo de despliegue seguido para esta iteración comprende:
+1. **Compilación y empaquetado del Backend API:** Construcción del artefacto Spring Boot (Java) con las variables de entorno configuradas para la conexión a la base de datos, clave secreta de firma JWT y permisos CORS hacia el dominio del Frontend.
+2. **Despliegue de la base de datos y servicio web Backend:** Publicación del contenedor/servicio en la plataforma cloud y verificación de disponibilidad de los endpoints mediante Swagger UI.
+3. **Actualización de configuración en el Frontend:** Apuntado de la variable `apiBaseUrl` en el entorno de producción hacia la URL del Backend desplegado y redespliegue automático del cliente web.
+
+![Evidencia de despliegue exitoso del Backend en la nube](report/images/SprintReview/sprint3-backend-deploy.png)
+
+**Figura:** Estado *Live* y logs de despliegue del servicio Backend de JouleTracker. `[COMPLETAR: Insertar captura del servicio desplegado]`
+
+![Evidencia de despliegue actualizado del Frontend](report/images/SprintReview/sprint3-frontend-deploy.png)
+
+**Figura:** Redespliegue del Frontend conectado a la API de producción del Backend. `[COMPLETAR: Insertar captura]`
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Con el objetivo de evidenciar la participación equitativa y el aporte continuo de todos los integrantes de VoltLab durante el Sprint 3, se recopilan las métricas de colaboración desde GitHub Insights en los repositorios del proyecto (Backend, Frontend y Project Report).
+
+![GitHub Insights Sprint 3 - Resumen general](report/images/Insights/sprint3-insights.png)
+
+**Figura:** Métricas generales de actividad y commits registrados durante el Sprint 3. `[COMPLETAR: Insertar captura de GitHub Insights]`
+
+![GitHub Insights Sprint 3 - Contribuciones por integrante](report/images/Insights/sprint3-insights2.png)
+
+**Figura:** Detalle de contribuciones, adiciones y eliminaciones por cada integrante del equipo durante el Sprint 3. `[COMPLETAR: Insertar captura de Contributors]`
 
 ## 5.3. Validation Interviews (Etapa de Validación del Producto)
 
