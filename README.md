@@ -2797,7 +2797,7 @@ Visualización en la aplicación web de las lecturas energéticas (kW, kWh, volt
 * **Enlace del Frontend desplegado:** https://jouletracker-front.onrender.com/
 * **Enlace del Backend API desplegado:** https://jouletracker-api-kmok.onrender.com
 * **Enlace de documentación Swagger UI:** https://jouletracker-api-kmok.onrender.com/swagger-ui/index.html
-* **Enlace del video de demostración (Sprint 3):** `[COMPLETAR: Link del video de ejecución]`
+* **Enlace del video de demostración (Sprint 3):** https://www.youtube.com/watch?v=UYQWInpBB8s
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
