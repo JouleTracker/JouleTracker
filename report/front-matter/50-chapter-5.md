@@ -644,7 +644,8 @@ Carlos, empleado administrativo de 45 años en Comas, evaluó el sistema enfocad
 | Edad | 45 años |
 | Ubicación | Comas, Lima |
 | Duración / Empieza en | 5:58 minutos / 31:49 |
-| Enlace | Ver Video en Stream |
+| Enlace | https://drive.google.com/file/d/15w2a33-enzOGESqNkPjR5XdLkVoFEl-e/view?usp=sharing
+|
 
 
 #### Segmento Objetivo: Dueños y administradores de pequeños negocios
