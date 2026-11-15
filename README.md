@@ -169,6 +169,7 @@
 | 13.4    | 15/11/2026 | Vidal Castro Miguel Angel            | Documentación de servicios API (Swagger/OpenAPI) y evidencias de despliegue |
 | 13.5    | 15/11/2026 | Velasquez Velasquez Rodrigo          | Actualización general del informe, apoyo en Sprint 3 y revisión de evidencias |
 | 13.6    | 15/11/2026 | Matihues Quevedo Mijail Alexander    | Redacción de Sprint 3 (`5.2.3`), Tabla de Contenidos y actualización de Student Outcome 3 |
+| 13.7    | 15/11/2026 | Matihues Quevedo Mijail Alexander    | Correccion del Sprint 3 y eliminacion de datos incorrectos |
 
 ---
 
