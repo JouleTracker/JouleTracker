@@ -164,7 +164,11 @@
 | 12.9    | 8/10/2026  | Matihues Quevedo Mijail Alexander    | Reestructuracion de los User Flow                                   |
 | 13.0    | 8/10/2026  | Matihues Quevedo Mijail Alexander    | Reorganizacion de los User Flow y WireFlow                          |
 | 13.1    | 8/10/2026  | Matihues Quevedo Mijail Alexander    | Team Collaboration Insights during Sprint                           |
-
+| 13.2    | 15/11/2026 | Choquehuanca Vasquez Alejandro Samir | Actualización de entrevistas de validación en el Capítulo V (`5.3`) |
+| 13.3    | 15/11/2026 | Jara Espinoza Miguel Angel           | Actualización de Product Backlog y documentación técnica de Backend en el informe |
+| 13.4    | 15/11/2026 | Vidal Castro Miguel Angel            | Documentación de servicios API (Swagger/OpenAPI) y evidencias de despliegue |
+| 13.5    | 15/11/2026 | Velasquez Velasquez Rodrigo          | Actualización general del informe, apoyo en Sprint 3 y revisión de evidencias |
+| 13.6    | 15/11/2026 | Matihues Quevedo Mijail Alexander    | Redacción de Sprint 3 (`5.2.3`), Tabla de Contenidos y actualización de Student Outcome 3 |
 
 ---
 
