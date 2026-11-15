@@ -2882,8 +2882,10 @@ Para el Segmento 2:
 ### 5.3.2. Registro de Entrevistas
 
 **Video consolidado de validación**
-* **Enlace en Microsoft Stream / Drive:** [Consolidado de Sesiones de Validación JouleTracker]()
+* **Enlace en Microsoft Stream / Drive:** (  )
 * **Captura de evidencia:**  
+  ![Entrevista de validación](report/images/img-entrevistas/ImagenValidación.jpeg)
+
   *Figura: Captura del video consolidado con las sesiones de validación.*
 
 #### Segmento Objetivo: Usuarios residenciales (hogares)
@@ -2902,7 +2904,7 @@ Jesús, jefe de hogar de 34 años en Los Olivos, comprendió rápidamente la pro
 | Segmento objetivo | Segmento 1: Hogares |
 | Edad | 34 años |
 | Ubicación | Los Olivos, Lima |
-| Duración / Empieza en | 0:00 / 3:50 |
+| Duración / Empieza en | 0:03 / 3:54 |
 | Enlace | https://drive.google.com/file/d/1UIbZvTG5G1OCI_xwm2kHLPMxJkqk3cSq/view?usp=sharing |
 
 
@@ -2920,7 +2922,7 @@ Fabrizio, joven profesional de 26 años que vive solo en Surco y trabaja en moda
 | Segmento objetivo | Segmento 1: Hogares |
 | Edad | 26 años |
 | Ubicación | Surco, Lima |
-| Duración / Empieza en | 0:00 / 2:44 |
+| Duración / Empieza en | 3:54 / 6:37 |
 | Enlace |https://drive.google.com/file/d/15w2a33-enzOGESqNkPjR5XdLkVoFEl-e/view?usp=sharing |
 
 
