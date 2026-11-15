@@ -2745,18 +2745,16 @@ El seguimiento de las tareas planificadas para el Sprint 3 se gestionó mediante
 
 A nivel de repositorios, los avances fueron registrados siguiendo el flujo de ramas de GitFlow y el estándar *Conventional Commits*:
 
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+ | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
 |---|---|---|---|---|:---:|
-| Backend | feature/iam-jwt | `[HASH]` | `feat(iam): implement sign-up and sign-in endpoints with JWT` | Implementación de registro con BCrypt, autenticación y emisión de tokens Bearer JWT (`TS-01`, `TS-02`). | `[FECHA]` |
-| Backend | feature/device-management | `[HASH]` | `feat(devices): add sensor registration and status endpoints` | Creación de `POST /api/v1/sensors`, `GET /api/v1/sensors` y `GET /api/v1/sensors/{id}` (`TS-05`, `TS-08`). | `[FECHA]` |
-| Backend | feature/energy-monitoring | `[HASH]` | `feat(telemetry): implement energy reading ingestion endpoint` | Implementación de `POST /api/v1/telemetry/readings` para persistencia de kW, kWh, voltaje y corriente (`TS-07`). | `[FECHA]` |
-| Backend | feature/energy-monitoring | `[HASH]` | `feat(analytics): add latest sensor reading query endpoint` | Implementación de `GET /api/v1/sensors/{id}/readings/latest` para consulta en tiempo real (`TS-10`). | `[FECHA]` |
-| Backend | feature/business-areas | `[HASH]` | `feat(business): add business areas CRUD endpoints` | Implementación de `POST /api/v1/business-areas` y `GET /api/v1/business-areas` para el segmento MYPE (`TS-16`). | `[FECHA]` |
-| Frontend | feature/api-integration | `[HASH]` | `feat(auth): connect login and register forms to backend JWT API` | Integración del módulo IAM del Frontend con los endpoints reales y manejo de Bearer Token. | `[FECHA]` |
-| Frontend | feature/dashboard-live | `[HASH]` | `feat(dashboard): connect real-time telemetry and sensor views to backend` | Consumo de endpoints de sensores, últimas lecturas y áreas de negocio desde la SPA en Angular. | `[FECHA]` |
-| JouleTracker | feature/chapter5-sprint3 | `[HASH]` | `docs(chapter5): add Sprint 3 documentation and Student Outcome updates` | Redacción de Sprint Planning 3, Sprint Backlog 3, evidencias y actualización de versiones del informe. | `[FECHA]` |
-
-> **Nota:** Reemplazar `[HASH]` y `[FECHA]` con los identificadores reales de los commits del repositorio de Backend, Frontend y Reporte una vez consolidados.
+| Backend | feature/iam-jwt | `1ddcbf743daf4512a0a218cce9c58f5696efc058` | `feat(iam): implement sign-up and sign-in endpoints with JWT` | Implementación de registro con BCrypt, autenticación y emisión de tokens Bearer JWT (`TS-01`, `TS-02`). | `11/11/2026` |
+| Backend | feature/devices-context | `8e5f60b0e52b4649ec204b0f31c8d629095fcee8` | `feat(context): add sensor registration and status endpoints` | Creación de `POST /api/v1/sensors`, `GET /api/v1/sensors` y `GET /api/v1/sensors/{id}` (`TS-05`, `TS-08`). | `11/11/2026` |
+| Backend | feature/energy-monitoring | `fc99f46327755035f97938bc158be1a83c6a0de9` | `feat(telemetry): implement energy reading ingestion endpoint` | Implementación de `POST /api/v1/telemetry/readings` para persistencia de kW, kWh, voltaje y corriente (`TS-07`). | `12/11/2026` |
+| Backend | feature/energy-monitoring | `4fbb243ff0f82e2fe6e9b1d2bf6102cf744c1cb0` | `feat(analytics): add latest sensor reading query endpoint` | Implementación de `GET /api/v1/sensors/{id}/readings/latest` para consulta en tiempo real (`TS-10`). | `12/11/2026` |
+| Backend | feature/business-energy-management | `8933833596f3029e2b36c3b56b8b171286df77f6` | `feat(business): add business areas CRUD endpoints` | Implementación de `POST /api/v1/business-areas` y `GET /api/v1/business-areas` para el segmento MYPE (`TS-16`). | `10/11/2026` |
+| Frontend | feature/api-integration | `11bd0a4c01566e3ec7c7cec06d4956c21afb1427` | `feat(auth): connect login and register forms to backend JWT API` | Integración del módulo IAM del Frontend con los endpoints reales y manejo de Bearer Token. | `13/11/2026` |
+| Frontend | feature/dashboard-live | `07e3f9d7a9d0adcf5dba85c27b021b0566c5c571` | `feat(dashboard): connect real-time telemetry and sensor views to backend` | Consumo de endpoints de sensores, últimas lecturas y áreas de negocio desde la SPA en Angular. | `4/10/2026` |
+| JouleTracker | feature/chapter5-sprint3 | `ff2495bc3706faf7ae90b24656d6ffd0f574d6b8` | `docs(chapter5): add Sprint 3 documentation and Student Outcome updates` | Redacción de Sprint Planning 3, Sprint Backlog 3, evidencias y actualización de versiones del informe. | `15/11/2026` |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
