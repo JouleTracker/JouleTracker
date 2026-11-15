@@ -2765,10 +2765,18 @@ Registro e inicio de sesión de usuarios validados contra el Backend mediante ha
 
 ![Ejecución de autenticación integrada con Backend](report/images/SprintReview/sprint3-auth.png)
 
-**Figura:** Flujo de inicio de sesión y registro conectado a los endpoints de IAM. `[COMPLETAR: Insertar captura]`
+**Figura:** Flujo de inicio de sesión conectado a los endpoints de IAM.
+
+![Registro de cuenta integrado con Backend](report/images/SprintReview/sprint3-register.png)
+
+**Figura:** Flujo de registro con selector de tipo de cuenta (`Hogar / Residencial` y `Negocio / MYPE`) conectado a IAM.
 
 ##### Gestión de Sensores IoT y Áreas de Negocio (MYPE)
 Listado, registro y consulta de estado de sensores IoT asociados al usuario, así como la organización por zonas físicas en pequeños negocios.
+
+![Ejecución de gestión de maquinaria y equipos](report/images/SprintReview/sprint3-dispositivos.png)
+
+**Figura:** Listado y resumen de maquinaria y equipos registrados en la cuenta MYPE conectados al Backend.
 
 ![Ejecución de gestión de sensores y áreas](report/images/SprintReview/sprint3-sensors-areas.png)
 
@@ -2777,14 +2785,18 @@ Listado, registro y consulta de estado de sensores IoT asociados al usuario, as�
 ##### Dashboard y Última Lectura de Telemetría en Tiempo Real
 Visualización en la aplicación web de las lecturas energéticas (kW, kWh, voltaje y corriente) recuperadas directamente desde el Backend API.
 
+![Vista de bienvenida y accesos rápidos de JouleTracker](report/images/SprintReview/sprint3-inicio.png)
+
+**Figura:** Vista de bienvenida autenticada (`Cafetería Andina`, Plan PRO) con accesos rápidos a módulos y planes.
+
 ![Ejecución del Dashboard conectado al Backend](report/images/SprintReview/sprint3-dashboard-live.png)
 
-**Figura:** Dashboard de monitoreo mostrando la última medición en tiempo real recibida del Backend. `[COMPLETAR: Insertar captura]`
+**Figura:** Dashboard de consumo eléctrico conectado al Backend API en producción.
 
 ##### Evidencia del Despliegue y Video de Ejecución
-* **Enlace del Frontend desplegado:** https://jouletracker-app.onrender.com/
-* **Enlace del Backend API desplegado:** `[COMPLETAR: URL pública del Backend desplegado]`
-* **Enlace de documentación Swagger UI:** `[COMPLETAR: URL pública de Swagger UI, ej. https://.../swagger-ui/index.html]`
+* **Enlace del Frontend desplegado:** https://jouletracker-front.onrender.com/
+* **Enlace del Backend API desplegado:** https://jouletracker-api-kmok.onrender.com
+* **Enlace de documentación Swagger UI:** https://jouletracker-api-kmok.onrender.com/swagger-ui/index.html
 * **Enlace del video de demostración (Sprint 3):** `[COMPLETAR: Link del video de ejecución]`
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
@@ -2807,7 +2819,11 @@ Los principales endpoints implementados y documentados corresponden a los Bounde
 
 ![Documentación Swagger UI del Backend de JouleTracker](report/images/SprintReview/sprint3-swagger.png)
 
-**Figura:** Vista de la interfaz Swagger UI con los endpoints RESTful documentados del Backend de JouleTracker. `[COMPLETAR: Insertar captura de Swagger UI]`
+**Figura:** Vista de la interfaz Swagger UI con los endpoints RESTful documentados del Backend de JouleTracker (`/` seleccionado por defecto y botón `Authorize`).
+
+![Ejecución Try it out en Swagger UI con respuesta HTTP 200](report/images/SprintReview/sprint3-swagger-tryout.png)
+
+**Figura:** Ejecución en vivo desde Swagger UI (`GET /api/v1/appliance-profiles` con *Try it out*) obteniendo respuesta `200 OK` en JSON desde Render.
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
@@ -2818,25 +2834,45 @@ El flujo de despliegue seguido para esta iteración comprende:
 2. **Despliegue de la base de datos y servicio web Backend:** Publicación del contenedor/servicio en la plataforma cloud y verificación de disponibilidad de los endpoints mediante Swagger UI.
 3. **Actualización de configuración en el Frontend:** Apuntado de la variable `apiBaseUrl` en el entorno de producción hacia la URL del Backend desplegado y redespliegue automático del cliente web.
 
+![Resumen de servicios desplegados en Render](report/images/SprintReview/sprint3-render-overview.png)
+
+**Figura:** Panel general de servicios activos (`jouletracker-api` en Docker y `jouletracker-front` como sitio estático) en Render.
+
 ![Evidencia de despliegue exitoso del Backend en la nube](report/images/SprintReview/sprint3-backend-deploy.png)
 
-**Figura:** Estado *Live* y logs de despliegue del servicio Backend de JouleTracker. `[COMPLETAR: Insertar captura del servicio desplegado]`
+**Figura:** Estado *Live* y logs de despliegue del servicio Backend de JouleTracker (`jouletracker-api`, commit `2f80a61`).
 
 ![Evidencia de despliegue actualizado del Frontend](report/images/SprintReview/sprint3-frontend-deploy.png)
 
-**Figura:** Redespliegue del Frontend conectado a la API de producción del Backend. `[COMPLETAR: Insertar captura]`
+**Figura:** Redespliegue del Frontend conectado a la API de producción del Backend (`jouletracker-front`, commit `37cf020`).
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
 Con el objetivo de evidenciar la participación equitativa y el aporte continuo de todos los integrantes de VoltLab durante el Sprint 3, se recopilan las métricas de colaboración desde GitHub Insights en los repositorios del proyecto (Backend, Frontend y Project Report).
 
-![GitHub Insights Sprint 3 - Resumen general](report/images/Insights/sprint3-insights.png)
+![GitHub Insights Sprint 3 - Pulse Backend](report/images/Insights/sprint3-insights.png)
 
-**Figura:** Métricas generales de actividad y commits registrados durante el Sprint 3. `[COMPLETAR: Insertar captura de GitHub Insights]`
+**Figura:** Métricas generales de actividad (*Pulse*) registradas en el repositorio `Backend` durante el Sprint 3.
 
-![GitHub Insights Sprint 3 - Contribuciones por integrante](report/images/Insights/sprint3-insights2.png)
+![GitHub Insights Sprint 3 - Contribuciones por integrante Backend](report/images/Insights/sprint3-insights2.png)
 
-**Figura:** Detalle de contribuciones, adiciones y eliminaciones por cada integrante del equipo durante el Sprint 3. `[COMPLETAR: Insertar captura de Contributors]`
+**Figura:** Detalle de contribuciones por integrante en el repositorio `Backend` durante el Sprint 3.
+
+![GitHub Insights Sprint 3 - Pulse Frontend](report/images/Insights/sprint3-insights-frontend-pulse.png)
+
+**Figura:** Métricas de actividad (*Pulse*) registradas en el repositorio `Frontend` durante el Sprint 3.
+
+![GitHub Insights Sprint 3 - Contribuciones Frontend](report/images/Insights/sprint3-insights-frontend-contributors.png)
+
+**Figura:** Detalle de contribuciones por integrante en el repositorio `Frontend` durante el Sprint 3.
+
+![GitHub Insights Sprint 3 - Pulse Project Report](report/images/Insights/sprint3-insights-report-pulse.png)
+
+**Figura:** Métricas de actividad (*Pulse*) registradas en el repositorio del informe (`JouleTracker`) durante el Sprint 3.
+
+![GitHub Insights Sprint 3 - Contribuciones Project Report](report/images/Insights/sprint3-insights-report-contributors.png)
+
+**Figura:** Detalle de contribuciones por integrante en el repositorio del informe (`JouleTracker`) durante el Sprint 3.
 
 ## 5.3. Validation Interviews (Etapa de Validación del Producto)
 
