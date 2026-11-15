@@ -707,7 +707,7 @@ Ricardo, de 23 años, administra un minimarket en San Luis con 3 años de antig�
 | Antigüedad del negocio | 3 años |
 | Equipos de mayor consumo | Cámaras de frío y congeladores de helados |
 | Duración / Empieza en | 6:20 minutos / 20:17 |
-| Enlace |  |
+| Enlace |https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQA-cUzBQUt4SKMBxUgt3o2dAarf3bp-IHQFUZXLoC9acp4?e=GQjWDL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  |
 
 
 
