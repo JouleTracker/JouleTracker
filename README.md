@@ -2181,8 +2181,10 @@ https://github.com/JouleTracker/JouleTracker
 
 | Producto Digital | URL del Repositorio |
 |---|---|
+| `Project Report (JouleTracker)` | https://github.com/JouleTracker/JouleTracker |
 | `Landing Page` | https://github.com/JouleTracker/JouleTracker-LandingPage |
-| `Frontend Web Application` | https://github.com/JouleTracker/Frontend
+| `Frontend Web Application` | https://github.com/JouleTracker/Frontend|
+| `Backend API` | https://github.com/JouleTracker/Backend |
 
 
 Para organizar el trabajo colaborativo, el equipo utiliza una estrategia basada en ramas. Cada integrante desarrolla las actividades correspondientes en ramas específicas, evitando realizar modificaciones directamente sobre las ramas principales del proyecto.
