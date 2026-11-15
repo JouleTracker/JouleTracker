@@ -2918,11 +2918,11 @@ Para el Segmento 2:
 ### 5.3.2. Registro de Entrevistas
 
 **Video consolidado de validación**
-* **Enlace en Microsoft Stream / Drive:** (  )
+* **Enlace en Microsoft Stream / Drive:** https://docs.google.com/videos/d/1pbwGMrpZxYrKGhcpf_nmrQ2SVKcwi-aBl0wV3Ilaba0/play?usp=sharing
 * **Captura de evidencia:**  
+
   ![Entrevista de validación](report/images/img-entrevistas/ImagenValidación.jpeg)
 
-  *Figura: Captura del video consolidado con las sesiones de validación.*
 
 #### Segmento Objetivo: Usuarios residenciales (hogares)
 
@@ -2958,26 +2958,27 @@ Fabrizio, joven profesional de 26 años que vive solo en Surco y trabaja en moda
 | Segmento objetivo | Segmento 1: Hogares |
 | Edad | 26 años |
 | Ubicación | Surco, Lima |
-| Duración / Empieza en | 3:54 / 6:37 |
+| Duración / Empieza en | 3:54 / 6:39 |
 | Enlace |https://drive.google.com/file/d/15w2a33-enzOGESqNkPjR5XdLkVoFEl-e/view?usp=sharing |
 
 
-**Entrevista de validación #3 – Carlos**
+**Entrevista de validación #3 – Fabrizzio**
 
-*Figura: Evidencia de Entrevista de Validación #3 – Carlos.*
+![Entrevista de validación #2 - fabrizzio](report/images/img-entrevistas/entrevistamiguel.jpeg)
+
 
 **Resumen de la sesión:**  
-Carlos, empleado administrativo de 45 años en Comas, evaluó el sistema enfocado en la seguridad eléctrica y el control de cargas elevadas como su therma eléctrica. Validó el panel general —señalando que solo le tomó unos segundos ubicar el detalle por carga— y resaltó que las alertas tempranas ante anomalías son fundamentales para prevenir recalentamientos y cortocircuitos en el hogar. Confirmó que usaría la herramienta por prevención y ahorro, y recomendó incorporar una interfaz simplificada con tipografía y botones más grandes para facilitar su uso a adultos mayores.
+Fabrizzio, empleado administrativo de 45 años en Comas, evaluó el sistema enfocado en la seguridad eléctrica y el control de cargas elevadas como su therma eléctrica. Validó el panel general señalando que solo le tomó unos segundos ubicar el detalle por carga y resaltó que las alertas tempranas ante anomalías son fundamentales para prevenir recalentamientos y cortocircuitos en el hogar. Confirmó que usaría la herramienta por prevención y ahorro, y recomendó incorporar una interfaz simplificada con tipografía y botones más grandes para facilitar su uso a adultos mayores.
 
 | Detalle | Información |
 |---|---|
-| Entrevistador | Rodrigo Velasquez Velasquez |
-| Entrevistado | Carlos |
+| Entrevistador | Miguel Jara |
+| Entrevistado | Fabrizzio |
 | Segmento objetivo | Segmento 1: Hogares |
 | Edad | 45 años |
 | Ubicación | Comas, Lima |
-| Duración / Empieza en | 5:58 minutos / 31:49 |
-| Enlace | Ver Video en Stream |
+| Duración / Empieza en | 2:31 minutos / 31:49 |
+| Enlace | https://drive.google.com/file/d/1VFXMz7oXkUPTre2H2ghGoUG3YA6TZKqj/view?usp=sharing |
 
 
 #### Segmento Objetivo: Dueños y administradores de pequeños negocios
@@ -2997,7 +2998,7 @@ Diana, propietaria de una bodega en San Juan de Lurigancho con más de 10 años 
 | Segmento objetivo | Segmento 2: Pequeños negocios |
 | Edad | 40 años |
 | Ubicación | San Juan de Lurigancho, Lima |
-| Duración / Empieza en | 0:00 minutos / 04:09 minutos |
+| Duración / Empieza en | 4:08 minutos / 09:14 minutos |
 | Enlace |https://drive.google.com/file/d/1dcBQja8ckHnel0h7aB1eJVXhNXJcxIeZ/view?usp=sharing |
 
 
@@ -3015,7 +3016,7 @@ Eduardo, propietario de un taller mecánico de 38 años en Comas, evaluó la pla
 | Segmento objetivo | Segmento 2: Pequeños negocios |
 | Edad | 38 años |
 | Ubicación | Comas, Lima |
-| Duración / Empieza en | 0:00 minutos / 02:22 |
+| Duración / Empieza en | 2:22 minutos / 13:24 |
 | Enlace | https://drive.google.com/file/d/1Rw8pF8xe-pzzYa1N6XQ6kHlC9AqkMP5g/view?usp=sharing |
 
 
@@ -3023,7 +3024,6 @@ Eduardo, propietario de un taller mecánico de 38 años en Comas, evaluó la pla
 
 ![](report/images/img-entrevistas/ricardo-S2.png)
 
-*Figura: Evidencia de Entrevista de Validación #6 – Ricardo.*
 
 **Resumen de la sesión:**  
 Ricardo, administrador de un minimarket de 23 años ubicado en San Luis, con 3 años de funcionamiento, evaluó la webapp enfocándose en las funcionalidades del módulo de monitoreo comercial. Durante la sesión, exploró el panel de gestión del negocio y comprendió sin dificultades la información presentada sobre el consumo energético de los equipos. Destacó positivamente la posibilidad de supervisar el funcionamiento de cámaras de frío y congeladores, así como recibir alertas ante posibles anomalías eléctricas, considerando que estas funcionalidades permitirían detectar fallas a tiempo y evitar pérdidas económicas por el deterioro de mercadería. Asimismo, valoró que la plataforma facilite el control de equipos que permanecen encendidos durante las 24 horas. Como oportunidad de mejora, sugirió incorporar una función de acceso multiusuario que permita compartir el monitoreo y las notificaciones con sus socios, facilitando una gestión conjunta del negocio.
@@ -3038,7 +3038,7 @@ Ricardo, administrador de un minimarket de 23 años ubicado en San Luis, con 3 a
 | Tipo de negocio | Minimarket |
 | Antigüedad del negocio | 3 años |
 | Equipos de mayor consumo | Cámaras de frío y congeladores de helados |
-| Duración / Empieza en | 6:20 minutos / 20:17 |
+| Duración / Empieza en | 9:06 minutos / 15:46 |
 | Enlace | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQA-cUzBQUt4SKMBxUgt3o2dAarf3bp-IHQFUZXLoC9acp4?e=GQjWDL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
 
 
