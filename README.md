@@ -2811,29 +2811,116 @@ Visualización en la aplicación web de las lecturas energéticas (kW, kWh, volt
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
-Durante el Sprint 3 se implementó la documentación técnica interactiva de los servicios RESTful del Backend utilizando **OpenAPI 3 / Swagger (springdoc-openapi)**, permitiendo inspeccionar y probar los contratos de entrada, respuestas HTTP, esquemas JSON y autenticación mediante Bearer JWT.
+Durante el Sprint 3 se implementó y desplegó la documentación técnica interactiva de los **16 controladores RESTful** del Backend utilizando **OpenAPI 3.1 / Swagger (`springdoc-openapi-starter-webmvc-ui` v3.1.1)**, permitiendo inspeccionar y ejecutar en vivo (*Try it out*) los contratos de entrada, parámetros, códigos de estado HTTP, esquemas JSON y autenticación mediante `bearerAuth` (JWT).
 
-Los principales endpoints implementados y documentados corresponden a los Bounded Contexts priorizados en el Sprint:
+* **Repositorio oficial del Backend:** https://github.com/JouleTracker/Backend
+* **Documentación interactiva Swagger UI desplegada:** https://jouletracker-api-kmok.onrender.com/swagger-ui/index.html
+* **Especificación OpenAPI JSON (`/v3/api-docs`):** https://jouletracker-api-kmok.onrender.com/v3/api-docs
+* **Commits vinculados a OpenAPI / Swagger (`Backend`):**
+  * `cf64a4ecd79f832af43c982418a3454546f7ac46` (`04/11/2026`) — `fix(shared): enable JPA auditing, adapt OpenAPI config, and remove duplicate classes`
+  * `b328b0e2d57a1e28302c70362d9a8a0edddbabb1` (`09/11/2026`) — `feat(devices): implement ACL facade, REST controllers, DTOs and OpenAPI documentation`
+  * `2f80a61d11ac8dc39aa10598a56eeefaae6f8fee` (`15/11/2026`) — `fix(openapi): configure current and Render server URLs for Swagger Try it out`
 
-| Bounded Context | Método HTTP | Endpoint | Descripción | Story / TS |
+##### Catálogo completo de controladores y endpoints documentados
+
+| Bounded Context | Controlador | Métodos y Rutas (`base /api/v1`) | Parámetros / Payload principal | Descripción |
 |---|---|---|---|---|
-| Identity & Access Management | `POST` | `/api/v1/authentication/sign-up` | Registra un nuevo usuario validando unicidad de correo y cifrando la contraseña con BCrypt. | `TS-01` |
-| Identity & Access Management | `POST` | `/api/v1/authentication/sign-in` | Autentica las credenciales del usuario y retorna el token Bearer JWT de acceso. | `TS-02` |
-| Device Management | `POST` | `/api/v1/sensors` | Registra un nuevo sensor IoT y lo asocia al usuario autenticado. | `TS-05` |
-| Device Management | `GET` | `/api/v1/sensors` | Lista los sensores IoT registrados pertenecientes al usuario autenticado. | `TS-08` |
-| Device Management | `GET` | `/api/v1/sensors/{id}` | Obtiene el detalle y estado de conexión de un sensor específico. | `TS-08` |
-| Energy Monitoring | `POST` | `/api/v1/telemetry/readings` | Recibe y almacena lecturas de potencia (kW, kWh, voltaje, corriente) enviadas por un sensor. | `TS-07` |
-| Energy Monitoring / Analytics | `GET` | `/api/v1/sensors/{id}/readings/latest` | Retorna la lectura de telemetría más reciente registrada para un sensor determinado. | `TS-10` |
-| Business Energy Management | `POST` | `/api/v1/business-areas` | Registra una nueva área o zona física de monitoreo para un pequeño negocio. | `TS-16` |
-| Business Energy Management | `GET` | `/api/v1/business-areas` | Lista las áreas físicas registradas por el propietario del establecimiento. | `TS-16` |
+| IAM | `AuthenticationController` | `POST /api/v1/authentication/sign-up`<br>`POST /api/v1/authentication/sign-in`<br>`GET /api/v1/authentication/verify-email` | Body JSON (`SignUpRequest` / `SignInRequest`), query `token` | Registro con BCrypt y correo vía Brevo, autenticación con token Bearer JWT y verificación de correo. |
+| IAM | `UsersController` | `GET /api/v1/users`<br>`GET /api/v1/users/{userId}` | Path `userId` (`Long`) | Consulta de perfiles de usuarios registrados y detalle por identificador. |
+| Device Management | `SensorsController` | `GET`, `POST /api/v1/sensors`<br>`GET`, `PUT`, `PATCH`, `DELETE /api/v1/sensors/{id}` | Query `userId` (default `1`), path `id`, body JSON (`RegisterSensorResource` / `UpdateSensorResource`) | Registro, listado, actualización/asignación y eliminación de sensores IoT inteligentes. |
+| Device Management | `SensorSummariesController` | `GET /api/v1/sensor-summaries`<br>`GET /api/v1/sensor-summaries/{id}` | Query `userId` (default `1`), path `id` | KPIs agregados de sensores IoT (activos, en línea, sin asignar y potencia). |
+| Device Management | `DevicesController` | `GET`, `POST /api/v1/devices`<br>`GET`, `PUT`, `PATCH`, `DELETE /api/v1/devices/{id}` | Query `userId` (default `1`), path `id`, body JSON (`CreateDeviceResource` / `UpdateDeviceResource`) | Gestión de aparatos y maquinaria eléctrica monitoreada y liberación de sensores asociados. |
+| Device Management | `DeviceSummariesController` | `GET /api/v1/device-summaries`<br>`GET /api/v1/device-summaries/{id}` | Query `userId` (default `1`), path `id` | KPIs agregados por dispositivos para las vistas de resumen. |
+| Device Management | `ApplianceProfilesController` | `GET /api/v1/appliance-profiles` | Sin parámetros | Catálogo estándar de referencia energética por tipo de electrodoméstico (`recommendedDailyKwh`, `typicalPowerWatts`). |
+| Energy Monitoring | `TelemetryController` | `POST /api/v1/telemetry/readings`<br>`GET /api/v1/sensors/{id}/readings/latest` | Body JSON (`RegisterTelemetryReadingResource`), query opcional `userId`, path `id` | Ingesta de telemetría eléctrica (kW, kWh, voltaje, corriente) y consulta de última lectura en tiempo real. |
+| Energy Monitoring | `EnergyReadingsController` | `GET /api/v1/energy-readings`<br>`POST /api/v1/energy-readings` | Query `userId` (`1`), `period` (`daily`), `deviceId` (opcional); body JSON (`RegisterReadingPayload`) | Consulta de series temporales para gráficos e ingesta de lecturas energéticas. |
+| Energy Monitoring | `ConsumptionSummariesController` | `GET /api/v1/consumption-summaries` | Query `userId` (`1`), `period` (`daily`, `weekly`, `monthly`, `yearly`) | Resumen de kWh acumulados, costo estimado, pico de potencia y emisiones evitadas. |
+| Energy Monitoring | `ConsumptionHistoriesController` | `GET /api/v1/consumption-histories` | Query `userId` (`1`), `period` (`monthly`), `deviceId` (opcional) | Historial detallado de registros de consumo por período y dispositivo. |
+| Energy Monitoring | `ComparativeConsumptionsController` | `GET /api/v1/comparative-consumptions` | Query `userId` (`1`), `period` (`weekly`) | Comparativa de consumo y costo entre período actual y período previo. |
+| Energy Monitoring | `DeviceDistributionsController` | `GET /api/v1/device-distributions` | Query `userId` (`1`), `period` (`daily`) | Distribución porcentual de kWh y costo por aparato eléctrico. |
+| Alerts | `AlertsController` | `GET /api/v1/alerts`<br>`PATCH /api/v1/alerts/{id}/read`<br>`PUT`, `PATCH /api/v1/alerts/{id}` | Query `userId` (`1`), path `id` | Listado de alertas por umbrales de consumo y marcado de lectura/resolución. |
+| Alerts | `AlertSummariesController` | `GET /api/v1/alert-summaries`<br>`GET /api/v1/alert-summaries/{id}` | Query `userId` (`1`), path `id` | Métricas agregadas de alertas para widgets del dashboard. |
+| Business Energy Management | `BusinessAreasController` | `GET`, `POST /api/v1/business-areas`<br>`GET /api/v1/business-areas/metrics`<br>`GET /api/v1/business-areas/{id}/metrics`<br>`GET`, `PUT`, `PATCH`, `DELETE /api/v1/business-areas/{id}` | Query `userId` (`1`), `period` (`daily`), path `id`, body JSON (`CreateBusinessAreaResource` / `UpdateBusinessAreaResource`) | CRUD de zonas físicas MYPE y cálculo de métricas comparativas por área (alias `/areas` soportado). |
+
+##### Sintaxis de llamada y ejemplos de respuesta JSON verificados en Swagger UI
+
+1. **Autenticación (`POST /api/v1/authentication/sign-in`):**
+```bash
+curl -X 'POST' \
+  'https://jouletracker-api-kmok.onrender.com/api/v1/authentication/sign-in' \
+  -H 'Content-Type: application/json' \
+  -d '{"email": "john.doe@jouletracker.com", "password": "SecurePass123!"}'
+```
+Respuesta `200 OK` (esquema verificado en Swagger UI):
+```json
+{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...",
+  "tokenType": "Bearer",
+  "user": {
+    "id": 1,
+    "email": "john.doe@jouletracker.com",
+    "firstName": "John",
+    "lastName": "Doe",
+    "roles": ["ROLE_USER"]
+  }
+}
+```
+
+2. **Listado de sensores IoT (`GET /api/v1/sensors?userId=1`):**
+```bash
+curl -X 'GET' \
+  'https://jouletracker-api-kmok.onrender.com/api/v1/sensors?userId=1' \
+  -H 'accept: application/json'
+```
+Respuesta real `200 OK` obtenida desde Render:
+```json
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "name": "Sensor Cocina",
+    "model": "JoulePlug-Pro",
+    "serialNumber": "JT-HOME-001",
+    "status": "En línea",
+    "currentPowerKw": 0,
+    "todayKwh": 2.15,
+    "todayCostSoles": 1.51,
+    "assignedDeviceId": 1,
+    "assignedDeviceName": "Refrigeradora Cocina",
+    "assignedDeviceCategory": "Electrodomésticos",
+    "applianceProfileId": 1,
+    "applianceProfileName": "Refrigeradora Inverter",
+    "recommendedDailyKwh": 1.8,
+    "lastSync": "Hace 2 minutos"
+  }
+]
+```
+
+##### Capturas de la documentación interactiva y pruebas en vivo en Swagger UI (Render)
 
 ![Documentación Swagger UI del Backend de JouleTracker](report/images/SprintReview/sprint3-swagger.png)
 
-**Figura:** Vista de la interfaz Swagger UI con los endpoints RESTful documentados del Backend de JouleTracker (`/` seleccionado por defecto y botón `Authorize`).
+**Figura:** Vista general de Swagger UI en Render (`JouleTracker Platform OAS 3.1`, selector `/` *Current Server* y botón `Authorize`).
 
-![Ejecución Try it out en Swagger UI con respuesta HTTP 200](report/images/SprintReview/sprint3-swagger-tryout.png)
+![Catálogo de controladores en Swagger UI](report/images/SprintReview/sprint3-swagger-controllers.png)
 
-**Figura:** Ejecución en vivo desde Swagger UI (`GET /api/v1/appliance-profiles` con *Try it out*) obteniendo respuesta `200 OK` en JSON desde Render.
+**Figura:** Agrupación por *Bounded Context* de los controladores documentados (`Users`, `Alerts`, `Comparative Consumptions`, `Consumption Histories`, `Devices`, `Sensors`, `Device Summaries`, `Telemetry`, `Alert Summaries`, `Appliance Profiles`, etc.).
+
+![Contrato OpenAPI de Authentication sign-in en Swagger UI](report/images/SprintReview/sprint3-swagger-auth.png)
+
+**Figura:** Inspección de `POST /api/v1/authentication/sign-in` mostrando el cuerpo JSON requerido y la estructura de respuesta `200 OK` con token `Bearer` JWT.
+
+![Ejecución Try it out en Swagger UI para GET /api/v1/sensors](report/images/SprintReview/sprint3-swagger-sensors.png)
+
+**Figura:** Prueba en vivo (*Try it out*) de `GET /api/v1/sensors?userId=1` en producción mostrando el comando `curl`, *Request URL* y respuesta JSON `200 OK` con sensores reales.
+
+![Ejecución Try it out en Swagger UI para GET /api/v1/appliance-profiles](report/images/SprintReview/sprint3-swagger-tryout.png)
+
+**Figura:** Ejecución en vivo (*Try it out*) de `GET /api/v1/appliance-profiles` obteniendo respuesta `200 OK` en JSON con las cabeceras de producción de Render.
+
+![Ejecución Try it out en Swagger UI para GET /api/v1/business-areas](report/images/SprintReview/sprint3-swagger-business-areas.png)
+
+**Figura:** Prueba en vivo (*Try it out*) de `GET /api/v1/business-areas?userId=1` verificando código de respuesta `200 OK` y comando `curl`.
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
