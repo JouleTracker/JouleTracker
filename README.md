@@ -331,8 +331,25 @@ En esta sección se presentan las métricas de colaboración obtenidas mediante 
             - [5.2.2.6. Services Documentation Evidence for Sprint Review](50-chapter-5.md#5226-services-documentation-evidence-for-sprint-review)
             - [5.2.2.7. Software Deployment Evidence for Sprint Review](50-chapter-5.md#5227-software-deployment-evidence-for-sprint-review)
             - [5.2.2.8. Team Collaboration Insights during Sprint](50-chapter-5.md#5228-team-collaboration-insights-during-sprint)
+        - [5.2.3. Sprint 3](50-chapter-5.md#523-sprint-3)
+            - [5.2.3.1. Sprint Planning 3](50-chapter-5.md#5231-sprint-planning-3)
+            - [5.2.3.2. Aspect Leaders and Collaborators](50-chapter-5.md#5232-aspect-leaders-and-collaborators)
+            - [5.2.3.3. Sprint Backlog 3](50-chapter-5.md#5233-sprint-backlog-3)
+            - [5.2.3.4. Development Evidence for Sprint Review](50-chapter-5.md#5234-development-evidence-for-sprint-review)
+            - [5.2.3.5. Execution Evidence for Sprint Review](50-chapter-5.md#5235-execution-evidence-for-sprint-review)
+            - [5.2.3.6. Services Documentation Evidence for Sprint Review](50-chapter-5.md#5236-services-documentation-evidence-for-sprint-review)
+            - [5.2.3.7. Software Deployment Evidence for Sprint Review](50-chapter-5.md#5237-software-deployment-evidence-for-sprint-review)
+            - [5.2.3.8. Team Collaboration Insights during Sprint](50-chapter-5.md#5238-team-collaboration-insights-during-sprint)
+    - [5.3. Validation Interviews](50-chapter-5.md#53-validation-interviews-etapa-de-validación-del-producto)
+        - [5.3.1. Diseño de Entrevistas](50-chapter-5.md#531-diseño-de-entrevistas)
+        - [5.3.2. Registro de Entrevistas](50-chapter-5.md#532-registro-de-entrevistas)
+        - [5.3.3. Evaluaciones según heurísticas](50-chapter-5.md#533-evaluaciones-según-heurísticas)
+    - [5.4. About the Product](50-chapter-5.md#54-about-the-product)
+    - [About the Team – VoltLab](50-chapter-5.md#about-the-team--voltlab)
 
-- [Bibliografía](99-bibliography.md)
+- [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
+- [Bibliografía](#anexos)
+- [Anexos (A–E)](#anexo-a-videos-de-exposiciones)
 
 ---
 
@@ -1228,7 +1245,7 @@ El Product Backlog de JouleTracker organiza y prioriza las User Stories y Techni
 
 Se adjunta captura del product backlog de JouleTracker, donde se observa la priorización de historias de usuario y tareas técnicas, junto con sus respectivos puntos de historia (Story Points) para estimar el esfuerzo requerido en su desarrollo. 
 
-![](../JouleTracker/report/images/backlog/productBacklog.png)
+![](report/images/backlog/productBacklog.png)
 
 Se adjunta link del proyecto creado en Jira Software Cloud, donde se puede consultar el product backlog completo y actualizado de JouleTracker. Jira Software Cloud - JouleTracker: https://alejandrochoquehuanca007.atlassian.net/jira/software/projects/JOUL/boards/1/backlog?atlOrigin=eyJpIjoiYzkxZjFiZTFlZTEzNDEwMzk2ZmEwZDBhODJmNDI4OWYiLCJwIjoiaiJ9
 
@@ -2096,7 +2113,7 @@ En esta sección se presentan los diagramas de base de datos de cada Bounded Con
 
 ## 1. User Management Database Diagram
 
-El **User Management Database Diagram** representa la estructura de persistencia responsable de gestionar la información de los usuarios del sistema. Este bounded context permite almacenar los datos básicos de identificación, autenticación, rol y estado de cada usuario, manteniendo la información necesaria para controlar su acceso y participación dentro de la plataforma.git pull --rebase
+El **User Management Database Diagram** representa la estructura de persistencia responsable de gestionar la información de los usuarios del sistema. Este bounded context permite almacenar los datos básicos de identificación, autenticación, rol y estado de cada usuario, manteniendo la información necesaria para controlar su acceso y participación dentro de la plataforma.
 
 Las entidades pertenecientes a este contexto se encuentran enfocadas exclusivamente en la gestión de usuarios y sus datos de acceso, evitando almacenar información propia de otros bounded contexts.
 
@@ -2175,13 +2192,18 @@ Durante el desarrollo de JouleTracker, el equipo utiliza diferentes herramientas
 
 | Producto de software | Propósito de uso en el proyecto | Actividad | Tipo de acceso / enlace |
 |---|---|---|---|
-| GitHub | Repositorio utilizado para almacenar y gestionar el código fuente de la aplicación web, además de facilitar el control de versiones y la colaboración entre los integrantes. | Software Development | https://github.com/JouleTracker/JouleTracker |
-| Jira | Herramienta utilizada para organizar, asignar y realizar el seguimiento de las tareas correspondientes a los Sprints del proyecto. | Project Management | https://alejandrochoquehuanca007.atlassian.net/jira/software/projects/JOUL/boards/1/backlog?atlOrigin=eyJpIjoiYzkxZjFiZTFlZTEzNDEwMzk2ZmEwZDBhODJmNDI4OWYiLCJwIjoiaiJ9 |
-| UXPressia | Herramienta utilizada para elaborar y organizar elementos relacionados con la experiencia del usuario, como personas y mapas de experiencia/journey maps. | Requirements Management / Product UX | https://uxpressia.com/w/NxJgO |
-| Miro | Plataforma colaborativa utilizada para organizar información, desarrollar actividades de ideación y trabajar visualmente de manera conjunta durante el proyecto. | Requirements Management / Collaboration | https://miro.com/app/board/uXjVHqBr2y8=/ |
-| Visual Studio | Entorno de desarrollo utilizado para escribir, editar y ejecutar el código fuente de la aplicación web. | Software Development | https://code.visualstudio.com |
-| Figma | Herramienta utilizada para el diseño UX/UI de JouleTracker, incluyendo wireframes, mockups y prototipos de la aplicación. | Product UX/UI Design | https://www.figma.com/design/I9Hbim3oES3bOynqQrzlHw/JouleTracker_Mockap-II--Desktop-?t=t6nxRhPCoFxgRXay-0 |
-| PantUML | Herramienta utilizada para elaborar diagramas UML que permiten representar visualmente la estructura y relaciones de los componentes del sistema. | Software Design / Modeling |
+| GitHub | Repositorio utilizado para almacenar y gestionar el código fuente de la Landing Page, Frontend, Backend y Project Report, facilitando el control de versiones y la colaboración. | Software Configuration Management | https://github.com/JouleTracker |
+| Jira Software Cloud | Herramienta utilizada para organizar, asignar y realizar el seguimiento de las tareas correspondientes al Product Backlog y los Sprints 1, 2 y 3. | Project Management | https://alejandrochoquehuanca007.atlassian.net/jira/software/projects/JOUL/boards/1/backlog?atlOrigin=eyJpIjoiYzkxZjFiZTFlZTEzNDEwMzk2ZmEwZDBhODJmNDI4OWYiLCJwIjoiaiJ9 |
+| UXPressia | Herramienta utilizada para elaborar y organizar elementos relacionados con la experiencia del usuario, como User Personas y mapas de experiencia. | Requirements Management / Product UX | https://uxpressia.com/w/NxJgO |
+| Miro | Plataforma colaborativa utilizada para organizar información, ejecutar EventStorming e idear arquitecturas visualmente. | Requirements & Design Collaboration | https://miro.com/app/board/uXjVHqBr2y8=/ |
+| Visual Studio Code / WebStorm | Entornos de desarrollo utilizados para codificar la Landing Page (HTML5/CSS3/JS) y la aplicación web Frontend en Angular (`@angular/core` v22). | Frontend Development | https://code.visualstudio.com |
+| IntelliJ IDEA | IDE principal para el desarrollo del Backend RESTful en Java 21, Spring Boot `4.1.1` y ejecución de pruebas con Maven/JUnit. | Backend Development | https://www.jetbrains.com/idea/ |
+| Figma | Herramienta utilizada para el diseño UX/UI de JouleTracker, incluyendo wireframes, mockups y prototipos navegables desktop y mobile. | Product UX/UI Design | https://www.figma.com/design/I9Hbim3oES3bOynqQrzlHw/JouleTracker_Mockap-II--Desktop-?t=t6nxRhPCoFxgRXay-0 |
+| PlantUML | Herramienta utilizada para elaborar diagramas UML que representan visualmente la estructura y relaciones de los componentes del sistema. | Software Design / Modeling | https://www.plantuml.com |
+| Swagger / OpenAPI 3.1 | Generación y prueba interactiva (*Try it out*) de contratos REST mediante `springdoc-openapi-starter-webmvc-ui` v3.1.1. | API Documentation | https://jouletracker-api-kmok.onrender.com/swagger-ui/index.html |
+| MySQL Cloud (Filess.io) | Motor de base de datos relacional administrado en la nube para la persistencia de producción con pool HikariCP acotado. | Cloud Database | https://filess.io |
+| Render | Plataforma cloud utilizada para el despliegue continuo del Frontend (Static Site) y Backend API (contenedor Docker). | Cloud Deployment | https://dashboard.render.com |
+| Brevo | Servicio transaccional SMTP/API REST utilizado para el envío de enlaces de verificación de correo en el módulo IAM. | Transactional Email | https://www.brevo.com |
 
 
 ### 5.1.2. Source Code Management.
@@ -2244,42 +2266,15 @@ Este procedimiento permite mantener un historial organizado, identificar las con
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
-Durante el desarrollo de JouleTracker, VoltLab establece convenciones de código con el objetivo de mantener una estructura uniforme, legible y fácil de mantener entre los diferentes integrantes del equipo.
-
-Para el desarrollo de la Landing Page se utilizan principalmente HTML5, CSS y JavaScript, aplicando convenciones específicas para cada tecnología.
+Durante el desarrollo de JouleTracker, VoltLab establece convenciones de código uniformes entre la Landing Page, el Frontend en Angular y el Backend en Spring Boot para garantizar legibilidad, trazabilidad y mantenimiento colaborativo.
 
 #### HTML
 
-El código HTML utiliza etiquetas semánticas para representar correctamente la estructura y propósito de cada sección de la página.
-
-Entre las principales etiquetas utilizadas se encuentran:
-
-- `<header>` para la cabecera de la página.
-- `<nav>` para los elementos de navegación.
-- `<main>` para el contenido principal.
-- `<section>` para organizar las diferentes secciones.
-- `<article>` para representar contenido independiente.
-- `<button>` para elementos interactivos.
-- `<footer>` para información complementaria.
-
-Asimismo, se utilizan atributos de accesibilidad como:
-
-- `aria-label`
-- `aria-expanded`
-- `aria-controls`
-- `aria-hidden`
-
-Estos atributos permiten mejorar la accesibilidad y comprensión de los elementos interactivos de la aplicación.
+El código HTML utiliza etiquetas semánticas (`<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<button>`, `<footer>`) junto con atributos de accesibilidad (`aria-label`, `aria-expanded`, `aria-controls`, `aria-hidden`) y atributos `data-i18n` para la traducción dinámica ES/EN.
 
 #### CSS
 
-Los estilos de JouleTracker se organizan mediante hojas de estilo externas. La Landing Page utiliza el archivo principal:
-
-`css/styles.css`
-
-Para mantener consistencia visual se utilizan variables CSS definidas mediante `:root`.
-
-Ejemplo:
+Los estilos de la Landing Page y de la Web Application se organizan mediante hojas de estilo externas (`css/styles.css` y CSS modular por componente en Angular) usando tokens de diseño definidos en `:root`:
 
 ```css
 :root {
@@ -2290,68 +2285,56 @@ Ejemplo:
 }
 ```
 
+#### JavaScript (Landing Page)
+
+- Uso de JavaScript estándar sin frameworks externos (`js/main.js`, `js/i18n.js`, `js/legal.js`), funciones puras y nombres descriptivos en `camelCase`.
+- Separación entre el diccionario bilingüe (`es`/`en`), el manejo del menú móvil y las redirecciones con parámetros de segmento (`?accountType=homeowner|business`).
+
+#### TypeScript y Angular (Frontend Web Application)
+
+- Adopción de **Angular Style Guide** y **Google TypeScript Style Guide**: componentes *standalone*, sufijos por capa (`component`, `service`, `facade`, `guard`, `interceptor`) e inyección con `inject()`.
+- Organización modular por Bounded Context (`iam`, `devices`, `energy`, `alerts`, `business`, `shared`) separada en `domain`, `application`, `infrastructure` y `presentation`.
+- Manejo reactivo de estado mediante `signal()` / `computed()` y tipado estricto de DTOs e interfaces.
+
+#### Java y Spring Boot (Backend API)
+
+- Adopción de **Google Java Style Guide**: paquetes por Bounded Context en arquitectura DDD (`domain`, `application`, `infrastructure`, `interfaces/rest`), clases en `PascalCase` y métodos/variables en `camelCase`.
+- Controladores REST documentados con anotaciones OpenAPI 3 (`@Tag`, `@Operation`, `@ApiResponses`), uso de `ResponseEntity`, DTOs/Records inmutables y pruebas unitarias/WebMvc en `src/test/java`.
+
+#### Gherkin (Especificación de Criterios de Aceptación)
+
+- Escenarios redactados bajo la estructura `Feature` / `Scenario` / `Given` – `When` – `Then` orientados a comportamiento observable del usuario o del servicio REST.
+
 ### 5.1.4. Software Deployment Configuration.
-La configuración de despliegue de JouleTracker permite publicar las diferentes soluciones desarrolladas por Team Volta para que puedan ser visualizadas y evaluadas durante los Sprint Reviews.
+La configuración de despliegue de JouleTracker abarca los tres productos digitales desarrollados por VoltLab —Landing Page, Frontend Web Application y Backend RESTful API con base de datos cloud— para garantizar disponibilidad continua durante las evaluaciones.
 
-Durante el Sprint 1, la Landing Page de JouleTracker fue desplegada utilizando **GitHub Pages**, servicio que permite publicar contenido web estático directamente desde un repositorio de GitHub.
+#### 1. Despliegue de la Landing Page (GitHub Pages)
 
-La Landing Page está desarrollada utilizando HTML, CSS y JavaScript, por lo que puede ser desplegada directamente sin necesidad de configurar un servidor de aplicaciones adicional.
+Durante el Sprint 1 (actualizada en TB1 y AV2), la Landing Page estática en HTML5, CSS3 y JavaScript fue desplegada en **GitHub Pages** desde la rama `main` del repositorio `https://github.com/JouleTracker/JouleTracker-LandingPage`:
 
-El repositorio utilizado para la Landing Page es:
+- **URL pública:** `https://jouletracker.github.io/JouleTracker-LandingPage/`
+- **Flujo de publicación:** `Development → GitHub (main) → Settings > Pages → GitHub Pages Production`
+- **Recursos principales:** `index.html`, `terms.html`, `privacy.html`, `css/styles.css`, `js/` (`main.js`, `i18n.js`, `legal.js`), `images/` y `favicon.svg`.
 
-JouleTracker Landing Page Repository: https://github.com/JouleTracker/JouleTracker-LandingPage
+#### 2. Despliegue de la Web Application Frontend (Render Static Site)
 
-La versión desplegada se encuentra disponible en:
+La aplicación SPA desarrollada en Angular se despliega automáticamente desde la rama `master` del repositorio `https://github.com/JouleTracker/Frontend` en **Render**:
 
-JouleTracker Landing Page: https://jouletracker.github.io/JouleTracker-LandingPage/
+- **URL pública:** `https://jouletracker-front.onrender.com/`
+- **Comando de build y salida:** `npm install && npm run build` generando los artefactos optimizados en `dist/jouletrackerfront/browser`.
+- **Configuración de rutas SPA y entorno:** regla de reescritura `/* → /index.html` (`200`) en Render para soportar enrutamiento Angular (`/login`, `/registro`, `/consumo`, `/sensores`, `/areas`) y archivo `environment.ts` apuntando `apiBaseUrl` al Backend de producción en Render.
 
-#### Configuración del despliegue
+#### 3. Despliegue del Backend RESTful API y Base de Datos (Render Docker + Filess.io + Brevo)
 
-Para realizar el despliegue mediante GitHub Pages se sigue el siguiente procedimiento:
+El Backend en Java 21 / Spring Boot `4.1.1` se despliega como Web Service en **Render** mediante un `Dockerfile` multi-stage desde la rama `main` de `https://github.com/JouleTracker/Backend`:
 
-1. Los integrantes desarrollan y validan los cambios correspondientes en el repositorio de la Landing Page.
-2. Los cambios aprobados son integrados en la rama principal `main`.
-3. Se accede a la configuración del repositorio en GitHub.
-4. En la sección **Settings > Pages**, se configura GitHub Pages como mecanismo de despliegue.
-5. Se selecciona la rama `main` como fuente del contenido publicado.
-6. GitHub procesa automáticamente los archivos HTML, CSS, JavaScript, imágenes y demás recursos almacenados en el repositorio.
-7. Una vez finalizado el proceso, la versión actualizada queda disponible mediante la URL pública de GitHub Pages.
-
-El flujo general de despliegue puede representarse de la siguiente manera:
-
-`Development → Git Repository → main → GitHub Pages → Production`
-
-#### Estructura utilizada para el despliegue
-
-La Landing Page mantiene una estructura organizada que permite que GitHub Pages interprete correctamente los recursos necesarios para mostrar el sitio web.
-
-Entre los principales recursos se encuentran:
-
-| Recurso | Propósito |
-|---|---|
-| `index.html` | Contiene la estructura principal de la Landing Page. |
-| `css/styles.css` | Contiene los estilos visuales y responsive de la interfaz. |
-| Archivos JavaScript | Gestionan el comportamiento dinámico e interacción de la página. |
-| `images/` | Contiene los recursos gráficos utilizados en la Landing Page. |
-| `favicon.svg` | Representa el ícono utilizado por el sitio web. |
+- **URL pública y Swagger UI:** `https://jouletracker-api-kmok.onrender.com` y `https://jouletracker-api-kmok.onrender.com/swagger-ui/index.html`
+- **Perfil activo y servidor:** `SPRING_PROFILES_ACTIVE=prod` con puerto dinámico `${PORT:8080}` y empaquetado Maven + `eclipse-temurin:21-jre`.
+- **Persistencia y servicios externos:** base de datos MySQL en **Filess.io** con pool `HikariCP` acotado (`maximum-pool-size=2`) para respetar el límite de conexiones del entorno, envío de correos de verificación mediante **Brevo API** y variables de entorno configuradas en Render (`DB_URL`, `DB_USERNAME`, `DB_PASSWORD`, `JWT_SECRET`, `FRONTEND_BASE_URL` para CORS y `BREVO_API_KEY`).
 
 #### Validación posterior al despliegue
 
-Luego de realizar el despliegue, el equipo verifica que la aplicación pueda ser accedida correctamente desde la URL pública.
-
-La validación incluye:
-
-- Correcta visualización de la página principal.
-- Funcionamiento de la navegación entre secciones.
-- Carga correcta de imágenes y recursos.
-- Funcionamiento de los elementos desarrollados con JavaScript.
-- Correcta visualización en dispositivos móviles.
-- Validación del diseño responsive.
-- Funcionamiento del cambio de idioma.
-- Acceso correcto a la sección de contacto.
-- Verificación de enlaces internos y externos.
-
-Este procedimiento permite que JouleTracker mantenga una versión pública y accesible de la Landing Page durante las diferentes etapas del proyecto, facilitando su revisión y validación durante los Sprint Reviews.
+Luego de cada despliegue, el equipo verifica desde las URLs públicas: carga responsiva y cambio de idioma ES/EN de la Landing Page y sus páginas legales, enrutamiento y autenticación JWT en el Frontend conectado al Backend real, disponibilidad de `/swagger-ui/index.html` y ejecución exitosa (*Try it out* `200 OK`) sobre endpoints en producción.
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
@@ -2548,7 +2531,7 @@ En el Sprint 2, como equipo nos centramos en el desarrollo del frontend web de J
 | Location | Virtual, Discord |
 | Prepared by | Alejandro Samir Choquehuanca Vasquez |
 | Attendees | Alejandro Samir Choquehuanca Vasquez, Miguel Angel Jara Espinoza, Miguel Angel Vidal Castro, Mijail Alexander Matihues Quevedo, Rodrigo Velasquez Velasquez |
-| Sprint 1 Review Summary | En el Sprint 1, el equipo se enfocó en el desarrollo y despliegue de la Landing Page de JouleTracker. Con ello, se logró configurar el entorno de trabajo, establecer los requerimientos principales del sistema, la guía de estilo web/mobile, así como el diseño y despliegue del sitio promocional en GitHub Pages. Por otro lado, el profesor a cargo brindó feedback positivo respecto a la propuesta de valor visual y sugirió afinar la trazabilidad de los IDs en la documentación. |
+| Sprint 1 Review Summary | En el Sprint 1, el equipo se enfocó en el desarrollo y despliegue de la Landing Page de JouleTracker. Con ello, se logró configurar el entorno de trabajo, establecer los requisitos principales del sistema, la guía de estilo web/mobile, así como el diseño y despliegue del sitio promocional en GitHub Pages. Por otro lado, el profesor a cargo brindó feedback positivo respecto a la propuesta de valor visual y sugirió afinar la trazabilidad de los IDs en la documentación. |
 | Sprint 1 Retrospective Summary | Durante el Sprint 1, surgieron ligeras dificultades relacionadas con la sincronización de ramas de trabajo y el ajuste de tiempos en la maquetación responsive. Sin embargo, se logró entregar el sprint de manera completa, desplegando la Landing Page funcional y manteniendo una calidad aceptable en los entregables. |
 | Sprint 2 Goal | Nuestro enfoque en este sprint es desarrollar e implementar la interfaz del frontend web de JouleTracker mediante dashboards funcionales para usuarios residenciales y comerciales, permitiendo la visualización de consumo en tiempo real, histórico, gestión de sensores IoT y configuración de alertas. Además, se espera implementar la interfaz base correspondiente a cada Bounded Context del dominio. |
 | Sprint 2 Velocity | Límite de 35 SP |
@@ -3158,9 +3141,18 @@ Ricardo, administrador de un minimarket de 23 años ubicado en San Luis, con 3 a
 
 *Usability – Inclusive Design – Information Architecture*
 
-En esta sección presentamos el análisis heurístico de JouleTracker, tomando como referencia las observaciones obtenidas durante las entrevistas de validación con nuestros dos segmentos objetivo: usuarios residenciales y administradores de pequeños negocios.
+| Campo | Información |
+|---|---|
+| **CARRERA** | Ingeniería de Software |
+| **CURSO** | `1ASI0729` – Desarrollo de Aplicaciones Open Source |
+| **SECCIÓN** | `7769` |
+| **PROFESORES** | Mori Paiva, Hugo Allan |
+| **AUDITOR** | Equipo VoltLab (Choquehuanca Vasquez, Alejandro Samir; Jara Espinoza, Miguel Angel; Matihues Quevedo, Mijail Alexander; Velasquez Velasquez, Rodrigo; Vidal Castro, Miguel Angel) |
+| **CLIENTE(S)** | Segmento 1 (Jefes de hogar urbanos) y Segmento 2 (Administradores de MYPEs) |
 
-El propósito de esta evaluación es identificar posibles dificultades relacionadas con la usabilidad, accesibilidad y organización de la información, para establecer oportunidades de mejora que puedan ser consideradas en las próximas iteraciones del producto.
+En esta sección presentamos el análisis heurístico de JouleTracker, tomando como referencia las observaciones obtenidas durante las sesiones de validación con nuestros dos segmentos objetivo y su inspección directa sobre la aplicación web desplegada.
+
+El propósito de esta evaluación es identificar dificultades reales de usabilidad, diseño inclusivo y arquitectura de información, documentarlas con capturas del sistema en funcionamiento y priorizar su atención hacia el siguiente Sprint.
 
 #### Site or App to Evaluate
 
@@ -3222,11 +3214,15 @@ Las siguientes observaciones se obtuvieron de las entrevistas documentadas. La r
 
 **Principio relacionado:** Usability – Flexibilidad y eficiencia de uso.
 
-**Observación:** Durante la entrevista, Jesús destacó la importancia de recibir alertas cuando el consumo energético supera los valores esperados. Como sugerencia, mencionó la posibilidad de incorporar notificaciones mediante WhatsApp para recibir información sin necesidad de ingresar constantemente a la aplicación.
+**Observación:** Durante la entrevista, Jesús destacó la importancia de recibir alertas cuando el consumo energético supera los valores esperados. Como sugerencia, mencionó la posibilidad de incorporar notificaciones mediante WhatsApp para recibir información sin necesidad de ingresar constantemente a la aplicación, ya que actualmente la vista de alertas solo contempla notificaciones en plataforma, correo electrónico y SMS.
 
-**Recomendación:** Evaluar la incorporación de canales de notificación adicionales que permitan al usuario seleccionar cómo desea recibir las alertas de consumo.
+**Recomendación:** Evaluar la incorporación de canales de notificación adicionales (como WhatsApp) que permitan al usuario seleccionar cómo desea recibir las alertas de consumo.
 
-**Evidencia pendiente:** Captura del módulo de alertas y verificación de los canales actualmente disponibles.
+**Evidencia en la aplicación:**
+
+![Módulo de alertas y canales de notificación actuales](report/images/SprintReview/sprint2-alerts-mype.png)
+
+*Figura: Vista actual del módulo de Alertas donde se muestra la configuración de notificaciones sin integración directa con WhatsApp.*
 
 ---
 
@@ -3236,11 +3232,15 @@ Las siguientes observaciones se obtuvieron de las entrevistas documentadas. La r
 
 **Principio relacionado:** Information Architecture – Utilidad de la información.
 
-**Observación:** Fabrizio destacó la utilidad de los gráficos de consumo energético y sugirió incorporar comparaciones semanales más detalladas para identificar diferencias en el gasto eléctrico durante distintos periodos.
+**Observación:** Fabrizio destacó la utilidad de los gráficos de consumo energético y sugirió incorporar comparaciones semanales más detalladas para identificar diferencias en el gasto eléctrico durante distintos periodos dentro del Dashboard principal.
 
-**Recomendación:** Evaluar la incorporación de gráficos comparativos que permitan visualizar el consumo de la semana actual frente a periodos anteriores.
+**Recomendación:** Evaluar la ampliación de los gráficos comparativos en `/consumo` para contrastar el gasto de la semana actual frente a semanas anteriores con mayor granularidad.
 
-**Evidencia pendiente:** Captura del historial de consumo y de las opciones de comparación disponibles.
+**Evidencia en la aplicación:**
+
+![Gráficos de consumo e historial en el Dashboard](report/images/SprintReview/sprint3-dashboard-live.png)
+
+*Figura: Vista actual de `/consumo` mostrando los selectores `Día / Semana / Mes / Año`, el bloque `Comparativa de consumo` y el historial.*
 
 ---
 
@@ -3250,11 +3250,15 @@ Las siguientes observaciones se obtuvieron de las entrevistas documentadas. La r
 
 **Principio relacionado:** Inclusive Design – Accesibilidad y legibilidad.
 
-**Observación:** Carlos logró identificar las funcionalidades principales del sistema, pero recomendó una interfaz simplificada con tipografías y botones más grandes para facilitar el uso de la plataforma a personas adultas mayores.
+**Observación:** Fabrizzio logró identificar las funcionalidades principales del sistema, pero recomendó una interfaz simplificada con tipografías y botones más grandes para facilitar el uso de la plataforma a personas adultas mayores.
 
 **Recomendación:** Evaluar la implementación de tamaños de fuente ajustables, botones de mayor dimensión y una presentación simplificada de las funcionalidades más utilizadas.
 
-**Evidencia pendiente:** Capturas del Dashboard y revisión de los tamaños de los elementos interactivos.
+**Evidencia en la aplicación:**
+
+![Vista principal y densidad de tarjetas de JouleTracker](report/images/SprintReview/sprint3-inicio.png)
+
+*Figura: Vista principal de JouleTracker (`/inicio`) donde se aprecia el tamaño estándar actual de tipografía, barra lateral y tarjetas de plan.*
 
 ---
 
@@ -3264,11 +3268,15 @@ Las siguientes observaciones se obtuvieron de las entrevistas documentadas. La r
 
 **Principio relacionado:** Usability – Reconocimiento antes que recuerdo.
 
-**Observación:** Diana consideró importante reconocer rápidamente los equipos eléctricos asociados a su negocio. Por ello, sugirió personalizar los dispositivos mediante nombres, iconos o fotografías que permitan diferenciarlos con mayor facilidad.
+**Observación:** Diana consideró importante reconocer rápidamente los equipos eléctricos asociados a su negocio. Por ello, sugirió personalizar los dispositivos mediante nombres, iconos o fotografías que permitan diferenciarlos con mayor facilidad en el listado tabular.
 
-**Recomendación:** Evaluar opciones de personalización visual de los equipos registrados para facilitar su reconocimiento dentro del panel de monitoreo.
+**Recomendación:** Evaluar opciones de personalización visual mediante fotografías o iconos propios por equipo dentro del panel de gestión de dispositivos.
 
-**Evidencia pendiente:** Captura del listado de dispositivos y de las opciones de edición existentes.
+**Evidencia en la aplicación:**
+
+![Listado de dispositivos y acciones de edición](report/images/SprintReview/sprint3-dispositivos.png)
+
+*Figura: Vista de Maquinaria y Equipos (`/dispositivos`) con tabla de equipos y botones de edición sin carga personalizada de fotografía por artefacto.*
 
 ---
 
@@ -3278,11 +3286,15 @@ Las siguientes observaciones se obtuvieron de las entrevistas documentadas. La r
 
 **Principio relacionado:** Usability – Visibilidad del estado del sistema.
 
-**Observación:** Eduardo valoró las alertas preventivas de JouleTracker y recomendó reforzar visualmente las advertencias relacionadas con posibles sobrecargas eléctricas, especialmente en equipos de alto consumo utilizados en talleres.
+**Observación:** Eduardo valoró las alertas preventivas de JouleTracker y recomendó reforzar visualmente las advertencias relacionadas con posibles sobrecargas eléctricas —actualmente indicadas mediante etiquetas pequeñas `Excedido` en la tabla de sensores— especialmente en equipos de alto consumo utilizados en talleres.
 
-**Recomendación:** Evaluar el uso de indicadores visuales diferenciados según el nivel de riesgo, acompañados de mensajes claros que permitan reconocer rápidamente una situación que requiere atención.
+**Recomendación:** Evaluar el uso de indicadores visuales diferenciados y banners prioritarios según el nivel de riesgo, acompañados de mensajes claros que permitan reconocer rápidamente una sobrecarga.
 
-**Evidencia pendiente:** Captura de la pantalla de alertas y revisión de cómo se comunica actualmente una sobrecarga.
+**Evidencia en la aplicación:**
+
+![Indicadores de límite excedido en sensores IoT](report/images/SprintReview/sprint3-sensors-areas.png)
+
+*Figura: Tabla de Sensores IoT (`/sensores`) mostrando las etiquetas compactas `Excedido` cuando un sensor supera su límite diario recomendado.*
 
 ---
 
@@ -3292,17 +3304,21 @@ Las siguientes observaciones se obtuvieron de las entrevistas documentadas. La r
 
 **Principio relacionado:** Usability – Flexibilidad y eficiencia de uso.
 
-**Observación:** Ricardo, administrador de un minimarket, sugirió habilitar el acceso multiusuario para que sus socios también puedan recibir alertas relacionadas con el funcionamiento de los equipos eléctricos.
+**Observación:** Ricardo, administrador de un minimarket, sugirió habilitar el acceso multiusuario para que sus socios también puedan visualizar las zonas monitoreadas y recibir alertas relacionadas con el funcionamiento de los equipos eléctricos.
 
-**Recomendación:** Evaluar un mecanismo de acceso compartido o de destinatarios adicionales de notificaciones, considerando permisos y responsabilidades de cada usuario.
+**Recomendación:** Evaluar un mecanismo de acceso compartido por establecimiento o destinatarios adicionales de notificaciones, considerando permisos y responsabilidades de cada usuario MYPE.
 
-**Evidencia pendiente:** Revisión de las funcionalidades de gestión de usuarios y configuración de notificaciones.
+**Evidencia en la aplicación:**
+
+![Gestión de áreas del negocio bajo cuenta única MYPE](report/images/SprintReview/sprint3-areas.png)
+
+*Figura: Módulo de Áreas del Negocio (`/areas`) actualmente vinculado a una sola cuenta propietaria (`Cafetería Andina`) sin gestión de múltiples colaboradores.*
 
 #### Consideraciones finales
 
-A partir de las entrevistas realizadas, identificamos oportunidades de mejora relacionadas principalmente con las notificaciones, la presentación de información energética, la accesibilidad y la gestión de equipos eléctricos.
+A partir de las sesiones de validación y la inspección directa sobre las pantallas desplegadas de JouleTracker, consolidamos estas seis oportunidades de mejora en usabilidad, diseño inclusivo y arquitectura de información.
 
-Estas observaciones permiten orientar futuras inspecciones heurísticas y establecer posibles prioridades de desarrollo. Para confirmar la severidad de cada problema, será necesario contrastar los comentarios de los entrevistados con el comportamiento real de las interfaces y documentar las evidencias correspondientes.
+Las evidencias capturadas en el entorno real de producción respaldan la severidad asignada a cada hallazgo (`1` a `3`) y permiten incorporarlos directamente en el Product Backlog rumbo al Sprint 4.
 
 
 
@@ -3315,30 +3331,31 @@ Estas observaciones permiten orientar futuras inspecciones heurísticas y establ
 
 ## 5.4. About the Product
 
-En esta sección presentamos **About the Product**, el video de presentación de JouleTracker elaborado por VoltLab. Mostramos la problemática del consumo energético y nuestra propuesta de solución para hogares y pequeños negocios.
+En esta sección presentamos **About the Product**, el video promocional de JouleTracker elaborado por el equipo VoltLab. Mostramos la problemática actual de la facturación eléctrica reactiva en hogares urbanos y pequeños negocios (MYPEs), junto con nuestra propuesta de solución IoT para monitoreo continuo, proyección de costos mensuales, historial comparativo y alertas preventivas.
 
-El video explica cómo JouleTracker permite monitorear el consumo eléctrico, consultar información histórica y recibir alertas preventivas para tomar mejores decisiones y evitar gastos innecesarios.
+Durante el video se recorre tanto la Landing Page promocional como la aplicación web desplegada, presentando la interacción real con las vistas de acceso, dashboard y sensores, además de testimonios representativos de nuestros segmentos objetivo.
 
-**Videos de About the Product:**
-
-- **YouTube:** [About the Product – JouleTracker](https://www.youtube.com/watch?v=UYQWInpBB8s)
-- **Google Videos:** [Ver video de JouleTracker](https://docs.google.com/videos/d/1bumlQ-HWnqWWbWQpgBiuDvokOq7Y1ieCQH4nA5uWWbA/edit)
+* **Duración:** Formato promocional breve (entre `1` y `3` minutos).
+* **Videos de About the Product:**
+  * **YouTube:** [About the Product – JouleTracker](https://www.youtube.com/watch?v=UYQWInpBB8s) (incrustado en la sección `#solucion` de la Landing Page).
+  * **Google Videos:** [Ver video de JouleTracker](https://docs.google.com/videos/d/1bumlQ-HWnqWWbWQpgBiuDvokOq7Y1ieCQH4nA5uWWbA/edit)
 
 ![Pantalla de inicio de sesión de JouleTracker](report/images/about-product.png)
 
-**Figura:** Presentación de la interfaz de inicio de sesión de JouleTracker durante el video About the Product.
+**Figura:** Captura representativa de la presentación del producto JouleTracker en el video About the Product.
 
 ### About the Team – VoltLab
 
-En esta sección presentamos a los integrantes de VoltLab, el equipo responsable del diseño y desarrollo de JouleTracker. Cada integrante aportó sus conocimientos y habilidades durante las diferentes etapas del proyecto, desde la identificación de las necesidades de los usuarios hasta la implementación y validación de nuestra solución.
+En esta sección presentamos a los `5` integrantes del equipo **VoltLab** responsables del análisis, diseño, desarrollo e integración de JouleTracker: **Choquehuanca Vasquez, Alejandro Samir**, **Jara Espinoza, Miguel Angel**, **Matihues Quevedo, Mijail Alexander**, **Velasquez Velasquez, Rodrigo** y **Vidal Castro, Miguel Angel**.
+
+El video documenta la retrospectiva del proceso de trabajo colaborativo a lo largo de los Sprints (herramientas, coordinación multirrepositorio y aprendizajes técnicos), seguida de las intervenciones individuales de cada integrante sobre su participación, competencias aplicadas y logros alcanzados en el **Student Outcome 3**.
 
 ![About the Team – VoltLab](report/images/about-team.png)
 
-**Figura:** Presentación de los integrantes del equipo VoltLab, responsables del desarrollo de JouleTracker.
+**Figura:** Cuadro de presentación del equipo VoltLab en el video About the Team.
 
-**Video de About the Team:**
-
-- **YouTube:** [About the Team – VoltLab](https://www.youtube.com/watch?v=QbeDnsBkNYQ)
+* **Video de About the Team:**
+  * **YouTube:** [About the Team – VoltLab](https://www.youtube.com/watch?v=QbeDnsBkNYQ) (incrustado en la sección `#sobre-nosotros` de la Landing Page).
 
 ## Conclusiones y Recomendaciones.
 
