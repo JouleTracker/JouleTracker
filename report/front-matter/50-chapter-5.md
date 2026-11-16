@@ -1066,35 +1066,33 @@ Estas observaciones permiten orientar futuras inspecciones heurísticas y establ
 
 
 
+
+
+
 ## 5.4. About the Product
 
 En esta sección presentamos **About the Product**, el video de presentación de JouleTracker elaborado por VoltLab. En este material mostramos la problemática que buscamos resolver y la propuesta de valor de nuestra plataforma para hogares y pequeños negocios: facilitar la comprensión del consumo energético, su monitoreo y la toma de decisiones para evitar gastos innecesarios.
 
 El video permite dar a conocer el propósito de JouleTracker, los segmentos a los que nos dirigimos y las funcionalidades planteadas para el monitoreo energético, como la consulta de métricas, el historial de consumo y las alertas preventivas.
 
-**Videos de About the Product:**
+*Videos de About the Product:*
 
+https://youtu.be/UYQWInpBB8s?si=wd2scFFZ2AHk5t90
+![Pantalla de inicio de sesión de JouleTracker](../images/about-product.png)
+
+**Figura:** Presentación de la interfaz de inicio de sesión de JouleTracker durante el video About the Product.
+
+### About the Team – VoltLab
+
+En esta sección presentamos a los integrantes de VoltLab, el equipo responsable del diseño y desarrollo de JouleTracker. Cada integrante aportó sus conocimientos y habilidades durante las diferentes etapas del proyecto, desde la identificación de las necesidades de los usuarios hasta la implementación y validación de nuestra solución.
+
+![About the Team – VoltLab](../images/about-team.png)
+
+**Figura:** Presentación de los integrantes del equipo VoltLab, responsables del desarrollo de JouleTracker.
 
 - **Google Videos:** [Ver video de JouleTracker](https://docs.google.com/videos/d/1bumlQ-HWnqWWbWQpgBiuDvokOq7Y1ieCQH4nA5uWWbA/edit?scene=id.hbcfc58d0c3316ee_2_1#scene=id.hbcfc58d0c3316ee_2_1)
 
 - **YouTube:** [About the Product – JouleTracker](https://www.youtube.com/watch?v=UYQWInpBB8s)
-
-### About the Team – VoltLab
-
-En esta sección presentamos a los integrantes de VoltLab, el equipo responsable del diseño y desarrollo de JouleTracker. Cada integrante aportó sus conocimientos y habilidades durante las diferentes etapas del proyecto, desde la identificación de las necesidades de los usuarios hasta la implementación y validación de nuestra solución.
-
-![About the Team – VoltLab](../images/abouttheteam.png) 
-
-**Figura:** Presentación de los integrantes del equipo VoltLab, responsables del desarrollo de JouleTracker.
-### About the Team – VoltLab
-
-En esta sección presentamos a los integrantes de VoltLab, el equipo responsable del diseño y desarrollo de JouleTracker. Cada integrante aportó sus conocimientos y habilidades durante las diferentes etapas del proyecto, desde la identificación de las necesidades de los usuarios hasta la implementación y validación de nuestra solución.
-
-
-
-
-**Figura:** Presentación de los integrantes del equipo VoltLab, responsables del desarrollo de JouleTracker.
-
 
 
 ## Conclusiones y Recomendaciones.
