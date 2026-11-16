@@ -2739,7 +2739,7 @@ En el Sprint 3 se mantuvo la organización por Bounded Contexts y frentes de tra
 
 El seguimiento de las tareas planificadas para el Sprint 3 se gestionó mediante el tablero Kanban en Jira Software Cloud, permitiendo verificar el avance de las historias técnicas de Backend y las tareas de integración con el Frontend hasta su estado final (*Done*).
 
-![Tablero de trabajo del Sprint 3 en Jira](report/images/sprint3/sprint3-kanban.png)
+![Tablero de trabajo del Sprint 3 en Jira](report/images/sprint3/Sprint3-jira.png)
 
 **Figura:** Vista del tablero Kanban en Jira correspondiente a la ejecución del Sprint 3. `[COMPLETAR: Insertar captura de Jira Sprint 3]`
 
