@@ -1090,9 +1090,7 @@ En esta sección presentamos a los integrantes de VoltLab, el equipo responsable
 
 **Figura:** Presentación de los integrantes del equipo VoltLab, responsables del desarrollo de JouleTracker.
 
-- **Google Videos:** [Ver video de JouleTracker](https://docs.google.com/videos/d/1bumlQ-HWnqWWbWQpgBiuDvokOq7Y1ieCQH4nA5uWWbA/edit?scene=id.hbcfc58d0c3316ee_2_1#scene=id.hbcfc58d0c3316ee_2_1)
-
-- **YouTube:** [About the Product – JouleTracker](https://www.youtube.com/watch?v=UYQWInpBB8s)
+- **YouTube:** [About the Team – VoltLab](https://www.youtube.com/watch?v=QbeDnsBkNYQ)
 
 
 ## Conclusiones y Recomendaciones.

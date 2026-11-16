@@ -213,6 +213,18 @@ En esta sección se presentan las métricas de colaboración obtenidas mediante 
 
 **Figura:** Detalle de commits, adiciones y eliminaciones por colaborador en el repositorio JouleTracker durante el desarrollo del TB1.
 
+## Insights AV2
+
+En esta sección se presentan las métricas de colaboración obtenidas mediante GitHub Insights correspondientes a la entrega AV2 (Sprint 3). Estas evidencias reflejan la actividad reciente, frecuencia de commits y participación de los integrantes de VoltLab en la evolución del Project Report (`JouleTracker`) rumbo al cierre del Avance 2.
+
+![Project Report Collaboration Insights AV2](report/images/Insights/sprint3-insights-report-pulse.png)
+
+**Figura:** Métricas generales de contribución y actividad (*Pulse*) en el repositorio JouleTracker durante la AV2.
+
+![Project Report Contributors AV2](report/images/Insights/sprint3-insights-report-contributors.png)
+
+**Figura:** Detalle de commits, adiciones y eliminaciones por colaborador en el repositorio JouleTracker durante la AV2.
+
 ---
 
  <div style="page-break-after: always;"></div>
@@ -3307,9 +3319,10 @@ En esta sección presentamos **About the Product**, el video de presentación de
 
 El video explica cómo JouleTracker permite monitorear el consumo eléctrico, consultar información histórica y recibir alertas preventivas para tomar mejores decisiones y evitar gastos innecesarios.
 
-**Video de About the Product:**
+**Videos de About the Product:**
 
-[Ver presentación de JouleTracker en YouTube](https://youtu.be/UYQWInpBB8s)
+- **YouTube:** [About the Product – JouleTracker](https://www.youtube.com/watch?v=UYQWInpBB8s)
+- **Google Videos:** [Ver video de JouleTracker](https://docs.google.com/videos/d/1bumlQ-HWnqWWbWQpgBiuDvokOq7Y1ieCQH4nA5uWWbA/edit)
 
 ![Pantalla de inicio de sesión de JouleTracker](report/images/about-product.png)
 
@@ -3323,11 +3336,9 @@ En esta sección presentamos a los integrantes de VoltLab, el equipo responsable
 
 **Figura:** Presentación de los integrantes del equipo VoltLab, responsables del desarrollo de JouleTracker.
 
-**Videos complementarios:**
+**Video de About the Team:**
 
-- **Google Videos:** [Ver video de JouleTracker](https://docs.google.com/videos/d/1bumlQ-HWnqWWbWQpgBiuDvokOq7Y1ieCQH4nA5uWWbA/edit)
-
-- **YouTube:** [About the Product – JouleTracker](https://www.youtube.com/watch?v=UYQWInpBB8s)
+- **YouTube:** [About the Team – VoltLab](https://www.youtube.com/watch?v=QbeDnsBkNYQ)
 
 ## Conclusiones y Recomendaciones.
 
