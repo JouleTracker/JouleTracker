@@ -3340,8 +3340,8 @@ Durante el video se recorre tanto la Landing Page promocional como la aplicació
 
 * **Duración:** Formato promocional breve (entre `1` y `3` minutos).
 * **Videos de About the Product:**
-  * **YouTube:** [About the Product – JouleTracker](https://www.youtube.com/watch?v=UYQWInpBB8s) (incrustado en la sección `#solucion` de la Landing Page).
-  * **Google Videos:** [Ver video de JouleTracker](https://docs.google.com/videos/d/1bumlQ-HWnqWWbWQpgBiuDvokOq7Y1ieCQH4nA5uWWbA/edit)
+  * **YouTube:** https://www.youtube.com/watch?v=UYQWInpBB8s (incrustado en la sección `#solucion` de la Landing Page).
+  * **Google Videos:** https://docs.google.com/videos/d/1bumlQ-HWnqWWbWQpgBiuDvokOq7Y1ieCQH4nA5uWWbA/edit
 
 ![Pantalla de inicio de sesión de JouleTracker](report/images/about-product.png)
 
@@ -3403,7 +3403,7 @@ El video documenta la retrospectiva del proceso de trabajo colaborativo a lo lar
 **Figura:** Cuadro de presentación del equipo VoltLab en el video About the Team.
 
 * **Video de About the Team:**
-  * **YouTube:** [About the Team – VoltLab](https://www.youtube.com/watch?v=QbeDnsBkNYQ) (incrustado en la sección `#sobre-nosotros` de la Landing Page).
+  * **YouTube:** https://www.youtube.com/watch?v=QbeDnsBkNYQ (incrustado en la sección `#sobre-nosotros` de la Landing Page).
 
 ---
 
