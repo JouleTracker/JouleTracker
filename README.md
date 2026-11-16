@@ -61,7 +61,7 @@
 </div>
 
 <p align="center">
-    <strong>Setiembre, 2026</strong>
+    <strong>Noviembre, 2026</strong>
 </p>
 
 <div style="page-break-after: always;"></div>
