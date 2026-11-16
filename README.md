@@ -2581,7 +2581,8 @@ Durante el Sprint 2, el equipo se enfocó principalmente en el desarrollo del fr
 Durante el Sprint 2, el avance del desarrollo del frontend fue gestionado de manera transparente a través del tablero de trabajo en Jira, permitiendo realizar el seguimiento continuo de cada tarea desde su estado inicial hasta su culminación exitosa:
 ![Tablero de trabajo del Sprint 2 en Jira](report/images/sprint2/sprint2-kanban.png)
 
-**Figura:** Vista del tablero Kanban en Jira correspondiente a la ejecución de tareas del Sprint 2.
+**Figura:** Vista del tablero Kanban en Jira correspondiente a la ejecución de tareas del Sprint 2.  
+**Enlace del tablero en Jira:** https://alejandrochoquehuanca007.atlassian.net/jira/software/projects/JOUL/boards/1/backlog?atlOrigin=eyJpIjoiYzkxZjFiZTFlZTEzNDEwMzk2ZmEwZDBhODJmNDI4OWYiLCJwIjoiaiJ9
 A nivel de código fuente, los integrantes de VoltLab registraron sus avances mediante commits organizados bajo la convención de *Conventional Commits* en el repositorio oficial del Frontend:
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
@@ -2740,6 +2741,9 @@ En el Sprint 3 se mantuvo la organización por Bounded Contexts y frentes de tra
 El seguimiento de las tareas planificadas para el Sprint 3 se gestionó mediante el tablero Kanban en Jira Software Cloud, permitiendo verificar el avance de las historias técnicas de Backend y las tareas de integración con el Frontend hasta su estado final (*Done*).
 
 ![Tablero de trabajo del Sprint 3 en Jira](report/images/SprintReview/sprint3-jira.png)
+
+**Figura:** Vista del tablero Kanban en Jira correspondiente a la ejecución de tareas del Sprint 3.  
+**Enlace del tablero en Jira:** https://alejandrochoquehuanca007.atlassian.net/jira/software/projects/JOUL/boards/1/backlog?atlOrigin=eyJpIjoiYzkxZjFiZTFlZTEzNDEwMzk2ZmEwZDBhODJmNDI4OWYiLCJwIjoiaiJ9
 
 A nivel de repositorios, los avances fueron registrados siguiendo el flujo de ramas de GitFlow y el estándar *Conventional Commits*:
 
