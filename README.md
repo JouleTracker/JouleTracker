@@ -3013,7 +3013,7 @@ Para el Segmento 2:
 ### 5.3.2. Registro de Entrevistas
 
 **Video consolidado de validación**
-* **Enlace en Microsoft Stream / Drive:** https://docs.google.com/videos/d/1pbwGMrpZxYrKGhcpf_nmrQ2SVKcwi-aBl0wV3Ilaba0/play?usp=sharing
+* **Enlace del video consolidado:** https://docs.google.com/videos/d/1pbwGMrpZxYrKGhcpf_nmrQ2SVKcwi-aBl0wV3Ilaba0/play?usp=sharing
 * **Captura de evidencia:**  
 
   ![Entrevista de validación](report/images/img-entrevistas/ImagenValidación.jpeg)
@@ -3342,7 +3342,6 @@ Durante el video se recorre tanto la Landing Page promocional como la aplicació
 * **Videos de About the Product:**
   * **YouTube:** [About the Product – JouleTracker](https://www.youtube.com/watch?v=UYQWInpBB8s) (incrustado en la sección `#solucion` de la Landing Page).
   * **Google Videos:** [Ver video de JouleTracker](https://docs.google.com/videos/d/1bumlQ-HWnqWWbWQpgBiuDvokOq7Y1ieCQH4nA5uWWbA/edit)
-  * **Microsoft Stream:** **[PENDIENTE: pegar URL en Microsoft Stream]**
 
 ![Pantalla de inicio de sesión de JouleTracker](report/images/about-product.png)
 
@@ -3403,9 +3402,8 @@ El video documenta la retrospectiva del proceso de trabajo colaborativo a lo lar
 
 **Figura:** Cuadro de presentación del equipo VoltLab en el video About the Team.
 
-* **Videos de About the Team:**
+* **Video de About the Team:**
   * **YouTube:** [About the Team – VoltLab](https://www.youtube.com/watch?v=QbeDnsBkNYQ) (incrustado en la sección `#sobre-nosotros` de la Landing Page).
-  * **Microsoft Stream:** **[PENDIENTE: pegar URL en Microsoft Stream]**
 
 ---
 
@@ -3562,12 +3560,12 @@ El video documenta la retrospectiva del proceso de trabajo colaborativo a lo lar
 
 ## Anexo A. Videos de Exposiciones
 
-Videos de exposición del proyecto publicados en Microsoft Stream. La relación se amplía con cada entrega.
+Videos de exposición del proyecto. La relación se amplía con cada entrega.
 
 | Entrega | Título | URL |
 | --- | --- | --- |
 | AV1 | Exposición AV1 – Sprint Review (Semana 4) | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202512856_upc_edu_pe/IQCcVnA86T4QTr-Q8NM1xCGmAQ0SN2movemV7qMLGIxLcds?e=YFStMk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
-| AV2 | Exposición AV2 – Sprint Review (Semana 12) | **[PENDIENTE: pegar el enlace de Microsoft Stream]** |
+| AV2 | Exposición AV2 – Sprint Review (Semana 12) | **[PENDIENTE: pegar el enlace de la exposición AV2]** |
 
 <div style="page-break-before: always;"></div>
 
