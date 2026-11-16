@@ -3060,13 +3060,30 @@ Ricardo, administrador de un minimarket de 23 años ubicado en San Luis, con 3 a
 
 # Conclusiones
 
+# AV1 – Sprint Review (Sprint 1)
+
 El primer avance (AV1) del proyecto JouleTracker demuestra la consolidación exitosa de las bases estratégicas, arquitectónicas y metodológicas necesarias para la construcción de una plataforma SaaS IoT orientada a la eficiencia energética. A través de la aplicación del marco de trabajo Lean UX, se logró acotar el problema de negocio —la gestión reactiva de la facturación eléctrica— y se establecieron seis hipótesis de valor claramente alineadas con las necesidades de los dos segmentos objetivos: hogares urbanos y pequeñas empresas (MYPEs). Esta alineación garantiza que el desarrollo tecnológico esté justificado por un valor comercial y una necesidad real de los usuarios.
 
 Desde la perspectiva arquitectónica y de diseño, el equipo VoltLab estructuró el sistema utilizando Domain-Driven Design (DDD), identificando seis Bounded Contexts que separan de manera cohesiva los subdominios principales (como Dashboard & Energy Analytics y Alerting & Optimization) de los dominios de soporte y genéricos. Esta abstracción fue plasmada eficazmente en los diagramas del modelo C4, trazando una hoja de ruta técnica clara que divide responsabilidades entre la Landing Page estática, la Single-Page Application (Angular) y la Backend API (Spring Boot/Java), lo cual previene el acoplamiento temprano del software.
 
 A nivel de ejecución, el Sprint 1 culminó satisfactoriamente con la construcción y el despliegue de la Landing Page promocional. Al restringir el stack tecnológico a HTML5, CSS3 y JavaScript puro (Vanilla JS) y alojarlo en GitHub Pages, el equipo respetó el principio de separación de responsabilidades y las exigencias de la rúbrica para este hito. Además, la adopción formal de prácticas de gestión de configuración, como el uso del modelo de ramificación GitFlow y los Conventional Commits, evidencia madurez en el control de versiones y sienta un precedente de trabajo ordenado para la fase de programación concurrente que el equipo enfrentará en los próximos sprints.
 
+# TB1 – Stage Review (Sprint 2)
+Durante el Sprint 2 se desarrolló y desplegó la primera versión navegable de la Web Application en Angular, incorporando las principales vistas de autenticación, dashboard, sensores, alertas, reportes y áreas de negocio. La aplicación presentó una interfaz adaptable y soporte para español e inglés, aunque todavía utilizaba datos simulados. También se actualizaron los artefactos de diseño y planificación para mejorar su coherencia. Sin embargo, la gestión del código evidenció oportunidades de mejora, debido a la ausencia de pull requests e issues. La retrospectiva permitió identificar la importancia de definir anticipadamente los contratos de API y distribuir mejor las actividades de documentación y pruebas.
+
+# AV2 – Sprint Review (Sprint 3)
+
+El Sprint 3 representó un avance importante en la consolidación de JouleTracker como una plataforma SaaS IoT, al completar la integración de sus tres productos principales: Landing Page, Web Application y RESTful API.
+
+Las seis entrevistas de validación, realizadas a participantes de los segmentos de hogares y pequeños negocios, demostraron una percepción positiva de la solución y respaldaron cualitativamente las funcionalidades principales. Se confirmó el valor del monitoreo energético, las proyecciones de consumo, la analítica histórica y las alertas preventivas. Asimismo, se identificaron oportunidades de mejora relacionadas con la accesibilidad visual, la personalización de equipos, las comparaciones semanales, la visibilidad de las alertas y el acceso multiusuario.
+
+No obstante, las hipótesis todavía no cuentan con evidencia cuantitativa suficiente para confirmar sus criterios de éxito. En particular, la hipótesis de transmisión continua de sensores permanece sin validar por la ausencia de hardware físico, mientras que la conversión, retención y adopción de planes de pago requieren instrumentación y uso real de la plataforma. También permanecen pendientes algunos supuestos del modelo de negocio, como la disposición a pagar y la viabilidad de instalación de los sensores.
+
+En conjunto, JouleTracker cuenta con una base funcional y técnica consolidada, pero necesita completar las funcionalidades planificadas, fortalecer su infraestructura y recopilar evidencia cuantitativa para demostrar su viabilidad como solución comercial.
+
 # Recomendaciones
+
+#### AV1 – Sprint Review (Sprint 1)
 
 Para las siguientes iteraciones del proyecto, se recomienda priorizar la validación de la propuesta de valor mediante entrevistas formales utilizando la Landing Page ya desplegada. Recopilar métricas tempranas de interacción y retroalimentación directa de jefes de hogar y administradores de pequeños negocios permitirá al equipo ajustar el Product Backlog en Jira antes de invertir esfuerzo de desarrollo en los flujos más complejos de la aplicación web, mitigando el riesgo de construir funcionalidades que no resuelvan los dolores del usuario.
 
@@ -3074,11 +3091,18 @@ En el ámbito técnico, la transición hacia el Sprint 2 exigirá una coordinaci
 
 Finalmente, es fundamental mantener la rigurosidad en la documentación de la gestión de código fuente. A medida que el número de repositorios crezca (separando frontend y backend), el equipo debe velar por el cumplimiento estricto de GitFlow, evitando fusiones directas a la rama main sin la respectiva revisión de código (Pull Requests). Asimismo, se sugiere automatizar progresivamente el proceso de pruebas y despliegue (CI/CD) para los contenedores principales, lo que garantizará que JouleTracker mantenga un entorno de producción estable y demostrable en las futuras evaluaciones del curso.
 
+#### TB1 – Stage Review (Sprint 2)
+
+Se recomendó documentar los endpoints antes de iniciar la integración entre Frontend y Backend, así como validar la aplicación con usuarios de ambos segmentos. También se propuso fortalecer la gestión del repositorio mediante pull requests, revisiones de código e issues, además de mantener actualizados Jira y la documentación del proyecto durante cada Sprint.
+
+#### AV2 – Sprint Review (Sprint 3)
+
+Para el siguiente avance, se recomienda completar las funcionalidades pendientes de JouleTracker y mejorar la experiencia de usuario a partir de los hallazgos de validación. 
+En el Backend, se recomienda implementar la recuperación de contraseña, los pagos mediante Stripe, la actualización de perfil y las alertas por correo mediante Brevo, además de evaluar WhatsApp como canal complementario. Asimismo, es necesario realizar un piloto con sensores físicos para validar la transmisión de datos y revisar la capacidad del entorno de producción para evitar inconvenientes durante las demostraciones. También se deben incorporar al Product Backlog las mejoras solicitadas por los usuarios, especialmente la accesibilidad visual, las comparaciones semanales, las alertas más visibles y el acceso multiusuario.
 
 ---
 
-
-# Bibliografía
+# Anexos
 
 - Organismo Supervisor de la Inversión en Energía y Minería (Osinergmin). (2023). *Guía de orientación sobre el uso eficiente y seguro de la energía eléctrica.*  
   https://www.gob.pe/osinergmin
@@ -3227,54 +3251,85 @@ Finalmente, es fundamental mantener la rigurosidad en la documentación de la ge
 - Kummer, D. *git-flow cheatsheet.*  
   https://danielkummer.github.io/git-flow-cheatsheet/index.html
 
-
-# Anexos
-
 ## Anexo A. Videos de Exposiciones
 
-- Exposición AV1 (Sprint Review 1): https://upcedupe-my.sharepoint.com/:v:/g/personal/u202512856_upc_edu_pe/IQCcVnA86T4QTr-Q8NM1xCGmAQ0SN2movemV7qMLGIxLcds?e=YFStMk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Videos de exposición del proyecto publicados en Microsoft Stream. La relación se amplía con cada entrega.
 
-- Exposición TB1: 
+| Entrega | Título | URL |
+| --- | --- | --- |
+| AV1 | Exposición AV1 – Sprint Review (Semana 4) | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202512856_upc_edu_pe/IQCcVnA86T4QTr-Q8NM1xCGmAQ0SN2movemV7qMLGIxLcds?e=YFStMk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
+| AV2 | Exposición AV2 – Sprint Review (Semana 12) | **[PENDIENTE: pegar el enlace de Microsoft Stream]** |
 
-# Anexo B. Recursos y evidencias del proyecto
+<div style="page-break-before: always;"></div>
 
-- Jira Software Cloud JouleTracker: https://alejandrochoquehuanca007.atlassian.net/jira/software/projects/JOUL/boards/1/backlog?atlOrigin=eyJpIjoiYzkxZjFiZTFlZTEzNDEwMzk2ZmEwZDBhODJmNDI4OWYiLCJwIjoiaiJ9
-- UXPressia – JouleTracker: https://uxpressia.com/w/NxJgO
-- Miro – JouleTracker: https://miro.com/app/board/uXjVHqBr2y8=/
-- Figma – JouleTracker: https://www.figma.com/design/I9Hbim3oES3bOynqQrzlHw/JouleTracker_Mockap-II--Desktop-?t=t6nxRhPCoFxgRXay-0
-- Repositorio principal de JouleTracker (Reporte): https://github.com/JouleTracker/JouleTracker
-- Repositorio de JouleTracker Landing Page: https://github.com/JouleTracker/JouleTracker-LandingPage
-- JouleTracker Landing Page: https://jouletracker.github.io/JouleTracker-LandingPage/
-- Video de ejecución del producto: https://drive.google.com/file/d/1v6G61TiA350A7FiNq-jFrFq6u096fupr/view?usp=sharing
+## Anexo B. Repositorios y productos desplegados
 
----
+**Repositorios en la organización de GitHub**
 
-# Anexos
+| Repositorio | Contenido | URL |
+| --- | --- | --- |
+| Organización JouleTracker | Organización pública de GitHub del equipo VoltLab | https://github.com/JouleTracker |
+| JouleTracker | Informe del proyecto (Project Report) | https://github.com/JouleTracker/JouleTracker |
+| JouleTracker-LandingPage | Landing Page (HTML5, CSS3 y JavaScript) | https://github.com/JouleTracker/JouleTracker-LandingPage |
+| Frontend | Web Application (Angular) | https://github.com/JouleTracker/Frontend |
+| Backend | RESTful API (Java y Spring Boot) | https://github.com/JouleTracker/Backend |
 
-- Organización JouleTracker: https://github.com/JouleTracker
-- Repositorio JouleTracker: https://github.com/JouleTracker/JouleTracker
-- Jira Software Cloud - JouleTracker: https://alejandrochoquehuanca007.atlassian.net/jira/software/projects/JOUL/boards/1/backlog?atlOrigin=eyJpIjoiYzkxZjFiZTFlZTEzNDEwMzk2ZmEwZDBhODJmNDI4OWYiLCJwIjoiaiJ9
-- Google Fonts - Inter: https://www.1001fonts.com/inter-font.html
-- Google Fonts - Roboto: https://www.1001fonts.com/roboto-font.html
-- https://coolors.co/214029-dcedd5-bed4c2-4f378a-eaddff-ffffff-1a1a1a-404040
-- https://coolors.co/214029-dcedd5-bed4c2
-- https://coolors.co/4f378a-eaddff
-- https://coolors.co/ffffff-1a1a1a-404040
-- Miro: https://miro.com/welcomeonboard/TnpJZmYyak5sRFNiYk9yemozbUJtUjBLZDZyYUpTek9McmxaMk9lM0VlTkFEZy81cU5OWWxrZ0U2Rkp0aUxVbWxMOXhrbDEvNkU5QTE3djZjbDNXb0tKa0EydzdPN20yN3dxUXNXSzdXb1J4ZDJITG5ndnJXN1piUnEyeEJpdEl3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=815831854787
-- Ver diagrama UML en PlantUML: 
-- Ver diagrama UML en PlantUML: 
-- Ver diagrama UML en PlantUML: 
-- Ver diagrama UML en PlantUML: 
-- Ver diagrama UML en PlantUML: 
-- GitHub: https://github.com/JouleTracker/JouleTracker
-- Jira: https://alejandrochoquehuanca007.atlassian.net/jira/software/projects/JOUL/boards/1/backlog?atlOrigin=eyJpIjoiYzkxZjFiZTFlZTEzNDEwMzk2ZmEwZDBhODJmNDI4OWYiLCJwIjoiaiJ9
-- UXPressia: https://uxpressia.com/w/NxJgO
-- Miro: https://miro.com/app/board/uXjVHqBr2y8=/
-- Visual Studio: https://jouletracker.github.io/JouleTracker-LandingPage/
-- Figma: https://www.figma.com/design/I9Hbim3oES3bOynqQrzlHw/JouleTracker_Mockap-II--Desktop-?t=t6nxRhPCoFxgRXay-0
-- Diagrama UML: 
-- Repositorio de JouleTracker: https://github.com/JouleTracker/JouleTracker
-- JouleTracker Landing Page Repository: https://github.com/JouleTracker/JouleTracker-LandingPage
-- JouleTracker Landing Page: https://jouletracker.github.io/JouleTracker-LandingPage/
-- Video de ejecución de Landing Page: https://drive.google.com/file/d/1v6G61TiA350A7FiNq-jFrFq6u096fupr/view?usp=sharing
-- Video de ejecución de Web App: https://upcedupe-my.sharepoint.com/personal/u202314186_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202314186_upc_edu_pe%2FDocuments%2Fprototype-navigation-sprint-2%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0=&ga=1
+**Productos desplegados**
+
+| Producto | Entrega | Plataforma | URL |
+| --- | --- | --- | --- |
+| Landing Page | AV1, actualizada en TB1 y AV2 | GitHub Pages | https://jouletracker.github.io/JouleTracker-LandingPage/ |
+| Web Application integrada con el RESTful API | AV2 (Sprint 3) | Render | https://jouletracker-front.onrender.com/ |
+| RESTful API: documentación OpenAPI en Swagger UI | AV2 (Sprint 3) | Render | https://jouletracker-api-kmok.onrender.com/swagger-ui/index.html |
+| RESTful API: URL base de los endpoints | AV2 (Sprint 3) | Render | `https://jouletracker-api-kmok.onrender.com` |
+| Web Application con datos simulados | TB1 (Sprint 2) | Render | https://jouletracker-app.onrender.com/ |
+| Servidor de datos simulados (json-server): URL base | TB1 (Sprint 2) | Render | `https://jouletracker-api.onrender.com` |
+
+<div style="page-break-before: always;"></div>
+
+## Anexo C. Herramientas de gestión, UX y diseño
+
+| Herramienta | Uso en el proyecto | URL |
+| --- | --- | --- |
+| Jira Software Cloud | Product Backlog y Sprint Backlogs | https://alejandrochoquehuanca007.atlassian.net/jira/software/projects/JOUL/boards/1/backlog?atlOrigin=eyJpIjoiYzkxZjFiZTFlZTEzNDEwMzk2ZmEwZDBhODJmNDI4OWYiLCJwIjoiaiJ9 |
+| UXPressia | Artefactos de experiencia de usuario (User Personas y mapas de experiencia) | https://uxpressia.com/w/NxJgO |
+| Miro | Tablero colaborativo del proyecto (ideación y trabajo visual) | https://miro.com/app/board/uXjVHqBr2y8=/ |
+| Miro | Design-Level EventStorming | https://miro.com/welcomeonboard/TnpJZmYyak5sRFNiYk9yemozbUJtUjBLZDZyYUpTek9McmxaMk9lM0VlTkFEZy81cU5OWWxrZ0U2Rkp0aUxVbWxMOXhrbDEvNkU5QTE3djZjbDNXb0tKa0EydzdPN20yN3dxUXNXSzdXb1J4ZDJITG5ndnJXN1piUnEyeEJpdEl3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=815831854787 |
+| Figma | User Journey Maps de ambos segmentos | https://www.figma.com/design/edK8BubeLxHBk7XgWAAwqs/Journey-Map-Template--Community-?node-id=0-1&p=f&t=hFmkmXytS2RPTiam-0 |
+| Figma | Wireframes y mock-ups de la Web Application | https://www.figma.com/design/I9Hbim3oES3bOynqQrzlHw/JouleTracker_Mockap-II--Desktop-?t=t6nxRhPCoFxgRXay-0 |
+| Figma | Prototipo navegable de la Web Application (desktop) | https://www.figma.com/proto/I9Hbim3oES3bOynqQrzlHw/JouleTracker_Mockap-II--Desktop-?node-id=24-13&t=ywhOr6HZ8TOlJlUd-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=24%3A13 |
+| Figma | Prototipo navegable de la Web Application (mobile) | https://www.figma.com/proto/2cOm4G2UT14h4DdrItKjsA/JouleTracker_Mockap_mobile?node-id=2-66&t=e5ma48eTjakvBbnU-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1 |
+| 1001 Fonts | Tipografía Inter (títulos y encabezados) | https://www.1001fonts.com/inter-font.html |
+| 1001 Fonts | Tipografía Roboto (textos generales) | https://www.1001fonts.com/roboto-font.html |
+| Coolors | Paleta de colores de la interfaz | https://coolors.co/214029-dcedd5-bed4c2-4f378a-eaddff-ffffff-1a1a1a-404040 · https://coolors.co/214029-dcedd5-bed4c2 · https://coolors.co/4f378a-eaddff · https://coolors.co/ffffff-1a1a1a-404040 |
+| Visual Studio Code | Editor de código fuente | https://code.visualstudio.com |
+
+<div style="page-break-before: always;"></div>
+
+## Anexo D. Diagramas de clases UML en PlantUML
+
+Diagramas de clases de la sección 4.7.1 que el equipo mantiene como código en PlantUML.
+
+| Diagrama | Producto | URL |
+| --- | --- | --- |
+| Device Management Context | RESTful API (Backend) | https://www.plantuml.com/plantuml/png/tLXHR-Cs37xthn3wijmL3RBjBIYAowMvmK0lnPfqm1vLYtM5isLFadl8jlllOwmufMSnItO5XbrV78dyAFAZI4bzvxoqlYcBf817BtmbhCwVl53QGkPrPHBtIPjQMbcAMcQVP0uhlob0RCNIv0KGXQoGpisyj_gXyP1cbLdftq5CaYUjG41P-uqeeNm0wvB4PHBD_32PJCHdhVmJiQDgBNwSJ99ajw8uK_2iCoYbmL49nezbNHSwariFnuyoamhEn1-9428u8QvRmCSzu4Eh8oulmu-hgw3T_frZCBbs7cn0ZRAgnANKLAHtFS4ypB-PximJ2nZheyuR2mCJSoePskZ4RIZ4e5Hg1SPLTbqDJCxwCceqp1CxEVYWytwJgj5l3TWDMlY9plwydQH14MomvzvlWf2QY0WxIpT8scMGNhNslYHV3cLJLQNKPbnM2eenJcYlmNK91TEKEzzMNlh6aTJDvklqbyL-c2x_Dl5nbYxNY-LiEN-PkqvNyzlbSZ5VBwvtphsi4vm-UPqFi_kRzQ_K6js6kErcUMuXbnx4NLNvtlQx41gJUd-VNfCf8ql0R7ghJKwcrIxTYXUkDtLCwDgGfZqY8nKmmkmzLreHKLChwNU8aO7FguWbYg84xFX40XRRh6uE1Kw3I8zcnBKBC44tHli3ND1aqrgMXNwmqiE83IjIkwyHevDbNQ2lgV5WdsMnWgmo2ZtTJkHWYQgtqhXIEuTB7rOdIGmEax1EgynT1zfNfjwkYzqNc4Q9bEn-1KveOrdA4laboI6opeZYDRgjJZH8beXdJFyzvDg-rRtf4aIbgtYEK9dGJlJNVA88Xd6Uw_IdktyCxwkkbbYDUwCzaPswWRPdXuRX_eaTI1XY-pqom25tt05rWkKJ0eHd7BZO9QGh3L2BhGwkVjr2sb7V1wOpeA3AiiQYYLk3ZLTwMEiIk6wBcmPKjs6-OitGMazpvXYgBDILqxvYjaB7Mb1gqzKD1ZbpyXb6OPtkG1eUO8_QgFRsqxLYSjU9xfn0umaU1AQw0uNpOB-x-ep_-_kI0xiLkAunXp53AkaUgw3txL-1JwInlTh-8ubjxo0K_h-ksjeyMkcyRJBVMA2r66bUj0pJiYvUiVROxiMi-9_LsZx_3ibo7clDU5iL1TWeOVEz-51vMS3SEZyL_Ugw2zFePJTsTMKSn8hYnSQ-5bxWOKpXfuPfmLMDROV1QZ_QkECqvFY5_VpG4-QSUyBGRJ88zxZ3ZF66VpwWa3uVlfB3a0ckneAm5qXNBySo5zuqHC0K5xyKpzQh4OAEGFaGIeVdOTPfzRpqLISVDfq-dWl-IFk35iENqtVYRd4pcwUtoyKg2Kw8Yukh_YCxWDjv-k3izC--FnDlBoxmEnw_FTkf38IJLXWxBvDu9Ox7VrunXtT2AeWgSsTgaWnQ6mR3_OjjAXe7Ze4mUMOmX3CMap1k89IvzKo5WW9owS4T1jFJVWXDujR7OuvsH3_Xfm37G-bTwNGiII27JcXO51ovfn0OZsAk9XJCk4n89bVjaDP3aB0U2w4-7buZYLvni1OYc8IkIdKZ3iKDam901sgmJZlledR9lgUgVEgPboPYcuT2kwU3suPzD59umfKkZOfMCQj9P8Z8BBJLn5KvPGBD7wKPCP-y0wEQilWB |
+| Energy Monitoring Context | RESTful API (Backend) | https://www.plantuml.com/plantuml/png/xLbHRzis47xNho3oigvP36zxCugWhkCM1fpOjTk-qz95vYgHAacvSBV-zr4KevvDiRGm3CE6zIMMxlYHz_6xEr9zgJILkYwBf817JRGWakLxJJ8c8TLCy4HzPBoYafQaekb7ciDM7miWZPdol03aa1PKgQdMakrg3OjKy2tx0cISx5a61CfA7qa9vGwaIXALKWFpotWy9fzPflS89wiO-NKyJX8t8xa23Z8_be8pBIJZ-OXMLS5Isgnmz4XJci4L-JqXXBIB87CxuBuRyDhwa1SlsX-tjywx-NVT12DaTWzKrH9AuFfPAigIycn25fjpswmr_JXnao0JWgoaI44fP7n5TRf7mEj-Zs_mvnQ4RfRKR43_YcUUiHVJkHa64N0EUaarg1FeJpN8em5-qsDyszWYNEI0HwXNnpiui1GGRg_z2Nh9b7xXuT_Q2RucNxydaqoKbF5HAJ8eHcOGqmpKarA0roMnp6urrRL2abYjvm_TmtgpcistsyN3c-xLR7M_NixVpU-wDw-dYwLxD2lguD_Mj63ww4tmORfSV1kyVRzTpsVlkkV5GsD7Q4xMdYICeATvBY6d6iX627qYx1l2Z1xUlqSptP3CShlm3ROIG3RL4t9duDwn4f0LU1QqbLXKDJTE2wuX1udHBGCJpBUVBMsAc2q_29PXkHT2WM_4rFW2DDpCkJRanpdPDT2B8Lm1LqBw1aT5c4Mxo9dWgYwh9lMC5wIif0LogiHda7s6WoWqpQ7FbDPI0jTzfaS99j5uUWpEPMgY5lwCNM4CauxeTaeth7-WHGrajViDqhWUiNXw-Fo4ysTocawO6VCwiztW7fIo76rrKm5GBCu774OJr4w80YZtukelas513GnAI9OpJWjBLEzkjdD25lDWWc-0Ai5xucrQvF7Rwfzn-7mAznEH9sFTBW-kgwxpT7MLSGtID6K8Dqz3fVk5k7IjuiubdTaWJ9opRbtczLldv_bbt11xoFD3cqj1-wnDA6H7Aa4X1jjuF53hXoBfn_UxUHmQUuUecc6DXNbevMNCJYI3rT4qUGOzuWWV9qnazcz86n7EWWUAuU38kdPgGQqDgP9zmSO19C41k7Ri15jPcqQGpGzjNxkpO-sJ2oDUUFn-DhGlYTHscMp5KM-B7b5SVWGN7s_3moVkj3sSiFZC0pPNGYMKUHT807-VdRzLwTE39rL53_0ChRldyEqVeHuPpruTZRYPYp9mPiV-RNO-POyPw_GJG_0JybmK0mArel0lGvT4w8yQi7SAP1EiwjgRUmxlOmVXolAs7O53-l-cEPn_UqiSmBwjxfZx_-ZTbl57IPMMTQhDCB_M-Et4BpEBiYh-TRKbt6lymFxXMjB9L8qaA6rg2TTI50N8tZr29QHpZ9GFUxbJPf-ywh5fBOX9P5ALu0e2oU63EzDmy87yI52YbisZc_gKfc2GcAJGAUSwT6k_lkJuSns-VL_xjszFgJw1yON_DVxSBaHhWVF32y4tMdzjVpztpXJuc3AS5QeKbBjWqlbaJDs0q-JJmjaZ5VB2hFY1RERBwMonUfXl4-_3titDxSctClzBYtKv-I3YerpzV4MUtzoGg_5ezFogfwHwRqw6c9_-lE4nRff0wq-2oJiQ_N4RFluaE7VySU7EdIJXgch92_mdmOJK2bHyS5Gy3YW9p6DGecV72ScWWBo9Rn2C9Q0F98dDE1fzPoyCrDxyAK1TWXCvUGv6yu-RFb0Ie0BXX1M3SE8muQCTHeepxZOmV4XpEheCvvpgE8oBRE1YaiYfqYNdTxoyQjKB47QABw4tJKq05KZ5bFRhPS_uSnSy_1BLnZxc6BXwLp2rlom98fzNXiDvfReFAOaNkm3PJYt3nljk1YULq1Qmby2pkYp-1000 |
+| Monitoring Space Context | RESTful API (Backend) | https://www.plantuml.com/plantuml/png/vLXBR-Cs4BxpLn2-DDrk3BUz6K6mZkqs0l90hRZNWf4cDh4IfP9K2hVT_rwAuieZUyAiaLuMcqDipUFZl3do1sE5jarPi0AUBBSLrtApjJoN6Z8hAyNCHwbgeKN9Qv5z51j8xQu0thA5sXI01B9263EpLil7naAILIgLVmEViAtCWKDPsnqleNm4RHWpcN0mFqqc4_wNpEqMuUIrv3zF9eo54_ceh9IqbPPgOnmDngAk2vc9ri3nayX43YF-3-ESTpRmsru-RUL_yIByugBxSdaPXDk_7tYcGLW8Af1xZREiAakXyYbFvWHxtd6_d_8X7Q6Al2FTUeSHtcp0s2CX8e9fwbnOyBmKh6qZWB3Mnrm4YCW8SGFMSwvsINxsPmDwvu1-HSJVMXhjsX31NEtM1ZG14pXxh1jfxCKGyD8ZVcAV8ddEgr98DIwh78enA2kj1FCvrQ2QidFoOLS3Ikdr_JfTNj_VB7hArJfDxfPf-iVy_lPskPedivkUbzmjrkd3Af2SGGVWgHMsCGX-Ddz8VbyY_GF2R3M_TiyB38VBCWIWhSVPPgDX8opmLLNPGLsUS-aol5ud2qHIeWINMDj6297Dvo1Cz_50x1nCfcNTTWkbxFsROcUFcgFh2PV7vqhcHzMv02jaOSwmTU-fKp403WokVHULPPletUlHA0VXJ8u56WEQ86ie_EWmMrdxg0NpSFSQ8pSgz6xSxD1X_wVTMQCrg6n7P0iKwCrkxG0m4wS3pOa3cFU4Tl3jr5uC8wZlHQaiw2Sd5fsNBaRX6mfIc2XtedGLXfn2lBweNn9Ox6iDYuHyOVl8-HktB6J90OSyOMOOW2HlTL1dhvf6Z_CtsJSFDV1Iv9PzHM29qugXdVuIZck1k5QS7_xpTI_e2D4N38rAf-VB78DdK3PuH4_lhippPIlepbzuFVzqO8N1JOxeLURxCxzNKxvmK0-oXEXaT8NxblF8OKYRyULnqb1NnZF8_0z3jWh2Fc7xXqFxnJES-KCELv3Z--T9gjplCJ8uHgyjM3XK18x6c_SJX_KiCp3zM0pFH4JmE4mxiMzp6Jqji7x1V2siVWQWe7wLAwzKJreOgvlCDXg81aFZYEojfAoBhxQX-fGQvxcnhg6KrLLHW8uFurxC2T7BgmQNCMEdVBudhZeQzZ7GJLqfSz11eNbwe67lxB4m4GETvhdxLpMwU_J8mm0GRc3NwJU5S3dGEo-ri1_THxJJRxX_Oilu6q8MuXvlcI24hSVh-kcXZ5pUySDEZzw9eN7ME3E8DY8ZCWlImswoLU2_F4rekBszt_7LycOsJ-xTopWR2lFpyqlqzaemyGlg0NlquuY_Ep_deybu_6w4unwJT5y7rn8ZUcey_lSoUkqogYE27dszClRIyF9kqhzTJTiACAzhnf8PC1XzWaEWrvCfpw7mlrAOY2gwWYb5HaAFn_7WEeYj-oZ0HFI7GJv1CxAn87M6F4FQn0A1b6WTUbl0YcISV80ZotJ8Aphp93qMtIHS8KSmehf4KRepQz166XihYSYRbjDl7Wjfjh74qYzDM9N5UeNk9xe5QKrQXa_3HcBO1r1vKnR_0G00 |
+| Recommendation Management Context | RESTful API (Backend) | https://www.plantuml.com/plantuml/png/tLXDR-Cs4BthLn2-DDr53BUz6K6mhkrc1UGZjUAsLqQQA4GaKIL7NhZj_lUEP4OX8rdq6jbBSh58pZoIR-ODoNpIo1LMUHPay80C9LCYVKIM20Kn2ba4-aaK9LSyPoMFdtWA4MupOFKmBz8CB8CuurhF49Muhn32M1QH-0VO97WK2J38Izoo7F9xK3e8TCm9vkV9PCA-Y0GVBPoa5EoNoIG8p8niHBF9F8SYuVMQSbvGBpLnpCio4t7JEtxWCKzWnFuD66ExnR2LutZLElxMsBApizt7-Rdngly-iXGAK1p1zJwf6xn8fYoyw3MOxyP_dBwQraAkogJZ5Y77Iblewxr61yoG0hfZ-jTjH4J2oTyLg6sz-7qMlzS6X7qfD9wv9kVM31IukCeuGiGteaXNeAiCTGi_xnr-nhOx6yolmTT30ft8d8jYdCi4iZ5r21IWdsCDHPMpMoMa4hYzX0raLZWlR_vilw-MYt1zrJO_XnUVsyPwTR6ylZDhUe7j2uE5FflVXNyihUPyUNktNBGTYp2w2gF8wbd-THkkgDrEr9-hb9kpD5MGSWIsaXAT73rbWZ9blGuNLbSk2u5IGT94C-mQeC0CA0QeA0PMVscecxeaMXQWKUGS8Td5RyeM45E7RQ8RQgQzXFLewuIIOID5qX67aKC1Nw81HEFjOt4M6owN1TAs_1ow2TZ38MyG5w1Z9ShwiuTFKGkrp021_E-bp83R4isvUfgzc9pitOijbhVSGns2T4lea5YHx0PxBZNsMtNBWAPjj5R72jlKm5ROea1GLDV1KtA97FFLgUHuvQg2w3PyE5PtjJHeo0sc6NnMnRxnfQkEBXFkPZmLthSXrstVXgwVzMCj-jYmrALTG3SglhE4Tj7y7XwKVhw6pfJk73wUZg01DjJGGrUBv_HCbhKfBMhHU3OjTsaUUPA1ZEDA4JSt1UKHOTw97Fo5BeRo-qr_16SAIgafo7ionrt-oXWtyMmRhuEg-GPEt7bVdmxTK-L150abfSapRH-DthkESIO_yUBYMX_1Z0Qr4J7ejjoPjfSbKnAYdVqxkB8UoLjprJoOjQOyj9oz_wkoA1uKrwYg62i5jWu7AfWjmJ0litUbkpOrDB6XaNHNe99P1cgGaNbhrYirOeG2gN7A-hMrsWrtLauHBMMXOT_DjuLTMxr-iEFfKA1bfUgccTfbPNXx3ZLEbAt-_eV7n_RXqHqQVd7O1s4VJTzsuBLFZNOPRqEc2SsmweoHisBn_HaqyNgpRTFE8BytYlBkTcQiNM6XDEFUOkDNmGzijRoSpSERwsKKkCRizFJSVUZs6VITPQ_jHZ-Ds8VJKpQQZCSVHhrFpo4N-dHgV30ijF7ultFFEHvqjM3y_2Tq4EojViI7xpzfKrPfq1u8JouOZC0p5K5vBaPJba06AKVGHu2P-q8NAXYUTJpsXOVG7kad0-s7yaVCXWk6za1etfTQ2-L76dgC6HW_MSJxm1l0PCB0KWu320QlE2IC0OnXtsu-qvmbA2qq7fGfWyz7WghkCw4V3ygKePUWZHJu1DZTbAjhlsVNXX1Y1JlzVAB1Ai_-1m00 |
+| Frontend Web Application Class Diagram | Web Application (Angular) | https://www.plantuml.com/plantuml/png/jLZDRkCs4BxxAOZjeGxIw064G5Ylas2ttRQB9DiUYXveSQAmAv72a79gj7dtweUcDQPCEmroCi7vcMyu_3unUMyiHzjKvUnxzgDkIhX7ddy3PB_3YYtgkfGvjr8hTi5kK2iBIh2hgoksBBanx4ho0dd5vWjLD2L7ji3yKLh8RODmDflLRIvU07l7w_eT-sSsOynlcKUE8BfTnaRRKZqWDnQRFiVMp1XVjPiyjoplAt_W1XQrl5QYrbBPo_jhPQNT_C3kRy7e1dCObhLMfbikZ85gLG9cFYDZtprQMwViexNrifIWxCu2Bl5NB5DcB4fLx8nycomT9VRcymBieYpdPodxTMK0rxmrRm7-yMT673ziFecv52bJJRK2d8p9He2v4YLS8sgSwngmdyqM80rMi0RSXZwxNt9uuvDOSGEaLn8cbGLyu3dqeRxb-AcFJ_hSwjvLWhb1NMrTvkWMwIwixSAVLH2_wQDThJcwHUhhZwB7iLjh5prOvz3_UE-pKOveyrkdSNEx-SL3NOS-D9pA08PTNhh9Px4oxWgr5-WigEyMUpHX5nSP7I5BMMF077J_DzjkjfxmTyT_vqpp-CokWvJbMgq1hPavG8JbDO81PVlhc-IwghK2POsdkpkIptoZ6xlSsjjpyUii8vw_yFMAuocUTr90pDNDvPc8bUHLe5H2LrogfD82odtWNmtWWIashKdn2W9PEOSsNnbkeouddAt-1cgQhaFrVdQyhfD1Q1CghCbkLgxbg0hJxXQDVQJwSLxgGgfvZY0wOl7If8oh3LMa3bOswWiAQIpWN73BZxW_Ju7aky_JFi9FlBgp6g6TGVzBHv0tYA1iLo1bTx9GlDm79qtNPElK5G3XtLPQby1LTaBdQoq5STEDdPDzFp0FjsNHCBsKLLpn0ioKXpl_CNUV8_nQItWAgTN1FeKljsvCnmZ3zbCcIRQ3dJAf_eBSoG796NUcF1ImbZcO5t7ngeyvmCPf9jfDFR5Rwk6oXHPZkMrCkEyksXVz13ZzYN3etf2jhe8PwVgacVAv0EiCU--OOTSzOoYH1zDyc57g4az5ZsARMd0B_oTIG0a-yj0BgkCQqP2WRVy1kxpqQy-0yEXE6LHuqa6n93cQnJi7M3eDc8AMikvC2cx1nF3xsE0Hy3ADTLaYEklOwiLpukv8yrbp8LKHLLWkjfSnq5KknEJj2HmHAhqExykq89FUTaT6P3dYPrwhpYxDRwqjgj74_KPZTLIbfrCdYOS-eTT1_cX8gDgvLgQfwgxT5odtSXVt1VM3BAcA1phxqzDZ-486OsN5BOYbDZOqTuzFZjAq9G2b5jDFgX3A6qesQJpKvUNGxCXdJw93h1b9y54Qgt5pDCeJzVJdLuW_8WyLM9IvbuS8RYS2Fmy1quyeKjJpCSWPSFXet2kvF4uLvRFFJGCeIodQEEqGSbrLe4GFxcMFfbiIUu1sxSxKdoO2J8wofa-bW8vtVDqQJCZ86gN6jbRycHKmb29-ItRIIYPaw9x37j6ebNmDEqfjgFtqfqsCd_4E8Xn5ukcv6ZP1cKhDEyRIJez-XaESZfxKG2bzUjnhFzFxwKwYTpmeIGAGqpHt21PrVR0YCRRj4puS-0zCilyl5tSypxFte4HJbVy1 |
+
+<div style="page-break-before: always;"></div>
+
+## Anexo E. Videos de evidencia del proyecto
+
+| Video | Contenido | Plataforma | URL |
+| --- | --- | --- | --- |
+| Needfinding Interviews (entrevistas 1 a 5) | Entrevistas a representantes de ambos segmentos objetivo | Microsoft Stream | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBkzQzRmAaoS5LFmM1r1DC5Af0gnGXJmTsmMaAUnjQgkds?e=eIdl0O&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D |
+| Needfinding Interviews (entrevista 6) | Entrevista al tercer representante del segmento de hogares | Microsoft Stream | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQDB16irH02WS5laTL__j-iKAfsOETJD9oBPkazEy9YJjR4?e=qIzO0l&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTU1MC44Mn19 |
+| Prototype Navigation | Recorrido del prototipo de la Web Application elaborado en Figma | Google Drive | https://drive.google.com/file/d/1NVVftMkgkf8UINHr9ddtzFL6ZltgTxzm/view?usp=sharing |
+| Product Navigation – Sprint 1 | Ejecución de la Landing Page desplegada | Google Drive | https://drive.google.com/file/d/1v6G61TiA350A7FiNq-jFrFq6u096fupr/view?usp=sharing |
+| Product Navigation – Sprint 2 | Ejecución de la Web Application desplegada | Microsoft Stream | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQA44UOoizuXTKtjNNVSucmHAaF7QsB-ggFVLe-lBus9X34?e=YKwjz8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
+| Validation Interviews – Sprint 3 | Video consolidado de las entrevistas de validación. Los enlaces por entrevista figuran en la sección 5.3.2. | Google Vids | https://docs.google.com/videos/d/1pbwGMrpZxYrKGhcpf_nmrQ2SVKcwi-aBl0wV3Ilaba0/play?usp=sharing |
+| About-the-Product | Video promocional del producto, incrustado en la Landing Page | YouTube | https://www.youtube.com/watch?v=UYQWInpBB8s |
+| About-the-Team | Sesión de trabajo, roles del equipo y aprendizajes del desarrollo de JouleTracker, incrustado en la Landing Page | YouTube | https://www.youtube.com/watch?v=QbeDnsBkNYQ |
+
