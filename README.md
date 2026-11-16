@@ -2735,6 +2735,8 @@ En el Sprint 3 se mantuvo la organización por Bounded Contexts y frentes de tra
 | TS-10 | Get Latest Reading | Energy Monitoring / Analytics | T26 | Endpoint de última lectura e integración en Dashboard | Implementar `GET /api/v1/sensors/{id}/readings/latest` para entregar la última medición en tiempo real al Dashboard y documentar el avance del Sprint 3 y Student Outcome. | 5 | Matihues Quevedo, Mijail Alexander | Done |
 | TS-16 | Manage Business Areas | Business Energy Management | T27 | Endpoints de áreas de negocio y actualización de informe | Implementar `POST /api/v1/business-areas` y `GET /api/v1/business-areas` para registrar y listar zonas físicas MYPE, además de apoyar en la actualización del informe y Sprint 3. | 5 | Velasquez Velasquez, Rodrigo | Done ||
 
+* **Enlace del tablero en Jira Software Cloud:** `https://alejandrochoquehuanca007.atlassian.net/jira/software/projects/JOUL/boards/1/backlog?atlOrigin=eyJpIjoiYzkxZjFiZTFlZTEzNDEwMzk2ZmEwZDBhODJmNDI4OWYiLCJwIjoiaiJ9`
+
 #### 5.2.3.4. Development Evidence for Sprint Review
 
 El seguimiento de las tareas planificadas para el Sprint 3 se gestionó mediante el tablero Kanban en Jira Software Cloud, permitiendo verificar el avance de las historias técnicas de Backend y las tareas de integración con el Frontend hasta su estado final (*Done*).
