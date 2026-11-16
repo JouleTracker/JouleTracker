@@ -3045,6 +3045,157 @@ Ricardo, administrador de un minimarket de 23 años ubicado en San Luis, con 3 a
 
 
 
+### 5.3.3. Evaluaciones según heurísticas
+
+**UX Heuristics & Principles Evaluation**
+
+*Usability – Inclusive Design – Information Architecture*
+
+En esta sección presentamos el análisis heurístico de JouleTracker, tomando como referencia las observaciones obtenidas durante las entrevistas de validación con nuestros dos segmentos objetivo: usuarios residenciales y administradores de pequeños negocios.
+
+El propósito de esta evaluación es identificar posibles dificultades relacionadas con la usabilidad, accesibilidad y organización de la información, para establecer oportunidades de mejora que puedan ser consideradas en las próximas iteraciones del producto.
+
+#### Site or App to Evaluate
+
+JouleTracker – Plataforma web orientada al monitoreo, análisis y gestión del consumo energético en hogares y pequeños negocios.
+
+**Productos considerados:**
+
+- Landing Page de JouleTracker.
+- Web Application de JouleTracker.
+
+#### Tasks to Evaluate
+
+**Segmento 1: Usuarios residenciales (hogares)**
+
+1. Identificar la propuesta de valor de JouleTracker desde la Landing Page.
+2. Acceder a la aplicación e iniciar sesión.
+3. Visualizar los indicadores del consumo energético en el Dashboard.
+4. Registrar o vincular sensores IoT.
+5. Consultar el historial de consumo y las proyecciones del recibo eléctrico.
+6. Revisar las alertas relacionadas con consumos elevados.
+
+**Segmento 2: Dueños y administradores de pequeños negocios**
+
+1. Acceder al módulo de monitoreo comercial.
+2. Visualizar los equipos eléctricos registrados.
+3. Consultar los indicadores de consumo de cada equipo.
+4. Identificar las alertas por consumo anómalo.
+5. Interpretar la información del consumo energético del negocio.
+
+Las tareas deberán contrastarse con las funcionalidades efectivamente disponibles en la versión evaluada. Las integraciones externas, los sensores físicos y las funcionalidades todavía no implementadas se consideran fuera del alcance de las pruebas directas de interfaz.
+
+#### Escala de severidad
+
+| Nivel | Descripción |
+|---|---|
+| 1 | Problema superficial que no impide completar las tareas y tiene un impacto reducido en la experiencia del usuario. |
+| 2 | Problema menor que puede generar dificultades o requerir pasos adicionales. Se recomienda corregirlo en próximas iteraciones. |
+| 3 | Problema importante que dificulta la ejecución de tareas relevantes. Requiere una atención prioritaria. |
+| 4 | Problema crítico que impide completar una tarea esencial. Debe corregirse antes del lanzamiento. |
+
+#### Tabla resumen de oportunidades de mejora
+
+Las siguientes observaciones se obtuvieron de las entrevistas documentadas. La relación con los principios heurísticos y las severidades propuestas deberá confirmarse mediante una inspección de la interfaz.
+
+| # | Oportunidad de mejora | Segmento | Severidad propuesta | Principio relacionado |
+|---|---|---|---|---|
+| 1 | Incorporar alertas mediante WhatsApp | Hogares | 2 | Flexibilidad y eficiencia de uso |
+| 2 | Incorporar comparaciones semanales más detalladas | Hogares | 1 | Arquitectura de información: utilidad |
+| 3 | Mejorar la legibilidad y el tamaño de los elementos | Hogares | 2 | Diseño inclusivo y accesibilidad |
+| 4 | Facilitar la identificación visual de equipos | Negocios | 2 | Reconocimiento antes que recuerdo |
+| 5 | Reforzar la visibilidad de advertencias de sobrecarga | Negocios | 3 | Visibilidad del estado del sistema |
+| 6 | Permitir la recepción compartida de alertas | Negocios | 2 | Flexibilidad y eficiencia de uso |
+
+#### Descripción de las oportunidades de mejora
+
+**Problema potencial #1: Limitaciones en los canales de notificación**
+
+**Severidad propuesta:** 2
+
+**Principio relacionado:** Usability – Flexibilidad y eficiencia de uso.
+
+**Observación:** Durante la entrevista, Jesús destacó la importancia de recibir alertas cuando el consumo energético supera los valores esperados. Como sugerencia, mencionó la posibilidad de incorporar notificaciones mediante WhatsApp para recibir información sin necesidad de ingresar constantemente a la aplicación.
+
+**Recomendación:** Evaluar la incorporación de canales de notificación adicionales que permitan al usuario seleccionar cómo desea recibir las alertas de consumo.
+
+**Evidencia pendiente:** Captura del módulo de alertas y verificación de los canales actualmente disponibles.
+
+---
+
+**Problema potencial #2: Necesidad de comparaciones de consumo entre periodos**
+
+**Severidad propuesta:** 1
+
+**Principio relacionado:** Information Architecture – Utilidad de la información.
+
+**Observación:** Fabrizio destacó la utilidad de los gráficos de consumo energético y sugirió incorporar comparaciones semanales más detalladas para identificar diferencias en el gasto eléctrico durante distintos periodos.
+
+**Recomendación:** Evaluar la incorporación de gráficos comparativos que permitan visualizar el consumo de la semana actual frente a periodos anteriores.
+
+**Evidencia pendiente:** Captura del historial de consumo y de las opciones de comparación disponibles.
+
+---
+
+**Problema potencial #3: Accesibilidad visual para diferentes perfiles de usuario**
+
+**Severidad propuesta:** 2
+
+**Principio relacionado:** Inclusive Design – Accesibilidad y legibilidad.
+
+**Observación:** Carlos logró identificar las funcionalidades principales del sistema, pero recomendó una interfaz simplificada con tipografías y botones más grandes para facilitar el uso de la plataforma a personas adultas mayores.
+
+**Recomendación:** Evaluar la implementación de tamaños de fuente ajustables, botones de mayor dimensión y una presentación simplificada de las funcionalidades más utilizadas.
+
+**Evidencia pendiente:** Capturas del Dashboard y revisión de los tamaños de los elementos interactivos.
+
+---
+
+**Problema potencial #4: Identificación visual de equipos eléctricos**
+
+**Severidad propuesta:** 2
+
+**Principio relacionado:** Usability – Reconocimiento antes que recuerdo.
+
+**Observación:** Diana consideró importante reconocer rápidamente los equipos eléctricos asociados a su negocio. Por ello, sugirió personalizar los dispositivos mediante nombres, iconos o fotografías que permitan diferenciarlos con mayor facilidad.
+
+**Recomendación:** Evaluar opciones de personalización visual de los equipos registrados para facilitar su reconocimiento dentro del panel de monitoreo.
+
+**Evidencia pendiente:** Captura del listado de dispositivos y de las opciones de edición existentes.
+
+---
+
+**Problema potencial #5: Visibilidad de advertencias por sobrecarga eléctrica**
+
+**Severidad propuesta:** 3
+
+**Principio relacionado:** Usability – Visibilidad del estado del sistema.
+
+**Observación:** Eduardo valoró las alertas preventivas de JouleTracker y recomendó reforzar visualmente las advertencias relacionadas con posibles sobrecargas eléctricas, especialmente en equipos de alto consumo utilizados en talleres.
+
+**Recomendación:** Evaluar el uso de indicadores visuales diferenciados según el nivel de riesgo, acompañados de mensajes claros que permitan reconocer rápidamente una situación que requiere atención.
+
+**Evidencia pendiente:** Captura de la pantalla de alertas y revisión de cómo se comunica actualmente una sobrecarga.
+
+---
+
+**Problema potencial #6: Necesidad de acceso compartido a las alertas del negocio**
+
+**Severidad propuesta:** 2
+
+**Principio relacionado:** Usability – Flexibilidad y eficiencia de uso.
+
+**Observación:** Ricardo, administrador de un minimarket, sugirió habilitar el acceso multiusuario para que sus socios también puedan recibir alertas relacionadas con el funcionamiento de los equipos eléctricos.
+
+**Recomendación:** Evaluar un mecanismo de acceso compartido o de destinatarios adicionales de notificaciones, considerando permisos y responsabilidades de cada usuario.
+
+**Evidencia pendiente:** Revisión de las funcionalidades de gestión de usuarios y configuración de notificaciones.
+
+#### Consideraciones finales
+
+A partir de las entrevistas realizadas, identificamos oportunidades de mejora relacionadas principalmente con las notificaciones, la presentación de información energética, la accesibilidad y la gestión de equipos eléctricos.
+
+Estas observaciones permiten orientar futuras inspecciones heurísticas y establecer posibles prioridades de desarrollo. Para confirmar la severidad de cada problema, será necesario contrastar los comentarios de los entrevistados con el comportamiento real de las interfaces y documentar las evidencias correspondientes.
 
 
 
@@ -3054,6 +3205,26 @@ Ricardo, administrador de un minimarket de 23 años ubicado en San Luis, con 3 a
 
 
 
+## 5.4. About the Product
+
+En esta sección presentamos **About the Product**, el video de presentación de JouleTracker elaborado por VoltLab. En este material mostramos la problemática que buscamos resolver y la propuesta de valor de nuestra plataforma para hogares y pequeños negocios: facilitar la comprensión del consumo energético, su monitoreo y la toma de decisiones para evitar gastos innecesarios.
+
+El video permite dar a conocer el propósito de JouleTracker, los segmentos a los que nos dirigimos y las funcionalidades planteadas para el monitoreo energético, como la consulta de métricas, el historial de consumo y las alertas preventivas.
+
+**Videos de About the Product:**
+
+
+- **Google Videos:** [Ver video de JouleTracker](https://docs.google.com/videos/d/1bumlQ-HWnqWWbWQpgBiuDvokOq7Y1ieCQH4nA5uWWbA/edit?scene=id.hbcfc58d0c3316ee_2_1#scene=id.hbcfc58d0c3316ee_2_1)
+
+- **YouTube:** [About the Product – JouleTracker](https://www.youtube.com/watch?v=UYQWInpBB8s)
+
+### About the Team – VoltLab
+
+En esta sección presentamos a los integrantes de VoltLab, el equipo responsable del diseño y desarrollo de JouleTracker. Cada integrante aportó sus conocimientos y habilidades durante las diferentes etapas del proyecto, desde la identificación de las necesidades de los usuarios hasta la implementación y validación de nuestra solución.
+
+![About the Team – VoltLab](./report/images/abouttheteam.png)
+
+**Figura:** Presentación de los integrantes del equipo VoltLab, responsables del desarrollo de JouleTracker.
 
 
 ## Conclusiones y Recomendaciones.
