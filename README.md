@@ -3565,7 +3565,7 @@ Videos de exposición del proyecto. La relación se amplía con cada entrega.
 | Entrega | Título | URL |
 | --- | --- | --- |
 | AV1 | Exposición AV1 – Sprint Review (Semana 4) | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202512856_upc_edu_pe/IQCcVnA86T4QTr-Q8NM1xCGmAQ0SN2movemV7qMLGIxLcds?e=YFStMk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
-| AV2 | Exposición AV2 – Sprint Review (Semana 12) | **[PENDIENTE: pegar el enlace de la exposición AV2]** |
+| AV2 | Exposición AV2 – Sprint Review (Semana 12) | https://drive.google.com/file/d/1mfNkhpM8lRtFV0cmCwdj6kuTZ_nlUFIE/view?usp=drivesdk |
 
 <div style="page-break-before: always;"></div>
 
