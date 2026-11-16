@@ -2741,8 +2741,6 @@ El seguimiento de las tareas planificadas para el Sprint 3 se gestionó mediante
 
 ![Tablero de trabajo del Sprint 3 en Jira](report/images/SprintReview/sprint3-jira.png)
 
-**Figura:** Vista del tablero Kanban en Jira correspondiente a la ejecución del Sprint 3. `[COMPLETAR: Insertar captura de Jira Sprint 3]`
-
 A nivel de repositorios, los avances fueron registrados siguiendo el flujo de ramas de GitFlow y el estándar *Conventional Commits*:
 
  | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
