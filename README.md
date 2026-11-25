@@ -1,4 +1,6 @@
-﻿<p align="center">
+﻿<a id="caratula"></a>
+
+<p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="200"></img><br>
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <strong>Facultad de Ingeniería</strong><br>
@@ -171,6 +173,7 @@
 | 13.6    | 15/11/2026 | Matihues Quevedo Mijail Alexander    | Redacción de Sprint 3 (`5.2.3`), Tabla de Contenidos y actualización de Student Outcome 3 |
 | 13.7    | 15/11/2026 | Matihues Quevedo Mijail Alexander    | Correccion del Sprint 3 y eliminacion de datos incorrectos |
 | 13.8    | 16/11/2026 | Jara Espinoza Miguel Angel           | Consolidación AV2 (`Insights AV2`, `5.1`, commits `5.2.3.4`, 16 controladores Swagger `5.2.3.6`, evidencias `5.3.3`, `5.4`, `Student Outcome 3` y Anexos) |
+| 13.9    | 25/11/2026 | Jara Espinoza Miguel Angel           | Correcciones de mejora continua, erratas y evidencias GitHub post-AV2: unificación de edad (`24 años`) en Entrevista #6, migración de la Tabla de Contenidos a anclas internas `#` (`111/111`), corrección de `Team Volta` → `VoltLab`, `Caratula` → `Carátula`, `Empeiza` → `Empieza`, captura de la organización en GitHub y actualización de capturas completas de GitHub Insights para los 4 repositorios |
 
 ---
 
@@ -182,6 +185,10 @@ Todas las actividades asignadas a lo largo del proyecto (AV1, TB1 y AV2) se encu
 
 Organización JouleTracker : https://github.com/JouleTracker
 
+![Organización JouleTracker y repositorios en GitHub](report/images/Insights/github-org-repositories.png)
+
+**Figura:** Vista general de la organización `JouleTracker` en GitHub mostrando los repositorios del proyecto (`JouleTracker`, `Backend`, `Frontend` y `JouleTracker-LandingPage`) y los integrantes de VoltLab.
+
 En cuanto al informe del proyecto, cada integrante del equipo participó en la elaboración de los diferentes capítulos y secciones asignadas, desarrollando contenido en formato Markdown, tablas, diagramas, evidencias y demás artefactos correspondientes al proyecto JouleTracker.
 
 El progreso de cada integrante fue registrado mediante commits realizados en las diferentes ramas de trabajo del repositorio, permitiendo mantener un historial de los cambios y evidenciar la participación colaborativa del equipo durante el desarrollo de la AV1.
@@ -192,11 +199,11 @@ Repositorio JouleTracker : https://github.com/JouleTracker/JouleTracker
 
 ## Insights AV1
 
-En esta sección se presentan las métricas de colaboración obtenidas mediante GitHub Insights. Estas evidencias permiten visualizar los commits realizados por los integrantes del equipo durante la AV1 y reflejan la participación de Team Volta en la elaboración y evolución del Project Report.
+En esta sección se presentan las métricas de colaboración obtenidas mediante GitHub Insights. Estas evidencias permiten visualizar los commits realizados por los integrantes del equipo durante la AV1 y reflejan la participación de VoltLab en la elaboración y evolución del Project Report.
 
 ![Project Report Collaboration Insights AV1](report/images/Insights/Insights1.png)
 
-**Figura:** Métricas generales de contribución de los integrantes de Team Volta durante la AV1.
+**Figura:** Métricas generales de contribución de los integrantes de VoltLab durante la AV1.
 
 ![Project Report Contributors AV1](report/images/Insights/Insights2.png)
 
@@ -204,11 +211,11 @@ En esta sección se presentan las métricas de colaboración obtenidas mediante 
 
 ## Insights TB1
 
-En esta sección se presentan las métricas de colaboración obtenidas mediante GitHub Insights correspondientes al primer sprint del ciclo de desarrollo (TB1). Estas evidencias reflejan la actividad, frecuencia de commits y aportes de cada uno de los integrantes de Team Volta tanto en la evolución del Project Report como en la consolidación del repositorio de software de JouleTracker.
+En esta sección se presentan las métricas de colaboración obtenidas mediante GitHub Insights correspondientes al primer sprint del ciclo de desarrollo (TB1). Estas evidencias reflejan la actividad, frecuencia de commits y aportes de cada uno de los integrantes de VoltLab tanto en la evolución del Project Report como en la consolidación del repositorio de software de JouleTracker.
 
 ![Project Report Collaboration Insights TB1](report/images/Insights/INSTB2.png)
 
-**Figura:** Métricas generales de contribución y frecuencia de commits de los integrantes de Team Volta durante el hito TB1.
+**Figura:** Métricas generales de contribución y frecuencia de commits de los integrantes de VoltLab durante el hito TB1.
 
 ![Project Report Contributors TB1](report/images/Insights/INSTB1.png)
 
@@ -232,121 +239,121 @@ En esta sección se presentan las métricas de colaboración obtenidas mediante 
 
 # Tabla de Contenidos
 
-- [Caratula](1-caratula.md)
-- [Registro de Versiones del Informe](2-registros.md)
-- [Project Report Collaboration Insights](3-collaborations.md)
-- [Tabla de Contenidos](4-content-table.md)
-- [Student Outcome](5-studentoutcome.md)
+- [Carátula](#caratula)
+- [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+- [Project Report Collaboration Insights](#project-report-collaboration-insights)
+- [Tabla de Contenidos](#tabla-de-contenidos)
+- [Student Outcome](#student-outcome-3)
 
 ## Capítulos
 
-- [Capítulo I: Introducción](10-chapter-1.md)
-    - [1.1. Startup Profile](10-chapter-1.md#11-startup-profile)
-        - [1.1.1. Descripción de la Startup](10-chapter-1.md#111-descripción-de-la-startup)
-        - [1.1.2. Perfiles de integrantes del equipo](10-chapter-1.md#112-perfiles-de-integrantes-del-equipo)
-    - [1.2. Solution Profile](10-chapter-1.md#12-solution-profile)
-        - [1.2.1. Antecedentes y problemática](10-chapter-1.md#121-antecedentes-y-problemática)
-        - [1.2.2. Lean UX Process](10-chapter-1.md#122-lean-ux-process)
-            - [1.2.2.1. Lean UX Problem Statements](10-chapter-1.md#1221-lean-ux-problem-statements)
-            - [1.2.2.2. Lean UX Assumptions](10-chapter-1.md#1222-lean-ux-assumptions)
-            - [1.2.2.3. Lean UX Hypothesis Statements](10-chapter-1.md#1223-lean-ux-hypothesis-statements)
-            - [1.2.2.4. Lean UX Canvas](10-chapter-1.md#1224-lean-ux-canvas)
-    - [1.3. Segmentos Objetivos](10-chapter-1.md#13-segmentos-objetivos)
+- [Capítulo I: Introducción](#capítulo-i-introducción)
+    - [1.1. Startup Profile](#11-startup-profile)
+        - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+        - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+    - [1.2. Solution Profile](#12-solution-profile)
+        - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
+        - [1.2.2. Lean UX Process](#122-lean-ux-process)
+            - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+            - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+            - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+            - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+    - [1.3. Segmentos Objetivos](#13-segmentos-objetivo)
 
-- [Capítulo II: Requirements Elicitation & Analysis](20-chapter-2.md)
-    - [2.1. Competidores](20-chapter-2.md#21-competidores)
-        - [2.1.1. Análisis Competitivo](20-chapter-2.md#211-análisis-competitivo)
-        - [2.1.2. Estrategias y tácticas frente a competidores](20-chapter-2.md#212-estrategias-y-tacticas-frente-a-competidores)
-    - [2.2. Entrevistas](20-chapter-2.md#22-entrevistas)
-        - [2.2.1. Diseño de entrevistas](20-chapter-2.md#221-diseño-de-entrevistas)
-        - [2.2.2. Registro de entrevistas](20-chapter-2.md#222-registro-de-entrevistas)
-        - [2.2.3. Análisis de entrevistas](20-chapter-2.md#223-análisis-de-entrevistas)
-    - [2.3. Needfinding](20-chapter-2.md#23-needfinding)
-        - [2.3.1. User Personas](20-chapter-2.md#231-user-personas)
-        - [2.3.2. User Task Matrix](20-chapter-2.md#232-user-task-matrix)
-        - [2.3.3. User Journey Mapping](20-chapter-2.md#233-user-journey-mapping)
-        - [2.3.4. Empathy Mapping](20-chapter-2.md#234-empathy-mapping)
-    - [2.4. Big Picture EventStorming](20-chapter-2.md#24-big-picture-event-storming)
-        - [2.4.1. Open](20-chapter-2.md#241-open)
-        - [2.4.2. Explore](20-chapter-2.md#242-explore)
-        - [2.4.3. Close](20-chapter-2.md#243-close)
-    - [2.5. Ubiquitous Language](20-chapter-2.md#25-ubiquitous-language)
+- [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
+    - [2.1. Competidores](#21-competidores)
+        - [2.1.1. Análisis Competitivo](#211-análisis-competitivo)
+        - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+    - [2.2. Entrevistas](#22-entrevistas)
+        - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+        - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+        - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+    - [2.3. Needfinding](#23-needfinding)
+        - [2.3.1. User Personas](#231-user-personas)
+        - [2.3.2. User Task Matrix](#232-user-task-matrix)
+        - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+        - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+    - [2.4. Big Picture EventStorming](#24-big-picture-event-storming)
+        - [2.4.1. Open](#241-open)
+        - [2.4.2. Explore](#242-explore)
+        - [2.4.3. Close](#243-close)
+    - [2.5. Ubiquitous Language](#25-ubiquitous-language)
 
-- [Capítulo III: Requirements Specification](30-chapter-3.md)
-    - [3.1. User Stories](30-chapter-3.md#31-user-stories)
-    - [3.2. Impact Mapping](30-chapter-3.md#32-impact-mapping)
-    - [3.3. Product Backlog](30-chapter-3.md#33-product-backlog)
+- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+    - [3.1. User Stories](#31-user-stories)
+    - [3.2. Impact Mapping](#32-impact-mapping)
+    - [3.3. Product Backlog](#33-product-backlog)
 
-- [Capítulo IV: Product Design](40-chapter-4.md)
-    - [4.1. Style Guidelines](40-chapter-4.md#41-style-guidelines)
-        - [4.1.1. General Style Guidelines](40-chapter-4.md#411-general-style-guidelines)
-        - [4.1.2. Web Style Guidelines](40-chapter-4.md#412-web-style-guidelines)
-        - [4.1.3. Mobile Style Guidelines](40-chapter-4.md#413-mobile-style-guidelines)
-    - [4.2. Information Architecture](40-chapter-4.md#42-information-architecture)
-        - [4.2.1. Organization Systems](40-chapter-4.md#421-organization-systems)
-        - [4.2.2. Labeling Systems](40-chapter-4.md#422-labeling-systems)
-        - [4.2.3. SEO Tags and Meta Tags](40-chapter-4.md#423-seo-tags-and-meta-tags)
-        - [4.2.4. Searching Systems](40-chapter-4.md#424-searching-systems)
-        - [4.2.5. Navigation Systems](40-chapter-4.md#425-navigation-systems)
-    - [4.3. Landing Page UI Design](40-chapter-4.md#43-landing-page-ui-design)
-        - [4.3.1. Landing Page Wireframe](40-chapter-4.md#431-landing-page-wireframe)
-        - [4.3.2. Landing Page Mock-up](40-chapter-4.md#432-landing-page-mock-up)
-    - [4.4. Web Applications UX/UI Design](40-chapter-4.md#44-web-applications-uxui-design)
-        - [4.4.1. Web Applications Wireframes](40-chapter-4.md#441-web-applications-wireframes)
-        - [4.4.2. Web Applications Wireflow Diagrams](40-chapter-4.md#442-web-applications-wireflow-diagrams)
-        - [4.4.3. Web Applications Mock-ups](40-chapter-4.md#443-web-applications-mock-ups)
-        - [4.4.4. Web Applications User Flow Diagrams](40-chapter-4.md#444-web-applications-user-flow-diagrams)
-    - [4.5. Web Applications Prototyping](40-chapter-4.md#45-web-applications-prototyping)
-    - [4.6. Domain-Driven Software Architecture](40-chapter-4.md#46-domain-driven-software-architecture)
-        - [4.6.1. Design-Level EventStorming](40-chapter-4.md#461-design-level-eventstorming)
-        - [4.6.2. Software Architecture Context Diagram](40-chapter-4.md#462-software-architecture-context-diagram)
-        - [4.6.3. Software Architecture Container Diagrams](40-chapter-4.md#463-software-architecture-container-diagrams)
-        - [4.6.4. Software Architecture Components Diagrams](40-chapter-4.md#464-software-architecture-components-diagrams)
-    - [4.7. Software Object-Oriented Design](40-chapter-4.md#47-software-object-oriented-design)
-        - [4.7.1. Class Diagrams](40-chapter-4.md#471-class-diagrams)
-    - [4.8. Database Design](40-chapter-4.md#48-database-design)
-        - [4.8.1. Database Diagrams](40-chapter-4.md#481-database-diagrams)
+- [Capítulo IV: Product Design](#capítulo-iv-product-design)
+    - [4.1. Style Guidelines](#41-style-guidelines)
+        - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+        - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+        - [4.1.3. Mobile Style Guidelines](#413-mobile-style-guidelines)
+    - [4.2. Information Architecture](#42-information-architecture)
+        - [4.2.1. Organization Systems](#421-organization-systems)
+        - [4.2.2. Labeling Systems](#422-labeling-systems)
+        - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+        - [4.2.4. Searching Systems](#424-searching-systems)
+        - [4.2.5. Navigation Systems](#425-navigation-systems)
+    - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+        - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+        - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+    - [4.4. Web Applications UX/UI Design](#44-aplicación-web-uxui-design)
+        - [4.4.1. Web Applications Wireframes](#441-aplicación-web-wireframes)
+        - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+        - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+        - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+    - [4.5. Web Applications Prototyping](#45-aplicación-web-prototyping)
+    - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+        - [4.6.1. Design-Level EventStorming](#461-design-level-event-storming)
+        - [4.6.2. Software Architecture Context Diagram](#462-software-architecture-context-diagram)
+        - [4.6.3. Software Architecture Container Diagrams](#463-software-architecture-container-diagrams)
+        - [4.6.4. Software Architecture Components Diagrams](#464-software-architecture-components-diagrams)
+    - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
+        - [4.7.1. Class Diagrams](#471-class-diagrams)
+    - [4.8. Database Design](#48-database-design)
+        - [4.8.1. Database Diagrams](#481-database-diagrams)
 
-- [Capítulo V: Product Implementation, Validation & Deployment](50-chapter-5.md)
-    - [5.1. Software Configuration Management](50-chapter-5.md#51-software-configuration-management)
-        - [5.1.1. Software Development Environment Configuration](50-chapter-5.md#511-software-development-environment-configuration)
-        - [5.1.2. Source Code Management](50-chapter-5.md#512-source-code-management)
-        - [5.1.3. Source Code Style Guide & Conventions](50-chapter-5.md#513-source-code-style-guide--conventions)
-        - [5.1.4. Software Deployment Configuration](50-chapter-5.md#514-software-deployment-configuration)
-    - [5.2. Landing Page, Services & Applications Implementation](50-chapter-5.md#52-landing-page-services--applications-implementation)
-        - [5.2.1. Sprint 1](50-chapter-5.md#521-sprint-1)
-            - [5.2.1.1. Sprint Planning 1](50-chapter-5.md#5211-sprint-planning-1)
-            - [5.2.1.2. Aspect Leaders and Collaborators](50-chapter-5.md#5212-aspect-leaders-and-collaborators)
-            - [5.2.1.3. Sprint Backlog 1](50-chapter-5.md#5213-sprint-backlog-1)
-            - [5.2.1.4. Development Evidence for Sprint Review](50-chapter-5.md#5214-development-evidence-for-sprint-review)
-            - [5.2.1.5. Execution Evidence for Sprint Review](50-chapter-5.md#5215-execution-evidence-for-sprint-review)
-            - [5.2.1.6. Services Documentation Evidence for Sprint Review](50-chapter-5.md#5216-services-documentation-evidence-for-sprint-review)
-            - [5.2.1.7. Software Deployment Evidence for Sprint Review](50-chapter-5.md#5217-software-deployment-evidence-for-sprint-review)
-            - [5.2.1.8. Team Collaboration Insights during Sprint](50-chapter-5.md#5218-team-collaboration-insights-during-sprint)
-        - [5.2.2. Sprint 2](50-chapter-5.md#522-sprint-2)
-            - [5.2.2.1. Sprint Planning 2](50-chapter-5.md#5221-sprint-planning-2)
-            - [5.2.2.2. Aspect Leaders and Collaborators](50-chapter-5.md#5222-aspect-leaders-and-collaborators)
-            - [5.2.2.3. Sprint Backlog 2](50-chapter-5.md#5223-sprint-backlog-2)
-            - [5.2.2.4. Development Evidence for Sprint Review](50-chapter-5.md#5224-development-evidence-for-sprint-review)
-            - [5.2.2.5. Execution Evidence for Sprint Review](50-chapter-5.md#5225-execution-evidence-for-sprint-review)
-            - [5.2.2.6. Services Documentation Evidence for Sprint Review](50-chapter-5.md#5226-services-documentation-evidence-for-sprint-review)
-            - [5.2.2.7. Software Deployment Evidence for Sprint Review](50-chapter-5.md#5227-software-deployment-evidence-for-sprint-review)
-            - [5.2.2.8. Team Collaboration Insights during Sprint](50-chapter-5.md#5228-team-collaboration-insights-during-sprint)
-        - [5.2.3. Sprint 3](50-chapter-5.md#523-sprint-3)
-            - [5.2.3.1. Sprint Planning 3](50-chapter-5.md#5231-sprint-planning-3)
-            - [5.2.3.2. Aspect Leaders and Collaborators](50-chapter-5.md#5232-aspect-leaders-and-collaborators)
-            - [5.2.3.3. Sprint Backlog 3](50-chapter-5.md#5233-sprint-backlog-3)
-            - [5.2.3.4. Development Evidence for Sprint Review](50-chapter-5.md#5234-development-evidence-for-sprint-review)
-            - [5.2.3.5. Execution Evidence for Sprint Review](50-chapter-5.md#5235-execution-evidence-for-sprint-review)
-            - [5.2.3.6. Services Documentation Evidence for Sprint Review](50-chapter-5.md#5236-services-documentation-evidence-for-sprint-review)
-            - [5.2.3.7. Software Deployment Evidence for Sprint Review](50-chapter-5.md#5237-software-deployment-evidence-for-sprint-review)
-            - [5.2.3.8. Team Collaboration Insights during Sprint](50-chapter-5.md#5238-team-collaboration-insights-during-sprint)
-    - [5.3. Validation Interviews](50-chapter-5.md#53-validation-interviews-etapa-de-validación-del-producto)
-        - [5.3.1. Diseño de Entrevistas](50-chapter-5.md#531-diseño-de-entrevistas)
-        - [5.3.2. Registro de Entrevistas](50-chapter-5.md#532-registro-de-entrevistas)
-        - [5.3.3. Evaluaciones según heurísticas](50-chapter-5.md#533-evaluaciones-según-heurísticas)
-    - [5.4. About the Product](50-chapter-5.md#54-about-the-product)
-    - [About the Team – VoltLab](50-chapter-5.md#about-the-team--voltlab)
+- [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
+    - [5.1. Software Configuration Management](#51-software-configuration-management)
+        - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+        - [5.1.2. Source Code Management](#512-source-code-management)
+        - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
+        - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+    - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
+        - [5.2.1. Sprint 1](#521-sprint-1)
+            - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+            - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
+            - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
+            - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
+            - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+            - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+            - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+            - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+        - [5.2.2. Sprint 2](#522-sprint-2)
+            - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+            - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+            - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+            - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+            - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+            - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+            - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+            - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+        - [5.2.3. Sprint 3](#523-sprint-3)
+            - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+            - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+            - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+            - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+            - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+            - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+            - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+            - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.3. Validation Interviews](#53-validation-interviews-etapa-de-validación-del-producto)
+        - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
+        - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+        - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+    - [5.4. About the Product](#54-about-the-product)
+    - [About the Team – VoltLab](#video-about-the-team--voltlab)
 
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
 - [Bibliografía](#bibliografía)
@@ -406,7 +413,7 @@ Somos VoltLab, un equipo de estudiantes apasionados por la innovación tecnológ
 | **Nombre:** Mijail Alexander Matihues Quevedo<br>**Carrera:** Ingeniería de Software<br>**Código:** U202413533 | Me llamo Mijail soy un estudiante de la carrera de Ingeniería de Software. Actualmente estoy cursando el 5to ciclo. Tengo conocimientos de Python, C++, JavaScript, HTML, Css. Me considero una persona responsable y atenta con ganas de contribuir y ayudar en el desarrollo del proyecto. | <img src="report/images/members/mijail.png" alt="Mijail Alexander Matihues Quevedo" width="500" /> |
 | **Nombre:** Rodrigo Velasquez Velasquez<br>**Carrera:** Ingeniería de Software<br>**Código:** U202222074 | Me llamo Rodrigo y soy estudiante de la carrera de Ingeniería de Software, actualmente cursando el quinto ciclo. Tengo conocimientos en Java, Python, C++, JavaScript, bases de datos, Git y GitHub. También he trabajado con herramientas como Docker y MongoDB. Me considero una persona responsable, comprometida y con disposición para seguir aprendiendo y aportar en el desarrollo del proyecto. | <img src="report/images/members/rodrigo.png" alt="Rodrigo Velasquez Velasquez" width="500" /> |
 ## 1.2. Solution Profile
-### 1.2.1.  Antecedentes y problemática
+### 1.2.1. Antecedentes y problemática
 Los hogares y pequeños negocios enfrentan constantes dificultades en el control eficiente de su gasto energético debido a la falta de herramientas tecnológicas accesibles que integren telemetría y monitoreo de consumo en tiempo real. Esta situación genera pérdidas económicas imprevistas por facturación excesiva, decisiones de consumo a ciegas basadas en estimaciones tardías y una notable incapacidad para detectar fugas eléctricas, equipos defectuosos o picos anómalos de demanda a lo largo del mes. Por otro lado, la interacción con las empresas distribuidoras de energía suele ser unidireccional y reactiva, entregando únicamente un recibo consolidado al finalizar el ciclo de facturación, lo que impide a los usuarios corregir sus patrones de consumo de manera oportuna. Existe la necesidad de una solución de software distribuida que permita centralizar la captura de datos energéticos mediante sensores IoT, procesar métricas de consumo en tiempo real, proyectar costos y automatizar alertas preventivas, facilitando la toma de decisiones informadas y promoviendo una cultura de eficiencia y sostenibilidad económica.
 
 <h4>5W + 2H</h4>
@@ -750,7 +757,7 @@ Fabrizio tiene 26 años, vive solo en un departamento pequeño de un dormitorio 
 
 **Resumen de entrevista:**
 
-Fabrizio tiene 45 años, trabaja en administración y vive con su esposa y sus dos hijos en una casa propia en Comas. Se encarga de pagar los servicios básicos y revisar el funcionamiento eléctrico de la vivienda. Los equipos de mayor consumo son la refrigeradora, la therma eléctrica y la computadora de escritorio. Ha tenido problemas con la therma por falso contacto. Considera muy importantes las alertas para prevenir cortocircuitos y la proyección del recibo.
+Fabrizio tiene 24 años, trabaja en administración y vive con su esposa y sus dos hijos en una casa propia en Comas. Se encarga de pagar los servicios básicos y revisar el funcionamiento eléctrico de la vivienda. Los equipos de mayor consumo son la refrigeradora, la therma eléctrica y la computadora de escritorio. Ha tenido problemas con la therma por falso contacto. Considera muy importantes las alertas para prevenir cortocircuitos y la proyección del recibo.
 
 | Detalle | Información |
 |---|---|
@@ -761,7 +768,7 @@ Fabrizio tiene 45 años, trabaja en administración y vive con su esposa y sus d
 | Tipo de vivienda | Casa propia |
 | Personas en el hogar | 4 |
 | Equipos de mayor consumo | Refrigeradora, therma eléctrica y PC de escritorio |
-| Duración / Empeiza en | 5:58 / 27:28 |
+| Duración / Empieza en | 5:58 / 27:28 |
 | Enlace | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314186_upc_edu_pe/IQBkzQzRmAaoS5LFmM1r1DC5Af0gnGXJmTsmMaAUnjQgkds?e=QtwjsV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTY0OC43Nn19 |
 
 #### Segmento #2: Administradores de pequeños negocios
@@ -2342,7 +2349,7 @@ Luego de cada despliegue, el equipo verifica desde las URLs públicas: carga res
 ## 5.2. Landing Page, Services & Applications Implementation.
 
 ### 5.2.1. Sprint 1
-Durante el Sprint 1, Team Volta se enfocó en la implementación y preparación de la Landing Page de JouleTracker como principal producto visible para presentar la propuesta de valor de la solución.
+Durante el Sprint 1, VoltLab se enfocó en la implementación y preparación de la Landing Page de JouleTracker como principal producto visible para presentar la propuesta de valor de la solución.
 
 El objetivo del sprint fue desarrollar una interfaz web funcional, responsive y accesible utilizando HTML, CSS y JavaScript. La Landing Page fue diseñada para explicar de forma clara el propósito de JouleTracker, sus principales beneficios, funcionamiento, planes disponibles y medios de contacto.
 
@@ -2947,7 +2954,7 @@ El flujo de despliegue seguido para esta iteración comprende:
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
-Con el objetivo de evidenciar la participación equitativa y el aporte continuo de todos los integrantes de VoltLab durante el Sprint 3, se recopilan las métricas de colaboración desde GitHub Insights en los repositorios del proyecto (Backend, Frontend y Project Report).
+Con el objetivo de evidenciar la participación equitativa y el aporte continuo de todos los integrantes de VoltLab durante el Sprint 3, se recopilan las métricas de colaboración desde GitHub Insights en los cuatro repositorios del proyecto (`Backend`, `Frontend`, `JouleTracker-LandingPage` y `JouleTracker` / Project Report).
 
 ![GitHub Insights Sprint 3 - Pulse Backend](report/images/Insights/sprint3-insights.png)
 
@@ -2964,6 +2971,14 @@ Con el objetivo de evidenciar la participación equitativa y el aporte continuo 
 ![GitHub Insights Sprint 3 - Contribuciones Frontend](report/images/Insights/sprint3-insights-frontend-contributors.png)
 
 **Figura:** Detalle de contribuciones por integrante en el repositorio `Frontend` durante el Sprint 3.
+
+![GitHub Insights Sprint 3 - Pulse Landing Page](report/images/Insights/sprint3-insights-landing-pulse.png)
+
+**Figura:** Métricas de actividad (*Pulse*) registradas en el repositorio `JouleTracker-LandingPage` durante el Sprint 3.
+
+![GitHub Insights Sprint 3 - Contribuciones Landing Page](report/images/Insights/sprint3-insights-landing-contributors.png)
+
+**Figura:** Detalle de contribuciones por integrante en el repositorio `JouleTracker-LandingPage` durante el Sprint 3.
 
 ![GitHub Insights Sprint 3 - Pulse Project Report](report/images/Insights/sprint3-insights-report-pulse.png)
 
@@ -3063,7 +3078,7 @@ Fabrizio, joven profesional de 26 años que vive solo en Surco y trabaja en moda
 
 **Entrevista de validación #3 – Fabrizzio**
 
-![Entrevista de validación #2 - fabrizzio](report/images/img-entrevistas/entrevistamiguel.jpeg)
+![Entrevista de validación #3 - Fabrizzio](report/images/img-entrevistas/entrevistamiguel.jpeg)
 
 
 **Resumen de la sesión:**  
